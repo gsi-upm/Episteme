@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/322">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28050</v:postal-code>
+                    <v:street-address>Avenida de Manoteras 32</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>E-Práctica Aplicaciones de Comercio Electrónico</ecos:name>
+            <ecos:uri>http://www.grupogesfor.com/</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Su actividad aglutina e integra todos los proyectos del mundo Internet, desde el diseño y desarrollo de Webs hasta grandes portales transaccionales.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Investigar la creación de una plataforma en la que múltiples dispositivos  y sensores de recogida de información están conectados y sus capacidades expuestas para permitir la creación de servicios avanzados.
+Impulsar la  utilización del paradigma de computación context-aware en este tipo de entornos</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Tecnologías de Gestión Documental y Multimedia
+Tecnologías de Inteligencia Artificial (Investigación operativa, sistemas basados en reglas, etc.)
+Tecnologías de mejora de procesos y trabajo colaborativo en Turismo
+Tecnologías de mejora de procesos y trabajo colaborativo en Transporte.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28050</v:postal-code>
+            <v:street-address>Avenida de Manoteras 32</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>E-Práctica Aplicaciones de Comercio Electrónico</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>E-Práctica Aplicaciones de Comercio Electrónico</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

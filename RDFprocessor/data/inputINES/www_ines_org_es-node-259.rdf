@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/259">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Sevilla</v:locality>
+                    <v:postal-code>41909</v:postal-code>
+                    <v:street-address>Parque Empresarial Los Llanos. Edificio Aliatis. Avda. Salteras s/n.</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Aliatis SL</ecos:name>
+            <ecos:uri>http://www.aliatis.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;SERVICIOS&lt;br&gt;
+1) Consultoría Tecnológica&lt;br&gt;
+- Consultoría de negocio.&lt;br&gt;
+- Consultoría informática.&lt;br&gt;
+- Auditoría.&lt;br&gt;
+2) Diseño y Desarrollo de Software&lt;br&gt;
+- Desarrollo de software a medida.&lt;br&gt;
+- Internet / Intranet / Extranet.&lt;br&gt;
+- E-Administración y firma digital.&lt;br&gt;
+- Sistemas de soporte a la decisión (Business Intelligence).&lt;br&gt;
+- Sistemas de Información Geográfica (GIS).&lt;br&gt;
+- Aplicaciones en movilidad.&lt;br&gt;
+- Creatividad y Diseño Gráfico.&lt;br&gt;
+- Outsourcing.&lt;br&gt;
+3) Infraestructura Informática, Redes y Telecomunicaciones&lt;br&gt;
+- Seguridad informática.&lt;br&gt;
+- Integración de Sistemas.&lt;br&gt;
+- Alojamiento especializado de aplicaciones.&lt;br&gt;
+- Alojamiento plataforma @firma.&lt;br&gt;
+- Asistencia microinformática (outsourcing).&lt;br&gt;
+- Auditoría y Consultoría (Red / Internet).&lt;br&gt;
+- Centro de Atención a Usuarios (CAUs).&lt;br&gt;
+4) Paseos Virtuales y Soluciones Audiovisuales&lt;br&gt;
+- Paseos Virtuales.&lt;br&gt;
+- Reconstrucciones Históricas.&lt;br&gt;
+- Soluciones Audiovisuales.&lt;br&gt;
+5) Soluciones 3D con Apoyo Audiovisual.&lt;br&gt;
+- Soluciones 3D. Infoarquitectura.&lt;br&gt;
+- Soluciones 3D. Reconstrucciones Históricas.&lt;br&gt;
+- Apoyo Audiovisual.&lt;br&gt;
+6) Formación&lt;br&gt;
+- Formación a medida&lt;br&gt;
+- E-learning&lt;/p&gt;
+&lt;p&gt;PRODUCTOS&lt;br&gt;
+1. Gestión y racionalización del consumo Telefónico&lt;br&gt;
+2. Gestión integral y multimedia para Bibliotecas&lt;br&gt;
+3. Software libre en el ámbito cultural&lt;br&gt;
+  a. Gestión de una Fototeca&lt;br&gt;
+  b. Gestión y Conservación del Patrimonio Artístico&lt;br&gt;
+  c. Vídeo: Mediateca, Emisiones en directo, Canales TV por Internet&lt;br&gt;
+  d. Gestión del Patrimonio Arquitectónico&lt;br&gt;
+4. Gestión web de contenidos y documental&lt;br&gt;
+5. Bolsa de Empleo&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Desarrollo de sistemas inteligentes.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Expertos en soluciones basadas en:
+- Software abierto
+- Redes sociales e Internet avanzado.
+- Mundos virtuales 3D.
+- Business Intelligence. Data mining.
+- Sistemas expertos, ingeniería de conocimiento, asistentes inteligentes.
+- Movilidad.
+- Interoperabilidad.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Sevilla</v:locality>
+            <v:postal-code>41909</v:postal-code>
+            <v:street-address>Parque Empresarial Los Llanos. Edificio Aliatis. Avda. Salteras s/n.</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Aliatis SL</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/aliatis.gif?1276591078</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Aliatis SL</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/915">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Salamanca</v:locality>
+                    <v:postal-code>20000</v:postal-code>
+                    <v:street-address>Salamanca</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Gestores de Proyectos Multimedia S.L</ecos:name>
+            <ecos:uri>www.gpm.es/</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;GPM proporciona soluciones competitivas a sus clientes siendo una empresa de desarrollo de software que cuenta con la innovación como motor de su crecimiento, que es referente por su calidad y eficiencia y trabaja con el mejor equipo humano, utilizando y liderando la adopción de nuevas Tecnologías de Internet.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Nuestro I+D+i está enfocado principalmente hacia los siguientes sectores: - Sanitario, centrado principalmente en la e-asistencia (permitir que ancianos y personas dependientes puedan desarrollar una vida normal y autonoma) a través de tecnologías y soluciones como la TDT, teconologías inalámbricas.. y sistemas grid aplicados al campo de la sanidad y la biotecnología. - Sector TIC, mejora de los conocimientos y adecuación a la evolución que se produce en la tecnologías que manejamos (Movilidad, SOA, TDT, software libre) - Educativo, apuesta por los Personal Learning Systems, formación ubicua (multidispositivo: tdt, móvil..)</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Web Technologies, Multimedia, R&amp;D, etc.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Salamanca</v:locality>
+            <v:postal-code>20000</v:postal-code>
+            <v:street-address>Salamanca</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Gestores de Proyectos Multimedia S.L</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Gestores de Proyectos Multimedia S.L</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

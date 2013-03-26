@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/edina-cb_1455159.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>C/ Salvador Tuset, Nº 14 46025 Valencia (Valencia)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Edina, CB</ecos:name>
+            <ecos:uri>http://www.edina.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>Diseño Páginas Web y Aplicaciones iPhone / Android</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Edina, empresa de diseño web ubicada en Valencia, realiza tanto el diseño como la programación de la web a todos los niveles cumpliendo las espectativas de todos los clientes.&#13;Para Edina la página web de un cliente es uno de los elementos más importantes de su imagen corporativa, por eso es tan importante que tenga la mejor estética y se cuiden hasta los más pequeños detalles, sin olvidar que cada uno de nuestros proyectos está adaptado a las últimas tecnologías y gozan de una fácil navegación para el cliente.&#13;En Edina queremos que nuestros trabajos sean los mejores y por eso nuestro equipo está compuesto por profesionales del diseño y la programación.&#13;Nuestra principal política se basa en dar a los clientes el mejor servicio atendiendo todas sus necesidades porque sabemos que cada cliente es diferente.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Valencia</v:locality>
+            <v:street-address>C/ Salvador Tuset, Nº 14 46025 Valencia (Valencia)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Edina, CB</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/1455159_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Edina, CB</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>961196066</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.edina.es</v:url>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>vulka</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>13</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

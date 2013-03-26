@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/253">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Barcelona</v:locality>
+                    <v:postal-code>08021</v:postal-code>
+                    <v:street-address>Muntaner 262</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>pau education</ecos:name>
+            <ecos:uri>www.paueducation.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;P.A.U. Education es una empresa privada que da servicios de consultoría estratégica y de gestión operativa de proyectos en las áreas de desarrollo educativo y social. Su saber hacer en la construcción de comunidades se apoya en un equipo propio de networkers multilingües, técnicas únicas de dinamización, experiencia probada en evaluación y capacidades de desarrollar y operar plataformas interactivas (web 2.0).&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Desarrollo de nuevas funciones en portales web 2.0
+Representación de las redes sociales
+Web semántica, sistemas de tagging</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Desarrollo de portales web 2.0. Dinamización de los entornos.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Barcelona</v:locality>
+            <v:postal-code>08021</v:postal-code>
+            <v:street-address>Muntaner 262</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>pau education</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>pau education</v:organisation-name>
+            <v:organisation-unit>Gran Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

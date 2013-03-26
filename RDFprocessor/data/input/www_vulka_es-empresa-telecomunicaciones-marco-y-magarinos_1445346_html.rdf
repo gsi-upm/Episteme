@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/telecomunicaciones-marco-y-magarinos_1445346.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>Miguel Hernandez 14  4º3ª  08042 Barcelona (Barcelona)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Telecomunicaciones Marco y Magariños</ecos:name>
+            <ecos:uri>http://www.tmmgrup.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>Redes y Fibra optica.</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Cableado de redes.&#xD;Fusion y conectorizacion en fibra optica.&#xD;Certificacion - auditorias.&#xD;Radio enlaces.&#xD;Audio y video.&#xD;Television.&#xD;Automatismos electricos.&#xD;Reparacion de maquinaria industrial.&#xD;Puertas automaticas.&#xD;Dispositivos de seguridad.&#xD;Instalacion , mantenimiento y reparaciones.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Antenas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Aparatos de telecomunicación</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Asesoría en telecomunicación</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Automatismos</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Automatización</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Cableados</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Cableados estructurados</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Cables</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Comunicaciones</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Domótica</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Electricistas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Fibra óptica</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalación de telecomunicación</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalaciones de red de voz y datos</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalaciones eléctricas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalaciones eléctricas industriales</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalaciones industriales</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalador electricista</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Mantenimiento de edificios</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Mantenimiento eléctrico</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Mantenimiento informático</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Porteros automáticos</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Puertas de garaje</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Puertas metálicas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Radiocomunicaciones</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Redes</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Redes datos</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Redes informáticas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Redes voz</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Reparación eléctrica</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Barcelona</v:locality>
+            <v:street-address>Miguel Hernandez 14  4º3ª  08042 Barcelona (Barcelona)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Telecomunicaciones Marco y Magariños</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/1445346_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Telecomunicaciones Marco y Magariños</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>652 486 732</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.tmmgrup.es</v:url>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

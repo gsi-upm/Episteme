@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/cabletel-andalucia_1115531.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>C/ La Orotava, 119 P.I. San Luis 29006 MALAGA (Málaga)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>CABLETEL ANDALUCIA</ecos:name>
+            <ecos:uri>http://www.cabletelandalucia.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>Cables Eléctricos, Conductores, Voz y Datos, Fibra Optica, Racks, Telecomunicaciones, Cableado Estructurado, Cables especiales</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>MALAGA&#13;P.I. San Luis C/ La Orotava, 119  29006 - Malaga&#13;Tfno. 952177058   FAX 952171480&#13;e-mail: cabletelmalaga@cabletelmalaga.es&#13;e-mail: cabletelalmeria@cabletelalmeria.es&#13;SEVILLA&#13;P.I. Carretera Amarilla  C/ Ahorro, 19  41007 - Sevilla&#13;Tfno. 954673552   FAX 954673518&#13;e-mail: cytelandalucia@cytelandalucia.es</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Málaga</v:locality>
+            <v:street-address>C/ La Orotava, 119 P.I. San Luis 29006 MALAGA (Málaga)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>CABLETEL ANDALUCIA</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/1115531_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>CABLETEL ANDALUCIA</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>952 171 480</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>952 177 058</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.cabletelandalucia.com</v:url>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>vulka</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>14</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

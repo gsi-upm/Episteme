@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/jorfe_291.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>Corts Catalanes, 32 25005 LLEIDA (Lleida)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>JORFE</ecos:name>
+            <ecos:uri>http://www.jorfe.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>Eficiencia Energética. Asesoría, gestión en energía y sostenibilidad e instalaciones.</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Aire acondicionado</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Alarmas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Antenistas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Asistencia técnica</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Auditoría y auditores</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Automatización</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Automatización industrial</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Calefacción</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Cámaras seguridad</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Chimeneas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Circuito cerrado TV</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Climatización</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Domótica</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Electricistas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Energía alternativa</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Energía renovable</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Energía solar térmica</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Extintores</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Fibra óptica</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Fontaneros</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Grupos electrógenos</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Iluminación decorativa</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Incendios</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Ingenieros</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalación de aire</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalación de calefacción</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalación de climatización</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalación de riego</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalaciones de climatización</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalaciones de red de voz y datos</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalaciones de seguridad</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalaciones fontanería</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalador aire acondicionado</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalador de gas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalador electricista</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instaladores calefacción</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instaladores energía solar</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Mantenimiento aire acondicionado</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Mantenimiento de edificios</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Mantenimiento de equipos</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Mantenimiento de maquinaria</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Mantenimiento de piscinas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Mantenimiento eléctrico</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Mantenimiento industrial</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Mantenimiento y reparación de calderas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Mantenimiento y reparación de calefacción</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Reformas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Reparación</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Reparación calderas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Reparación de aire acondicionado</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Reparación de fontanería</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Reparación de maquinaria</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Reparación eléctrica</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Riegos</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Servicio técnico</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Sistemas de riego</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Sistemas de seguridad</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Video porteros</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Video vigilancia</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Lleida</v:locality>
+            <v:street-address>Corts Catalanes, 32 25005 LLEIDA (Lleida)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>JORFE</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/291_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>JORFE</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>973 727 655</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>973 249 706</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.jorfe.es</v:url>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

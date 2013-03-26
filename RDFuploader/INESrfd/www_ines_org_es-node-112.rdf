@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/112">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Barcelona</v:locality>
+                    <v:postal-code>08034</v:postal-code>
+                    <v:street-address>Jordi Girona, 1-3</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Universitat Politècnica de Catalunya</ecos:name>
+            <ecos:uri>http://www.upc.edu/</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La Universidad Politécnica de Catalunya (UPC, &lt;a href="http://www.upc.edu" title="http://www.upc.edu"&gt;http://www.upc.edu&lt;/a&gt;), fundada en 1971, es una universidad pública especializada básicamente en los campos de la arquitectura e ingenierías, así como en las ciencias navales, organización de empresas, ciencias de la salud y matemática aplicada. Ofrece educación y formación de alta calidad a sus 30.000 estudiantes, preparándolos para su actividad futura con un enfoque industrial y receptivos a las tecnologías emergentes. Dispone de 16 centros docentes propios y de 7 asociados, con una oferta de mas de 30 titulaciones homologadas. Respecto a la investigación y la transferencia tecnológica la UPC se articula en 156 grupos de investigación y dispone de un alto y creciente número de centros de investigación específicos y de centros tecnológicos regionales que orientan su trabajo a las demandas de los actores sociales en áreas y líneas específicas.&lt;br&gt;
+La UPC es miembro de diversas redes de universidades tecnológicas, tales como CESAER (&lt;a href="http://www.cesaer.org/" title="http://www.cesaer.org/"&gt;http://www.cesaer.org/&lt;/a&gt;), CINDA (&lt;a href="http://www.cinda.cl/home.htm" title="http://www.cinda.cl/home.htm"&gt;http://www.cinda.cl/home.htm&lt;/a&gt;) o TIME (&lt;a href="https://www.time-association.org/" title="https://www.time-association.org/"&gt;https://www.time-association.org/&lt;/a&gt;). Destaca su pertenencia a las redes CLUSTER (&lt;a href="http://www.cluster.org/" title="http://www.cluster.org/"&gt;http://www.cluster.org/&lt;/a&gt;) y UNITECH (&lt;a href="http://www.unitechint.org/" title="http://www.unitechint.org/"&gt;http://www.unitechint.org/&lt;/a&gt;), a las que solo se accede por invitación, siendo en ambos casos el único miembro universitario español.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>El grupo participa, siguiendo esta línea de transferencia,  en dos propuestas PROFIT, una de ellas en el marco de un proyecto ITEA, relacionadas con las arquitecturas orientadas a servicios.</ecos:detail>
+            
+            
+            
+            
+            
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Barcelona</v:locality>
+            <v:postal-code>08034</v:postal-code>
+            <v:street-address>Jordi Girona, 1-3</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Universitat Politècnica de Catalunya</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/LogoUPC.gif?1276853228</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Universitat Politècnica de Catalunya</v:organisation-name>
+            <v:organisation-unit>Universidad</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>395000</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

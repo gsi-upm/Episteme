@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/154">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Islas Baleares</v:locality>
+                    <v:postal-code>07121</v:postal-code>
+                    <v:street-address>Edificio 17, ParcBIT, Palma de Mallorca</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Grid Systems, S.A.</ecos:name>
+            <ecos:uri>http://www.gridsystems.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Our company was founded in Feb 2000 and is one of the leading commercial Grid middleware companies in the world. We are based in beautiful Mallorca, Spain, and we employ around 20 people. We are very proud of our proven grid product, IGV, and of our blue-chip customer base. Our company’s software is operating on thousands of servers in dozens of companies of varied sectors. We believe that we have a world class R&amp;amp;D team.&lt;/p&gt;
+&lt;p&gt;We are a profitable company that has been built without significant venture backing (IT Deusto, Caixanova and AFI are the most significant minority investors in the company). We are proud of our strong R&amp;amp;D focus, and we work with partners and systems integrators to distribute our products to customers across Europe. We are an active participant in several European and national R&amp;amp;D projects which command over 150 million of euros in total funding. In 2003, we were awarded the prestigious IST prize. In 2004 we received the Computerworld prize for enterpreneurship of the year and the IGC (Internet Global Conference) prize for Innovation.&lt;/p&gt;
+&lt;p&gt;In 2006, we have committed to an open-source business model that also provides professional subscription support services to our customers, with a dual licensing model to enable third party propietary licensing and other commercial models.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Nuestro desafío principal se centra en la evolución de nuestro middleware, IGV, de tipo IntraGrid, para que se integre en las nuevas arquitecturas orientadas a servicios y pueda interoperar con otras tecnologías clave del futuro centro de proceso de datos corporativo (utility computing o ExtraGrids, systems management, data grids).</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Islas Baleares</v:locality>
+            <v:postal-code>07121</v:postal-code>
+            <v:street-address>Edificio 17, ParcBIT, Palma de Mallorca</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Grid Systems, S.A.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Grid Systems, S.A.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>104</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

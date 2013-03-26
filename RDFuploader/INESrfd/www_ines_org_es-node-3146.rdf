@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/3146">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Sevilla</v:locality>
+                    <v:postal-code>41015</v:postal-code>
+                    <v:street-address>Avenida Astronomia nº1 Torre 5 Planta 3 Modulo 11</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Ematiz Tecnología S.L.</ecos:name>
+            <ecos:uri>http://www.ematiz.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;ematiz Tecnología es una empresa dedicada a la generación y transferencia de conocimiento tecnológico de vanguardia, especializado en Ingeniería del Software. &lt;/p&gt;
+&lt;p&gt;Su oferta de servicios abarca el liderazgo y mentoring de proyectos de desarrollo de Software Empresarial o de misión crítica, la formación avanzada en Ingeniería del Software y la consultoría tecnológica.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>- Generar soluciones relacionadas con el ámbito de la BI novedosas.
+- Soluciones completas de Vigilancia Tecnológica.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Sevilla</v:locality>
+            <v:postal-code>41015</v:postal-code>
+            <v:street-address>Avenida Astronomia nº1 Torre 5 Planta 3 Modulo 11</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Ematiz Tecnología S.L.</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/ematiz-gigante.png?1303887984</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Ematiz Tecnología S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>81</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

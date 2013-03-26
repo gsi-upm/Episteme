@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/336">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28760</v:postal-code>
+                    <v:street-address>PTM  C/ Santiago Grisolía, 2 - Parque Científico de Madrid</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>SaaS Network</ecos:name>
+            <ecos:uri>http//www.saasnetwork.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Saas Network (SaaSNet) es el foro que agrupa a las empresas y organizaciones que aplican el modelo de comercialización SaaS (Software as a Service) como estrategia de distribución.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Subir del puesto 32 en la clasificación muncial (segun FEM) a través del uso de tecnologías basadas en SaaS, dado que son más económicas, más seguras y pensadas para usuarios y empresas que no quieran/puedan invertir en TIC.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Difusión del modelo de negocio SaaS a los potenciales usuarios del mercado español.
+Hay grupos de trabajo de distintos perfiles: Grupo de creación de sello de homolación, Grupo de Comunicación, etc..</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28760</v:postal-code>
+            <v:street-address>PTM  C/ Santiago Grisolía, 2 - Parque Científico de Madrid</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>SaaS Network</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>SaaS Network</v:organisation-name>
+            <v:organisation-unit>Asociación de Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

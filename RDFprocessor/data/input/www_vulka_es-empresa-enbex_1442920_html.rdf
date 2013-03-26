@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/enbex_1442920.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>Leon felipe 28038 Madrid (Madrid)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Enbex</ecos:name>
+            <ecos:uri>http://www.enbex.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>Enbex, especializada en telecomunicaciones, sistemas, audiovisuales y electricidad, todo centralizado de tecnicos cualificados.</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Enbex Servicios informaticos y soluciones tecnológicas&#xD; Relacionados con:&#xD;|Instalacion y Servicio tecnico de Redes informaticas&#xD;|Sistemas Microsoft Unix |&#xD;Audiovisuales ; mecanimos de video y sonido&#xD;|Telecomunicaciones informatica||&#xD;instalacion de Domotica&#xD;||Servicio tecnico informatico||&#xD;mantenimiento informatico||&#xD;instalacion de Electricidad</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Aparatos de telecomunicación</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Asesoría en telecomunicación</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Audio, sonido y tiendas de sonido</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Audiovisuales</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Cableado de voz</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Cableados</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Cableados estructurados</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Cables</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Centrales telefónicas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Centralitas telefónicas IP</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Comunicaciones</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Domótica</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Fibra óptica</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Ingeniería en telecomunicaciones</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Ingeniero de telecomunicaciones</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalación de telecomunicación</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalaciones de red de voz y datos</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Material audiovisual</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Redes</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Redes datos</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Redes informáticas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Redes voz</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Servicio técnico telecomunicación</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Servicios de telecomunicaciones</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Telefonía IP</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Wifi</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Wireless</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:street-address>Leon felipe 28038 Madrid (Madrid)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Enbex</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/1442920_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Enbex</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>913031197</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>913031197</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.enbex.es</v:url>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

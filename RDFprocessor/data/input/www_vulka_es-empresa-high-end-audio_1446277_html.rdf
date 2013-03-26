@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/high-end-audio_1446277.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>Plaza Castilla 28046 Madrid (Madrid)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>High End Audio</ecos:name>
+            <ecos:uri>http://www.mbl-spain.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>Sucursal en España de MBL Akustikgeräte GmbH &amp; Co. KG líder mundial en sistemas de sonido omnidireccional del sector de High End Audio.</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Alquiler de equipos de sonido</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Alquiler de material audiovisual</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Altavoces</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Amplificador</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Artículos de regalo</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Audio</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Audio, sonido y tiendas de sonido</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Barcos</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Consultores</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Diseño de interiores</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Domótica</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Equipos de sonido</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Ingeniería acústica</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Ingeniería de sonido</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instrumentos musicales</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Interiorista</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Joyeros</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Material audiovisual</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Material de joyería</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Multimedia</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Objeto de regalo</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Servicios y estudios de interiorismo</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Sonido profesional</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Tiendas de música</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Tiendas de regalos</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:street-address>Plaza Castilla 28046 Madrid (Madrid)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>High End Audio</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/1446277_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>High End Audio</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>600800655</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>902885372</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.mbl-spain.es</v:url>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

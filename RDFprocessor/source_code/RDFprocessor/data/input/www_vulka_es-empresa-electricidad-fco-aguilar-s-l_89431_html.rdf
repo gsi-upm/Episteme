@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/electricidad-fco-aguilar-s-l_89431.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>C/ Rio de Aguas, 36. Pol. Ind. La Juaida 04240 VIATOR (Almería)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>ELECTRICIDAD FCO. AGUILAR S.L.</ecos:name>
+            <ecos:uri>http://www.electricidadfa.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>Instalaciones industriales de electricidad.&#xD;
+Instalaciones de telecomunicaciones.</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>INSTALACIONES ELECTRICAS Y &#xD;DE TELECOMUNICACIONES.&#xD;INSTALACIONES INDUTRIALES, VIVIENDAS, LOCALES, ETC.&#xD;REDES DE VOZ Y DATOS.&#xD;HILO MUSICAL.&#xD;PORTEROS AUTOMAICOS.&#xD;DOMOTICA.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Alumbrado eléctrico</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Antenas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Antenas parabólicas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Audio, sonido y tiendas de sonido</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Cableado de voz</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Cableados</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Domótica</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Electricistas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Empresas de electricidad</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalación antenas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalación de telecomunicación</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalación tdt</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalación vivienda</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalaciones comerciales</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalaciones de red de voz y datos</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalaciones eléctricas industriales</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalador electricista</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Mantenimiento de edificios</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Mantenimiento de intercomunicador</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Mantenimiento eléctrico</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Mantenimiento industrial</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Montajes industriales</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Porteros automáticos</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Redes</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Redes datos</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Redes informáticas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Redes voz</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Reparación eléctrica</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Servicio técnico de antenas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Almería</v:locality>
+            <v:street-address>C/ Rio de Aguas, 36. Pol. Ind. La Juaida 04240 VIATOR (Almería)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>ELECTRICIDAD FCO. AGUILAR S.L.</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/89431_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>ELECTRICIDAD FCO. AGUILAR S.L.</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>950 315 603</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>950 315 603</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.electricidadfa.es</v:url>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

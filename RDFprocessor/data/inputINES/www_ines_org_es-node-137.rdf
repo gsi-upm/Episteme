@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/137">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28027</v:postal-code>
+                    <v:street-address>c/ Josefa Valcárcel 46</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Instituto Nacional de Estadística</ecos:name>
+            <ecos:uri>http://www.ine.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;El 9 de mayo de 1989 se promulga la Ley de la Función Estadística Pública que hace del Instituto Nacional de Estadística un organismo autónomo potenciando las nuevas tecnologías estadísticas, la coordinación con las Comunidades Autónomas, la elaboración del Plan Estadístico Nacional y las relaciones con la Unión Europea en materia estadística. &lt;/p&gt;
+&lt;p&gt;El Estatuto del Instituto Nacional de Estadística &lt;/p&gt;
+&lt;p&gt;El estatuto se aprueba por Real Decreto 508/2001, de 11 de mayo (BOE 12-05-2001), asignando al Instituto Nacional de Estadística las funciones de coordinación general de los servicios estadísticos de la Administración General del Estado, la vigilancia, control y supervisión de las competencias de carácter técnico de los servicios estadísticos estatales, y las demás previstas en la Ley 12/1989, de 9 de mayo, de la Función Estadística Pública.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Estudio de los proyectos de innovación tecnológica consecuencia de innovaciones de las propias tecnologías que pudieran ser de aplicación en el procesos de producción de estadísticas, como en innovaciones que pudieran ser el resultado de necesidades planteadas por los usuarios del INE no satisfechas.
+Homogeneizar y coordinar los distintos procesos y recursos tecnológicos existentes en base a unificar los medios y procedimientos utilizados en la realización de la producción estadística.
+Realizar estudios encaminados a prever los cambios tecnológicos futuros y sus repercusiones en los distintos procesos productivos existentes.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>OBJETIVOS
+Analizar los procesos tecnológicos actuales y los recursos disponibles, tanto humanos como técnicos y estructurales, con el objetivo de aumentar la creación de nuevos conocimientos, generar ideas que permitan obtener nuevos productos, procesos y servicios o mejorar los existentes, y transferir esas mismas ideas a las fases de producción estadística.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28027</v:postal-code>
+            <v:street-address>c/ Josefa Valcárcel 46</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Instituto Nacional de Estadística</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Instituto Nacional de Estadística</v:organisation-name>
+            <v:organisation-unit>Centro Público de Investigación</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

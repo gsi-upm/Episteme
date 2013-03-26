@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/278">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28109</v:postal-code>
+                    <v:street-address>Calendula, 9. Miniparc III. Edif. E</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Radiosintesis</ecos:name>
+            <ecos:uri>www.radiosintesis.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Radio online de ciencia y tecnología. La empresa nació en Junio de 2008 y en Febrero ya estaremos emitiendo en la red. Queremos incluir un departament de I+D en nuestra empresa para poder así mejorar nuestros servicios online de manera permanente.Por otro lado,el departamenteo de I+D hace honor a nuestra vocación de generación de innovación, a la que dedicamos un programa completo en nuestra progrmación (I+D+i) (predicar con el ejemplo)&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Creear un grupo de trabajo ide I+D interno que actue paralelamente a la actividad de la emisora de radio online y que le proporcione elementos de mejora técnica interna y mejoras de cara al usuario. Estas mejoras (innovaciones) afectarían tanto al portal web de la radio, como a la metodología de difusión de los contenidos.
+Estas mejoras pueden están relacionados con lso servicios en red, por ejemplo: con la web semántica, e-inclusion, negocios en la red, etc.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28109</v:postal-code>
+            <v:street-address>Calendula, 9. Miniparc III. Edif. E</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Radiosintesis</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/radiosintesis_200.jpg?1286709004</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Radiosintesis</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>10700</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/152">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Asturias</v:locality>
+                    <v:postal-code>33005</v:postal-code>
+                    <v:street-address>matematico pedrayes 23, oviedo</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>seresco, s.a.</ecos:name>
+            <ecos:uri>www.seresco.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Fundada en 1969 y dedicada al desarrollo de servicios en el ámbito de la consultoría y asistencia técnica en entornos críticos, desarrollo de proyectos de software, formación y servicios en el área de cartografía. Además cuenta con soluciones para la gestión empresarial, nómina y recursos humanos.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Desarrollo de aplicaciones de gestión web 2.0 mediante el diseño y construcción de una herramienta específica</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Métodos y herramientas de productividad</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Asturias</v:locality>
+            <v:postal-code>33005</v:postal-code>
+            <v:street-address>matematico pedrayes 23, oviedo</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>seresco, s.a.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>seresco, s.a.</v:organisation-name>
+            <v:organisation-unit>Gran Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

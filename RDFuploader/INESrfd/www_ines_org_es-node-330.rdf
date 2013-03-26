@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/330">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>La Coruña</v:locality>
+                    <v:postal-code>15011</v:postal-code>
+                    <v:street-address>Facultad Informática-Campus de Elviña s/n</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>UNIVERSIDAD DE CORUÑA</ecos:name>
+            <ecos:uri>http://www.udc.es/</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Líneas de trabajo:&lt;br&gt;
+  Ingeniería de software: monitorización de procesos, ciclo de vida de proyectos&lt;br&gt;
+  GIS: toma de decisiones con GIS, publicación de información geográfica en Web,&lt;br&gt;
+  Sanidad&lt;br&gt;
+  Gestión educativa: multilengua, juegos educativos,&lt;br&gt;
+  Gestión de procesos en e-Administración&lt;br&gt;
+  Bibliotecas digitales&lt;br&gt;
+  Bases de datos deductivas&lt;br&gt;
+  Compresión, indexación y recuperación de Textos&lt;br&gt;
+  Procesamento de lenguaje natural&lt;br&gt;
+Empleando:&lt;br&gt;
+  Tecnologías móviles, multimodalidad&lt;br&gt;
+  Open Source, Lucene&lt;br&gt;
+  Sistemas de información geográfica, gvSIG&lt;br&gt;
+  Web2.0-Java-J2EE-XML&lt;br&gt;
+  Web semántica, procesado inteligente de grandes volúmenes de datos, lenguaje natural&lt;br&gt;
+  Sistemas de workflow&lt;br&gt;
+  Calidad del software&lt;br&gt;
+Proyectos&lt;br&gt;
+     XEOEDUCA: Herramienta para el desarrollo de aplicaciones para el autoaprendizaje de la geografía.&lt;br&gt;
+     Análisis del rendimiento, monitorización telemática, kit de autorregulación y aplicación de simulación web para placas solares termodinámicas: subproyecto UDC.&lt;br&gt;
+     Educación para el nuevo milenio: Fundamentos Algorítmicos de la Red.&lt;br&gt;
+     Sistemas de Código Abierto para la creación, mantenimiento y aprovechamiento de Bibliotecas Digitales: Compresión e Indexación.&lt;br&gt;
+     Herramientas y plataforma GIS Open Source.&lt;br&gt;
+     Herramientas avanzadas para la implementación de Bibliotecas Digitales.&lt;br&gt;
+     Ingeniería lingüística para el idioma gallego y problemas de traducción automática de lenguas próximas.&lt;br&gt;
+     Desarrollo de un Sistema de Generación automática de itinerarios culturales en Andalucía basado en Sistemas de Información Geográfica.&lt;br&gt;
+     Biblioteca Digital Siglo de Oro: Emblemática, Relaciones de Sucesos y Misceláneas de erudición: Catalogación, digitalización y difusión vía Internet.&lt;br&gt;
+     Bibliotecas Digitales: Herramienta para la especificación y generación automática de las aplicaciones necesarias para su creación, gestión y acceso Web.&lt;br&gt;
+     Herramienta para la creación semi-automática de SIG para las administraciones públicas.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Mantener la confianza y éxitos ganados en campos como GIS, Gestión documental multimedia y eAdministración (Vivienda), añadiendo ese conocimiento como valor de proyectos multidisciplinares.
+Consolidar las líneas de trabajo recientes: Sanidad, Turismo, Tecnologías móviles.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>La Coruña</v:locality>
+            <v:postal-code>15011</v:postal-code>
+            <v:street-address>Facultad Informática-Campus de Elviña s/n</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>UNIVERSIDAD DE CORUÑA</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/logo-udc.jpg?1329926639</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>UNIVERSIDAD DE CORUÑA</v:organisation-name>
+            <v:organisation-unit>Universidad</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>69400</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

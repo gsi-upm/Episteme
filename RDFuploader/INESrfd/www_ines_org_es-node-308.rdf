@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/308">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28043</v:postal-code>
+                    <v:street-address>c/ Lopez de Hoyos 327</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Amplia Soluciones S.L.</ecos:name>
+            <ecos:uri>http://www.amplia.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Pioneros  en España con soluciones M2M desde 2002, amplía soluciones es una empresa especializada en soluciones de comunicación inalámbricas y la ingeniería de software.&lt;/p&gt;
+&lt;p&gt;Enfocada en la consultoría y el diseño de soluciones inalámbricas.  La fortaleza de Amplía radica en su constante labor de I+D en el campo de las comunicaciones inalámbricas (GPRS / UMTS, WiFi, Bluetooth, ZigBee, WiMax, etc.) aplicadas a la telemetría y el telecontrol.&lt;/p&gt;
+&lt;p&gt;Los productos, soluciones  y servicios que ofrece Amplía usan los distintos  canales de comunicaciones disponibles para optimizar el tráfico, asegurando una comunicación robusta extremo a extremo así como una completa integración con las aplicaciones existentes por, lo que ayudan a reducir los costes de comunicación.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Sus desafiosActualmente las aplicaciones de telemetría y telecontrol tienen una base tecnológica horizontal bastante grande, cubiertas en gran medida por los productos de Amplía. La aplicación de estos productos horizontales a la problemática diaria de los potenciales usuarios no es inmediata, sino que precisa de desarrollos y adaptaciones específicas a cada actividad de cada sector.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28043</v:postal-code>
+            <v:street-address>c/ Lopez de Hoyos 327</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Amplia Soluciones S.L.</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/amplia.gif?1276591516</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Amplia Soluciones S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>134</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/321">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28050</v:postal-code>
+                    <v:street-address>Avenida de Manoteras 32</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Idea Informática</ecos:name>
+            <ecos:uri>http://www.grupogesfor.com/</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Especializada en sistemas de gestión documental, multimedia e Internet en cualquier entorno de actividad empresarial y su integración con las aplicaciones y entornos más usuales.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Interfaces para la accesibilidad. Personalización de portales. Web semántica para facilitar el acceso a contenidos. Integración de contenidos multimedia (MPEG-7, MPEG-21) en la gestión de contenidos. Tecnologías P2P para trabaoj colaborativo. Evolución de la tecnología de portlets. Aplicación de agentes inteligentes en telco. Desarrollo de servicios e infraestructura VoIP. Sistemas de alerta temprana.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Ingeniería software. Métodologías ágiles. Metodologías de sistebas basados en conocimiento.Metodologías de agentes inteligentes.
+Arquitecturas y patrones software. Patrones de diseño y organizativos. Desarrollo en comunidades abiertas.
+Personalización de interfaces. Procesamiento de lenguaje natural.
+Publicación e intercambio de información. Motores de búsqueda semánticos.
+Seguridad y Confianza. Políticas de seguridad. Protección y seguridad de datos.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28050</v:postal-code>
+            <v:street-address>Avenida de Manoteras 32</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Idea Informática</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Idea Informática</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/115">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Valencia</v:locality>
+                    <v:postal-code>46022</v:postal-code>
+                    <v:street-address>C/ Camino de Vera s/n</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Universidad Politécnica de Valencia</ecos:name>
+            <ecos:uri>http://www.upv.es/</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Administración o academia&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>El grupo posee experiencia en la transferencia de tecnología al sector industrial. Cuenta con casos de éxito y spin off creadas (CARE Technologies) en el ámbito del modelado y generación automática de código de aplicaciones de gestión empresariales. Actualmente se encuentra desarrollando métodos y herramientas para la producción de aplicaciones web y sistemas pervasivos con la intención de ser aplicados en el ámbito industrial.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Desarrollo dirigido por Modelos y Generación de Código. MDA.
+Software Factories y DSL (Lenguajes Específicos de Dominio)
+Desarrollo de Sistemas Pervasivos y Sensibles al Contexto. Hogal Digital.
+Ingeniería Web. Modelado y desarrollo de Aplicaciones y Servicios Web
+Diseño de Servicios Web y SOA.
+Adaptatividad y Personalización de Aplicaciones Web.
+Procesos de Negocio Distribuidos e Integración de Servicios Externos.
+Ingeniería de Requisitos.
+Métricas y Calidad del Software.
+Usabilidad.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Valencia</v:locality>
+            <v:postal-code>46022</v:postal-code>
+            <v:street-address>C/ Camino de Vera s/n</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Universidad Politécnica de Valencia</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/logo_upv.gif?1278404142</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Universidad Politécnica de Valencia</v:organisation-name>
+            <v:organisation-unit>Universidad</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

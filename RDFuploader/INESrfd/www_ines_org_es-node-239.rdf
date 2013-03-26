@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/239">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Barcelona</v:locality>
+                    <v:postal-code>08290</v:postal-code>
+                    <v:street-address>Parc Tecnologic del Valles, Av. Universitat Autonoma, 23</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Fundación ASCAMM</ecos:name>
+            <ecos:uri>http;//www.ascamm.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La Fundación ASCAMM es una fundación privada sin ánimo de lucro, reconocida como Centro de Innovación y Tecnología (CIT) por la Comisión Interministerial de Ciencia y Tecnología (CICYT) y como Centro Tecnológico  por el Centro de Innovación y Desarrollo Empresarial (CIDEM) de la Generalitat de Catalunya. Asimismo, es miembro fundador de la Federación Española de Entidades de Innovación y Tecnología (FEDIT).&lt;br&gt;
+La misión del Centro Tecnológico de ASCAMM es ayudar a las empresas a mejorar su competitividad por la vía de la innovación y la transferencia tecnológica, consolidándose como un referente europeo en este sentido. En el Centro se dan cita varias líneas de investigación aplicada que tienen como principal objetivo la generación de conocimiento tecnológico para ser transferido hacia el entorno industrial de manera eficiente y sostenible.&lt;br&gt;
+Desde sus orígenes, en ASCAMM se han llevado a cabo más de 200 proyectos de I+D+i subvencionados en los tres niveles geográficos (Generalitat de Catalunya, Ministerios de España y Comisión Europea). Otro indicador interesente son los más de 20.000 alumnos que han pasado por el Centro para recibir formación especializada en una gran variedad de áreas tecnológicas. El Centro Tecnológico está estrechamente vinculado a una Asociación de empresas catalanas con más de 200 asociados.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>El departamento de TIC de ASCAMM tiene continuamente abiertas varias líneas de I+D en Ingeniería del Conocimiento. Para fortalecerlas se lleva a cabo una estrecha colaboración con diversas OPIs, entre las que cabe destacar: el LSI de la UPC, el eXIT de la UdG , el IIIA del CSIC , el School of Computing and Technology de la Sunderland University, el WMG de la Warwick University y el Bremen Institute of Production Technology and Applied Work Science. Buena parte de esta colaboración se traduce en movilidad de investigadores e incorporación de doctores en plantilla.</ecos:detail>
+            
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Barcelona</v:locality>
+            <v:postal-code>08290</v:postal-code>
+            <v:street-address>Parc Tecnologic del Valles, Av. Universitat Autonoma, 23</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Fundación ASCAMM</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Fundación ASCAMM</v:organisation-name>
+            <v:organisation-unit>Centro Tecnológico</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>12500</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

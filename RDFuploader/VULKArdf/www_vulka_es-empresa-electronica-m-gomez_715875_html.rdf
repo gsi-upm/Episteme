@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/electronica-m-gomez_715875.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>República Argentina, 48 12006 CASTELLON DE LA PLANA (Castellón)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Electrónica M. Gómez</ecos:name>
+            <ecos:uri>http://www.electronicamgomez.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>INSTALACION TELECOMUNICACIONES:&#13;
+&#13;
+Instalación/Mantenimiento TDT.&#13;
+Distribuidor Instalador ONO/DIGITAL+.</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>INSTALACION TELECOMUNICACIONES:&#13;Instalación/Mantenimiento TDT.&#13;Instalación/Mantenimiento Antenas (terrestres y parabólicas).&#13;Instalación/Mantenimiento Portero y Video Portero.&#13;Distribuidor Instalador ONO/DIGITAL+.&#13;Centralitas Telefónicas.&#13;VoiP Wifi IpTV.&#13;Cableado estructurado (voz/datos), fibra óptica.&#13;Control de accesos.&#13;Servicios Telecomunicaciones para empresas.&#13;Instalación Audio para:&#13;Hilo musical (tanto particular como empresa).&#13;Megafonía.&#13;Interfonía.&#13;consultas@electronicamgomez.es&#13;PRESUPUESTO SIN COMPROMISO&#13;(Provincia de Castellón)</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Castellón</v:locality>
+            <v:street-address>República Argentina, 48 12006 CASTELLON DE LA PLANA (Castellón)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Electrónica M. Gómez</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/715875_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Electrónica M. Gómez</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>964 057 677</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>964 202 228</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.electronicamgomez.es</v:url>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>vulka</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>163</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

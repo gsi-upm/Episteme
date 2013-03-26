@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/content/egatel-sl">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Orense</v:locality>
+                    <v:postal-code>32901</v:postal-code>
+                    <v:street-address>Avda. Ourense nº1 - Tecnópole</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Egatel S.L.</ecos:name>
+            <ecos:uri>www.egatel.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;EGATEL es una empresa cualificada y especializada en la investigación, desarrollo y fabricación de productos y sistemas de radiofrecuencia destinados a transportar o difundir señales de televisión - tanto en formato analógico como digital - y señales de radio digital para cubrir las necesidades del mercado broadcast profesional global.&lt;/p&gt;
+&lt;p&gt;La principal actividad de la compañía consiste en el suministro de transmisores, re-transmisores y gap-fillers para emitir las señales de radio y TV, además de trabajos de ingeniería combinados con ejecución de proyectos llave en mano y suministro de equipamiento auxiliar, como sistemas radiantes o equipamiento pasivo de RF.  Do you have any idea how much &lt;a href="http://www.slycams.com"&gt;webcam girls&lt;/a&gt; earn?  Guys can make a ton also. Come and watch these &lt;a href="http://www.slycams.com/webcam/trimmed/"&gt;cam girls&lt;/a&gt; today online or make cash.&lt;/p&gt;
+&lt;p&gt;La base sobre la que se sustenta la estrategia competitiva de la empresa radica en invertir un elevado porcentaje de los beneficios en recursos de I+D, con el objetivo de ofrecer al mercado Broadcast profesional productos innovadores y equipamiento de alta tecnología.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>"Fail" is the blogger-adored modern stamp of disapproval for anything that falls below whatever arbitrary standard a critic feels like imposing. The proprietors of FailBlog.org open the "fail" doors to the world, encouraging readers to submit images of people, places, or things that in one way or another didn't work out right, and then inviting all visitors to vote on how many thumbs down the depicted blunder deserves. Whether the specimen under the FailBlog microscope is a poorly designed building or a curious case of inconsistent pricing, the site's findings are sure to generate some laughter wins.</ecos:detail>
+            <ecos:detail>10. Omegle</ecos:detail>
+            <ecos:detail>11. Lifehacker</ecos:detail>
+            <ecos:detail>12. Answerbag</ecos:detail>
+            <ecos:detail>14. Slashdot</ecos:detail>
+            <ecos:detail>15. Fark</ecos:detail>
+            <ecos:detail>16. Popurls</ecos:detail>
+            <ecos:detail>18. My Parents Joined Facebook</ecos:detail>
+            <ecos:detail>19. Passive-Aggressive Notes</ecos:detail>
+            <ecos:detail>2. FMyLife</ecos:detail>
+            <ecos:detail>20. Break.com</ecos:detail>
+            <ecos:detail>22. Tweeting Too Hard</ecos:detail>
+            <ecos:detail>23. Lunchtimers</ecos:detail>
+            <ecos:detail>25. Songza</ecos:detail>
+            <ecos:detail>26. iMeem</ecos:detail>
+            <ecos:detail>27. Patently Silly</ecos:detail>
+            <ecos:detail>28. AwkwardFamilyPhotos.com</ecos:detail>
+            <ecos:detail>29. Texts From Last Night</ecos:detail>
+            <ecos:detail>3. LivePlasma</ecos:detail>
+            <ecos:detail>30. Truu Confessions</ecos:detail>
+            <ecos:detail>31. PostSecret</ecos:detail>
+            <ecos:detail>32. Timothy McSweeney's Internet Tendency</ecos:detail>
+            <ecos:detail>33. Totally Looks Like</ecos:detail>
+            <ecos:detail>35. The Genuine Haiku Generator
+Taking aim at competitors like Chatroulette and Omegle, AOL's AV by AIM does for the free webcam chat site what AIM did for instant messaging. Streamlining the time it takes to launch an AIM webcam chat, AV by AIM is likely to lead the private video chat site market and help resurrect the IM client's image.</ecos:detail>
+            <ecos:detail>36. FreeRice</ecos:detail>
+            <ecos:detail>37. Archive.org</ecos:detail>
+            <ecos:detail>39. There, I Fixed It</ecos:detail>
+            <ecos:detail>4. Cracked</ecos:detail>
+            <ecos:detail>40. Homestar Runner</ecos:detail>
+            <ecos:detail>5. BeFunky.com</ecos:detail>
+            <ecos:detail>6. Funny Typos</ecos:detail>
+            <ecos:detail>8. Virtual NES</ecos:detail>
+            <ecos:detail>9. Pogo</ecos:detail>
+            <ecos:detail>A must-try for any music or film fanatic, LivePlasma helps you find new movies and music by building interactive maps around your current favorites. It's like six degrees of separation, customized to your cultural interests.</ecos:detail>
+            <ecos:detail>A unique, quick, fun way to meet people, WooMe offers free online speed dating services to anyone willing to maneuver through their very simple sign up process. With a sexy interface, fast video transfer speed, decent search features and a fair (but not great) number of users, the only thing that WooMe lacks is the ability to speed 'date' for more than one minute at a time.
+Overview from WooMe
+Online chat rooms are great for when you want to have a phone-free conference with friends, family members, co-workers, etc. Just one problem: Most chat options require some kind of software (AIM, Yahoo Messenger, etc.). That's a hassle when all you need is a temporary, one-time room.</ecos:detail>
+            <ecos:detail>A world of data awaits you at Archive.org. The site is home to the Internet Archive Wayback Machine, where you can look up versions of Web pages dating back to 1996. It also hosts the Live Music Archive, an impressive collection of free live concerts.</ecos:detail>
+            <ecos:detail>AV by AIM chat invitations can be delivered manually via email or to friends on AIM and Facebook.</ecos:detail>
+            <ecos:detail>Add some pizzazz to your profile pic with BeFunky.com. The site's Web-based application lets you easily morph any photo into a cartoony character or Warhol-like painting.</ecos:detail>
+            <ecos:detail>After a very quick sign up process and a slick interface, WooMe members can either create their own video conference, or search for others to join. The search capability isn't complex but it does the trick: as soon as you fill out the membership form, you'll be presented with a list of WooMe members whose meetings start in mere minutes. You can also search by geography (so far only the UK and USA are listed as options), sex (male, female or show both sexes), and interests.</ecos:detail>
+            <ecos:detail>Answerbag is all about interesting and instant information. Post a query about almost anything and get answers within minutes, or browse through other people's Q&amp;A to be enlightened, disgusted, and entertained.</ecos:detail>
+            <ecos:detail>AwkwardFamilyPhotos.com: Click for full-size image. So what constitutes awkward? Oh, I don't know...maybe having a medium-size marsupial on your arm, hovering near the back of a child's head and eying his tousled hair as potential nesting material? Yeah. And you thought your sister's braces were bad.</ecos:detail>
+            <ecos:detail>But I think most users will be perfectly satisfied with the free version, which deftly caters to anyone needing a quick, easy, disposable chat room.</ecos:detail>
+            <ecos:detail>Cast a spell on your productivity with this virtual magnetic message board. Join other people in shifting big bright plastic-looking letters around, like the ones on your parents' refrigerator when you were a kid, or draw on a collective scratchpad to see what comes out.</ecos:detail>
+            <ecos:detail>Chatville allows Facebook users to launch webcam chat between random anonymous Facebook users, in addition to friends and family connected on your profile.  Chatville also offers a fun Photobooth feature, allowing users to create digital four-paned photo strips with the click of a button.</ecos:detail>
+            <ecos:detail>Cult favorite Homestar Runner is still going strong. Start with the latest Strongbad E-Mail missives and gain a whole new appreciation for the all-powerful Lappy 486 and, of course, scroll buttons and random. Keep on scrollin' on, friends.</ecos:detail>
+            <ecos:detail>Do park visitors generally need to be told "Please do not sit on crocodile"? Must employees at a company parking lot be reminded "Do Not Sleep Below the Vehicle"? Silly as these things sound, they're actual warnings posted on public safety signs. Safety Graphic Fun works to compile the most ridiculous placards, outlandish announcements, and attorney-inspired posterior papering from around the world, some of which are astonishingly absurd. My favorite: "Touching wires causes instant death. $200 fine."</ecos:detail>
+            <ecos:detail>Enter Tinychat, the Web's answer to pay-by-the-hour hotel rooms. You pop in, do your thing, then hit the road. Except here you don't even have to register at the front desk, and there's no payment involved: the service is free.</ecos:detail>
+            <ecos:detail>FMyLife (the site isn't entirely clear about what the "F" stands for, but "Flee" wouldn't be inappropriate) encourages people to send in anonymous real-life stories of worst-case scenarios that came horrifyingly true--things you'll just have to read to believe. The stories aren't always G-rated, so visit at your own discretion.</ecos:detail>
+            <ecos:detail>FailBlog.org: Click for full-size image.13. FailBlog</ecos:detail>
+            <ecos:detail>Family photos are always awkward, but some go beyond the typical intergenerational tension and tiptoe into disquieting new territory. AwkwardFamilyPhotos.com pursues the mission of finding and flaunting the most unbearably awkward images from real photo albums submitted by real users.</ecos:detail>
+            <ecos:detail>Find a wider selection of time-wasting games at Pogo. See if you can spell success in Scrabble, dominate at Dominoes, or ride the Reading Railroad to a sweet Monopoly victory.</ecos:detail>
+            <ecos:detail>For all of Twitter's strengths, it seems to attract an inordinate number of tools whose tweets make you cringe. At Tweeting Too Hard, you can browse through Twitter's most "self-important tweets," voting up the worst offenders with sarcastic "back pats" as you go.</ecos:detail>
+            <ecos:detail>For slightly less succinct (and usually less salacious) confessions, surf over to Truu Confessions. There, people of all ages anonymously submit their deepest secrets and await your reactions.</ecos:detail>
+            <ecos:detail>Fuzzwich: Click for full-size image. 17. Fuzzwich</ecos:detail>
+            <ecos:detail>Go old-school and play dozens of original Nintendo games online. Once you get accustomed to the keyboard-based commands, even the most determined Koopa Troopas won't be able to pull you away.</ecos:detail>
+            <ecos:detail>Got a favorite time-wasting Web site we didn't mention? Add it in the comments section below. Just make sure it's worth our time.
+WooMe is a dating site, in that it attempts to bring people together that otherwise wouldn't meet, but it differs greatly from most dating sites in that it doesn't require a profile to be filled out, questions to be answered (signing up takes well under a minute), or any software to be downloaded. As well, WooMe isn't just for dating; it could also be used to meet new people with similar hobbies and/or interests.</ecos:detail>
+            <ecos:detail>Grab your webcam and learn more about Chatville with our new illustrated tutorial.</ecos:detail>
+            <ecos:detail>Grammar geeks will delight in Funny Typos, a site devoted to ridiculing the language-challenged among us. Why people cant menage to reed there writhing batter is simpy a misery to me.</ecos:detail>
+            <ecos:detail>GraphJam gives humor a statistical edge by inviting users to create funny graphs or charts that illustrate various aspects of life. One recent submission attempted to break down the content of Yahoo Answers (65 percent material for FailBlog; 25 percent spam; 10 percent legitimate questions). GraphJam makes it a cinch to build your own satirical analyses; and with in-site voting and embed codes a-plenty, you'll have no shortage of time-wasting toys.</ecos:detail>
+            <ecos:detail>GraphJam: Click for full-size image. 24. GraphJam</ecos:detail>
+            <ecos:detail>Hello, sir or madam, may I interest you in a retractable table top for your toilet today? That's just one of many wacky inventions featured on Patently Silly, which displays some of America's most unusual patents.</ecos:detail>
+            <ecos:detail>Hey, get your mind out of the gutter--Stripgenerator is about comic creation, not clothing removal--though we wouldn't claim that the two paths have never crossed. The site lets you build your very own customized comic strip in a matter of minutes. Choose from an array of characters and objects, and then bring your strip to life, one square at a time. If you're feeling particularly adventurous, sign up to start your own "strip blog" and have your content featured on the site's home page.</ecos:detail>
+            <ecos:detail>How to Use AV by AIM
+With just a few mouse clicks, you can launch your own free private webcam chat. Check out my</ecos:detail>
+            <ecos:detail>I'll bet you never noticed how much Perez Hilton looks like the Grinch, or how similar Daisy De La Hoya is to 80s singer Pete Burns. The user-driven community of Totally Looks Like did, though. Intrigued?</ecos:detail>
+            <ecos:detail>If only you could find out what all those college girls were constantly texting about. Oh, wait--you can. Texts From Last Night collects the most insane (and allegedly real) late-night texts from users, shame included. You can imagine the kind of language and subject matter involved, so click through at your own risk.</ecos:detail>
+            <ecos:detail>Interact with total strangers in the strange new world of Omegle. This simple site pops you into a one-on-one chat room with a random person, and there's no telling where the conversation may take you.</ecos:detail>
+            <ecos:detail>Keeping in mind the time factor - where all of the online speed 'dates' take only a minute - WooMe is specifically geared towards the younger generation that enjoys using social networking sites like Facebook and MySpace for quick, simple introductions that aren't weighed down by needing to use a credit card or investing hours of time emailing back and forth just to meet someone new. Because of this, the majority of WooMe users are well under the age of 30.</ecos:detail>
+            <ecos:detail>Losing track of time is all too easy at Lifehacker. The blog teaches you tricks for navigating the complexity of life with fewer bumps, serving up advice on topics ranging from cooling a scorching car to clearing up circles under your eyes.</ecos:detail>
+            <ecos:detail>Monoface: Click for full-size image. 34. Monoface</ecos:detail>
+            <ecos:detail>Next: Lifehacker and nine other tasty tidbits
+Time-Wasting Web Sites 11-20</ecos:detail>
+            <ecos:detail>Next: PostSecret and nine other tasty tidbits
+Time-Wasting Web Sites 31-40</ecos:detail>
+            <ecos:detail>Next: Twitterfall and nine other tasty tidbits
+Time-Wasting Web Sites 21-30</ecos:detail>
+            <ecos:detail>Oh, who are we kidding? You weren't going to get any work done today, anyway. So you might as well waste time in style--and these sites will help you do it. Figuring that you're already familiar with the Facebooks and YouTubes and Onions of the Net, we decided that any further serious undermining of your motivation to labor entailed digging up some obscure nuggets to commingle with the more familiar destinations. Our only criterion: Every site should be entertaining and habit-forming. And we found 'em--40 of 'em. Now just put up your privacy screen, kick back, and start clicking. Caveat: If you get caught, it won't do you any good to tell your boss that we're the ones who suggested it. And let me say for the record that I didn't waste any time on the organization of this list!</ecos:detail>
+            <ecos:detail>Oh-no-she-didn't. Indulge your inner Springer with a visit to Passive-Aggressive Notes, where you can take a long, leisurely inside look at other people's petty, infantile squabbles, all laced with not-so-subtle passive-aggressive undertones and innuendo.</ecos:detail>
+            <ecos:detail>One you join a teleconferencing session, you are either placed in a queue to meet, or have people queued up to meet you. Each meeting lasts a mere minute, with sound and video quality only as good as the person transmitting the signal. (Meaning: check your web cam and microphone beforehand). Afterwards, you'll be given a graphic interface that asks you if you were "woo'd" by the person you just met, or not.
+Unique Features of WooMe
+Warning: Reading this story may be hazardous to your productivity. The Web sites within may divert you from the dull tasks in need of your attention and may cause you to goof off for hours instead.</ecos:detail>
+            <ecos:detail>Parents and social media don't always mix. See sidesplitting screenshots of what happens when generations collide at My Parents Joined Facebook, a blog about uncomfortable family encounters in the virtual world. Remember, you can choose your friends but you can't choose your relatives.</ecos:detail>
+            <ecos:detail>Pets in Clothes: Click for full-size image. 38. Pets in Clothes</ecos:detail>
+            <ecos:detail>Popurls makes it easy for you to keep up with all of the Web's headlines. The jam-packed aggregator presents the most popular content from social media sites, news sites, and even video sites in a simple-to-use single page.</ecos:detail>
+            <ecos:detail>Rick Broida
+"WooMe brings the speed dating craze online and extends it to let users meet new people live in fast, fun and free speed sessions. There are no long forms or lengthy profile descriptions, simply find a session that interests you and meet 5 people in 5 minutes."
+What a WooMe Membership Includes</ecos:detail>
+            <ecos:detail>Safety Graphic Fun: Click for full-size image. 7. Safety Graphic Fun</ecos:detail>
+            <ecos:detail>Search for songs across the Web and play them to your heart's content at Songza. The site finds both audio and video files from multiple sources, and then allows you to create playlists and share them via Facebook or Twitter.</ecos:detail>
+            <ecos:detail>Signing up for Tinychat Pro ($14.95 monthly) nets you even more features, like five "permanent" chat rooms, higher-quality video, and so on.</ecos:detail>
+            <ecos:detail>Slashdot is the granddaddy of all tech time-wasters. Pursuing its mission of delivering "news for nerds," Slashdot posts a cornucopia of geeky information, complete with snarky comments and community discussion.</ecos:detail>
+            <ecos:detail>Step into the director's chair with Fuzzwich, a fun site that lets you build your own video animations. You pick the setting and the characters, and then customize them with faces cropped from your personal photos. Then, you use the site's editing program to move the characters around and have them interact. Once you get tot he stage of adding music and text bubbles, you'll be hooked. Fuzzwich even offers embed codes so you can show off your creation all over the Web.</ecos:detail>
+            <ecos:detail>Stripgenerator.com: Click for full-size image. 1. Stripgenerator</ecos:detail>
+            <ecos:detail>That makes all the more amazing the breadth of features available here, including screen sharing, video broadcasting, and the option to save your chat as a Word document.</ecos:detail>
+            <ecos:detail>The Hot or Not craze of the early 2000s gets an aww-inducing update with Pets in Clothes, a site dedicated to cute animals wearing cute duds. From cats in sunglasses to dogs in nurse outfits, the cuddly images just keep on coming. Taking a cue from the Hot or Not model, Pets in Clothes progresses through photos by having you rate each image on a scale of 1 to 10. And of course, you can submit your own pet pics for inclusion.</ecos:detail>
+            <ecos:detail>The Skinny on AV by AIM</ecos:detail>
+            <ecos:detail>The name may not be memorable, but the content at McSweeney's Lists site is tough to forget. The site features page after page of random and often hilarious lists--"Rarely Used Parenthetical Statements," for example, or "A Picnic Date Ending in an Awkward Sexual Encounter, Told Chronologically Through Board-Game Titles."</ecos:detail>
+            <ecos:detail>The onetime competitor to Mad Magazine has reinvented itself as a Web site for all things funny. Cracked has an array of amusing lists, stories, and videos that'll keep you laughing for days.</ecos:detail>
+            <ecos:detail>Think your handiwork is bad? See some of the worst excuses for quick fixes at There, I Fixed It, an ever-expanding gallery of the most pitiful repair jobs performed all over the globe.</ecos:detail>
+            <ecos:detail>Tinychat works entirely inside your browser, so there's nothing for you or your invitees to install. Nor does the service require any kind of sign-up or registration--not even an e-mail address.</ecos:detail>
+            <ecos:detail>Twitterfall: Click for full-size image. 21. Twitterfall</ecos:detail>
+            <ecos:detail>Users can chat simultaneously with up to three friends, family members or colleagues using the AV by AIM service, all without ever signing in with a screenname or password. Users must be age 13 and over.</ecos:detail>
+            <ecos:detail>Using Tinychat couldn't be simplier. Just click Create your room to generate a URL you can send to others, or click one of the social-network icons (Facebook, MySpace, and Twitter) to invite people in your personal network(s).</ecos:detail>
+            <ecos:detail>Video isn't its specialty, but iMeem excels at tracking down the music tracks you want. Find and stream your favorite tunes and save them to custom playlists. A quick caution: You do have to create a free account to gain access to the site's full functionality.</ecos:detail>
+            <ecos:detail>Videos that are just itching to go viral await you at Break.com. You'll find more funny, sexy, and scandalous clips here than you would in Paris Hilton's entire home-video collection--and that's saying something.</ecos:detail>
+            <ecos:detail>When you want a tantalizing tale with a sensational twist, turn your browser toward Fark. The site collects the Web's hottest and strangest stories, pointing you to standout content as well as to obscure local items that you might otherwise have missed.</ecos:detail>
+            <ecos:detail>Who needs look-alikes when you can build your own face? Monoface, the brainchild of a Minneapolis-based ad agency, lets you play Mr. Potato Head with real people. Click to combine different eyes, noses, and mouths until you find a suitably funny combination. With nearly 760,000 possibilities, it'll take you a while to run out of steam.</ecos:detail>
+            <ecos:detail>With a decidedly less high-tech but far more innovative approach, PostSecret publishes actual postcards mailed in by people looking to share their deepest secrets. The site's creators call it an "ongoing community art project." (For more on PostSecret and other sites like it, read "Online Confessions: The Web Bares Its Soul.")</ecos:detail>
+            <ecos:detail>WooMe is still in beta testing and is almost completely free. Users can meet with anyone else on the site, but if you've been "woo'd", you'll be asked to pay $1 to get each other's contact information.</ecos:detail>
+            <ecos:detail>WooMe offers anyone, anywhere, the opportunity to meet with up to five other people, online, through free video conferencing technology. Users have to provide the computer, microphone, web cam and speakers, but WooMe takes care of the rest.</ecos:detail>
+            <ecos:detail>Yeah, yeah--everyone spends too much time on Twitter. But Twitterfall offers a new way to connect with your fellow tweeters and discover interesting conversations. Just type in the term of your choice or select an option from the list of current hot trends, and Twitterfall will start dropping in related updates, one by one. You can control how quickly the tweets fall, and you can stipulate any number of combined terms that the tweets must include.</ecos:detail>
+            <ecos:detail>creates haikus on demand</ecos:detail>
+            <ecos:detail>english teachers frown</ecos:detail>
+            <ecos:detail>what fun, this quaint site
+For every Facebook member whose ever wished for a Facebook Chat alternative, the creators of Digsby introduce a new Facebook app pairing the wild world of random webcam chat with your favorite social network.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>EGATEL es una empresa especializada en la investigación, desarrollo y fabricación de productos
+y sistemas de radiofrecuencia y microondas destinados a transportar o difundir señales de
+televisión –tanto en formato analógico como digital- y señales de radio digital para cubrir las
+necesidades del mercado broadcast profesional.
+EGATEL desarrolla su actividad comprometida con el crecimiento sostenible, apostando por la
+innovación, la calidad, la profesionalidad y la satisfacción del cliente. Siendo las bases
+fundamentales de trabajo:
+• El cliente, nuestra prioridad. Capacidad de ofrecer un servicio integral al cliente público
+y privado.
+• Experiencia, excelencia, profesionalidad. La alta especialización e iniciativa de los
+profesionales de EGATEL son su principio activo y garantía de excelencia en el
+desarrollo de todo proyecto.
+• Apuesta por la I+D+i. Una empresa pionera en el impulso de nuevas tecnologías y que
+apuesta por la búsqueda constante de la I+D+i.
+• Comprometidos con la sociedad. Consciente de su responsabilidad social, EGATEL
+realiza su actividad contribuyendo al desarrollo de una sociedad mejor.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Orense</v:locality>
+            <v:postal-code>32901</v:postal-code>
+            <v:street-address>Avda. Ourense nº1 - Tecnópole</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Egatel S.L.</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/egatel_1000x282.jpg?1328108016</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Egatel S.L.</v:organisation-name>
+            <v:organisation-unit>Gran Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

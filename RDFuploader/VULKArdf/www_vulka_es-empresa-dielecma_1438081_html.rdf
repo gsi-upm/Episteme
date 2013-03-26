@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/dielecma_1438081.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>Ronda del Puerto, 24 07500 Manacor (Islas Baleares)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>DIELECMA</ecos:name>
+            <ecos:uri>http://www.dielecma.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>- Venta de componentes electrónicos; circuitos electrónicos; aparatos de audio, vídeo y megafonía; aparatos eléctricos y de potencia; placas solares; inversores; baterías; SAIs; cámaras de vigilancia; antenas de TV, radio y WiFi; cables varios y hechos a medida; autómatas programables; etc.   /   Venda de components electrònics; circuits electrònics; aparells d'àudio, vídeo i megafonia; aparells elèctrics i de potència; plaques solars; inversors; bateries; SAIs; càmeres de vigilància; antenes de TV, ràdio i WiFi; cables diversos i fets a mida; autòmats programables; etc.&#13;
+&#13;
+&#13;
+- Instalaciones eléctricas   /   Instal·lacions elèctriques&#13;
+&#13;
+- Instalaciones de telecomunicaciones i redes   /   Instal·lacions de telecomunicacions i xarxes&#13;
+&#13;
+- Instalaciones domóticas   /   Instal·lacions domòtiques&#13;
+&#13;
+&#13;
+- Instalaciones de detección, seguridad i videovigilancia   /   Instal·lacions de detecció, seguretat i videovigilància&#13;
+&#13;
+- Reparaciones de audio i vídeo   /   Reparacions d'àudio i vídeo</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>DIRECCIÓN EXACTA: Ronda del Puerto, 22 (local nº2)</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Islas Baleares</v:locality>
+            <v:street-address>Ronda del Puerto, 24 07500 Manacor (Islas Baleares)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>DIELECMA</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/1438081_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>DIELECMA</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>971845909</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>971845909</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.dielecma.com</v:url>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>vulka</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>157</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

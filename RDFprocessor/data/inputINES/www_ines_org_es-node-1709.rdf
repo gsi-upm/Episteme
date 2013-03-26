@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1709">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Islas Baleares</v:locality>
+                    <v:postal-code>07121</v:postal-code>
+                    <v:street-address>Edificio U-Parc BIT Ctra. Palma-Valldemossa, Km 7,4</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Brújula Tecnologías de la Información S.A.</ecos:name>
+            <ecos:uri>http://www.brujula.es/</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Somos una compañía dedicada a ofrecer los Sistemas de Información que los negocios de nuestros clientes requieren en cada momento.&lt;/p&gt;
+&lt;p&gt;Brújula está especializada en aplicaciones de comercialización y gestión basadas en Internet y aporta soluciones únicas y globales que incluyen la implantación, el mantenimiento y la explotación de las infraestructuras que las soportan.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan rdf:nodeID="bnode10605"/>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Aplicaciones y desarrollo a medida1. promoción y comercialización canal internet
+web corporativa / portal promoción turística / portal venta online / pago electrónico / sistema venta de entradas / herramientas de integración / marketing en Internet2. aplicaciones para la gestión eficiente de los recursos
+aplicaciones de gestión a medida / portales del empleado / business intelligence / software gestión IT / canal móvil / gestión cobros con tarjetaSistemas, comunicaciones y seguridad3. software de sistemas
+bases de datos / middleware / gestión de contenidos / virtualización / back-up
+correo / acceso remoto / monitorización / sistemas operativos4. infraestructura de sistemas
+servidores x86 / servidores Unix / almacenamiento en disco / Back-up &amp; recovery5. comunicaciones y seguridad
+redes / firewall-VPN / antivirus y anti-spam / gestión de ancho de banda vozIP y telefoníaIP / balanceador de carga / encriptadores, compresión y aceleración / difusión bluetooth6. microinformática
+pc’s y workstation / portátiles y tablets pc / monitores y proyectores / impresoras y equipos multifunción / accesorios y consumibles / terminales industriales / equipamiento de aula digital7. infraestructuras eléctricas y de telecomunicaciones
+proyectos de ingeniería de comunicaciones / proyectos de ingeniería eléctrica
+infraestructura de comunicaciones / infraestructuras eléctricas
+infraestructuras especiales / instalación masiva de equipamientoIncoming &amp; Select4U8. incomming &amp; select4u
+incomming desarrollo / incomming siscom / incomming microinformática / select4u desarrollo / select4u siscom / select4u microinformáticaExplotación de Infraestructuras9. hosting &amp; housing
+hosting web / hosting web dinámica / servidor compartido / servidor dedicado / housing10. go in pack
+coordinador de servicio / servicio técnico 24 x 7 / monitorización / pruebas de rendimiento / dispositivos de salida / planes de contingencia11. pack mantenimiento
+coordinador de servicio / servicio técnico 24 x 7 / técnico de mantenimiento in situ / gestión de infraestructuras corporativas / help desk</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Islas Baleares</v:locality>
+            <v:postal-code>07121</v:postal-code>
+            <v:street-address>Edificio U-Parc BIT Ctra. Palma-Valldemossa, Km 7,4</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Brújula Tecnologías de la Información S.A.</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/logoBrujula_0.PNG?1274701042</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Brújula Tecnologías de la Información S.A.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

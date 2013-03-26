@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/plataforma-digital-lugo_1430351.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>C/ OURENSE, 18 27004 LUGO (Lugo)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>PLATAFORMA DIGITAL LUGO</ecos:name>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>TELECOMUNICACIONES Y AUDIOVISUALES</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Empresa con más de 30 años de experiencia en el sector.&#13;Ofrecemos el mejor servicio en instalaciones, reparaciones, servicio de asistencia técnica, puestas en marcha, etc..&#13;Disponemos de ingeniería propia tanto en proyectos de telecomunicaciones como en proyectos de domótica y acústica.&#13;Nuestros campos de trabajo en instalaciones como distribuciones son:&#13;-Antenas y sistemas de telec. en edificios (ICT)&#13;-Porteros y videoporteros.&#13;-Detección y extinción de incendios.&#13;-Sistemas de seguridad anti-intrusión.&#13;-Sistemas de CCTV (Circuito cerrado de TV)&#13;-Redes informáticas.&#13;-Megafonía y hilo musical.&#13;-Sonido profesionales y audiovisuales.&#13;-Control de accesos.&#13;-Domótica sistema KNX&#13;-Sistemas hospitalarios paciente/enfermera.&#13;-Sistemas de transmisión IP.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Lugo</v:locality>
+            <v:street-address>C/ OURENSE, 18 27004 LUGO (Lugo)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>PLATAFORMA DIGITAL LUGO</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>PLATAFORMA DIGITAL LUGO</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>664 305 257</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>982 100 466</rdf:value>
+          </rdf:Description>
+        </v:tel>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>vulka</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>4</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

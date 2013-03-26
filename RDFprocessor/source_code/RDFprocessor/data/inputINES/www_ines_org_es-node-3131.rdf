@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/3131">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Vizcaya</v:locality>
+                    <v:postal-code>48950</v:postal-code>
+                    <v:street-address>C/ Ribera de Axpe, 11 D1 208</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Inkoa Sistemas</ecos:name>
+            <ecos:uri>www.inkoa.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Inkoa es una ingeniería especializada en el desarrollo de soluciones innovadoras, basadas en las Tecnologías Electrónicas, Informáticas y de las Comunicaciones, especializada en los sectores agroalimentario y medioambiental. Desde el inicio de su actividad, el desarrollo tecnológico de Inkoa se ha basado en la especialización y en el amplio conocimiento del sector agroalimentario y medioambiental y en una importante orientación a la innovación. Mediante implantaciones concretas de su tecnología inicial, Inkoa ha desarrollado tecnología propia de monitorización y control de procesos para una gama amplia de aplicaciones. En este marco, Inkoa desarrolla Proyectos de I+D+i, coordinando y participando en Programas Eureka e Iberoeka, Programa Marco de la UE, Programa LIFE/LIFE+, CIP, Proyectos Avanza… desarrollando nuevos productos y servicios que dan respuesta a las necesidades del mercado.&lt;br&gt;
+La compañía tiene una importante presencia internacional, con implantación de sus proyectos y tecnologías en más de 20 países y una presencia comercial mediante agentes de representación y sucursales en 10 países a nivel mundial.&lt;br&gt;
+Inkoa ofrece servicios a las entidades de los sectores alimentario y medioambiental en los siguientes ámbitos:&lt;br&gt;
+- Automatización y control de procesos&lt;br&gt;
+- Redes inalámbricas de sensores&lt;br&gt;
+- SaaS- Aplicaciones web para la gestión de trazabilidad y seguridad&lt;br&gt;
+- Sistemas embebidos y aplicaciones móviles&lt;br&gt;
+- Control remoto de procesos &lt;/p&gt;
+&lt;p&gt;Inkoa dispone de experiencia en la gestión de proyectos y de la I+D+i avalados por los sistemas de gestión implantados de acuerdo a las normas ISO 9001, ISO 14001, UNE 166002 (Gestión I+D+i) e ISO 20000 (Gestión de Servicios TI).&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>- Soluciones sectoriales innovadoras
+- SaaS- aplicaciones especificas gestión empresarial
+- Integración avanzada de sensores- Internet de las cosas</ecos:detail>
+            <ecos:detail>Los principales objetivos de I+D+i de Inkoa es mantener una cartera de productos TI innovadora, que permita la diferenciación  de la compañía ante sus clientes, implementando soluciones avanzadas y orientadas a la satisfacción de sus necesidades, así como potenciar la presencia de la compañía en los programas de I+D+i europeos, mediante:</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>La innovación y el desarrollo tecnológico han sido y son una pieza clave para la implantación de la actividad de Inkoa en nuevos mercados geográficos y en nuevos sectores de actividad. Desde el año 1994, Inkoa dispone de un área propia de I+D+i para investigar, innovar y desarrollar nuevos productos que supongan un avance tanto cualitativo como cuantitativo al sector agroalimentario y medioambiental y permitan a Inkoa posicionarse como empresa tecnológica de referencia, siempre desde el punto de vista de la especialización y con las tecnologías electrónicas, de la información y comunicaciones como elementos base para los desarrollos que se llevan a cabo. 
+En cuanto a las competencias tecnológicas de Inkoa, estas se centran en el Plar Servicios, en el negocio digital en red, Gestión de servicios e Internet del Futuro, pudiéndose resumir en las siguientes líneas principales:
+Software as a Service, integración sensores inalámbricos, aplicaciones empresariales, movilidad, inteligencia ambiental</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Ambience Intelligent</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Business Intelligence</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Embedded systems</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Green IT</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Nanotecnology</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Real Time</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>RFID</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>SaaS</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>SOA</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Waste Management</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Web Technologies</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Agricultural</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Agriculture</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Chemical</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Electronics</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Energy</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Engineering</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Farming</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Fishing</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Food</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>ICT</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Logistics</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Recycling</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Telecommunication</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Water Utilities</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Vizcaya</v:locality>
+            <v:postal-code>48950</v:postal-code>
+            <v:street-address>C/ Ribera de Axpe, 11 D1 208</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Inkoa Sistemas</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/LOGO%20INKOA%20PRIMERA%20PAGINA.jpg?1302531805</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Inkoa Sistemas</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

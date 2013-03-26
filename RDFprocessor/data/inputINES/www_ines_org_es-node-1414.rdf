@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1414">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Vizcaya</v:locality>
+                    <v:postal-code>48950</v:postal-code>
+                    <v:street-address>Ribera de Axpe, 11 – C2; 48950 ERANDIO (Bizkaia)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>SAREIN SISTEMAS, S.L.</ecos:name>
+            <ecos:uri>http://www.sarein.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;ACTIVIDAD&lt;/p&gt;
+&lt;p&gt;SAREIN SISTEMAS S.L. es una PYME industrial que desarrolla su actividad en el campo de la investigación y desarrollo de las tecnologías de la información invirtiendo constantemente en Innovación y Diseño industrial. Es una compañía que desde 1996 tiene como objetivo principal proveer soluciones integrales en el campo de las TICs según las cuatro líneas de negocio en las que se divide su actividad:&lt;/p&gt;
+&lt;p&gt;A- Consultoría&lt;br&gt;
+1-	Servicios:&lt;/p&gt;
+&lt;p&gt;•	Selección e implantación de Sistemas de Gestión&lt;br&gt;
+•	Alineamiento estratégico de TI&lt;br&gt;
+•	Adecuación de TI a normas de calidad y leyes (LOPD y LSSI)&lt;br&gt;
+•	Diseño del Datacenter&lt;br&gt;
+•	Análisis y diseño de arquitecturas&lt;br&gt;
+•	Planes de Sistemas&lt;br&gt;
+•	Auditorias de Seguridad&lt;/p&gt;
+&lt;p&gt;2-	Beneficios:&lt;/p&gt;
+&lt;p&gt;•	Disminución de costes de propiedad&lt;br&gt;
+•	Continuidad de negocio: Planes de contingencia contra desastres&lt;br&gt;
+•	Definición e implementación de políticas de seguridad&lt;/p&gt;
+&lt;p&gt;B- Sistemas&lt;br&gt;
+1-	Infraestructura&lt;/p&gt;
+&lt;p&gt;•	Diseño del datacenter.&lt;br&gt;
+•	Servidores de aplicaciones Citrix.&lt;br&gt;
+•	Mensajería, colaboración y gestión de contenidos&lt;br&gt;
+•	Bases de datos&lt;br&gt;
+•	Almacenamiento, backup, archiving, mirroring &lt;/p&gt;
+&lt;p&gt;2-	Virtualización&lt;/p&gt;
+&lt;p&gt;•	Consolidación de servidores&lt;br&gt;
+•	 Alta disponibilidad&lt;br&gt;
+•	 Recuperación contra desastres&lt;br&gt;
+•	 VDI&lt;br&gt;
+•	 Virtualización de aplicaciones&lt;/p&gt;
+&lt;p&gt;3-	Redes y comunicaciones&lt;/p&gt;
+&lt;p&gt;•	 Diseño y equipamiento de redes&lt;br&gt;
+•	 Tendido de redes (FO/UTP/WiFi)&lt;br&gt;
+•	 Videoconferencia, Telefonía IP, Videovigilancia IP&lt;br&gt;
+•	 Seguridad perimetral&lt;br&gt;
+•	 Aceleración de redes WAN&lt;br&gt;
+•	 Acceso remoto seguro&lt;/p&gt;
+&lt;p&gt;4-	Administración de sistemas&lt;/p&gt;
+&lt;p&gt;•	 Mantenimiento&lt;br&gt;
+•	 Servicios gestionados&lt;br&gt;
+•	 Monitorización de sistemas&lt;br&gt;
+•	 Inventariado&lt;br&gt;
+•	 Soporte remoto e insitu &lt;/p&gt;
+&lt;p&gt;C- Desarrollo&lt;/p&gt;
+&lt;p&gt;1-	Imagen digital&lt;/p&gt;
+&lt;p&gt;•	Páginas Web Corporativas&lt;br&gt;
+•	Portales de Contenidos (CMS)&lt;br&gt;
+•	Catálogos de Productos&lt;br&gt;
+•	Tecnología Multimedia &lt;/p&gt;
+&lt;p&gt;2-	Soluciones e-business&lt;/p&gt;
+&lt;p&gt;•	Comercio electrónico: B2B/B2C/eShop&lt;br&gt;
+•	Integración con sistemas propietarios&lt;br&gt;
+•	Internet/Extranet&lt;/p&gt;
+&lt;p&gt;3-	Soluciones móviles&lt;/p&gt;
+&lt;p&gt;•	Fuerza de Ventas&lt;br&gt;
+•	Gestión de Proyectos&lt;br&gt;
+•	Teletrabajo&lt;/p&gt;
+&lt;p&gt;4-	Aplicaciones&lt;/p&gt;
+&lt;p&gt;•	Lenguajes:.NET, Java &lt;/p&gt;
+&lt;p&gt;D- Formación&lt;br&gt;
+1-	Orientada a:&lt;/p&gt;
+&lt;p&gt;•	Administradores&lt;br&gt;
+•	Usuarios finales&lt;/p&gt;
+&lt;p&gt;2-	Instalaciones:&lt;/p&gt;
+&lt;p&gt;•	“In Company”&lt;br&gt;
+•	 Instalaciones Propias&lt;/p&gt;
+&lt;p&gt;3-	Ámbito:&lt;/p&gt;
+&lt;p&gt;•	Sistemas&lt;br&gt;
+•	Desarrollo&lt;br&gt;
+•	Metodología&lt;br&gt;
+•	Ofimático&lt;/p&gt;
+&lt;p&gt;Asimismo Sarein tiene como objetivo prioritario convertirse en Socio Tecnológico de sus Clientes ayudándoles a conseguir todo su potencial impulsando el uso y adopción de tecnología.&lt;br&gt;
+Que aporta:&lt;br&gt;
+•	Alta capacidad tecnológica.&lt;br&gt;
+•	Profesionales cualificados, experimentados y certificados en las últimas tecnologías.&lt;br&gt;
+•	Respuestas ágiles y personalizadas.&lt;br&gt;
+•	Continua evolución en la mejora del Servicio, (ISO 20.000 en 2009).&lt;br&gt;
+•	Organización eficiente que garantiza costes ajustados.&lt;br&gt;
+•	Excelencia en las Relaciones Humanas.&lt;br&gt;
+•	Amplia experiencia y metodología propia en gestión integrada de Proyectos IT: Diseño, Implantación, Formación y Soporte. &lt;/p&gt;
+&lt;p&gt;SAREIN cuenta además con una plantilla (45 empleados) compuesta por profesionales altamente cualificados, experimentados y formados permanentemente en las últimas tecnologías de múltiples proveedores. Su aportación de valor se materializa actuando como socios tecnológicos de sus clientes, desde la estrategia en TI hasta la ejecución de la misma mediante proyectos llave en mano.&lt;/p&gt;
+&lt;p&gt;Desde 1996, SAREIN ha llevado a cabo un elevado número de proyectos de naturaleza y complejidad diversa, lo que permite a esta empresa ofrecer soluciones específicas en función de las necesidades existentes.&lt;br&gt;
+Su experiencia en el sector permite ofrecer respuestas ágiles, adaptadas a los clientes y una organización eficiente aportando un gran conocimiento sectorial y alta capacidad tecnológica&lt;/p&gt;
+&lt;p&gt;Su gama de productos y servicios comprende por tanto:&lt;/p&gt;
+&lt;p&gt;-	Consultoría en el ámbito de las TIC: Estratégica, seguridad, sistemas y gestión de la información&lt;br&gt;
+-	Integración de sistemas: diseño e implementación de soluciones de infraestructura, comunicaciones, seguridad, almacenamiento, alta disponibilidad y soluciones móviles.&lt;br&gt;
+-	Desarrollo: Análisis y programación de aplicaciones a medida, cliente-servidor y entorno WEB.&lt;br&gt;
+-	Formación especializada para administradores y usuarios&lt;br&gt;
+-	Mantenimiento y soporte de sistemas informáticos&lt;br&gt;
+-	Implementación de soluciones de negocio con Microsoft Dynamics NAV&lt;br&gt;
+-	Outsourcing o externalización de servicios informáticos&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>El departamento de I+D+i se ha creado como tal en el año 2009, por lo que queremos ampliar nuestro conocimiento y competencias participando en proyectos innovadores tanto a nivel autonómico,nacional e internacional.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>A- Consultoría
+1-	Servicios:
+•	Selección e implantación de Sistemas de Gestión
+•	Alineamiento estratégico de TI
+•	Adecuación de TI a normas de calidad y leyes (LOPD y LSSI)
+•	Diseño del Datacenter
+•	Análisis y diseño de arquitecturas
+•	Planes de Sistemas
+•	Auditorias de Seguridad
+2-	Beneficios:
+•	Disminución de costes de propiedad
+•	Continuidad de negocio: Planes de contingencia contra desastres
+•	Definición e implementación de políticas de seguridad
+B- Sistemas
+1-	Infraestructura
+•	Diseño del datacenter.
+•	Servidores de aplicaciones Citrix.
+•	Mensajería, colaboración y gestión de contenidos
+•	Bases de datos
+•	Almacenamiento, backup, archiving, mirroring 
+2-	Virtualización
+•	Consolidación de servidores
+•	 Alta disponibilidad
+•	 Recuperación contra desastres
+•	 VDI
+•	 Virtualización de aplicaciones
+3-	Redes y comunicaciones
+•	 Diseño y equipamiento de redes
+•	 Tendido de redes (FO/UTP/WiFi)
+•	 Videoconferencia, Telefonía IP, Videovigilancia IP
+•	 Seguridad perimetral
+•	 Aceleración de redes WAN
+•	 Acceso remoto seguro
+4-	Administración de sistemas
+•	 Mantenimiento
+•	 Servicios gestionados
+•	 Monitorización de sistemas
+•	 Inventariado
+•	 Soporte remoto e insitu 
+C- Desarrollo
+1-	Imagen digital
+•	Páginas Web Corporativas
+•	Portales de Contenidos (CMS)
+•	Catálogos de Productos
+•	Tecnología Multimedia 
+2-	Soluciones e-business
+•	Comercio electrónico: B2B/B2C/eShop
+•	Integración con sistemas propietarios
+•	Internet/Extranet
+3-	Soluciones móviles
+•	Fuerza de Ventas
+•	Gestión de Proyectos
+•	Teletrabajo
+4-	Aplicaciones
+•	Lenguajes:.NET, Java</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Vizcaya</v:locality>
+            <v:postal-code>48950</v:postal-code>
+            <v:street-address>Ribera de Axpe, 11 – C2; 48950 ERANDIO (Bizkaia)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>SAREIN SISTEMAS, S.L.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>SAREIN SISTEMAS, S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

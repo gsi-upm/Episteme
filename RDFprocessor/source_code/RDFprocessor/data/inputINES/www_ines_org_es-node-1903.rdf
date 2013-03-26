@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1903">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Pontevedra</v:locality>
+                    <v:postal-code>36214</v:postal-code>
+                    <v:street-address>Carretera do Freixo 17, 1º</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Optare Solutions, S.L.</ecos:name>
+            <ecos:uri>www.optaresolutions.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Optare Solutions es una consultora tecnológica especializada en la realización de proyectos de Integración de Sistemas de Soporte a las Operaciones (OSS) y la prestación de servicios profesionales de consultoría en el ámbito de los operadores de Telecomunicaciones.&lt;br&gt;
+ Dentro del área de OSS, Optare Solutions está especializada en los procesos de provisión (fulfillment) y aseguramiento (assurance) de servicios y en los sistemas que interactúan con estos, principalmente los relacionados con la gestión de procesos de comunicación e intercambio de información entre operadoras (portabilidad) y con Telefonica (AMLT, OBA, OIBA, …)&lt;br&gt;
+La experiencia, el conocimiento y los resultados obtenidos en los más de 8 años de existencia de Optare Solutions nos han hecho merecedores del reconocimiento internacional como "Cool Vendor in Telecom Operations Management System 2010" por Gartner Inc, firma americana líder en análisis del mercado TIC.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Ampliar el conocimiento de las tecnologías que usamos, desarrollo de productos orientados a nuestros mercados, desarrollo de nuevas herramientas para resolver los problemas de nuestros clientes</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Integración de sistemas OSS, desarrollo de Web Services, implantación de productos, análisis y mejora de procesos, pruebas de integración de software, arquitectura de servicios SOA, modelado de procesos de negocio, integración de terceros en la cadena de valor, monitorización y optimización de servicios, migración y upgrade de sistemas, gestión de SLAs, composición de servicios a partir de unitarios, virtualización de sistemas, análisis de capacidad, clusterizado de aplicaciones.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Business Intelligence</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Communications</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Service composition</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>SLA</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>SOA</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>R&amp;D</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Telecommunication</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Pontevedra</v:locality>
+            <v:postal-code>36214</v:postal-code>
+            <v:street-address>Carretera do Freixo 17, 1º</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Optare Solutions, S.L.</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/logo%20Optare%20Solutions.jpg?1277202988</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Optare Solutions, S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

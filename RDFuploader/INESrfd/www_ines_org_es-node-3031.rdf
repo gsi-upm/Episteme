@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/3031">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28001</v:postal-code>
+                    <v:street-address>Castelló</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>ITgreen Soluciones Verdes S.L.</ecos:name>
+            <ecos:uri>http://www.itgreen.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;ITgreen es una empresa constituida en su totalidad con capital español, dedicada a difundir los beneficios y características de la filosofía “Green IT” ("tecnología verde") y a la prestación de soluciones tecnológicas eficientes, siguiendo los principios de aprovechamiento de los recursos IT de la organización y ofreciendo ahorros energéticos y disminución de emisiones de CO2.&lt;/p&gt;
+&lt;p&gt;El objetivo es ayudar a las organizaciones a reducir sus costes operacionales tales como el coste total de propiedad y energético, a incrementar la eficiencia y mejorar la productividad. Todo ello a través de la adopción de prácticas IT sostenibles y contribuyendo así con el medioambiente. De este modo se obtendrá un incremento del valor añadido y la justificación de la Responsabilidad Social de la Empresa.&lt;/p&gt;
+&lt;p&gt;Gracias a nuestros acuerdos de colaboración podemos llevar a cabo proyectos globales dentro de una Organización para poder aplicar soluciones de Green IT sobre todos los recursos IT teniendo diferentes soluciones para PYMES y grandes organizaciones.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>- Investigación sobre nuevas soluciones Green IT
+- Desarrollo de la primera Plataforma Green IT nacional/europea de auditoria y ahorros sobre todos los recursos IT de una organización
+- Creación, diseño, desarrollo del concepto e-ficina (Convertir las oficinas en oficinas eficientes)
+- Hacer posible el acceso a las soluciones Green IT a todo tipo de organizaciones y tamaño</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28001</v:postal-code>
+            <v:street-address>Castelló</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>ITgreen Soluciones Verdes S.L.</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/logo_web_250x150_0.jpg?1288277669</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>ITgreen Soluciones Verdes S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>10</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

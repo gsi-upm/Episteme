@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/181">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28015</v:postal-code>
+                    <v:street-address>Bravo Murillo 38</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>UNIVERSIDAD NACIONAL DE EDUCACIÓN A DISTANCIA</ecos:name>
+            <ecos:uri>http://www.uned.es/</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La UNED es hoy la mayor universidad de España. El número de estudiantes matriculados en cada convocatoria anual se aproxima a los 180.000. Las 9 Facultades, 2 Escuelas Técnicas Superiores, el Curso de Acceso Directo para mayores de 25 años y el Centro Universitario de Idiomas a Distancia realizan una oferta académica de 26 titulaciones oficiales y más de 500 cursos de formación continua. Para llevar a cabo la labor docente la UNED cuenta con 1376 profesores y 6254 profesores-tutores. Esta tarea está apoyada por casi 2.000 personas del cuerpo de personal de Administración y Servicios, que realizan su trabajo en los campus y unidades de la sede de Madrid, 60 Centros Asociados, 80 extensiones y un numeroso grupo de aulas de apoyo que se hallan repartidas por todas las Comunidades Autónomas. Esta labor se extiende también a diversos Centros de Apoyo en el extranjero que se hallan presentes en 14 países y que atienden a un grupo de más de 1800 estudiantes.&lt;br&gt;
+Comenzó su actividad en 1972 y actualmente ofrece todos sus servicios online (radio, televisión, cursos, biblioteca, comunidades virtuales, campus-wap, gestión de todos los procesos educativos y administrativos, etc.), además de ofrecer, a través de sus Centros Asociados, la mayor red de videoconferencia educativa de Europa. Tiene una fuerte presencia en Latino América y acuerdos de cooperación con los principales organismos internacionales: Banco Interamericano de Desarrollo (BID).&lt;br&gt;
+Comisión Europea (UE), Organización de Estados Americanos (OEA, Organización de Estados Iberoamericanos /OEI, UNESCO (Cátedra UNESCO en Enseñanza a Distancia)...&lt;br&gt;
+Finalmente señalar que más del 45% del alumnado universitario con discapacidad está matriculado en la UNED (3700 en el curso 2006/07) y que recientemente ha firmado con el Ministerio de Trabajo y Asuntos Sociales la creación del Centro Nacional "Centro de Atención a Universitarios con Discapacidad (Unidis)".&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Sus desafios
+- Desarrollo de tareas que conjuguen planificación, aprendizaje e interacción con diversos agentes (humanos y de software) para adaptarse, ubicua y dinámicamente, a las necesidades cambiantes del contexto
+- Lenguajes de modelado de usuario que contemplen las necesidades de accesibilidad y diversidad funcional
+- Arquitecturas abiertas y escalables, basadas en el uso de estándares, como soporte al desarrollo de servicios orientados a los usuarios con necesidades de accesibilidad y diversidad funcional
+- Ontologías para el desarrollo de entornos adaptativos de educación que contemplen las necesidades de accesibilidad y diversidad funcional de los usuarios
+- Técnicas y modelos de aprendizaje automático que sirvan de soporte a la generación dinámica de modelos de usuario
+- Estándares de educación que cubran perfiles de usuario, contenidos, dispositivos, escenarios de aprendizaje, etc.
+- Estándares tecnológicos que den soporte al desarrollo de arquitecturas abiertas, interoperables y distribuidas
+- Arquitecuras mulitagente centradas en el modelado de usuario
+- Integración de diferentes técnicas de Inteligencia Artificial (IA) para la construcción de herramientas que permitan mejorar el trabajo de las personas, adaptándose a la complejidad de los escenarios donde tienen que interactuar y dependiente de un acceso ubicuo a la información.
+- Desarrollo de sistemas automáticos de planificación y monitorización adaptado al perfil de usuario en contextos con incertidumbre y situaciones cambiantes
+- Metodologías y paradigmas de actuación que centren su actuación en el seguimiento del aprendizaje de los individuos a lo largo de la vida (life long learning)
+- Métodos de gestión y gobierno de las Universidades basados en el uso intensivo de las TIC</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Sus competencias:
+El rango de actuaciones del grupo de trabajo de la UNED cubre tanto el desarrollo de software basado en estándares de calidad como el de explotación y mantenimiento de servicios. En concreto, nuestras actuaciones se enmarcan en  la educación a distancia y la atención de las necesidades de accesibilidad y diversidad funcional de los usuarios.
+Entre las actividades de I+D realizadas por el grupo se pueden destacar en primer lugar nuestros trabajos en interfaces accesibles y adaptables, así como en el modelado de usuario y el tratamiento de datos requerido para su desarrollo. Más específicamente, tenemos experiencia en: (1) Modelos de software: arquitecturas independientes del dominio y centradas en servicios abiertos y basados en estándares, (2) Desarrollo distribuido en comunidades abiertas: uso y participación activa, incluyendo la coordinación y dirección en algunos casos, de comunidades de software libre, (3) Interfaces accesibles: interfaces adaptables (contextualización, personalización y accesibilidad), semántica de las interfaces (ontologías y especificación declarativa del interfaz). Además destacamos nuestra experiencia en (i) el desarrollo de modelos basados en el diseño para todos y en la construcción activa y (ii) modelado del usuario basado en estándares.
+En lo referido al desarrollo de servicios comentar nuestra experiencia en el ofrecimiento de servicios seguros para cientos de usuarios y en el mantenimiento de aplicaciones en condiciones de estrés diario, así como en el garantizar la confidencialidad de los datos siguiendo las normativas más exigentes al respecto con las propias tareas de modelado de usuario.
+En cuanto a modelos de negocio nuestro grupo participa en proyectos financiados eTEN en los que la actuación se centra especialmente en la validación en el mercado de servicios abiertos, basados en estándares y especialmente diseñados para atender las necesidades de accesibilidad y diversidad funcional de los usuarios.
+Por otro lado, resaltamos especialmente nuestro trabajo actual en el desarrollo de arquitecturas abiertas orientadas a servicios basados en estándares y especificados con el apoyo de ontologías y descripciones semánticas. Este planteamiento se apoya especialmente en el uso de los estándares y especificaciones de accesibilidad existentes para la descripción del dominio, los individuos, el contexto y los dispositivos.
+El objetivo principal de estos desarrollos es mantener un alto grado de interoperabilidad de los sistemas, así como incidir en la flexibilidad de su explotación y soporte a su mantenimiento.
+Con respecto a la calidad del software, nuestra experiencia se basa en investigación, desarrollo de software e integración de componentes cuyos estándares de calidad han sido contrastados en proyectos nacionales y europeos de investigación, así como en la colaboración para el desarrollo de servicios TIC en nuestra universidad.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28015</v:postal-code>
+            <v:street-address>Bravo Murillo 38</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>UNIVERSIDAD NACIONAL DE EDUCACIÓN A DISTANCIA</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>UNIVERSIDAD NACIONAL DE EDUCACIÓN A DISTANCIA</v:organisation-name>
+            <v:organisation-unit>Universidad</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/144">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28709</v:postal-code>
+                    <v:street-address>Avda Montes de Oca, 1. SAN SEBASTIAN DE LOS REYES</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>TECNATOM S.A.</ecos:name>
+            <ecos:uri>www.tecnatom.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;SERVICIOS DE INGENIERÍA Y PROVEEDORES DE SISTEMAS  Y PRODUCTOS EN EL MARCO DE GRANDES PROYECTOS&lt;br&gt;
+SECTORES ELECTRICO,  AERONAUTICOS E INDUSTRIAL.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>MEJORA DE CALIDAD Y PRODUCTIVIDAD EN LOS PROCESOS Y PRODUCTOS DE INGENIERIA DE SOFTWARE.</ecos:detail>
+            <ecos:detail>RAPIDA IMPLANTACION DE NUEVAS TECNOLOGICAS EN LAS LINEAS DE PRODUCTO Y CREACION DE NUEVOS PRODUCTOS / SERVICIOS CON BASE A ELLAS.</ecos:detail>
+            <ecos:detail>REDUCCION DE TIEMPOS DE DESARROLLO Y PUESTA EN EXPLOTACION DEL SOFTWARE: RAPIDA ADAPTACIÓN A LOS ENTORNOS "CAMBIANTES".</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>* INGENIERIA DE SOFTWARE ORIENTADA A AUTOMATIZACION DE PROCESOS INDUSTRIALES Y ROBOTICA.
+* CALIDAD Y FIABILIDAD: EXPERIENCIA EN MEJORA DE PROCESOS DE INGENIERIA SOFTWARE (ISOIEC 15504) Y PROCESOS DE VALIDACIÓN DE SOFTWARE CRITICO - SIMULACIÓN, ETC.-
+* INTEROPERATIVIDAD Y ESTANDARES ABIERTOS: INTERCOEXION DE SISTEMAS HETEREOGENEOS, CORBA, OPC,  INSTRUMENTACION VISA, ETC. MONITORIZACIÓN ENTORNOS OPERACION,</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28709</v:postal-code>
+            <v:street-address>Avda Montes de Oca, 1. SAN SEBASTIAN DE LOS REYES</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>TECNATOM S.A.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>TECNATOM S.A.</v:organisation-name>
+            <v:organisation-unit>Gran Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

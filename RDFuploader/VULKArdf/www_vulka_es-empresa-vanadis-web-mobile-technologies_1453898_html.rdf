@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/vanadis-web-mobile-technologies_1453898.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>bordadores 5 28013 madrid (Madrid)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>vanadis [web &amp; mobile technologies]</ecos:name>
+            <ecos:uri>http://www.vanadis.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>Nuevas aplicaciones para android e iphone más creativas, nuevas páginas web de diseño, más útiles, más sencillas, más originales...</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Diseño de nuevas aplicaciones para android e iphone más creativas y originales. Diseño de páginas web más originales, más útiles y mejor posicionadas. Sus principales valores son el diseño, la sencillez, la originalidad. Vanadis ofrece una amplia gama de productos:&#13;- nuevas aplicaciones para android&#13;- nuevas aplicaciones para iphone &#13;- app games (juegos para android y iphone)&#13;- realidad aumentada e inforealidad&#13;- aplicaciones corporativas&#13;- aplicaciones informativas e institucionales&#13;- páginas web corporativas&#13;- páginas web informativas y de noticias&#13;- tiendas online&#13;- blogs y otros productos corporativos&#13;- marketing web y posicionamiento en buscadores&#13;Además vanadis cuenta con una división dedicada a la formación especializada en diseño y programación web y en cursos de aplicaciones iphone y android.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:street-address>bordadores 5 28013 madrid (Madrid)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>vanadis [web &amp; mobile technologies]</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/1453898_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>vanadis [web &amp; mobile technologies]</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>911163882</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.vanadis.es</v:url>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>vulka</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>3530</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

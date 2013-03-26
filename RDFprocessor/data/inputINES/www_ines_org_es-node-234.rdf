@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/234">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Asturias</v:locality>
+                    <v:postal-code>33428</v:postal-code>
+                    <v:street-address>Parque Tecnológico de Asturias - Parcela 30</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Treelogic, Telemática y Lógica Racional para la Empresa Europea S.L.</ecos:name>
+            <ecos:uri>http://www.treelogic.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Treelogic es una empresa especializada en proporcionar soluciones avanzadas en el ámbito de las tecnologías de la información y la comunicación. Tenemos como misión ayudar a nuestros clientes a anticipar el cambio a través de la innovación.&lt;br&gt;
+Contamos con soluciones verticales en ámbitos como los servicios financieros, las administraciones públicas, la sanidad y el transporte, así como otras de tipo horizontal. Desde 1996 hemos trabajando para entidades de referencia de múltiples sectores ayudando a resolver y anticipar todo tipo de necesidades.&lt;br&gt;
+Nuestra plantilla supera el centenar de profesionales, de los que en torno a un 15% de dedican en exclusiva a actividades de I+D+i. Esta apuesta por la innovación nos ha llevado a participar en los dos últimos años en casi una veintena de proyectos de I+D+i.&lt;br&gt;
+Las principales líneas de investigación que seguimos de cara al futuro son: tecnologías y servicios de movilidad, tecnologías semánticas, internet de los servicios, internet de las cosas, robótica social y de servicios, computación cognitiva y tecnologías del habla, y gestión del conocimiento.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>- Participación en programas de I+D+i europeos.
+- Participar en el desarrollo de la Sociedad de la Información a nivel nacional y europeo.
+- Participar en proyectos innovadores aplicados a sectores en los que hasta ahora no ha habido un alto grado de innovación.
+- Colaborar y participar activamente en plataformas tecnológicas nacionales y europeas que encajen dentro de la visión, misión y valores de Treelogic.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>- Interfaces accesibles e inteligentes
+- Integración de servicios
+- Negocio digital en red
+- Future Internet</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Asturias</v:locality>
+            <v:postal-code>33428</v:postal-code>
+            <v:street-address>Parque Tecnológico de Asturias - Parcela 30</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Treelogic, Telemática y Lógica Racional para la Empresa Europea S.L.</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/logotreelogic.JPG?1276851618</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Treelogic, Telemática y Lógica Racional para la Empresa Europea S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

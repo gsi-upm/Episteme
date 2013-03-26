@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1790">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Islas Baleares</v:locality>
+                    <v:postal-code>07012</v:postal-code>
+                    <v:street-address>CL. Santiago Rusiñol, 8 1º</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>at4.net Internet y Comunicación, SL</ecos:name>
+            <ecos:uri>www.at4.net</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;at4 es un estudio de desarrollo web e ingeniería de software con vocación internacional, fundado en 1998 y radicado en Palma de Mallorca (Islas Baleares, España), que ofrece soluciones innovadoras y de calidad contrastada a precios competitivos para empresas y organismos públicos con especial atención en el sector turístico.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Sistemas de información turística semántica; herramientas para la generación de backoffice web universal (accesibles pero RIA); internet de los datos; movilidad; convergencia TV-web</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Gestión de proyectos, ISO/IEC 15504 (Spice); MVC; Java Jee, spring, struts, hybernate, portlets; SGBDR Oracle, PostgresSQL, MySql, etc; PHP OO; javascript, frameworks ajax jquery, extjs , etc; W3C html, xhtml y css; accesibilidad WAI; diseño de interfaz de usuario y diseño de interacción, usabilidad; SEO, redes sociales; XML, servicios web XML-SOAP; Text-to-Speech; integraciones (Alfresco, Pentaho BI, LifeRay...); consultoría tecnológica, modelos de negocio electrónico; web semántica, rdf; hibridación de aplicaciones; hbbtv; Open Source</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Islas Baleares</v:locality>
+            <v:postal-code>07012</v:postal-code>
+            <v:street-address>CL. Santiago Rusiñol, 8 1º</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>at4.net Internet y Comunicación, SL</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>at4.net Internet y Comunicación, SL</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/109">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Barcelona</v:locality>
+                    <v:postal-code>08034</v:postal-code>
+                    <v:street-address>Jordi Girona, 31</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Barcelona Supercomputing Center - Centro Nacional de Supercomputación</ecos:name>
+            <ecos:uri>http://www.bsc.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;El Barcelona Supercomputing Center – Centro Nacional de Supercomputación (BSC-CNS) se estableció en el año 2005, heredando la tradición del CEPBA (Centro Europeo de Paralelización de Barcelona) y alberga el supercomputador MareNostrum, que proporciona la mayor capacidad de cálculo de toda Europa. La misión del BSC-CNS es investigar, desarrollar y gestionar las tecnologías de la información para facilitar el progreso científico, juntando una masa crítica de investigadores de diversas áreas, fundamentalmente supercomputación y e-ciencia.&lt;/p&gt;
+&lt;p&gt;La investigación básica en Supercomputación ha sido completamente heredada del CEPBA, que ha evolucionado hacia el area de investigación en Supercomputación dentro del BSC. Se focaliza en un conjunto de tareas, cubriendo los niveles más bajos del software de sistema. La siguiente lista describe brevemente las principales líneas que estructuran nuestra investigación, alrededor de las cuales las actividades de investigación internas y los proyectos financiados externamente son llevados a cabo. &lt;/p&gt;
+&lt;p&gt;- Herramientas para análisis de rendimiento&lt;br&gt;
+- Modelos de programación&lt;br&gt;
+- Sistemas Operativos&lt;br&gt;
+- Computación Grid&lt;br&gt;
+- Autonomic computing y plataformas eBusiness&lt;br&gt;
+- Paralelización de aplicaciones&lt;/p&gt;
+&lt;p&gt;Esta tradición investigadora en los niveles inferiores del software del sistema para la computación de altas prestaciones hace que el equipo del BSC-CNS tenga mucho que aportar en los servicios de la sociedad de la información, cuya tendencia lleva a escenarios cada vez más distribuidos.&lt;/p&gt;
+&lt;p&gt;El BSC-CNS mantiene una participación muy activa en proyectos de I+D+i, tanto a nivel nacional como a nivel internacional. Esta participación se ha concretado en la obtención de unos resultados muy positivos en la ultima convocatoria de proyectos europeos, siendo el BSC una de las entidades españolas que ha obtenido un mayor retorno en las áreas de computación en Grid y software y servicios.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>El BSC hereda una larga experiencia en investigación en áreas de supercomputación, paralelismo, análisis de rendimiento y arquitectura de computadores. Durante los últimos años se han ido abriendo líneas de investigación que recogen toda esta experiencia y que tienen como desafío aplicarla a nuevos escenarios de aplicación, como son entornos eficientes de programación grid, planificicación de aplicaciones paralelas en Grid, análisis y mejora de rendimiento de aplicaciones eBusiness.</ecos:detail>
+            <ecos:detail>Uno de los retos actuales del BSC es convertirse en un referente  internacional no solo en la supercomputación sino también en las tecnologías de computación distribuida para el desarrollo y ejecución de software y servicios para aplicaciones de negocio.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>La siguiente lista describe brevemente las principales líneas que estructuran la investigación del BSC alrededor de las cuales las actividades de investigación internas y los proyectos financiados externamente son llevados a cabo. Aunque enumeradas como líneas de investigación separadas, la filosofía del BSC es mantener una interacción muy cercana entre los temas y las personas implicadas, manteniendo lo que llamamos una “Web Tecnológica”.
+- Herramientas para análisis de rendimiento
+- Modelos de programación
+- Sistemas Operativos
+- Computación Grid
+- Autonomic computing y plataformas eBusiness
+- Paralelización de aplicaciones
+De acuerdo con la AEI de INES, estas líneas de investigación integran competencias en los siguientes campos:
+Pilar software:
+-  Gestión de la complejidad: el centro tiene capacidades en el ámbito de la computación autónoma (self-*).
+-  Métodos y herramientas para la productividad: el centro tiene una larga trayectoria en herramientas de análisis de rendimiento. Aunque inicialmente esta investigación estaba muy orientada a plataformas paralelas, en la actualidad se ha diversificado a muchos ámbitos como por ejemplo, plataformas Java, servidores de aplicación, plataformas distribuidas, o Grids.
+Pilar servicios:
+- Negocio digital en red: el entorno de programación GRID superscalar, desarrollado en el BSC, implementa un mecanismo de soporte para la ejecución de aplicaciones en entornos Grid.
+- Integración de servicios: el centro tiene experiencia en el ámbito de la auto-optimización automática y en las propiedades self-* en general.
+- Servicios Grid e infrastructura: el centro tiene capacidades en la virtualización de recursos en red. Ejemplos de ello serían el entorno de programación GRID superscalar o un sistema de ficheros para Grid actualmente en desarrollo.
+- Calidad predecible y gestionada: las metodologías desarrolladas en el centro se basan en las propiedades self-* para garantizar el cumplimiento de SLA y QoS</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Barcelona</v:locality>
+            <v:postal-code>08034</v:postal-code>
+            <v:street-address>Jordi Girona, 31</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Barcelona Supercomputing Center - Centro Nacional de Supercomputación</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Barcelona Supercomputing Center - Centro Nacional de Supercomputación</v:organisation-name>
+            <v:organisation-unit>Centro Público de Investigación</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

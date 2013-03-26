@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/3055">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Valencia</v:locality>
+                    <v:postal-code>46018</v:postal-code>
+                    <v:street-address>Avda. del Cid, 35 Entlo</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>TABELA</ecos:name>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Desarrollo y comercializacion de software vertical. Proyectos software a medida en diversos sectores: Sanidad, Logistica y Produccion,Medioambiente, Retail, etc...&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Immer, wenn man denkt, es kann gar nicht mehr geiler werden, findet man einen TabelaTabelapromosyonbroşürel ilanıkartvizitkaşeplaketkatalogTabela Fiyatları şüphesiz dijital baskı çalışmalarının günümüzdeki rolü çok büyük firmaların tanıtımlarını en iyi şekilde tanıtımını yapabilmesi için mutlaka bir tabelacıya ihtiyaçları olacaktır. Tabela firmaların kurumsal kimliğini ortaya çıkarır ve bilinirliğiniz artar. Tabela Reklama yapılan yatırımın muhakkak ki siz müşterilerimize geri dönüşü olacaktır.Tabela yapımında dikkat edeceğiniz en önemli husus tabela fiyatıdır.Ucuz tabela ve kaliteli tabelaolması siz müşterilerimizi çok memnun edecektir. Kutu harf tabela adı üstünde Krom Harf Tabelaların üzerine yapılan reklam uygulamasıdır.ışıklı tabela bizim işimiz. cephe giydirmedenilince akla biz geliriz. cephe giydirmedenilince akla biz geliriz. zeytin yağıdenilince akla biz geliriz. src eğitimi    src eğitim</ecos:detail>
+            <ecos:detail>movies.ch/"&gt;Porno, der einem glatt das Gegenteil beweist. Obwohl ich schon richtig viele Pornofilme kenne und auch so Sachen wie richtig hartes Arschficken mit doppel anal und so, habe ich jetzt einen Porno gesehen, der zeigt, wie geil Frauen teilweise abgehen. Also nicht nur so ein wenig softer Sex und Erotik oder so, sondern richtig hartes rumgeficke mit einer Fickschlampe die wirklich alles mit macht. Wobei es jetzt nicht unbedingt das war, was man da zu sehen bekommt. Also anal und so, gibt es ja überall im Web und es gibt wohl kaum Sexseiten wo man den Sex von hinten nicht zu sehen bekommt. Ich rede von einem Porno, wo man selber mitspielen kann. Beim Gruppensex kann man sich filmen lassen und bekommt dann die Aufnahme mit nach Hause. Es handelt sich also nicht einfach nur um einen Amateurporno sondern um einen dieser Pornos, wo man selber die Hauptrolle spielt. Ich hab mich mit einer Gruppe behaarte Frauen beschäftigt, die so richtig geil beim Blasen abgingen. Sowas geiles habe ich echt noch nie erlebt. Gefunden hatte ich die Seite übrigens als ich im Web auf der Suche nach einen Flirt war - oder genauer gasagt, mir war nach einen super Seitensprung von dem meine Frau nichts wissen sollte. Ich habe also bei google ganze einfach ein paar passende Suchbegriffe eingeben und als ich Fickkontakte eingegeben habe, kam ich auf die entsprechende Webseite.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Las direcciones de las páginas web y las de correo se convierten en enlaces automáticamente.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Valencia</v:locality>
+            <v:postal-code>46018</v:postal-code>
+            <v:street-address>Avda. del Cid, 35 Entlo</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>TABELA</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>TABELA</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

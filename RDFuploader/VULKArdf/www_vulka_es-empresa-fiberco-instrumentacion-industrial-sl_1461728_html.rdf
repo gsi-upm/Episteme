@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/fiberco-instrumentacion-industrial-sl_1461728.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>Miguel Yuste 16 28037 Madrid (Madrid)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Fiberco Instrumentación Industrial SL</ecos:name>
+            <ecos:uri>http://www.fiberco.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>Expertos en Fibra Optica desde 1992</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Desde su creación en 1992 Fiberco ha desarrollado tres principales actividades en el campo de la Fibra Optica, siempre con los mayores estándares de calidad: &#13;  -Fabricación de latiguillos, pigtails y conectorizaciones en su propia cadena de montaje. Submontajes, soluciones a medida, reparaciones, análisis de problemas en laboratorio propio.&#13; - Distribución de productos complementarios a la fibra óptica, tanto activos como  pasivos, siempre dando el mejor soporte técnico y comercial posible.&#13;  - Trabajos de conectorización, análisis, reparación y certificación en campo, tanto dentro como fuera de España. Proporcionando siempre un servicio inmejorable y total fiabilidad en nuestros trabajos. Nuestra experiencia y flexibilidad son un gran valor añadido.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:street-address>Miguel Yuste 16 28037 Madrid (Madrid)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Fiberco Instrumentación Industrial SL</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/1461728_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Fiberco Instrumentación Industrial SL</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>+34913272645</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>+34913273083</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.fiberco.es</v:url>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>vulka</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>14</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

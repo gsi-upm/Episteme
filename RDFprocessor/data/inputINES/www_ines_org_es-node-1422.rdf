@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1422">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Barcelona</v:locality>
+                    <v:postal-code>08011</v:postal-code>
+                    <v:street-address>C. Comte Urgell 20, atc. 2ª</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>tioman &amp; partners, s.l.</ecos:name>
+            <ecos:uri>http://www.tioman-and-partners.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;tioman &amp;amp; partners es una PyME registrada en Barcelona con más de 20 años de experiencia internacional.&lt;br&gt;
+Nuestra misión y la cartera de servicios resultantes se orientan claramente al aumento de la calidad de vida de las personas y a la mejora de la atención y asistencia directa en Europa, promoviendo el empowerment y ofreciendo al sector asistencial (social y sanitario) soluciones personalizadas:&lt;br&gt;
+Gestión Asistencial: Promoviendo la autonomía y fomentando la prevención mejoraremos la calidad de vida. Para ello, asistimos a nuestros clientes en la planificación sistemática de la asistencia que ofrecen teniendo en cuenta los recursos propios, en relación con la necesidad de apoyo requerido. Tioman &amp;amp; partners tienen fuertes relaciones en el sector asistencial. Así, por ejemplo, antes del desarrollo de la llamada Ley de Dependencia, nuestro equipo ya ha participado en la definición del manual oficial de uso del Instrumento de Valoración de la Dependencia. También asistimos y formamos a diferentes autoridades autonómicas y locales durante la implementación de dicha Ley.&lt;br&gt;
+Gestión de Calidad: Desde tioman &amp;amp; partners, también promovemos la profesionalidad asistencial y la calidad en el cuidado ofreciendo apoyo ante los nuevos retos y desafíos, con un enfoque holístico y adaptado a las necesidades del cliente y de la sociedad. Las actividades de mejora de la calidad de vida se centran en el Cuidado Basado en la Evidencia (del inglés, Evidence-Based Care – EBC). El equipo de tioman &amp;amp; partners acompaña a sus clientes hasta donde la organización del cliente decida, ya sea en el análisis, la planificación, el diseño, la implementación o la acreditación/certificación.&lt;/p&gt;
+&lt;p&gt;Arquitectura, Ambiente &amp;amp; Asistencia: Los factores ambientales, debido a su presencia o su ausencia, se convierten en facilitadores o inhibidores del desarrollo personal, el bienestar y la satisfacción de las personas. Por ello, aplicamos el Diseño Basado en la Evidencia (del inglés, Evidence-Based Design – EBD) al diseño y desarrollo de servicios asistenciales y equipamientos.&lt;/p&gt;
+&lt;p&gt;Para más información, pueden visitar la página web de la empresa [www.tioman-and-partners.com].&lt;br&gt;
+Rol en el proyecto: En el marco de los proyectos de I+D+i, tioman &amp;amp; partners colabora con los otros partners haciendo de puente entre el sector de la investigación y desarrollo y el del sector asistencial, ofreciendo un gran conocimiento de dicho mercado y de los requerimientos y necesidades de los usuarios, además de estableciendo la posibilidad de validar en un entorno real el prototipo industrial desarrollado.&lt;br&gt;
+Por ello, tioman &amp;amp; partners gestionará y contribuirá transversalmente en las fases del mismo en los que los usuarios están directamente involucrados, como por ejemplo, el análisis y especificación de los requerimientos de usuario y de sistema, la validación funcional, así como la diseminación de los resultados.&lt;br&gt;
+Tópicos clave:&lt;br&gt;
+•	Sanidad y servicios sociales&lt;br&gt;
+•	Consultoría en la Gestión Asistencial &amp;amp; de Calidad&lt;br&gt;
+•	Envejecimiento&lt;br&gt;
+•	Servicios dirigidos a las personas mayores&lt;br&gt;
+•	Evaluación / Valoración&lt;br&gt;
+•	Requerimientos de usuario y validación&lt;br&gt;
+•	Calidad de vida&lt;br&gt;
+•	Empoderamiento y promoción de la autonomía&lt;br&gt;
+•	Innovación asistencial basada en la evidencia&lt;br&gt;
+•	Transferencia del conocimiento&lt;/p&gt;
+&lt;p&gt;Programas FP7:&lt;br&gt;
+•	FP7&lt;br&gt;
+•	FP7-HEALTH&lt;br&gt;
+•	FP7-ICT&lt;br&gt;
+•	FP7-IDEAS&lt;br&gt;
+•	FP7-PEOPLE&lt;/p&gt;
+&lt;p&gt;Áreas de actividad FP7:&lt;br&gt;
+•	FP7-HEALTH;HEALTH&lt;br&gt;
+•	FP7-ICT;ICT-2007.1.1&lt;br&gt;
+•	FP7-ICT;ICT-2007.2&lt;br&gt;
+•	FP7-ICT;ICT-2007.5&lt;br&gt;
+•	FP7-ICT;ICT-2007.6&lt;br&gt;
+•	FP7-ICT;ICT-2007.7&lt;br&gt;
+•	FP7-ICT;ICT-2007.8&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Ver desafíos I+D+i a nivel de departamento.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Ingeniero informático con conocimiento de primera mano del sector asistencial, social y sanitario.
+Personalmente conozco Atos Origin pues he trabajado 7 años en su oficina de Frankfurt como Especialista Senior de TIC. También he trabajado en entornos internacionales como la Agencia Espacial
+Europea y domino varios idiomas: Inglés, Francés y Alemán.
+Mi compañero Stephan Biel tiene más de 20 años de experiencia en el sector asistencial; es Diplomado en Enfermeriaa, Profesor de Enfermería y Gestor de Calidad.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Barcelona</v:locality>
+            <v:postal-code>08011</v:postal-code>
+            <v:street-address>C. Comte Urgell 20, atc. 2ª</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>tioman &amp; partners, s.l.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>tioman &amp; partners, s.l.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

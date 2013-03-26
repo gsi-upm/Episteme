@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/281">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Barcelona</v:locality>
+                    <v:postal-code>08036</v:postal-code>
+                    <v:street-address>av. Diagonal 463</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>TXT e-Solutions S.L.</ecos:name>
+            <ecos:uri>http://www.txtgroup.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;TXT e-Solutions S.L. is the Spanish branch of the TXTGroup.&lt;br&gt;
+TXT is a private, mid-sized software vendor and system integration company, with its headquarters in Milan and growing branch offices in Italy, France, Germany, Spain, UK, Netherlaands, and USA&lt;br&gt;
+TXT is a technology intensive Company, offering to its customers complete solutions, based upon kernel products, high-level competence on enabling, innovative IT and specific know-how in a number of application domains. It acts on the market through four business divisions:&lt;br&gt;
+o Industry &amp;amp; Retail Division, which, focusing on the manufacturing industry and supply chains automation, provides solutions in demand and assortment planning, retail management, production planning, product development, supply-chain planning and logistics for medium-to-large companies.&lt;br&gt;
+o Media &amp;amp; Telco Division, which provides services and solutions for the Media and the Telco industry. The platform TXTPolymedia® is currently Italy #1 solution in leading-edge media industries for Multimedia Content multi-channel acquisition and delivery.&lt;br&gt;
+o Aerospace &amp;amp; Defense Division, which focuses on real-time, safety-critical, embedded systems in domain such as avionics, defense, medical equipment, and utilities.&lt;br&gt;
+o Banking &amp;amp; Finance Division, which provides advanced solutions for the B&amp;amp;F sector, mainly in the field of home banking, knowledge management and corporate portals.&lt;br&gt;
+The CRS TXT Division (Corporate Research and Innovation) is in charge of medium-to-long term research activities&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>2. Collaborative &amp; Social Networks:
+ The methodologies and technologies behind the Collective Intelligence revolution, end-users participation-stimulation-rewarding, Last Mile, Living Labs</ecos:detail>
+            <ecos:detail>3. Manufacturing, Internet of Things, Privacy &amp; Security:
+ Filling the gap between Digital and Real World in the manufacturing-supply-distribution-consumption of Intelligent Products, identity &amp; privacy issues</ecos:detail>
+            <ecos:detail>4. Software &amp; Service Engineering:
+ Service Economy poses new challenges to Sw Industry for modernization, composition, non-functional properties, collaborative networks, OS communities</ecos:detail>
+            <ecos:detail>5. User Interaction &amp; Infomobility:
+ Mobile and Wireless Technologies for advanced multi-modal user interaction in cultural heritage, tourism, emergency-crisis management, transportation</ecos:detail>
+            <ecos:detail>6. Technologies for EU Societal Challenges:
+ Social Themes: Ageing, Car safety, Telemedicine, Energy, Environment</ecos:detail>
+            <ecos:detail>Six major challenging areas:
+1.Networked Enterprises:
+ The Enterprise viewpoint to the Future Internet: how to adopt and exploit new ICTs &amp; Business Models (IoS and SaaS, Web 2.0 and 3.0, Utility, Ecosystems)</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>The Corporate Research is in charge of medium-to-long term research activities and is / has recently been active in several collaboration and research projects at Regional, National and European level.
+This allowed to gather and develop deep competencies in the areas of interoperability technologies (enterprise modelling, business-process modelling), service-oriented architectures and technologies, Grid computing, supply-chain management, multi-media content management,  community-based technologies (Web2.0, open-source sw), semantic technologies, mobile technologies, collaborative woring environments, health-care management applications, environmental IT, eTourism</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Barcelona</v:locality>
+            <v:postal-code>08036</v:postal-code>
+            <v:street-address>av. Diagonal 463</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>TXT e-Solutions S.L.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>TXT e-Solutions S.L.</v:organisation-name>
+            <v:organisation-unit>Gran Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

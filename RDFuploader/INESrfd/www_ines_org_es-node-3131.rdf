@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/3131">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Vizcaya</v:locality>
+                    <v:postal-code>48950</v:postal-code>
+                    <v:street-address>C/ Ribera de Axpe, 11 D1 208</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Inkoa Sistemas</ecos:name>
+            <ecos:uri>www.inkoa.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Inkoa es una ingeniería especializada en el desarrollo de soluciones innovadoras, basadas en las Tecnologías Electrónicas, Informáticas y de las Comunicaciones, especializada en los sectores agroalimentario y medioambiental. Desde el inicio de su actividad, el desarrollo tecnológico de Inkoa se ha basado en la especialización y en el amplio conocimiento del sector agroalimentario y medioambiental y en una importante orientación a la innovación. Mediante implantaciones concretas de su tecnología inicial, Inkoa ha desarrollado tecnología propia de monitorización y control de procesos para una gama amplia de aplicaciones. En este marco, Inkoa desarrolla Proyectos de I+D+i, coordinando y participando en Programas Eureka e Iberoeka, Programa Marco de la UE, Programa LIFE/LIFE+, CIP, Proyectos Avanza… desarrollando nuevos productos y servicios que dan respuesta a las necesidades del mercado.&lt;br&gt;
+La compañía tiene una importante presencia internacional, con implantación de sus proyectos y tecnologías en más de 20 países y una presencia comercial mediante agentes de representación y sucursales en 10 países a nivel mundial.&lt;br&gt;
+Inkoa ofrece servicios a las entidades de los sectores alimentario y medioambiental en los siguientes ámbitos:&lt;br&gt;
+- Automatización y control de procesos&lt;br&gt;
+- Redes inalámbricas de sensores&lt;br&gt;
+- SaaS- Aplicaciones web para la gestión de trazabilidad y seguridad&lt;br&gt;
+- Sistemas embebidos y aplicaciones móviles&lt;br&gt;
+- Control remoto de procesos &lt;/p&gt;
+&lt;p&gt;Inkoa dispone de experiencia en la gestión de proyectos y de la I+D+i avalados por los sistemas de gestión implantados de acuerdo a las normas ISO 9001, ISO 14001, UNE 166002 (Gestión I+D+i) e ISO 20000 (Gestión de Servicios TI).&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>- Soluciones sectoriales innovadoras
+- SaaS- aplicaciones especificas gestión empresarial
+- Integración avanzada de sensores- Internet de las cosas</ecos:detail>
+            
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Vizcaya</v:locality>
+            <v:postal-code>48950</v:postal-code>
+            <v:street-address>C/ Ribera de Axpe, 11 D1 208</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Inkoa Sistemas</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/LOGO%20INKOA%20PRIMERA%20PAGINA.jpg?1302531805</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Inkoa Sistemas</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>6160</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/112">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Barcelona</v:locality>
+                    <v:postal-code>08034</v:postal-code>
+                    <v:street-address>Jordi Girona, 1-3</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Universitat Politècnica de Catalunya</ecos:name>
+            <ecos:uri>http://www.upc.edu/</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La Universidad Politécnica de Catalunya (UPC, &lt;a href="http://www.upc.edu" title="http://www.upc.edu"&gt;http://www.upc.edu&lt;/a&gt;), fundada en 1971, es una universidad pública especializada básicamente en los campos de la arquitectura e ingenierías, así como en las ciencias navales, organización de empresas, ciencias de la salud y matemática aplicada. Ofrece educación y formación de alta calidad a sus 30.000 estudiantes, preparándolos para su actividad futura con un enfoque industrial y receptivos a las tecnologías emergentes. Dispone de 16 centros docentes propios y de 7 asociados, con una oferta de mas de 30 titulaciones homologadas. Respecto a la investigación y la transferencia tecnológica la UPC se articula en 156 grupos de investigación y dispone de un alto y creciente número de centros de investigación específicos y de centros tecnológicos regionales que orientan su trabajo a las demandas de los actores sociales en áreas y líneas específicas.&lt;br&gt;
+La UPC es miembro de diversas redes de universidades tecnológicas, tales como CESAER (&lt;a href="http://www.cesaer.org/" title="http://www.cesaer.org/"&gt;http://www.cesaer.org/&lt;/a&gt;), CINDA (&lt;a href="http://www.cinda.cl/home.htm" title="http://www.cinda.cl/home.htm"&gt;http://www.cinda.cl/home.htm&lt;/a&gt;) o TIME (&lt;a href="https://www.time-association.org/" title="https://www.time-association.org/"&gt;https://www.time-association.org/&lt;/a&gt;). Destaca su pertenencia a las redes CLUSTER (&lt;a href="http://www.cluster.org/" title="http://www.cluster.org/"&gt;http://www.cluster.org/&lt;/a&gt;) y UNITECH (&lt;a href="http://www.unitechint.org/" title="http://www.unitechint.org/"&gt;http://www.unitechint.org/&lt;/a&gt;), a las que solo se accede por invitación, siendo en ambos casos el único miembro universitario español.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>El grupo participa, siguiendo esta línea de transferencia,  en dos propuestas PROFIT, una de ellas en el marco de un proyecto ITEA, relacionadas con las arquitecturas orientadas a servicios.</ecos:detail>
+            <ecos:detail>El principal desafío que afronta el grupo es la transferencia al ámbito industrial del software y los servicios (tal como se definen en los documentos tanto de INES como de NESSI) de los resultados consolidados que se han obtenido en sus líneas de investigación. Existe una convicción en el grupo: los resultados de la investigación en ingeniería de software han de ser validados mediante su experimentación industrial.</ecos:detail>
+            <ecos:detail>En concreto, se trata de resultados y experiencia en Ingeniería de Requisitos, soporte metodológico al proceso software (UML, Proceso Unificado, MDA), Selección e Implementación de componentes COTS (Commercial-Off-The-Shelf)  y, en concreto, selección e implantación de ERP’s, y uso de Modelos de Calidad. Y recientemente se ha agregado experiencia, con la incorporación de nuevos miembros, en e-learning y desarrollo para dispositivos móviles.</ecos:detail>
+            <ecos:detail>GESSI es uno de los grupos universitarios que ha participado en la preparación de uno de los proyectos vertebradores de INES, en concreto TESEO (pendiente de presentación a una segunda convocatoria). En ese proyecto, se ha planteado un paquete de trabajo, que lideraría GESSI, en el que se pretenden transferir al entorno industrial los resultados en procesos de adquisición e implantación de COTS que están siendo obtenidos en el proyecto de investigación denominado UPIC (MEC, programa de Tecnologías Informáticas, TIN2004-07461). GESSI participa además en otros paquetes de trabajo de TESEO.</ecos:detail>
+            <ecos:detail>GESSI también participa de forma regular en colaboraciones con empresas, que se han centrado recientemente en:
+-	ayuda a la selección de ERP’s en grandes organizaciones
+-	ayuda a la selección de herramientas CASE
+-	soporte y asesoría metodológica
+-	soporte a la gestión de riesgos
+-	ayuda a la preparación de propuestas para concursos públicos</ecos:detail>
+            <ecos:detail>Todo ello es la puesta en práctica de lo que entendemos es nuestro principal desafío: la modesta contribución de nuestro grupo para que la industria de nuestro país disponga de una ingeniería madura en la producción, adquisición e implantación de sistemas software.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Las competencias tecnológicas del grupo de investigación GESSI se sitúan, como se ha indicado anteriormente, en diversos ámbitos de la Ingeniería del Software, especialmente en: 
+-	adquisición e implementación de componentes COTS
+-	ingeniería de requisitos
+-	modelos de calidad para dominios software
+-	modelización de procesos de software y de negocio
+El grupo también trabaja en algunas clases específicas de componentes y paquetes de Sistemas de Información Empresariales (ERP’s, CRM’s, etc.), en librerías de contenedores, sistemas de e-learning y sistemas software para dispositivos móviles.
+La vinculación de esas competencias a la Agenda Estratégica de Investigación de INES se sitúa fundamentalmente en el denominado “Pilar Software”. Este “Pilar”, y previamente a los retos tecnológicos, define la línea de la industrialización de la producción de sofware: el grupo GESSI trabaja en concreto en sus tres primeros aspectos (ingeniería madura y predecible, producción con componentes en líneas de producto y trazabilidad de requisitos y garantía de calidad).
+En cuanto a los retos tecnológicos del “Pilar Software”, GESSI puede aportar sus competencias en:
+-	Gestión de la complejidad. GESSI ha trabajado en diversos temas de la Ingeniería de Requisitos y muy especialmente en Requisitos No Funcionales. Tambien dispone de experiencia en lenguajes de modelado, arquitectura y patrones y MDA
+-	Métodos y herramientas para la productividad. Además de sus trabajos de investigación y docencia, GESSI ha trabajado asesorando a empresas en los aspectos metodológicos de proyectos concretos (definición de procesos, modelización, proceso unificado, gestión de riesgos) incluidas las prácticas ágiles. También está transfiriendo sus resultados consolidados de investigación en COTS a las Líneas de Producto (sobre las que GESSI co-organiza un workshop en la conferencia SPLC 2006 en Baltimore, ver http://www.sei.cmu.edu/splc2006/aple_workshop.html)
+Si bien las actividades de GESSI se centran en el “Pilar Software” hay algún aspecto del “Pilar Servicios” en que el grupo puede realizar aportaciones. En concreto, un trabajo del grupo se centra en las ontologías para la estructuración del mercado de los COTS (resultado adaptable al mercado de servicios). Asimismo el grupo participa en el programa PROFIT (convocatoria actualcentrando su aportación en las Arquitecturas orientadas a servicios.
+Finalmente, en cuanto al factor clave “Calidad predecible y gestionada”, GESSI puede aportar su experiencia en modelos de calidad para dominios (calidad del producto). Además, su trabajo en calidad en el ámbito COTS es exportable al ámbito servicios, y también dispone de experiencia investigadora y docente en calidad de procesos y modelos de madurez.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Barcelona</v:locality>
+            <v:postal-code>08034</v:postal-code>
+            <v:street-address>Jordi Girona, 1-3</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Universitat Politècnica de Catalunya</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/LogoUPC.gif?1276853228</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Universitat Politècnica de Catalunya</v:organisation-name>
+            <v:organisation-unit>Universidad</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

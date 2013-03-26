@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1278">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Segovia</v:locality>
+                    <v:postal-code>40002</v:postal-code>
+                    <v:street-address>C/ José Zorrilla 30</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>playence Spain SL</ecos:name>
+            <ecos:uri>http://www.playence.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;playence (&lt;a href="http://www.playence.com" title="http://www.playence.com"&gt;http://www.playence.com&lt;/a&gt; ) es una empresa altamente innovadora y pionera en la anotación semántica de contenidos multimedia de usuario, tanto vídeos como fotos, disponibles en la Web. playence tiene como objetivo convertirse en el referente europeo y mundial en la anotación de dichos contenidos. Para ello, utilizamos elaboradas técnicas de crowdsourcing, tales como “Mechanical Turk” o juegos casuales, disponibles a través de redes sociales de referencia, plataformas móviles como el iPhone o Google Android, o portales de juegos online. playence esconde aquellas tareas que no pueden ser ejecutadas por los programas software, tales como identificar objetos heterogéneos dentro de un video o la localización de una escena, tras elaboradas técnicas de crowdsourcing, como juegos online, que ofrecen no solo entretenimiento, sino también, recompensas en forma de premios a los participantes. Gracias a estas anotaciones de contenidos multimedia, playence se situará en una posición privilegiada para obtener jugosos beneficios en el campo del Multimedia Search Engine Marketing (SEM), -anuncios contextuales -, para contenidos multimedia disponibles en la Web.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Análisis automático de video y audio para la extracción inteligente de información</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>-</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Segovia</v:locality>
+            <v:postal-code>40002</v:postal-code>
+            <v:street-address>C/ José Zorrilla 30</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>playence Spain SL</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>playence Spain SL</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

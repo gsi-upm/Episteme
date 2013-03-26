@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1423">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Valladolid</v:locality>
+                    <v:postal-code>47010</v:postal-code>
+                    <v:street-address>Calle Valle de Arín,0 nivel 2, múdulo 21</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Tolten Gestión de Proyectos</ecos:name>
+            <ecos:uri>http://www.tolten.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;- Gestión de proyectos I+D+i para empresas Pyme que no tienen departamento de I+D+i, pero sin embargo sí realizan actividades de investigación y desarrollo.&lt;br&gt;
+- Identificación, vigilancia y comunicación de financiación pública adaptada a la realidad de su empresa&lt;br&gt;
+- Caracterización e identificación de las posibles áreas de ayuda de interés para su empresa en el ámbito local, autonómico, nacional y europeo&lt;br&gt;
+- Detección de las oportunidades de financiación pública en las áreas de interés determinadas&lt;br&gt;
+- Vigilancia y comunicación de las oportunidades detectadas sobre subvenciones no vigentes en la actualidad pero interesantes para acudir en próximas convocatorias&lt;br&gt;
+-Promoción de la participación de su empresa en proyectos en cooperación con otras empresas en los ámbitos nacional y europeo&lt;br&gt;
+-Facilitamos la participación de la empresa en proyectos destinados a colectivos, tanto como promotora para la comercialización de sus productos o servicios&lt;br&gt;
+-Difusión y formación en materia de I+D+I y sociedad de la información&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>los desafíos están orientados al desarrollo de las tecnologías de la movilidad, el desarrollo de software avanzado de prevención tanto en áreas médicas,
+como ambientales, como sociales.
+Adaptación de sistemas RFID a servicios sociales.
+Desarrollo de plataformas inteligentes</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Valladolid</v:locality>
+            <v:postal-code>47010</v:postal-code>
+            <v:street-address>Calle Valle de Arín,0 nivel 2, múdulo 21</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Tolten Gestión de Proyectos</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Tolten Gestión de Proyectos</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>14</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

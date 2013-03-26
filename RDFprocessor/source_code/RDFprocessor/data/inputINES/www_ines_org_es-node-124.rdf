@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/124">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28933</v:postal-code>
+                    <v:street-address>c/ Tulipan s/n, Móstoles</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Universidad Rey Juan Carlos</ecos:name>
+            <ecos:uri>http://www.urjc.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Educación superior e investigación&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Trasladar modelos  y prácticas habituales en la comunidad del software libre a otros entornos de desarrollo. Comprender el desarrollo de software libre, y predecir el desarrollo futuro de proyectos dados suficientes datos cuantitativos sobre su pasado. Aplicar estos conocimientos a la mejora de la colaboración entre desarrolladores y empresas en las comunidades de desarrollo de software libre.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Conocimiento de los modelos de desarrollo de software libre, y sus relaciones con las comunidades de software libre y las empresas y desarrolladores relacionadas con ese entorno. Experiencia en desarrollo en el ámbito de ciertas tecnologías implementadas fundamentalmente son software libre. Experiencia en estudio cuantitativo de proyectos de desarrollo de software en general.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28933</v:postal-code>
+            <v:street-address>c/ Tulipan s/n, Móstoles</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Universidad Rey Juan Carlos</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/urjc_logo1.jpg?1278404398</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Universidad Rey Juan Carlos</v:organisation-name>
+            <v:organisation-unit>Universidad</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

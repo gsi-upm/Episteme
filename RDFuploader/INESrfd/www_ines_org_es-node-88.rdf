@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/88">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Alicante</v:locality>
+                    <v:postal-code>03700</v:postal-code>
+                    <v:street-address>Pda. Madriguereas Sur, 44; P.I. Juyarco</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Computer Aided Requirements Engineering Technologies S.A.</ecos:name>
+            <ecos:uri>www.care-t.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Empresa dedicada a linvestigación y desarrollo en tecnologías de Ingeniería de Requisitos, Ingeniería del Software y desarrollo de herramientas MDA para compilación de modelos conceptuales.Investigación de interacción hombre-máquina, procesos software y métricas del software.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Superar el proceso artesanal de producción del Software con procesos de tipo industrial.\r\nRedefinir este proceso, nuevas métricas de calidad y cantidadNuevas formas de interactuación hombre-máquina (HCI) aplicando técnicas de definición abstracta y modelos gráficos de diseñoMuchos más.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Alicante</v:locality>
+            <v:postal-code>03700</v:postal-code>
+            <v:street-address>Pda. Madriguereas Sur, 44; P.I. Juyarco</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Computer Aided Requirements Engineering Technologies S.A.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Computer Aided Requirements Engineering Technologies S.A.</v:organisation-name>
+            <v:organisation-unit>Centro Privado de Investigación</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>8</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

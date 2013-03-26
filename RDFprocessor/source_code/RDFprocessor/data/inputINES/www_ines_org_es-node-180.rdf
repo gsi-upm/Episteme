@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/180">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Sevilla</v:locality>
+                    <v:postal-code>41092</v:postal-code>
+                    <v:street-address>C/ Isaac Newton, 6, Edificio Sadiel</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Sadiel</ecos:name>
+            <ecos:uri>www.sadiel.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Sadiel es una consultora TIC cuyas principales líneas de actividad son:&lt;br&gt;
+- Consultoría e Ingeniería&lt;br&gt;
+- Outsourcing&lt;br&gt;
+- Diseño y Desarrollo de Sistemas de Información&lt;br&gt;
+- Integración de Soluciones&lt;br&gt;
+- Sistemas Gráficos&lt;br&gt;
+- Internet&lt;br&gt;
+- Distribución de Infraestructuras Hw-Sw&lt;br&gt;
+Los principales sectores de negocio en los que Sadiel desarrolla sus proyectos son:&lt;br&gt;
+- Administración Pública&lt;br&gt;
+- Utilities&lt;br&gt;
+- Industrias y Servicios&lt;br&gt;
+- Mercados Financieros&lt;br&gt;
+- Infraestructuras&lt;br&gt;
+Para Sadiel, la Innovación constituye uno de los pilares básicos para la sostenibilidad y generación de nuevos negocios en un entorno competitivo y de cambio permanente. A través de la innovación en el ámbito de las Tecnologías de la Información y las Comunicaciones, nuevas ideas pueden llegar al mercado en forma de productos y servicios para aportar un mayor valor y contribuir al desarrollo de la Sociedad de la Información.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Productos y servicios en el ámbito de las TIC</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Ingeniería de requisitos, modelado de software, gestión de ciclo de vida software, ingeniería de servicios, accesibilidad, modelado de procesos de negocio, integración de procesos de negocio, orquestación, tecnologías web, SOA, enterprise grid, interoperabilidad, calidad del software, servicios y procesos, seguridad.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Sevilla</v:locality>
+            <v:postal-code>41092</v:postal-code>
+            <v:street-address>C/ Isaac Newton, 6, Edificio Sadiel</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Sadiel</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/Logo%20Sadiel.jpg?1333376271</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Sadiel</v:organisation-name>
+            <v:organisation-unit>Gran Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

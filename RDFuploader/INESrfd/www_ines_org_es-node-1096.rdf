@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1096">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Islas Baleares</v:locality>
+                    <v:postal-code>07121</v:postal-code>
+                    <v:street-address>Islas Baleares</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>outdoor business experiences s.l</ecos:name>
+            <ecos:uri>www.obex.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;OBEX ve el turismo como una actividad de ocio interactiva que se desarrollará, promoverá y consumirá de forma cada vez más directa y personalizada gracias al uso de la tecnología.&lt;br&gt;
+Freevel.com es una transgresora apuesta comercial turística y de ocio que gracias a la innovación tecnológica invierte el proceso de creación, organización y comercialización de producto turístico, quedando tanto el proceso como el resultado en manos de la comunidad de turistas. De ahí nuestro lema:&lt;br&gt;
+Free traveling for improving tourism&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Desarrollo de patentes y sistemas tecnológicos vinculados a las redes sociales.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Islas Baleares</v:locality>
+            <v:postal-code>07121</v:postal-code>
+            <v:street-address>Islas Baleares</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>outdoor business experiences s.l</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>outdoor business experiences s.l</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>19</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

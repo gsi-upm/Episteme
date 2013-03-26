@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/96">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>La Coruña</v:locality>
+                    <v:postal-code>15180</v:postal-code>
+                    <v:street-address>C/A MARISQUEIRA, EDIF. ITC, POL. IND. A MARISQUEIRA</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>VALEDEME, S.L.</ecos:name>
+            <ecos:uri>http://www.satdata.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Diseño y desarrollo de solución de transmisión de información en movilidad y en remoto. Principalmente hemos desarrollado y desarrollamos soluciones de localización y gestión de flotas de vehículos y recursos móviles y tenemos soluciones adaptadas a las características concretas de cada segmento de clientes. Así tenemos soluciones para gran empresa y para pequeña empresa, para empresa de transportes y para flotas comerciales.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Sus desafios: 1.-Mantener una línea de I+D+i coherente con la actividad de la empresa y enfocada permanentemente a la satisfacción de las necesidades de nuestros clientes potenciales y actuales.
+2.-Trabajar e investigar sobre las nuevas tecnologías que van apareciendo en el escenario TIC.
+3.-Procedimientar y estandarizar el modelo de trabajo de I+D+i minimizando los efectos de la aleatoriedad logrando una verdadera industria de desarrollo de software</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>La Coruña</v:locality>
+            <v:postal-code>15180</v:postal-code>
+            <v:street-address>C/A MARISQUEIRA, EDIF. ITC, POL. IND. A MARISQUEIRA</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>VALEDEME, S.L.</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/LOGO%20SATDATA.jpg?1299837681</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>VALEDEME, S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>81</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/121">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Pontevedra</v:locality>
+                    <v:postal-code>36318</v:postal-code>
+                    <v:street-address>Carretera de Madrid 210, Local H</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>PENTARED S.L.</ecos:name>
+            <ecos:uri>http://www.pentared.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Pentared S.L. es una empresa vinculada con el mundo de la informática y las telecomunicaciones con una amplia experiencia acreditada por los 10 años de actividad profesional prestando servicio a nuestros clientes, con una estructura de personal altamente cualificado que trabajan dando cobertura a las demandas que nuestros clientes realizan a los diferentes departamentos que constituyen nuestra empresa.&lt;br&gt;
+En lo que se refiere al desarrollo e integración de soluciones innovadoras y proyectos de I+D+i,  en los últimos años, y con el objetivo en mente de estar siempre a la vanguardia tecnológica con el análisis e incorporación de nuevas soluciones se ha constituido un área específico de I+D que implica a diversos departamentos y a profesionales de formaciones muy diversas con un objetivo fundamental: la implementación de estrategias que permitan el incremento de los procesos de innovación tecnológica mediante la investigación, desarrollo y promoción de novedosas soluciones técnicas que permitan un incremento en los niveles de adaptación TIC, así como un fomento de la cultura científica-tecnológica.&lt;br&gt;
+Estos procesos de innovación se aplican tanto a producto como a procesos. Ambas son desarrolladas a partir de conocimiento adquirido y la identificación de problemas sectoriales y tienen, en general, un carácter incremental.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>- Posicionamiento sectorial de Pentared en un mercado cada vez más globalizado.
+- Reducción de la brecha tecnológica entre estado del arte y el estado de la práctica.
+- Retorno de las inversiones realizadas mediante diversas fórmulas (y no las meramente económicas) como la transferencia de conocimiento con comunidades mediante sistemas de Código Libre.
+- Ahorro de tiempo, entendiento por tal en no aplicar recursos en actuaciones que ya poseen lineas pragmáticas de ejecución, apostando caramente por la innovación como mecanismo de crecimiento.</ecos:detail>
+            <ecos:detail>Desde Pentared S.L entendemos las Gestión de la Innovación a través del I+D+i, como la capacidadz de reunir, organizar y optimizar de una forma racional, eficaz (actualización de los conocimientos cientificos y técnicos para mejorar la rentabilidad de las innovaciones) y eficiente (principio de productividad técnica y económica) los recursos disponibles con miras a busacr nuevas fuentes de ventaja competitiva, además un aportar un incremento en los niveles de adaptación TIC al tejido empresarial, así como un fomento de la cultura cientifica-tecnológica.</ecos:detail>
+            <ecos:detail>Desde un unto de vista practico nuestros desafíos en I+D van en la líneas indicadas anteriormente.</ecos:detail>
+            <ecos:detail>Por todo ello, a la hora de aplicar nuevos desafíos y proyectos de I+D+i, tenemos siempre presente que los mismos deben de reunir "a priori" algunos requisitos primordiales, como son:</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Tal y como indicamos anteriormente, en los últimos cinco años y con la finalidad apostar por la vanguardia tecnológica con el análisis e incorporación de nuevas soluciones, en Pentared venimos desarrollando diversos programas de I+D+i orientados claramente hacia dos vertientes pragmáticas muy interrelacionadas entre sí:
+1.- Desarrollo de ontologías en sectores verticales, entendiendo por tal la formulación exhaustiva y rigurosa de esquemas conceptuales y modelos de gestión de negocio mediante el diseño y desarrollo de diversos prototipos y/o soluciones específica para la resolución de los problemas sectoriales.
+2.- Desarrollo de métodos y herramientas orientadas a la potenciación de las arquitecturas IWeb como soluciones ágiles para la implementación rápida de soluciones corporativas, con gran flexibilidad tanto en las condiciones ambientales (concetividad) como en la semántica de las interfaces.
+Estos procesos de innovación se aplican tanto a producto como a procesos, y se han materializado en un conjunto de proyectos que han contado con el apoyo de la Xunta de Galicia además de la incorporación de tecnólogos a través del programa Torres Quevedo.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Pontevedra</v:locality>
+            <v:postal-code>36318</v:postal-code>
+            <v:street-address>Carretera de Madrid 210, Local H</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>PENTARED S.L.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>PENTARED S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/content/ammi-technologies-sl">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Orense</v:locality>
+                    <v:postal-code>32901</v:postal-code>
+                    <v:street-address>Poligono San Ciprián de Viñas c/Ricardo Martín Esperanza Calle 1 (Anexo Tecnopole)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>AMMI TECHNOLOGIES S.L.</ecos:name>
+            <ecos:uri>http://www.ammitechnologies.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;AMMI TECHNOLOGIES es una empresa joven y dinámica que ofrece múltiples servicios de tecnología, desde el montaje de placas electrónicas y de equipos completos hasta el diseño, desarrollo e implantación de proyectos de base tecnológica.&lt;br&gt;
+Desde sus inicios en el montaje de placas electrónicas, poco a poco reafirmando sus logros, avanza hacia la consolidación de un equipo de I+D que le permite posicionarse en el mapa tecnológico mundial.&lt;/p&gt;
+&lt;p&gt;AMMI Technologies  proporciona Productos y Servicios de tecnología profesional , Subcontratación o Desarrollo.&lt;br&gt;
+ Hardware y Software.&lt;br&gt;
+ Montaje de Placas Electrónicas.&lt;br&gt;
+ Montaje de Equipos Electrónicos, Eléctricos y Mecánicos completos.&lt;br&gt;
+ Diseño, desarrollo e implantación de proyectos de base tecnológica.&lt;br&gt;
+ Compra y logística de los componentes electrónicos, eléctricos y mecánicos.&lt;/p&gt;
+&lt;p&gt;Los principales Valores en los que se fundamenta el equipo son:&lt;br&gt;
+Seriedad&lt;br&gt;
+Confidencialidad&lt;br&gt;
+Transparencia&lt;br&gt;
+Cooperación&lt;br&gt;
+Coordinación&lt;br&gt;
+Colaboración&lt;br&gt;
+Comunicación&lt;br&gt;
+Flexibilidad&lt;/p&gt;
+&lt;p&gt;AMMi Technologies tiene un Compromiso especial con:&lt;br&gt;
+Medio Ambiente&lt;br&gt;
+Responsabilidad Social&lt;br&gt;
+I+D+i&lt;/p&gt;
+&lt;p&gt;En AMMi Technologies buscamo proporcionar un servicio eficiente a la medida de las necesidades y objetivos del cliente.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>La creación del Departamento de I+D+i dentro de la empresa es reciente. Con ella, se pretende abordar y fortalecer todas las actividades de desarrollo de hardware/software, la colaboración entre empresas y demás agentes tecnológicos y conseguir un sistema de vigilancia tecnológica que nos permita actualizar diariamente cualquier avance tecnológico relacionado con las actividades a desarrollar.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Orense</v:locality>
+            <v:postal-code>32901</v:postal-code>
+            <v:street-address>Poligono San Ciprián de Viñas c/Ricardo Martín Esperanza Calle 1 (Anexo Tecnopole)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>AMMI TECHNOLOGIES S.L.</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/logoammi.JPG?1327411681</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>AMMI TECHNOLOGIES S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>19</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

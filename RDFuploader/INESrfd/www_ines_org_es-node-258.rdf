@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/258">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Huelva</v:locality>
+                    <v:postal-code>21071</v:postal-code>
+                    <v:street-address>Dr. Cantero Cuadrado, 6</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Universidad de Huelva</ecos:name>
+            <ecos:uri>http://www.uhu.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Las propias de una Universidad&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>El gran valor de la Web reside en que es el mayor repositorio de conocimiento disponible en
+un formato pensado para personas y accesible a través de mecanismos de interacción
+amigables. Evidentemente, esa ventaja se torna en inconveniente si la información que ofrece
+un sitio web es útil en algún proceso de negocio automatizado, pues entonces es necesario
+que los agentes software del proceso sean capaces de localizar la información que necesitan
+usando mecanismos de interacción y formatos que no han sido diseñados para ese objetivo.
+Esto es sin duda un problema añadido y justifica que muchos autores hagan referencia a los
+sitios web pensados para personas como islas de datos amigables en la Web.</ecos:detail>
+            
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Huelva</v:locality>
+            <v:postal-code>21071</v:postal-code>
+            <v:street-address>Dr. Cantero Cuadrado, 6</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Universidad de Huelva</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/logo_uhu.png?1278403472</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Universidad de Huelva</v:organisation-name>
+            <v:organisation-unit>Universidad</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>265000</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/3100">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Valencia</v:locality>
+                    <v:postal-code>E-46022</v:postal-code>
+                    <v:street-address>UNIVERSIDAD POLITÉCNICA DE VALENCIA - EDIFICIO 9C. CAMINO DE VERA S/N.</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>INSTITUTO DE BIOMECÁNICA DE VALENCIA</ecos:name>
+            <ecos:uri>http://www.ibv.org</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;El Instituto de Biomecánica de Valencia (IBV) es un centro tecnológico que estudia el comportamiento del cuerpo humano y su relación con los productos, entornos y servicios que utilizan las personas. Fundado en 1976, el IBV es un centro concertado entre el Instituto de la Mediana y Pequeña Industria Valenciana (IMPIVA) y la Universitat Politècnica de València (UPV).&lt;/p&gt;
+&lt;p&gt;El IBV combina conocimientos provenientes de la biomecánica y la ergonomía o la ingeniería emocional y los aplica a muy diversos ámbitos con el objetivo de mejorar la competitividad del tejido empresarial a través del bienestar y la calidad de vida de las personas. Los ámbitos de actividad del IBV son: 1) Automoción y Medios de Transporte, 2) Deporte, 3) Hábitat, 4) Indumentaria, 5) Personas Mayores y Atención a la Dependencia, 6) Rehabilitación y Autonomía Personal, 7) Salud Laboral, 8) Tecnología Sanitaria y 9) Turismo y Ocio.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Diseño, desarrollo y evaluación de productos, servicios y entornos orientados por las personas.
+Calidad percibida.
+Nuevas percepciones, sensaciones y experiencias basadas en Ingeniería Emocional.
+Metodologías de asesoramiento virtual inteligente para la recomendación personalizada de recursos.
+Living Lab y Experience Lab.
+Ergonomía, usabilidad y accesibilidad de productos, servicios y entornos.
+Diseño de productos y servicios basados en personas mayores.
+Comunicación orientada a las personas.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>El Instituto de Biomecánica de Valencia (IBV) ofrece una completa gama de servicios y productos a las empresas que eligen diferenciarse en los mercados de mayor interés comercial, incorporando valores que son el resultado de practicar un modo de vida avanzado, sostenible y racional. Las competencias del IBV se concretan en:
+SERVICIOS
+Proyectos singulares: I+D bajo contrato, Asesoramiento tecnológico.
+Servicios tecnológicos: Inspección y ensayos, Valoración biomecánica, Diseño orientado por las personas, Formación.
+PRODUCTOS
+Aplicaciones biomecánicas
+Aplicaciones TIC
+Publicaciones
+INICIATIVAS EMPRESARIALES INNOVADORAS
+Negocios intensivos en conocimiento
+Empresas de base tecnológica</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Valencia</v:locality>
+            <v:postal-code>E-46022</v:postal-code>
+            <v:street-address>UNIVERSIDAD POLITÉCNICA DE VALENCIA - EDIFICIO 9C. CAMINO DE VERA S/N.</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>INSTITUTO DE BIOMECÁNICA DE VALENCIA</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/IBV_3_cp_th.jpg?1297093103</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>INSTITUTO DE BIOMECÁNICA DE VALENCIA</v:organisation-name>
+            <v:organisation-unit>Centro Tecnológico</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

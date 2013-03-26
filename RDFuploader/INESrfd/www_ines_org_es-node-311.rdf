@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/311">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Zaragoza</v:locality>
+                    <v:postal-code>50197</v:postal-code>
+                    <v:street-address>RONDA DEL CANAL IMPERIAL DE ARAGON</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>TB-SOLUTIONS ADVANCED TECHNOLOGIES, S.L.</ecos:name>
+            <ecos:uri>http://www.tb-solutions.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;TB-Solutions líder en innovación y soluciones electrónicas.TB·Solutions, con más de 18 años de experiencia y 100% de capital privado español, es una compañía especializada en el desarrollo de productos, soluciones y servicios de software y seguridad en el entorno de las Nuevas Tecnologías de la Información.&lt;/p&gt;
+&lt;p&gt;El éxito de nuestra compañía se basa en una filosofía de trabajo en equipo, donde prima la dedicación, calidad y cumplimiento de los compromisos que asumimos con nuestros clientes, que nos acompañan en el liderazgo hacia la innovación tecnológica:&lt;/p&gt;
+&lt;p&gt;Estamos involucrados en más de 20 proyectos colaborativos nacionales e internacionales, dentro de los programas PROFIT, CDTI o Programas Marco de la Unión Europea, que representan una fuente constante de investigación y conocimiento para nuestra organización. &lt;/p&gt;
+&lt;p&gt;A éstos hay que añadir alianzas tecnológicas con fabricantes, que se concretan en las certificaciones de calidad obtenidas por nuestros ingenieros, así como las alianzas estratégicas con las principales multinacionales del sector, que integran nuestros productos en sus soluciones globales. &lt;/p&gt;
+&lt;p&gt;Contamos con los sellos de calidad de mayor prestigio en el mercado y estamos trabajando en estrechísima colaboración con numerosas universidades nacionales e internacionales. &lt;/p&gt;
+&lt;p&gt;Un gran equipo para que nuestros clientes, hoy nuestros socios tecnológicos, encuentren en TB•Solutions la empresa de su confianza en proyectos de innovación tecnológica.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Ser punto de lanza para el Grupo TBS creando e innovando nuevos productos y servicios para nuestros clientes</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Zaragoza</v:locality>
+            <v:postal-code>50197</v:postal-code>
+            <v:street-address>RONDA DEL CANAL IMPERIAL DE ARAGON</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>TB-SOLUTIONS ADVANCED TECHNOLOGIES, S.L.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>TB-SOLUTIONS ADVANCED TECHNOLOGIES, S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>157</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

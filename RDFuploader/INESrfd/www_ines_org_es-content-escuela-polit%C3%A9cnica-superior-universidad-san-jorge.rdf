@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/content/escuela-polit%C3%A9cnica-superior-universidad-san-jorge">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Zaragoza</v:locality>
+                    <v:postal-code>50830</v:postal-code>
+                    <v:street-address>Campus Universitario Villanueva de Gállego  Autov. A-23 Zaragoza - Huesca, Km. 299  50830 Villanueva de Gállego,</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Escuela Politécnica Superior. Universidad San Jorge</ecos:name>
+            <ecos:uri>www.usj.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La Universidad San Jorge es una institución sin ánimo de lucro, promovida por la Fundación San Valero, con el apoyo de la sociedad aragonesa y fundamentada en el Humanismo Cristiano. Su misión es servir a la sociedad creando y transmitiendo conocimiento y contribuyendo en la formación de personas íntegras y buenos profesionales.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Las ciencias de la computación y la ingeniería de hoy están impulsadas por el cambio tecnológico, el progreso y el crecimiento cuantitativo de la tecnología de la comunicación, los sistemas micro-electro-mecánicos y ciencias de la nanotecnología de los materiales. La penetración de las redes globales, la creciente disponibilidad de la tecnología inalámbrica de la comunicación y la evolución hacia la ubicuidad de la telefonía móvil. Esto plantea serios desafíos para las arquitecturas conceptuales de la informática, y las disciplinas relacionadas con la ingeniería. El grupo de investigación trata de estudiar métodos y desarrollar sistemas adaptativos a las necesidades del usuario en su actividad cotidiana, en todo momento y lugar y de forma que su funcionalidad pase lo más inadvertido posible salvo en la interacción mínima del usuario. Sus resultados se manifiestan por una parte en productos relacionados con el Internet de las Cosas, NFC y la realidad aumentada; por otra, la ingeniería de sistemas aplicada a sistemas complejos o no completamente definidos; así como  en sistemas de control empotrados modulados en forma de multi-agentes  para la gestión de energías renovables.
+En el grupo de investigación: CPC (Computación Pervasiva Compleja) seguimos estas líneas:
+- Línea 1.  Esta línea de investigación se enmarca en el ámbito de los  sistemas pervasivos. Los sistemas pervasivos implican computación que puede darse en cualquier lugar o en cualquier momento en nuestro entorno, proporcionan servicios a los habitantes de una casa, a los trabajadores de una oficina o a los conductores de un coche. Tanto a nivel académico como en el ámbito de la industria se está haciendo un gran esfuerzo de investigación para alcanzar esta visión.
+- Línea 2. En la línea de investigación de Sistemas complejos, se trata de aplicar  los fundamentos ciencias matemáticas y físicas para  el identificación, análisis y modelización de sistemas tanto naturales como los resultantes de diseño. Aunque el concepto de sistemas complejos es amplio, la línea de investigación propuesta establece prioritariamente su enfoque en los Sistemas Complejos de Ingeniería, formulada dentro de una categorización del problema, en cuanto a dificultades de definición o planteamiento. Como los considerados como caja gris por conocimiento parcial de su comportamiento o las reglas físicas que lo rigen; o los considerados caja negra por el desconocimiento total de las características internas del sistemas. Sólo pueden definirse en una conformidad parcial y estocásticamente sólo pueden cuantificarse  factores influyentes en la entrada del sistema, así como valores de señales medidas a la salida. Se trata de realizar el análisis con el único conocimiento del  interface del sistema con el universo. La línea de investigación trata de seguir metodología de sistemas dinámicos, mediante procesos iterativos de análisis de sistemas, donde necesariamente se aplicarán métodos matemáticos de sistemas  no lineales.  Comenzando por la identificación del sistema,  se trata de llegar a la clasificación conceptual de  su comportamiento para la reproducción o modelado del mismo. Su aplicación sería bien acogida en campos de sistemas de control complejos que, de otra forma hubieran sido costosos en tiempo e inversión financiera. Los resultados serían la optimización del sistema, la gestión y control, así como  la predicción de su evolución.
+- Línea 3. Sistemas de optimización de la gestión de la energía. Últimamente, la incorporación de las energías renovables está cambiando el concepto y maneras del servicio de fluido eléctrico, con una tendencia a la descentralización en la generación y distribución. La integración de las renovables al sistema suscita cambios en el modo de  producción, que debe ser controlada y dependiente de una demanda, que, recíprocamente, sabe adaptar sus requerimientos a la oferta de energía disponible sin renunciar a la fiabilidad y calidad de servicio. Realizar todo este proceso de forma automática, buscando equilibrio y optimizando ciertos parámetros, implica necesariamente el desarrollo de un sistema informático que le da el carácter de “inteligente” a la red, de ahí su denominación “smart-grid” (micro-red inteligentes, o bien “micro-grid”). La orientación de la Línea es definir, diseñar, desarrollar e implementar sistemas de control inteligentes basados en computación distribuida,  que deciden en tiempo real la distribución óptima de energía renovable producida, teniendo en cuenta la demanda de un  área de consumo concreta.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Zaragoza</v:locality>
+            <v:postal-code>50830</v:postal-code>
+            <v:street-address>Campus Universitario Villanueva de Gállego  Autov. A-23 Zaragoza - Huesca, Km. 299  50830 Villanueva de Gállego,</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Escuela Politécnica Superior. Universidad San Jorge</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Escuela Politécnica Superior. Universidad San Jorge</v:organisation-name>
+            <v:organisation-unit>Universidad</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>13</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/187">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Valladolid</v:locality>
+                    <v:postal-code>47151</v:postal-code>
+                    <v:street-address>Parque Tecnológico de Boecillo, Edificio Galileo, Módulo Amarillo, Oficina 103-B</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>AETICAL</ecos:name>
+            <ecos:uri>www.aetical.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;AETICAL es una Federación Sectorial sin ánimo de lucro de empresas del sector de las Tecnologías de la Información, Comunicaciones y Electrónica de Castilla y León. La misión de la Federación es la de constituirse como entidad dinamizadora orientada a mejorar la competitividad y asegurar un crecimiento sostenible de las empresas TIC de nuestra comunidad. Entre sus objetivos se encuentran los de contribuir a resolver los problemas del sector en Castilla y León, potenciando la colaboración de las empresas y generando más valor añadido a las soluciones que ofrecen individualmente sus asociados.&lt;/p&gt;
+&lt;p&gt;Sus actividades son la promoción de la actividad comercial de las empresas del sector, la promoción de la investigación, el desarrollo y la innovación técnica, la formación especializada, y la tutela, defensa y representación de los intereses de las Asociaciones Provinciales y sus empresas asociadas ante las Administraciones, autoridades, organizaciones y organismos, tanto regionales, nacionales como extranjeros.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Nuestros desafíos son los de nuestras empresas asociadas, y por tanto, son múltiples</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Nuestra asociación engloba a empresas de diversos ámbitos dentro del sector de Tecnologías de la Información y las Comunicaciones</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Valladolid</v:locality>
+            <v:postal-code>47151</v:postal-code>
+            <v:street-address>Parque Tecnológico de Boecillo, Edificio Galileo, Módulo Amarillo, Oficina 103-B</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>AETICAL</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/AETICAL.png?1276590912</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>AETICAL</v:organisation-name>
+            <v:organisation-unit>Asociación de Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

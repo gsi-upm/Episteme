@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/305">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Vizcaya</v:locality>
+                    <v:postal-code>48950</v:postal-code>
+                    <v:street-address>Polígono AXPE  ERANDIO  Ribera de Axpe, 11  C2   48950 ERANDIO (Bizkaia)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>SERVICIOS AVANZADOS DE REINGENIERÍA S.L.</ecos:name>
+            <ecos:uri>www.sarein.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;SAREIN es una empresa especializada en proveer soluciones integrales en el campo de las Tecnologías de la Información.&lt;/p&gt;
+&lt;p&gt;Desde 1996, SAREIN ha llevado a cabo un elevado número de proyectos de naturalezas y complejidades diversas lo que nos permite ofrecer soluciones específicas a cada necesidad.&lt;/p&gt;
+&lt;p&gt;Nuestra experiencia en el sector nos permite ofrecer respuestas ágiles, adaptadas a nuestros clientes y una organización eficiente aportando un gran conocimiento sectorial y alta capacidad tecnológica. &lt;/p&gt;
+&lt;p&gt;Desde SAREIN, tenemos el convencimiento de poderles ofrecer el más alto nivel de soluciones y de servicio para cualquier necesidad informática que pueda surgir en su empresa.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Desde Sarein estamos interesados en dar un fuerte impulso a la participación e I+D+i tanto en el ámbito estatal como europeo.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Desde Sarein creemos en la Calidad del Servicio, por lo que nuestro enfoque siempre estará orientado al cliente, con una continua evolución en la mejora de nuestros servicios y excelencia en las relaciones humanas. 
+SAREIN está presente de forma muy relevante en empresas de diversos campos y diferentes sectores económicos. 
+Entre nuestros clientes podemos encontrar tanto empresas del sector de la industria, transportes o construcción, por ejemplo, como organismos públicos y educación. Todos ellos conscientes de la importancia que tiene, hoy en día, contar con un socio tecnológico capaz de resolver sus problemáticas y satisfacer sus necesidades. 
+SAREIN mantiene actualmente seis grandes líneas de negocio:
+Consultoría
+Sistemas
+Desarrollo
+Microsoft Dynamics
+Servicios Profesionales
+Formación</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Vizcaya</v:locality>
+            <v:postal-code>48950</v:postal-code>
+            <v:street-address>Polígono AXPE  ERANDIO  Ribera de Axpe, 11  C2   48950 ERANDIO (Bizkaia)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>SERVICIOS AVANZADOS DE REINGENIERÍA S.L.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>SERVICIOS AVANZADOS DE REINGENIERÍA S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

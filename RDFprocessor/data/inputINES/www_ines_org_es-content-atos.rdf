@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/content/atos">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28037</v:postal-code>
+                    <v:street-address>Albarracín, 25</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>ATOS</ecos:name>
+            <ecos:uri>http://www.atos.net</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Atos (&lt;a href="http://atos.net/" title="http://atos.net/"&gt;http://atos.net/&lt;/a&gt;) es una compañía internacional de Servicios de Tecnologías de la Información (TI), con 78.500 empleados. (En julio de 2011, Atos adquirió Siemens IT Solutions and Services (SIS), la división de TI de Siemens. Esta adquisición supuso la incorporación de unos 28.000 trabajadores.) Con sede principal en París y delegación en Bruselas, actualmente Atos tiene presencia en 42 países, con experiencia en sectores financieros, administración pública, energía, telecomunicaciones, transporte y logística, salud, industria, fabricación y logística, asistencia a PYMES, desarrollo de recursos humanos y  protección del medio ambiente. Atos es la Quinta Consultora en Tecnologías de la Información en el mundo, la primera de Europa en volumen de negocio. Atos cotiza en el mercado Eurolist de París. Ejerce sus actividades bajo las marcas Atos, Atos Consulting &amp;amp; Technology Services, Atos Worldline y Atos WorldGrid.  &lt;/p&gt;
+&lt;p&gt;Atos Spain (&lt;a href="http://es.atos.net/" title="http://es.atos.net/"&gt;http://es.atos.net/&lt;/a&gt;), con sede central en Madrid, y con más de 40 años de presencia en España, integra la presencia geográfica, actividades, desarrollo y posicionamiento estratégico de sus sociedades presentes en la Península con un equipo de 5.700 profesionales. Su amplia experiencia y capacidad de servicio, su alto nivel de competencia tecnológica, un profundo conocimiento de los sectores del mercado en los que actúa y una sólida plataforma de productos propios y de terceros son la base sobre la que construye sus soluciones&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>El principal reto para una empresa de consultoría de tecnologías de la información no es tanto el presente como el futuro. El conocimiento del estado del arte, de las necesidades de sus clientes, y de los entornos económico y legal de los escenarios de aplicación no son suficientes. Es preciso el desarrollo de unas acciones a futuro que incluyan la apertura de nuevos caminos tecnológicos mediante las actividades de investigación, el análisis de la evolución de las necesidades de sus clientes a largo plazo, la perspectiva económica que rodeará el desarrollo de los negocios a cinco y diez años vista, y el conocimiento de las políticas comunitarias que son de aplicación en los próximos ejercicios.</ecos:detail>
+            <ecos:detail>Los principales desafíos en I+D+i relacionados con Software y Servicios de la empresa se centran en introducir las siguientes tecnologías en el portfolio de soluciones comerciales de la empresa:
+- Web semántica
+- Middlewares orientados a servicios
+- GRID
+- Open Source en el ámbito industrial
+- Soluciones sectoriales innovadoras</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Atos Research &amp; Innovation tiene por misión estudiar y promover tecnologías innovadoras y emergentes en la empresa. 
+Por la actividad y dimensión de la compañía, ARI tiene competencias en todos los retos de la AEI, tanto en el Pilar Software como en el Pilar Servicios como en los Fundamentos clave. 
+A continuación se listan las competencias tecnológicas ordenadas por su proximidad y relevancia a la AEI de INES (todas ellas soportadas por un equipo transversal de Desarrollo de Negocio):
+- Open Source &amp; Software Engineering
+- Service-Oriented Middleware Infrastructure (servicios Grid)
+- Semantics and Service Engineering
+- eLearning
+- eInclusion
+- Biotechnologies &amp; Healthcare
+- Innovative Government
+- Trust, Security &amp; Dependability
+- Innovación
+- Desarrollo de políticas (desarrollo rural, living labs, cooperación Internacional)
+- Geospatial &amp; Environment Applications
+- Space &amp; Satellite Communications
+- Aplicaciones de movilidad
+- Software embarcado
+- TTII para el transporte
+- Navegación</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28037</v:postal-code>
+            <v:street-address>Albarracín, 25</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>ATOS</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/Logo_ATOS_PANTONE3015C.jpg?1315309194</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>ATOS</v:organisation-name>
+            <v:organisation-unit>Gran Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

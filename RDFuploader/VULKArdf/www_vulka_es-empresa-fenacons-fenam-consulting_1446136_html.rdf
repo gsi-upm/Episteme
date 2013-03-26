@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/fenacons-fenam-consulting_1446136.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>C/ Arabial Nº 16 8ºB 18004 Granada (Granada)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>FENACONS    Fenam - Consulting</ecos:name>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>Consultoría de Consumo enfocada a la reducción de costes fijos con el objetivo de lograr de forma gratuita el máximo ahorro para nuestros clientes</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>. FENACONS es una empresa de servicios de consumo formada por profesionales de los distintos ámbitos del sector. Nuestro objetivo está centrado en la reducción de los costes fijos de negocios y PYMES, ofreciendo Servicios Integrales de Consumo y Asesoramiento en Electricidad, Telefonía y Seguros, en colaboración con más de cuarenta empresas de los distintos sectores. Desde FENACOMS mantenemos un trato personal con nuestros clientes, trabajando para minimizar sus facturas de un modo eficaz y gratuitamente.&#13;. Conocer la compañía energética que mayor ahorro nos ofrece en la factura de la luz es el primer paso para conseguir una administración acertada, trabajar además con el servicio telefónico más barato y disponer del mejor seguro con el menor coste posible otorgan la tranquilidad de llevar a cabo la correcta gestión de nuestro negocio.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Granada</v:locality>
+            <v:street-address>C/ Arabial Nº 16 8ºB 18004 Granada (Granada)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>FENACONS    Fenam - Consulting</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/1446136_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>FENACONS    Fenam - Consulting</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>958 25 18 03</rdf:value>
+          </rdf:Description>
+        </v:tel>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>vulka</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>17</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

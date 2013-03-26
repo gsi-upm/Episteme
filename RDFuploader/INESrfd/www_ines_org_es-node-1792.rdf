@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1792">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Alicante</v:locality>
+                    <v:postal-code>03600</v:postal-code>
+                    <v:street-address>POLIGONO INDUSTRIAL CAMPO ALTO</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>INSTITUTO TECNOLOGICO DEL CALZADO Y CONEXAS</ecos:name>
+            <ecos:uri>www.inescop.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;INESCOP es la Asociación de Investigación de las Industrias del Calzado y Conexas. Su origen se remonta a 1971, año en el que se constituyó como Sociedad Cooperativa, aunque más adelante, en 1978, adoptó su actual fórmula jurídica de Asociación de Investigación. Como tal asociación carece de fines lucrativos y funciona con más de 600 empresas asociadas.  INESCOP está registrado con el número 2, como Centro de Innovación y Tecnología, por la Comisión Interministerial de Ciencia y Tecnología. INESCOP es Centro Tecnológico de acuerdo a la definición del artículo 9.5 de la Orden Ministerial de 7 de marzo de 2000 (PROFIT).&lt;br&gt;
+La finalidad y objetivo de INESCOP es el desarrollo de una serie de actividades de carácter científico y técnico que las industrias del sector calzado y conexas, debido a su pequeña dimensión, no pueden abordar a nivel individual y que, sin embargo, son de gran interés para el mantenimiento y reforzamiento del sector calzado en nuestro país.&lt;br&gt;
+Así, la labor de INESCOP está estrechamente relacionada con las industrias del Sector, bien porque se refiere a servicios directos o bien porque se trata de transferir conocimientos y tecnología o investigar sobre temas de interés colectivo.&lt;br&gt;
+De hecho, el Consejo Rector, formado mayoritariamente (un 73%) por industriales del Sector, es quien define las prioridades, en función de las necesidades de las empresas. En la composición del Consejo se equilibran los diferentes tipos de empresas, de actividades y de localización geográfica del sector en España, siendo el Presidente del mismo un fabricante de calzado.&lt;br&gt;
+El apoyo sectorial no solo se produce a través de la representación empresarial en el Consejo Rector, sino que se refuerza a través de convenios vigentes con las organizaciones mas significativas de la profesión, destacando entre ellas, la Federación de Industriales de Calzado Español (FICE).&lt;br&gt;
+En otros sectores, como es el caso de los fabricantes de adhesivos para calzado, ante la falta de una asociación que los agrupe específicamente, es el colectivo de empresas de esta actividad que pertenecen a INESCOP quien actúa como agrupación sectorial a través de la formación de una Comisión Técnica en el seno de INESCOP. A esta Comisión Técnica pertenecen el 96 % de las empresas de esta especialidad existentes.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>INTEGRACION TECNOLOGICA, CAD BASADO EN CONOCIMIENTOS, INTEROPERABILIDAD.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Alicante</v:locality>
+            <v:postal-code>03600</v:postal-code>
+            <v:street-address>POLIGONO INDUSTRIAL CAMPO ALTO</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>INSTITUTO TECNOLOGICO DEL CALZADO Y CONEXAS</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>INSTITUTO TECNOLOGICO DEL CALZADO Y CONEXAS</v:organisation-name>
+            <v:organisation-unit>Centro Tecnológico</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>15900</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

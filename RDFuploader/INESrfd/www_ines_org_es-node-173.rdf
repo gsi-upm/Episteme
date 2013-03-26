@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/173">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Santa Cruz de Tenerife</v:locality>
+                    <v:postal-code>38001</v:postal-code>
+                    <v:street-address>Elías Ramos González, 4, ofc. 304</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Open Canarias, SL</ecos:name>
+            <ecos:uri>http://www.opencanarias.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Open Canarias en una empresa dedicada a las Tecnologías de la Información y las  Comunicaciones, fundamentalmente en los siguientes ámbitos:&lt;br&gt;
+- Outsourcing de centros de atención de llamadas (CAT) y centros de atención de usuarios (CAU).&lt;br&gt;
+- Diseño e instalación de redes (Intranets y Extranets).&lt;br&gt;
+- Venta y asistencia en técnica de sistemas para servidores Windows, Unix, Linux, AS/400 y Mainframes 390 IBM.&lt;br&gt;
+- Consultoría y diseño de soluciones para la seguridad informática (cortafuegos, servidores de correo seguros, certificados electrónicos, firma electrónica, etc.).&lt;br&gt;
+- Desarrollos basados en la plataforma J2EE (Java 2 Enterprise Edition) para entorno web, integración de sistemas heredados, gestión documental, workflow, portales, e-learning, SAP, etc.&lt;br&gt;
+- Venta de servicios de operación informática (outsourcing total y parcial).&lt;br&gt;
+- Desarrollo de productos de soporte a la Ingeniería del Software.&lt;br&gt;
+- Proyectos I+D+I conjuntamente con la Universidad de La Laguna.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Nuestro principal reto es presentar el conjunto de herramientas incluidas en nuestro proyecto ModelSET (Models for Software Engineering Technologies) en el próxmo JISBD2007, facilitando el acceso a dichos productos a la comunidad científica, con el objeto de obtener el feedback necesario para su refinamiento.
+ModelSET reune un conjunto de plugins para la plataforma Eclipse que conjugan todos los elementos necesarios para el DSDM desde la perspectiva MDA. Complementariamente incorporarán herramientas para la cobertura a Líneas de Producto de Software y a Activos Reusables también desde un alineamiento con la especificación MDA.
+Otro desafío importante es la aplicación de toda esta tecnología a un dominio con un interés económico de primer orden, como es el de la creación de videojuegos para plataformas de nueva generación.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Santa Cruz de Tenerife</v:locality>
+            <v:postal-code>38001</v:postal-code>
+            <v:street-address>Elías Ramos González, 4, ofc. 304</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Open Canarias, SL</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Open Canarias, SL</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>104</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

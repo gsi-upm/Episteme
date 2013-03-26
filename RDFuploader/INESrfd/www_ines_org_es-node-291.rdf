@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/291">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28911</v:postal-code>
+                    <v:street-address>Avenida Universidad, 30</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Universidad Carlos III de Madrid</ecos:name>
+            <ecos:uri>http://www.uc3m.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La UC3M cuenta con más de 1.200 investigadores, expertos en distintos ámbitos del conocimiento, que ponen a disposición de aquellas empresas e instituciones interesadas su experiencia y capacidades para resolver problemas y una cartera de tecnologías innovadoras desarrolladas en la Universidad y susceptibles de explotación industrial o comercial.&lt;br&gt;
+Actualmente en creación del parque tecnológico centrado en actividades TIC fundamentalmente.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>El principal desafío para el grupo es el diseño y despliegue de tecnologías de apoyo a la enseñanza que verdaderamente contribuyan a la mejora del proceso y abran escenarios hasta ahora imposibles.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28911</v:postal-code>
+            <v:street-address>Avenida Universidad, 30</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Universidad Carlos III de Madrid</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/logo_uc3m.jpg?1329925898</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Universidad Carlos III de Madrid</v:organisation-name>
+            <v:organisation-unit>Universidad</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>421000</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

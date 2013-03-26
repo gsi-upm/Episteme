@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1742">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Islas Baleares</v:locality>
+                    <v:postal-code>07121</v:postal-code>
+                    <v:street-address>Carretera Valldemossa km 7,4 Parc Bit - Edificio U, Local 13</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Virtual Marina S.L</ecos:name>
+            <ecos:uri>http://www.portbooker.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Portbooker.com cuenta actualmente con una base de datos de más de 8.500 Marinas, un software gratuito para realizar reservas on-line en tiempo real para las mismas, casi 17.000 usuarios registrados (capitanes y propietarios), una media de 2.500 visitas diarias y en 2009 gestionó más de 3.200 reservas de amarres en todo el mundo (el crecimiento en 2010 es de un 32%). La web en 5 idiomas está dedicada a una mejora continua de los servicios a la comunidad náutica, facilitando el acceso a la oferta complementaria de un turismo caracterizado por un alto valor añadido.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Llegar a crear un sistema de reservas de amarres 100% online, con confirmación instantanea para nuestros clientes, además de poseer la mayor guía náutica online con toda la información actualizada. Integración con otras plataformas para la intercomunicación de todos los puertos deportivos del mundo.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Desarrollo de aplicaciones de gestión para los puertos deportivos, interconexión por medio de webservices, aplicaciones web, SEO, E-mailing y marketing.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Islas Baleares</v:locality>
+            <v:postal-code>07121</v:postal-code>
+            <v:street-address>Carretera Valldemossa km 7,4 Parc Bit - Edificio U, Local 13</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Virtual Marina S.L</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/portbooker_logo.png?1274875561</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Virtual Marina S.L</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

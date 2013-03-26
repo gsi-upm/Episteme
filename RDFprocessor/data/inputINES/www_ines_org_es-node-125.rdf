@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/125">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Islas Baleares</v:locality>
+                    <v:postal-code>07121</v:postal-code>
+                    <v:street-address>Parc BIT, Edifici 17, 3ª Planta Porta 2D</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Fundació Illes Balears per a la Innovació Tecnològica</ecos:name>
+            <ecos:uri>www.ibit.org</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Centro tecnológico de naturaleza fundacional privada, sin ánimo de lucro.&lt;br&gt;
+Los proyectos desarrollados desde su origen han propiciado que la Fundación sea considerada actualmente un referente en proyectos de innovación tecnológica.&lt;br&gt;
+La Fundación desarrolla soluciones de software innovadoras con aplicación directa a pymes y administraciones públicas. A lo largo de su trayectoria se ha especializado en el desarrollo de software y aplicaciones para el sector turístico, así como en la generación de soluciones para la mejora de la administración digital en el ámbito autonómico y en el ámbito sanitario y de servicios de salud.&lt;/p&gt;
+&lt;p&gt;La Fundació tiene una línea de actuación no tecnológica, basada en dar soporte a las AADD y empresas en sus iniciativas y proyectos relacionados con  la Innovación y la Sociedad de la Información&lt;br&gt;
+La Fundación ha participado en más de 50 proyectos de investigación, con más 120 compañías y organizaciones implicadas. De ellos, 23 proyectos han sido cofinanciados por la Comisión Europea a través de los programas Esprit, IV y V Programa marco, e INTERREG. Paralelamente se ha llevado a cabo una cifra similar de proyectos de innovación y transferencia de tecnología.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>-</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>1. Negocio Digital en red
+- Modelos de procesos de negocio
+- Redes de proceso
+2. Web semántica
+- Publicación e intercambio de información
+- Motores de búsqueda semánticos.
+- Inferencia y complexión
+3. Integración de servicios
+- Arquitectura orientadas a servicios
+- Descripción de servicios
+- Descubrimiento de Servicios
+- Composición – propiedades self
+4. Interoperabilidad
+- Interoperabilidad en sistemas de sistemas
+- Interoperabilidad a distintos niveles
+5. Seguridad y confianza
+- Temáticas Plataforma eSec</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Islas Baleares</v:locality>
+            <v:postal-code>07121</v:postal-code>
+            <v:street-address>Parc BIT, Edifici 17, 3ª Planta Porta 2D</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Fundació Illes Balears per a la Innovació Tecnològica</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Fundació Illes Balears per a la Innovació Tecnològica</v:organisation-name>
+            <v:organisation-unit>Centro Tecnológico</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

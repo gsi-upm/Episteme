@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/243">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Pontevedra</v:locality>
+                    <v:postal-code>36208</v:postal-code>
+                    <v:street-address>Area portuaria de Bouzas s/n Edificio de oficinas Consorcio Zona Franca de Vigo. Of C3 vigo</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>INEO ASOCIACION MULTISECTORIAL DE NUEVAS TECNOLOGÍAS DE LA INFORMACION Y COMUNICACION</ecos:name>
+            <ecos:uri>www.ineo.org</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;INEO nace como una entidad asociativa empresarial entorno al multisector de nuevas tecnologías de la información y comunicación, con vocación de instrumento permanente de cooperación para el establecimiento y mantenimiento de mecanismos que mejoren la competitividad de las empresas a las que aglutina.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Presentación de  proyectos europeos o iniciativas de I+D que se basen en la colaboración entre empresas e instituciones.</ecos:detail>
+            <ecos:detail>Promover el desarrollo de productos en las empresas TIC que puedan dirigirse a otros sectores, personalizando al máximo la propuesta de valor de las empresas TIC ante el resto de los sectores.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Las competencias de INEO se basan en una doble tarea:
+Por una parte, construir una oferta de servicios "respuesta" a las necesidades expresadas por las empresas socias y por otra, adelantarse, generando de forma proactiva e innovadora una demanda todavía inexistente, al menos en forma explícita. Esta segunda tarea resulta de especial importancia en sectores con gran dinamismo tecnológico, como es el caso de las tecnologías de la información y la comunicación.
+Las principales actuaciones de INEO tienen como objetivo la mejora del conocimiento del propio sistema productivo, la generación de tendencias a nivel sectorial y sobre todo en el campo de la innovación en otras regiones, el mercado y las tendencias tecnológicas y, en definitiva, todo el conocimiento que contribuya a identificar las oportunidades de innovación y cubrir las necesidades planteadas por las empresas del sector.
+El Plan Operativo de Lanzamiento de la Asociación establece los ámbitos de actuación en los que INEO desarrolla sus actuaciones y donde se define un programa de trabajo. Se ha configurado así un plan integral de proyectos que permite cubrir las necesidades principales que han sido identificadas por los socios. Sobre esta base, se ha establecido un plan de actuaciones  dirigidas a tres áreas:
+Mercado: mejora de la promoción y el acceso a nuevos mercados y el apoyo y colaboración con otros sectores productivos tradicionales.
+Estrategia y Mejora Continua: potenciar la innovación tanto en productos como en procesos, con una fuerte base en la colaboración entre las empresas y con otras instituciones.
+Recursos: mejora de los Recursos Humanos, a través de formación o de programas de prácticas de alumnos fomentando de esta forma la creación de empleo tecnológico tan necesario en el sector.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Pontevedra</v:locality>
+            <v:postal-code>36208</v:postal-code>
+            <v:street-address>Area portuaria de Bouzas s/n Edificio de oficinas Consorcio Zona Franca de Vigo. Of C3 vigo</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>INEO ASOCIACION MULTISECTORIAL DE NUEVAS TECNOLOGÍAS DE LA INFORMACION Y COMUNICACION</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/ineo-logo.jpg?1340790982</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>INEO ASOCIACION MULTISECTORIAL DE NUEVAS TECNOLOGÍAS DE LA INFORMACION Y COMUNICACION</v:organisation-name>
+            <v:organisation-unit>Asociación de Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

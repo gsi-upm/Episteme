@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/214">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28042</v:postal-code>
+                    <v:street-address>C/ Luis de la Mata 24</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>FUNDACIÓN PRODIS</ecos:name>
+            <ecos:uri>http://www.fundacionprodis.org</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La Fundación Prodis es una institución sin ánimo de lucro, cuyo fin es mejorar la integración familiar, escolar, social, y laboral de niños y jóvenes con discapacidad intelectual.&lt;br&gt;
+Prodis trata de ayudar a niños que tienen una minusvalía moderada o grave. Con diagnósticos neurológicos encuadrados en: Cromosopatías, encefalopatías, síndromes neurológicos específicos, y retrasos madurativos generalizados.&lt;br&gt;
+La fundación Prodis comenzó sus actividades en el año 2000, y está registrada en el registro de fundaciones de la Comunidad de Madrid con el número 482.&lt;br&gt;
+Cumple con los nueve principios de transparencia y buenas prácticas de la Fundación Lealtad&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>1) Investigación en accesibilidad y usabilidad especialmente para discapacitados intelectuales.
+2) Investigación en tecnologías de inteligencia ambiental para el apoyo en su integración laborar, ocio y en la consecución de una mejor vida independiente
+3) Investigación en tecnologías de e-formación y cursos especiales
+4) Investigación en tecnologías y desarrollos sw que fomenten la movilidad y trazabilidad de personas y mercancías</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>De los tres puntos principales de la agenda estratégica de INES del grupo de inclusión en INES, se pretende abordar  el primero y el último. El primero de “Gestión de la  Complejidad” con procesos de Ingeniería de Requisitos y Modelos de Software que nos permitan tener en cuenta la gran diversidad del colectivo de discapacitados intelectuales, y el último, “Interfaces accesibles e inteligentes” que son claramente necesarios para su plena integración laboral</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28042</v:postal-code>
+            <v:street-address>C/ Luis de la Mata 24</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>FUNDACIÓN PRODIS</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>FUNDACIÓN PRODIS</v:organisation-name>
+            <v:organisation-unit>Centro Privado de Investigación</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/287">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28037</v:postal-code>
+                    <v:street-address>Albasanz, 16 - 3ª planta B1</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Fundosa Teleservicios S.A.</ecos:name>
+            <ecos:uri>www.technosite.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Technosite centra su actividad en desarrollos e-business, business intelligence, usabilidad y accesibilidad, e-learning y gestión integral de portales. La usabilidad y la accesibilidad son un valor añadido y una seña de identidad para Technosite. Somos expertos en la realización de pruebas de usuario y conocemos al detalle los requisitos que un sitio web debe respetar para ser accesible, ya que participamos activamente en distintos grupos de trabajo del W3C.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Difundir la filosofía de Diseño para Todos tanto a nivel divulgativo como empresarial, en el desarrollo de nuevos productos y servicios en las TIC.
+Elaborar prototipos piloto (cajeros, dispositivos móviles, TV Digital, etc.) para poner en práctica el conocimiento base generado en materia de accesibilidad y usabilidad.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Nuestro departamento tiene compencias en materia de: 1. Gestión de la experiencia de usuario a nivel de necesidades y barreras detectadas por propios usuarios así como conocimientos técnicos sobre modelado (usuario, contexto, tarea, etc.); 2. eInclusión a través de la experiencia de proyectos como INREDIS (Interfaces de relación entre el entorno y la discapacidad) y estudios para evaluar las potencialidades de la tecnología móvil o la TV Digital desde el punto de vista del Diseño para Todos; 3. Interoperabilidad aportando nuestra experiencia con arquitecturas de interoperabilidad a nivel técnico y semántico; 4. Orientación a la persona, para garantizar una experiencia de uso adecuada a la diversidad de las personas y contextos de uso, poniendo en un primer plano nuestra experiencia en usabilidad y accesibilidad.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28037</v:postal-code>
+            <v:street-address>Albasanz, 16 - 3ª planta B1</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Fundosa Teleservicios S.A.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Fundosa Teleservicios S.A.</v:organisation-name>
+            <v:organisation-unit>Gran Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

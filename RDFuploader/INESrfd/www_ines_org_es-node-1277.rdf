@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1277">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Santa Cruz de Tenerife</v:locality>
+                    <v:postal-code>38320</v:postal-code>
+                    <v:street-address>Ctra. General Santa Cruz Laguna, La Higuerita, Edificio Elisabeth, Oficina 3, 38320, La Laguna</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Arte Consultores Tecnológicos S.L</ecos:name>
+            <ecos:uri>http://www.arte-consultores.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Arte Consultores se dedica fundamentalmente al desarrollo de sistemas de información. Hasta ahora, su línea principal está dirigida hacia la e-Administración, desarrollando tareas de integración de sistemas y desarrollo de servicios que permitan la interoperabilidad. Su objetivo es participar y promover proyectos de alto nivel tecnológico. De ahí que queramos apostar de manera firme y decidida por participar en proyectos de I+D+i, que no sólo nos proporcionen mayor nivel de competitividad, sino que nos haga partícipes de forma activa en el desarrollo de un modelo económico basado en el conocimiento.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Como ya he mencionado somos una empresa joven y perqueña. Nuestro objetivo principal no es crecer en tamaño sino consolidarnos como una pequeña empresa altamente tecnológica. Enfocamos nuestros esfuerzos en fomentar y participar en proyectos que supongan retos, tanto a nivel tecnológico como a nivel de negocio. Compartimos vuestra visión en la Plataforma INES de que hay que cambiar el corazón de las empresas españolas para, haciendo uso de la tecnología, lograr que sean más productivas y competitivas.
+Para nuestra empresa, ubicada en un territorio como Canarias, es un deber apostar por la economía del conocimiento, por la investigación, por el desarrollo y por la innovación. Sólo así podremos lograr el objetivo de formar una empresa sólida y competitiva.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Santa Cruz de Tenerife</v:locality>
+            <v:postal-code>38320</v:postal-code>
+            <v:street-address>Ctra. General Santa Cruz Laguna, La Higuerita, Edificio Elisabeth, Oficina 3, 38320, La Laguna</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Arte Consultores Tecnológicos S.L</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Arte Consultores Tecnológicos S.L</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>69</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/content/asistas-interfaces-avanzados-sl">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Albacete</v:locality>
+                    <v:postal-code>02006</v:postal-code>
+                    <v:street-address>Paseo de la Innovación 1</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>ASISTAS INTERFACES AVANZADOS S.L.</ecos:name>
+            <ecos:uri>www.asistas.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La empresa tiene como misión generar productos innovadores dentro del ámbito de las interfaces de usuario de alto valor añadido por su aportación novedosa en su uso o mercado específico, accesibilidad y experiencia de usuario. Somos una empresa de investigación y desarrollo para el mercado de la eSALUD, eINCLUSIÓN y el eTURISMO.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>El uso adecuado de estos subsistemas en problemáticas concretas en campos como la salud, el turismo o la educación, abren un campo nuevo de servicios para usuarios con problemas de accesibilidad por limitaciones funcionales, deterioro cognitivo o rechazo por la brecha digital que, hasta ahora, no tenían acceso a los mismos.</ecos:detail>
+            <ecos:detail>La empresa dedica un alto porcentaje de sus recursos a la investigación, desarrollo e innovación de productos basados en interfaces avanzadas de usuario, combinando el uso de las mismas con algoritmos de inteligencia artificial y elementos 3D interactivos que permitan, en su conjunto, una experiencia de usuario personalizada, adaptada, accesible y positiva.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>PRINCIPAL: Interfaces avanzados de usuario: multimodales, adaptativos, naturales,...
+OTROS:
+-Realidad virtual
+-Inteligencia Artificial</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>3D</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Ambience Intelligent</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>e-Inclusion</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>EAI</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>eHealth</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Voice recognition</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Health</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>ICT</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>R&amp;D</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Tourism</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Albacete</v:locality>
+            <v:postal-code>02006</v:postal-code>
+            <v:street-address>Paseo de la Innovación 1</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>ASISTAS INTERFACES AVANZADOS S.L.</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/logo_asistas_email.jpg?1317226698</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>ASISTAS INTERFACES AVANZADOS S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

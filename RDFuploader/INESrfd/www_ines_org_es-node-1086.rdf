@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1086">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Sevilla</v:locality>
+                    <v:postal-code>41900</v:postal-code>
+                    <v:street-address>Sevilla</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Fundación para la investigación y el desarrollo de las tecnologías de la información</ecos:name>
+            <ecos:uri>http://www.fidetia.es/</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La Fundación para la Investigación y el Desarrollo de las Tecnologías de la Información en Andalucía (FIDETIA) se constituyó en marzo de 2000, como fundación docente y de investigación. FIDETIA, pretende exclusivamente el interés público sin ánimo de lucro, está calificada como Agente del Conocimiento y es asociada de la Red de Espacios Tecnológicos de Andalucía (RETA).&lt;/p&gt;
+&lt;p&gt;El principal objetivo de FIDETIA es el de contribuir activamente al desarrollo sostenible de la Sociedad a través de la Formación, la Investigación y la Transferencia Tecnológica, potenciando la colaboración Universidad-Empresa en el campo de las Tecnologías de la Información y las Comunicaciones (TIC), claves para el desarrollo de la capacidad competitiva de las empresas y progreso de la sociedad.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>- Certificaciones
+- Incorporacion de técnicas de generación de modelos y sistematicación de procesos software</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Sevilla</v:locality>
+            <v:postal-code>41900</v:postal-code>
+            <v:street-address>Sevilla</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Fundación para la investigación y el desarrollo de las tecnologías de la información</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Fundación para la investigación y el desarrollo de las tecnologías de la información</v:organisation-name>
+            <v:organisation-unit>Otros</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>151</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

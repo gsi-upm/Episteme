@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/protonica-instalaciones_1433432.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>Illescas 45200 Illescas (Toledo)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Protonica Instalaciones</ecos:name>
+            <ecos:uri>http://www.protonica.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>ANTENAS, ELECTRICIDAD, ILUMINACION, PORTEROS, SEGURIDAD, AUDIO-VIDEO, INFORMATICA, PAGINAS, REDES, etc</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Antenistas: Antenas, instalación de TDT, nuevos canales, mejora de calidad, ampliaciones.&#13;Electricistas: Electricidad, todo tipo de instalaciones, reparaciones, ampliaciones, etc&#13;Porteros Automaticos: Oferta:Se lo sustituimos por un magnifico VIDEO-PORTERO, reparaciones, etc&#13;Paginas web: Creacion de paginas, sencillas, con dominio y correo propio y muy economicas.&#13;Iluminación: Interiores, exteriores, halogenos, grandes espacios, ambiental, etc&#13;Equipos informáticos: Reparaciones de PCs, ampliación, actualizaciones, virus, etc.&#13;Redes: Instalación de redes, telefonía, ADSL, LAN, WIFI, ...&#13;Audio y Vídeo: Sonorización, interconexiones entre equipos, cableados, car-audio etc.&#13;Seguridad: Alarmas, detectores de presencia e intrusión, cámaras, simulacion de presencia. &#13;Reparacion electronica: TV planas, consolas, ordenadores portatiles/sobremesa y moviles (Tienda situada en Yuncos)</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Toledo</v:locality>
+            <v:street-address>Illescas 45200 Illescas (Toledo)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Protonica Instalaciones</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/1433432_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Protonica Instalaciones</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>655 326 624</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.protonica.es</v:url>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>vulka</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>145</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

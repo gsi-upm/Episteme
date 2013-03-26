@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1767">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Asturias</v:locality>
+                    <v:postal-code>33203</v:postal-code>
+                    <v:street-address>Edificio Centros Tecnolǵicos, PQ Científico Tecnológico de Gijón</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Fundación CTIC Centro Tecnológico</ecos:name>
+            <ecos:uri>http://www.fundacionctic.org</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;&lt;a href="http://www.sintiasnohayparaiso.com" title="putas"&gt;putas&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.gratis-camsex.net/" title="Camsex"&gt;Camsex&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.xxsexshop.com" title="Sex shop"&gt;Sex shop&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.lasmujeresdepaco.com" title="chicas por cam"&gt;chicas por cam&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.maschicascam.com" title="webcams de chicas"&gt;webcams de chicas&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.tiasconwebcam.es" title="sexo con tias"&gt;sexo con tias&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.sexoxx.es" title="webcams xxx"&gt;webcams xxx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.madurasconwebcam.net" title="cams maduras"&gt;cams maduras&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.sexopormessenger.com" title="sexo por webcam"&gt;sexo por webcam&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.camporno.net" title="porno cam"&gt;cam porno&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.videosdesexo.org" title="sexo gratis"&gt;videos de sexo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.beeg.com.es" title="porno beeg"&gt;beeg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.sexotelefonico.net" title="telefonico"&gt;sexo telefonico&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.rubias.net" title="rubias"&gt;Rubias&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>(1) Publicación e integración de datos, Definición de políticas de negocio, Integración de servicios en procesos de negocio complejos, Personalización de contenidos y servicios y Gestión documental de nueva generación.
+(2) Aplicaciones y servicios independientes de dispositivo, Arquitecturas parcialmente conectadas, Supervisión remota (domótica, vigilancia, procesos industriales), Servicios Multimedia.
+(3) Interfaces de usuario (multicanalidad, multimodalidad, usabilidad), Inteligencia artificial (aprendizaje de preferencias, sistemas expertos, ...), Middleware sobre dispositivos hardware y sistemas de comunicación.</ecos:detail>
+            
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Asturias</v:locality>
+            <v:postal-code>33203</v:postal-code>
+            <v:street-address>Edificio Centros Tecnolǵicos, PQ Científico Tecnológico de Gijón</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Fundación CTIC Centro Tecnológico</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Fundación CTIC Centro Tecnológico</v:organisation-name>
+            <v:organisation-unit>Centro Privado de Investigación</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>5360</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

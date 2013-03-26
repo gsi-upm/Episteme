@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1577">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Barcelona</v:locality>
+                    <v:postal-code>08242</v:postal-code>
+                    <v:street-address>Avgda. Bases de Manresa, 1</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>MIC Productivity. Microsoft Innovation Center - Productivity Center</ecos:name>
+            <ecos:uri>www.micproductivity.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Análisis y estudio de las mejores prácticas para la mejora de la productividad de las empresas en el correcto uso y aplicación de las tecnologías de información para las personas (tecnologías de la iproductividad).&lt;br&gt;
+*omento del 'Nuevo munxo del Trabajo' (trabajo remoto, teletrabajo y movilidad, trabajo en el tercer lugar, espacioz y trabajos flexibles,...) y prestación de servicios de innovación en proceso en las organizaciones.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Buenas prácticas en la aplicación de las TIC en los procesos empresariales/organizaciones alrededor de las personas: comunicación, trabajo en equipo, colaboración, gestión de la información, movilidad, cloud computing, movilidad,...
+Analisis y definicion de modelos de calculo de valor de negocio y ROI de las TIC
+Diseminacion y divulgacion de resultados de innovacion en el nuevo modelo de trabajo</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Valor de Negocio de las TI (ROI)
+Diagnóstico y Consultoría en Productividad
+Formación en Buenas Prácticas
+Innovación en Procesos Empresariales
+Analisis de los retos y propuestas de accion para el 'nuevo mundo del trabajo'</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Barcelona</v:locality>
+            <v:postal-code>08242</v:postal-code>
+            <v:street-address>Avgda. Bases de Manresa, 1</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>MIC Productivity. Microsoft Innovation Center - Productivity Center</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>MIC Productivity. Microsoft Innovation Center - Productivity Center</v:organisation-name>
+            <v:organisation-unit>Otros</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

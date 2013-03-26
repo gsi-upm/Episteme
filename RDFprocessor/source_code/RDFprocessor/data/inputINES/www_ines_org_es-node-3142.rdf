@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/3142">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28014</v:postal-code>
+                    <v:street-address>calle Los Madrazo 28, 2ª planta</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Solutio Outsourcing S.L.</ecos:name>
+            <ecos:uri>www.gruposolutio.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;SOLUTIO en todo el territorio nacional desde el año 1998 con una clara vocación al cliente y un elevado sentido del compromiso.&lt;br&gt;
+Con un equipo de colaboradores de alta calidad profesional y personal, prestan servicios en Tecnología, Consultoría y Recursos Humanos, a todo tipo de organizaciones, fomentando el avance, no solo de éstas, sino del conjunto de la Sociedad.&lt;br&gt;
+Gracias a su dilatada experiencia en el mercado y en proyectos de I+D+i, conocen las necesidades y soluciones innovadoras en los diferentes entornos empresariales. Este conocimiento les permite ofertar unos servicios personalizados de Calidad y Garantía Total. Su departamento de I+D+i considera necesaria la evolución de los sistemas informáticos con investigación y desarrollo para la implantación de nuevos aplicativos, la evolución de versiones, parches y migraciones etc. Por este motivo, a lo largo del tiempo SOLUTIO se ha especializado en los diferentes aspectos que engloban el alma de los Sistemas de la Información de las empresas:&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Operación y Control de CPD
+Control de Backup / Colas de Impresión
+Control de Procesos / Incidencias
+Monitorización de Máquinas, Alarmas y Eventos
+Administración de sistemas
+Administración HP-UX, AIX, Solaris, Linux y Windows
+Administración DDBB
+Administración SQL, Oracle, Sybase, DB2, Informix
+Administración Servidores de Aplicaciones
+Administración Websphere, *Net, Weblogic, Java, etc.
+Instalaciones
+Instalación, configuración y puesta en marcha de productos Hardware / Software</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Operación y Control de CPD
+•	Control de Backup / Colas de Impresión
+•	Control de Procesos / Incidencias
+•	Monitorización de Máquinas, Alarmas y Eventos
+Administración de sistemas
+•	Administración HP-UX, AIX, Solaris, Linux y Windows
+Administración DDBB
+•	Administración SQL, Oracle, Sybase, DB2, Informix
+Administración Servidores de Aplicaciones
+•	Administración Websphere, *Net, Weblogic, Java, etc.
+Instalaciones
+•	Instalación, configuración y puesta en marcha de productos Hardware / Software</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28014</v:postal-code>
+            <v:street-address>calle Los Madrazo 28, 2ª planta</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Solutio Outsourcing S.L.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Solutio Outsourcing S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

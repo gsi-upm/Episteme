@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/231">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Vizcaya</v:locality>
+                    <v:postal-code>48007</v:postal-code>
+                    <v:street-address>Avda. Universidades 24</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Universidad de Deusto</ecos:name>
+            <ecos:uri>http://www.deusto.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La Facultad de Ingeniería de Deusto cuenta con una sólida experiencia de más de 30 años formando profesionales. Los cuatro elementos básicos en los que se fundamenta nuestra actividad docente son: un modelo educativo propio, la atención y orientación personalizada a cada alumno, una participación significativa de las empresas en la labor docente y unos laboratorios excelentes a disposición de los alumnos.&lt;/p&gt;
+&lt;p&gt;Actualmente se imparten las siguientes titulaciones en la Facultad de Ingeniría:&lt;/p&gt;
+&lt;p&gt;- Ingeniero Técnico en Informática de Gestión&lt;br&gt;
+- Ingeniero Técnico Industrial, especialidad en Electrónica Industrial&lt;br&gt;
+- Ingeniero Técnico de Telecomunicación, especialidad en Telemática&lt;br&gt;
+- Ingeniero en Informática (2º ciclo)&lt;br&gt;
+- Ingeniero en Organización Industrial (2º ciclo)&lt;br&gt;
+- Ingeniero en Automática y Electrónica Industrial (2º ciclo)&lt;br&gt;
+- Ingeniero de Telecomunicación (2º ciclo)&lt;br&gt;
+- Ingeniero en Informática + Ingeniero en Organización Industrial (Doble Titulación 2º Ciclo)&lt;/p&gt;
+&lt;p&gt;El Tecnológico Fundación Deusto (TFD) es una iniciativa de la Facultad de Ingeniería de la Universidad de Deusto para agrupar y fomentar las acciones de generación y transferencia de tecnología y conocimiento hacia la sociedad y a la empresa mediante diferentes modalidades de prestación de servicios. Basada en prácticas históricas de investigación y formación en tecnología e ingeniería, Tecnológico Deusto se ampara principalmente en el conocimiento acumulado durante muchos años por la Facultad de Ingeniería, ESIDE. Para más información visitar: &lt;a href="http://www.tecnologico.deusto.es" title="http://www.tecnologico.deusto.es"&gt;http://www.tecnologico.deusto.es&lt;/a&gt;.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Los siguientes puntos resaltan los principales desafíos de investigación que nos hemos marcado para el trienio 2007-2009:
+- Convergencia ente Web 2.0 y SOA. Consideramos capital la definición de “puentes tecnológicos” que acerquen el enfoque formal y estricto de SOA con el enfoque más dinámico pero anárquico de Web 2.0. Con este avance tecnológico se persigue
+- Desarrollo de infraestructura software para el acercamiento hacia Web 3.0 en sus dos concepciones más importantes: a) Web Semántica, acercándonos a ellas mediante middleware que utilice las últimas tecnologías puente entre la Web tradicional y Web Semántica (RDFa, GRDDL, Semantic Mash-ups) y b) Web Ubicua o Internet of Things, donde todos los objetos y dispositivos que nos rodean pueden ser descubiertos y consumidos como si se trataran de recursos web.
+- Adaptación de las técnicas de modelado de información y razonamiento semántico a entornos con baja capacidad de cómputo como los dispositivos empotrados.
+- Translación del fenómeno Web 2.0 al mundo móvil y a los objetos cotidianos para permitir su colaboración (coreografía) y participación.
+- Descubrimiento y composición de servicios web semánticos en entornos ubicuos y móviles
+- Avance en la seguridad empresarial inteligente aplicando técnicas de redes bayesianas.
+- Aplicación de la informática a nichos con gran proyección como medicina, medio-ambiente, logística y turismo.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Dentro de la Facultad de Ingeniería (ESIDE) de la Universidad de Deusto se ha conformado el grupo DEUSTEK, grupo de investigación multi-disciplinar que aglutina las actividades de nuestras principales líneas de investigación: Ingeniería del Software e Integración, Seguridad, Movilidad e Inteligencia Ambiental, Interacción Avanzada, Tecnologías XML, Web 2.0 y de Web Semántica.  
+Consideramos los siguientes grupos de trabajo de INES como altamente relevantes a nuestras actividades de investigación: (1) eInclusion, (2) Software de Código Abierto, (3) Infraestructuras Orientadas a Servicios y Grids, (4) Evolución de la WEB (fusión de Web Semántica y Web 2.0/3.0), (5) SEA: Service Engineering &amp; (service-oriented) Architectures, (6) eTurismo e (7) eLearning</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Vizcaya</v:locality>
+            <v:postal-code>48007</v:postal-code>
+            <v:street-address>Avda. Universidades 24</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Universidad de Deusto</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Universidad de Deusto</v:organisation-name>
+            <v:organisation-unit>Universidad</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

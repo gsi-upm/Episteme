@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/3214">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28935</v:postal-code>
+                    <v:street-address>Carretera Móstoles-Villaviciosa, P.K. 0,20. Edificio Moma 1-15</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Consultoría y delineación IMASD, S.L.</ecos:name>
+            <ecos:uri>www.imasdconsult.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;ImasD Consult es una empresa de reciente creación localizada en España y vocación internacional formada por profesionales  de reconocida experiencia en el sector de la estructura metálica y en el mercado de soluciones de software especificas, aunando conocimiento tecnológico y experiencia profesional.&lt;br&gt;
+Nuestro objetivo es ofrecer a nuestros clientes una colaboración permanente en sus proyectos durante todas las fases de los mismos, desde el momento de los estudio preliminares hasta el final de obra, optimizando los recursos invertidos a lo largo de toda la duración del proyecto. Para ello, contamos con colaboradores especializados en todas las áreas de que constan estos proyectos de estructura metálica.&lt;br&gt;
+Nuestra actividad engloba desde proyectos con empresas de software específico dentro del sector como de  software genérico. Intervenimos tanto en la planificación de los trabajos, mejorando el rendimiento de máquinas y métodos de fabricación y despeice, como en el montaje, optimizando tiempos y recursos en obra. Nuestro trabajo se apoya en equipos informáticos de última generación para garantiza los mejores rendimientos en los proyectos.ImasD ofrece así una solución global mediante la consultoría tecnológica.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>La estructura empresarial planteada por ImasD supone un gran desafío tecnológico. Nos encontramos actualmente en proceso de implantación de un sistema CITRIX para garantizar la movilidad y la seguridad de nuestros profesionales y poder trabajar siempre con las mejores condiciones desde cualquiera de nuestras dos oficinas o desde cualquier lugara donde sea necesario desplazarse  para dar servicio a nuestros clientes y tener así garantizada la permanente conexión.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>MASD se dedica principalmente al asesoramiento técnico a empresas fabricantes o constructoras de estructura metálica, ofrenciéndoles un potente soporte informático, TEKLA STRUCTURES, para optimizar sus proyectos mediante el desarrollo de los mismos en un entorno BIM.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28935</v:postal-code>
+            <v:street-address>Carretera Móstoles-Villaviciosa, P.K. 0,20. Edificio Moma 1-15</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Consultoría y delineación IMASD, S.L.</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/Logo.jpg?1305540412</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Consultoría y delineación IMASD, S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

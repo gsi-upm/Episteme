@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1905">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>La Rioja</v:locality>
+                    <v:postal-code>26006</v:postal-code>
+                    <v:street-address>C/ Piqueras 31 4ª planta</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Riam I+L Lab</ecos:name>
+            <ecos:uri>www.gnoss.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;RIAM INTELEARNING LAB S.L es una empresa de ingeniería del conocimiento cuya MISIÓN es:&lt;br&gt;
+•	Ayudar a las organizaciones a convertir la inteligencia tecnológica en inteligencia humana, contribuyendo a la integración funcional de personas, relaciones, objetos y sistemas.&lt;br&gt;
+•	Desarrollar la vida digital colaborando en la conceptualización y desarrollo del soporte tecnológico que la hará posible (web 2.0, web semántica y web 3D)&lt;br&gt;
+•	Acompañar a las organizaciones en los procesos de cambio cultural y gestión del cambio necesarios para producir inteligencia organizacional en paralelo (empowerment).&lt;br&gt;
+•	Desarrollar y proporcionar las metodologías y herramientas para producir aprendizaje organizacional acelerado.&lt;br&gt;
+•	Favorecer los procesos de innovación social precisos para incrementar y enriquecer el capital social y relacional de la empresa.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Web semántica y todo lo relacionado: buscadores semánticos, razonadores, agregadores inteligentes, etc.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>La Rioja</v:locality>
+            <v:postal-code>26006</v:postal-code>
+            <v:street-address>C/ Piqueras 31 4ª planta</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Riam I+L Lab</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/logo%20GNOSS-ppt.png?1277290629</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Riam I+L Lab</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>2550</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

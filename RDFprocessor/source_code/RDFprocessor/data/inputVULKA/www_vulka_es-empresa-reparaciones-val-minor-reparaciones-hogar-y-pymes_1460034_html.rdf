@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/reparaciones-val-minor-reparaciones-hogar-y-pymes_1460034.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>Av. Monterreal,5 - A3 36300 Bayona (Pontevedra)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Reparaciones Val Miñor, reparaciones Hogar y Pymes</ecos:name>
+            <ecos:uri>http://sites.google.com/site/reparacionesvalminor</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>Reparaciones de Electrodomésticos, Electricidad, Cerrajería y Fontanería con los mejores precios del mercado, con profesionalidad, rapidez y garantía por escrito. 676 19 47 47.&#xD;
+&#xD;
+&#xD;
+&#xD;
+Reparaciones  del  Hogar  y  Pymes en&#xD;
+Electricidad , Cerrajería , Fontanería ,y Electrodomésticos.&#xD;
+&#xD;
+Técnicos profesionales, autónomos y económicos que reparan en el domicilio del cliente al mismo día de su petición y, además también tenemos un servicio urgente en menos de 30 minutos, las 24 horas del día y los 365 días del año con los mejores precios del mercado, que van desde la mitad de los más baratos hasta la cuarta parte de los más caros de la competencia. .  Los  trabajos son personalizados,   y  comenzamos  el  trabajo  y  no nos demoramos  hasta  que  esté  bien  rematado  y  a  satisfacción  del  cliente .&#xD;
+&#xD;
+&#xD;
+GARANTIZAMOS NUESTROS TRABAJOS POR ESCRITO, APARTE DE QUE NUESTRA MEJOR GARANTÍA ES QUE NOS AVALAN NUESTROS CLIENTES, POR RAPIDEZ, CALIDAD Y PRECIO. PÓLIZA DE RESPONSABILIDAD CIVIL DE 150.000  CON LA CÍA. SANTA LUCÍA. 886602003 y 606984600.</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Antenas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Cerrajeros</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Desatascos</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Domótica</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Electricistas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Fontaneros</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalación antenas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalación de telecomunicación</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalación tdt</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Instalador electricista</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Lampistas</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Porteros automáticos</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Servicios a domicilio</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Tdt</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Pontevedra</v:locality>
+            <v:street-address>Av. Monterreal,5 - A3 36300 Bayona (Pontevedra)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Reparaciones Val Miñor, reparaciones Hogar y Pymes</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/1460034_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Reparaciones Val Miñor, reparaciones Hogar y Pymes</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>606984600</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>886602003</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://sites.google.com/site/reparacionesvalminor</v:url>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

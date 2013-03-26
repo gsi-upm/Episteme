@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/299">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Granada</v:locality>
+                    <v:postal-code>18100</v:postal-code>
+                    <v:street-address>Av. Innovación 1. Edif. BIC. Parque tecnológico de ciencias de la salud</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Fundación I+D del Software Libre</ecos:name>
+            <ecos:uri>http://www.fidesol.org</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La Fundación tiene como finalidad fundamental, la de fomentar, promover y promocionar las actividades dirigidas a la  investigación y el desarrollo del software libre en las tecnologías de la información y las comunicaciones contribuyendo a la mejora de la competitividad y consolidación del sistema Ciencia-Tecnología-Empresa, mediante la innovación y el desarrollo tecnológico; así como la realización de acciones y estudios orientados a la formación, transferencia tecnológica, asistencia y otras que permitan la implantación y el desarrollo, en materia del software libre, de la Sociedad de la Información y el Conocimiento en Andalucía.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Desarrollo en Comunidad y Distribución de Fuentes Abiertas
+- Publicación en forja
+- Actualización remota
+- Métricas de calidad
+- Internet de las cosas
+- Ontologías automáticas
+- Convergencia Internet-Televisión</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Pilar Software
+- Métodos y herramientas para la productividad
+Pilar Servicios
+- Web semántica
+- Integración de servicios
+Fundamentos clave
+- Interoperabilidad</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Granada</v:locality>
+            <v:postal-code>18100</v:postal-code>
+            <v:street-address>Av. Innovación 1. Edif. BIC. Parque tecnológico de ciencias de la salud</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Fundación I+D del Software Libre</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Fundación I+D del Software Libre</v:organisation-name>
+            <v:organisation-unit>Centro Privado de Investigación</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

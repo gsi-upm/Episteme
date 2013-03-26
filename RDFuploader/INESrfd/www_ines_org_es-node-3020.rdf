@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/3020">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Sevilla</v:locality>
+                    <v:postal-code>410120</v:postal-code>
+                    <v:street-address>Av de la Innovación s/n Edificio RentaSevilla</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Tecnocom España Solutions</ecos:name>
+            <ecos:uri>www.tecnocom.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Tecnocom es una multinacional española que cotiza en la Bolsa de Madrid desde 1987. En 2006, Tecnocom inició un proceso Corporativo de expansión con el objetivo de llegar a ser líder en el mercado de la tecnología de la información español.&lt;/p&gt;
+&lt;p&gt;Tecnocom es una de las cinco primeras empresas del sector de la tecnología de la información en España (alrededor de 400 millones de euros de ingresos) con una amplia experiencia en operaciones de elevado nivel tecnológico, como medios de pago bancarios o sistemas de automatización. Su presencia regional incluye España, Portugal y América Latina (Chile, Colombia, México, Perú, Brasil y Costa Rica).&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Aplicación de buenas prácticas</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Sevilla</v:locality>
+            <v:postal-code>410120</v:postal-code>
+            <v:street-address>Av de la Innovación s/n Edificio RentaSevilla</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Tecnocom España Solutions</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Tecnocom España Solutions</v:organisation-name>
+            <v:organisation-unit>Centro Privado de Investigación</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>4880</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

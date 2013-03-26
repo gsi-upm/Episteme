@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/255">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Asturias</v:locality>
+                    <v:postal-code>33600</v:postal-code>
+                    <v:street-address>Centro Empresas Caudal - PG Vega de Arriba -  Mieres</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Prometeo Innovations S.L.N.E.</ecos:name>
+            <ecos:uri>www.prometeoinnovations.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Prometeo Innovations S.L. es una ingeniería especializada en el desarrollo de innovaciones con base tecnológica en el marco de la movilidad orientada especialmente a vehículos, que busca convertirse en referente en el desarrollo de soluciones y servicios orientados a conductor y pasajeros. Su actividad principal es por tanto el diseño, fabricación y comercialización de equipos electrónicos para todo tipo de vehículos (coches, motos, autobuses, camiones, incluso bicicletas y otro tipo de medios de transporte), y desarrollo del correspondiente software para su manejo.&lt;br&gt;
+Prometeo dispone de dos unidades de negocio, la primera orientada específicamente al mercado de consumo con productos propios y otros productos de terceros para el mundo del automóvil y la movilidad. La “estrella” de esta unidad de negocio es iMove, una pionera plataforma multimedia para vehículos que integra servicios “tradicionales” como pueden ser la reproducción multimedia, teléfono y navegación GPS, con los servicios y posibilidades que la conexión permanente a internet permite (información meteorológica, lector de noticias RSS, información bursátil, correo electrónico, etc). Además iMove está concebido como una plataforma segura (e-call, control por voz, interfaz adaptable al contexto,etc) y ampliable, con un innovador sistema de actualización vía web, que permitirá agregar servicios que no estaban disponibles en el momento de la compra del equipo.&lt;br&gt;
+La segunda unidad de negocio se enfoca al desarrollo de soluciones computacionales para vehículos diseñados a medida de los requerimientos de los clientes. En este caso el trabajo incluye partes físicas (hardware) y  la programación del software.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Nuestros mayores desafíos en I+D+i están centrados en 3 áreas: el software, el HMI y los servicios.
+En el área de software debemos desarrollar un software que sea a un tiempo confiable y fácilmente ampliable, mantenible y renovable. La confiabilidad es fundamental, ya que en un vehículo en marcha los fallos y negaciones de servicio se vuelven intolerables para el usuario. La necesidad de ampliabilidad, mantenibilidad y renovabilidad no es fundamental únicamente por las exigencias de un entorno tan cambiante como el nuestro, sino que forma parte del compromiso de nuestra empresa con los clientes. Además debemos implementar un software muy eficiente, debido a las limitaciones del hardware disponible para dispositivos onboard y la exigencia de fluidez en el uso del software por parte de los clientes.
+En el área de HMI, nos apremia la necesidad de crear interfaces fácilmente usables y multimodales, de forma que requiriendo el mínimo de atención necesario proporcionen el mayor control posible. Esto es debido a la importancia de la seguridad dentro de un vehículo y a la necesidad de minimizar las distracciones del usuario. Por eso mismo nuestras interfaces tienen que ser inteligentes y adaptarse al entorno, tratando de no distraer al conductor en momentos en los que la conducción del vehículo precisa la máxima atención.
+En cuanto a los servicios nuestro mayor reto reside en detectar las necesidades que los posibles clientes pudieran tener en sus vehículos, y en proporcionar unos servicios que respondan a estas necesidades de una forma adecuada y adaptada al entorno del automóvil, considerando las posibilidades que nos abre el acceso a la web desde el coche.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Asturias</v:locality>
+            <v:postal-code>33600</v:postal-code>
+            <v:street-address>Centro Empresas Caudal - PG Vega de Arriba -  Mieres</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Prometeo Innovations S.L.N.E.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Prometeo Innovations S.L.N.E.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>8</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

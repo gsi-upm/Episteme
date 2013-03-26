@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/telecolver_1451356.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>CALLE FRANCISCO GASCO SANTILLAN 2 28906 GETAFE (Madrid)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>TELECOLVER</ecos:name>
+            <ecos:uri>http://www.telecolver.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>Empresa integradora de telecomunicaicón y seguridad.  Ingeniería e instalación con mas de 40 años de experiencia</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>ingeniería, intalación y mantenimiento de &#13;TELECOMUNICACIÓN: antenas de televisión  TDT y satélite, porteros y vídeoporteros, repetidores de televisión, repetidores GSM, televisión IP.&#13;COMUNICACIÓN: redes de voz y datos, electrónica de red, centrales telefónicas, redes WIFI/WIMAX, fibra óptica FTTH.&#13;SEGURIDAD: cáamras de vigilancia, redes CCTV, alarmas, control de accesos, control de presencia y horario, control de rondas.&#13;AUDIOVISUALES: megafonía, sonorización, proyectores de vídeo, cartelería digital.&#13;DOMOTICA: sistemas domóticos e inmóticos.&#13;INCENDIO: sistemas de detección de incendios y CO&#13;INGENIERÍA: ingeniería de telecomunicaciones y consultoría, proyectos de telecomunicaciones ICT, direcciones de obra y certificación.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:street-address>CALLE FRANCISCO GASCO SANTILLAN 2 28906 GETAFE (Madrid)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>TELECOLVER</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/1451356_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>TELECOLVER</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>916951996</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.telecolver.es</v:url>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>vulka</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>390</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

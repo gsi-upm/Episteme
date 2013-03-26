@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/313">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Vizcaya</v:locality>
+                    <v:postal-code>48940</v:postal-code>
+                    <v:street-address>Estartetxe, 5-503. Leioa</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>B-kin Software</ecos:name>
+            <ecos:uri>http://www.b-kin.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;El núcleo de negocio de B-kin son las aplicaciones SaaS o Software on-demand; es decir, la venta de servicios empresariales a través de Internet.&lt;/p&gt;
+&lt;p&gt;Sus principales productos actualmente son: CRM (Client Resources Management, BPM (B-Kin Project Monitor), B-Kin Galleries, etc.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Asimilar y evaluar las nuevas tendencias del negocio en internet, tanto en cuanto tecnologías como a filosofías de producto.</ecos:detail>
+            <ecos:detail>Conocer y resolver la aplicación de conceptos como WEB 2.0 arquitectura SOA a los productos SaaS.</ecos:detail>
+            <ecos:detail>Re-pensar la actual arquitectura de producto con el objetivo de optimizar el rendimiento, la funcionalidad y la calidad del servicio.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>B-kin es una empresa innovadora en España en cuanto a la oferta de software SaaS, vía Internet. 
+·Creada en 1995 ha sufrido una evolución natural, cimentada siempre en la vanguardia de las tecnologías software, hasta configurar su actual catálogo de productos: software empresarial 
+· suministrado como servicio vía internet.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Vizcaya</v:locality>
+            <v:postal-code>48940</v:postal-code>
+            <v:street-address>Estartetxe, 5-503. Leioa</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>B-kin Software</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>B-kin Software</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1404">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Sevilla</v:locality>
+                    <v:postal-code>41012</v:postal-code>
+                    <v:street-address>Avda. Reino Unido , S/N Edificio Indotorre 3ª Planta</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Caymasa El Sendero</ecos:name>
+            <ecos:uri>http://www.elsendero.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Caymasa El Sendero S.A. es una empresa de consultoría y servicios especializados en Nuevas Tecnologías de la Información y Comunicación, perteneciente al Grupo Cajasol.&lt;/p&gt;
+&lt;p&gt;En la actualidad, está formada por una plantilla de más de 100 profesionales plenamente cualificados para atender y resolver todos los problemas planteados, ofreciendo soluciones llave en mano, asesorando y colaborando en la detección de las necesidades específicas de sus clientes.&lt;/p&gt;
+&lt;p&gt;Los valores que la definen como empresa son:&lt;/p&gt;
+&lt;p&gt;Trabajo en equipo, ilusión, creatividad, competitividad y profesionalidad.&lt;/p&gt;
+&lt;p&gt;El Sendero es una empresa de larga trayectoria profesional que cuenta con una amplia experiencia en su sector, de ahí que haya obtenido las certificaciones de calidad y medio ambiente.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Avanzar en la integración de herramientas de SIG con productos BI en el ambito del software libre.
+La movilidad es un area en la que nos gustaria incidir por nuestra experiencia en este ambito</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Sevilla</v:locality>
+            <v:postal-code>41012</v:postal-code>
+            <v:street-address>Avda. Reino Unido , S/N Edificio Indotorre 3ª Planta</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Caymasa El Sendero</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Caymasa El Sendero</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>402</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

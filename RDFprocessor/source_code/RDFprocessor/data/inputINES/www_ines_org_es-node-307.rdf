@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/307">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Lugo</v:locality>
+                    <v:postal-code>27002</v:postal-code>
+                    <v:street-address>C/ Cántigas e Frores 31, Edificio FORCAM, Oficina nº 4, 27002, Lugo, Galicia, Spain</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Jesús Quintana</ecos:name>
+            <ecos:uri>http://www.maismedia.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;MaisMedia Optimización Web Marketing es, en la actualidad, un proyecto freelance que nace para ayudar a las pequeñas y medianas empresas y a los profesionales independientes a aprovechar los recursos online al máximo, con el principal objetivo de crecer, aumentar la visibilidad de su producto o servicio, aumentando así el tráfico de visitantes, y por tanto, la captación de clientes online mediante diversos métodos de comunicación.&lt;/p&gt;
+&lt;p&gt;Realizando tareas de diseño, arquitectura de contenidos, programación front-end (XTHML, CSS, AJAX), accesibilidad, usabilidad, diseño de interacción y marketing online (SEO, SEM) para PyMES y como profesionales externos para destacadas empresas realizando desarrollo de Interfaces front y back maquetando con estandares W3C y accesibilidad WAI-AA manual preparadas para SEO.&lt;/p&gt;
+&lt;p&gt;Nuestras especialidades son la arquitectura de información, usabilidad, diseño de interacción, maquetación web avanzada, accesibilidad web y seo&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>MaisMedia Optimización Web Marketing es, en la actualidad, un proyecto freelance que nace para ayudar a las pequeñas y medianas empresas y a los profesionales independientes a aprovechar los recursos online al máximo, con el principal objetivo de crecer, aumentar la visibilidad de su producto o servicio, aumentando así el tráfico de visitantes, y por tanto, la captación de clientes online mediante diversos métodos de comunicación.</ecos:detail>
+            <ecos:detail>Nuestras especialidades son la arquitectura de información, usabilidad, diseño de interacción, maquetación web avanzada, accesibilidad web y seo</ecos:detail>
+            <ecos:detail>Realizando tareas de diseño, arquitectura de contenidos, programación front-end (XTHML, CSS, AJAX), accesibilidad, usabilidad, diseño de interacción y marketing online (SEO, SEM) para PyMES y como profesionales externos para destacadas empresas realizando desarrollo de Interfaces front y back maquetando con estandares W3C y accesibilidad WAI-AA manual preparadas para SEO.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>MaisMedia Optimización Web Marketing es, en la actualidad, un proyecto freelance que nace para ayudar a las pequeñas y medianas empresas y a los profesionales independientes a aprovechar los recursos online al máximo, con el principal objetivo de crecer, aumentar la visibilidad de su producto o servicio, aumentando así el tráfico de visitantes, y por tanto, la captación de clientes online mediante diversos métodos de comunicación.
+Realizando tareas de diseño, arquitectura de contenidos, programación front-end (XTHML, CSS, AJAX), accesibilidad, usabilidad, diseño de interacción y marketing online (SEO, SEM) para PyMES y como profesionales externos para destacadas empresas realizando desarrollo de Interfaces front y back maquetando con estandares W3C y accesibilidad WAI-AA manual preparadas para SEO.
+Nuestras especialidades son la arquitectura de información, usabilidad, diseño de interacción, maquetación web avanzada, accesibilidad web y seo</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Lugo</v:locality>
+            <v:postal-code>27002</v:postal-code>
+            <v:street-address>C/ Cántigas e Frores 31, Edificio FORCAM, Oficina nº 4, 27002, Lugo, Galicia, Spain</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Jesús Quintana</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Jesús Quintana</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

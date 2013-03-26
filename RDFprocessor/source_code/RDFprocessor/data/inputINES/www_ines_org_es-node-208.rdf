@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/208">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Zaragoza</v:locality>
+                    <v:postal-code>50018</v:postal-code>
+                    <v:street-address>c/ María de Luna 8</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Instituto Tecnologico de Aragón</ecos:name>
+            <ecos:uri>http://www.ita.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Administración o Academia&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>* Aplicación de las TIC a la Logística Integral (suministro, almacenaje, transporte y distribución) - Tecnologías Línea de calidad del software * Productividad en el desarrollo de Software * Calidad software Línea de eLogística e integración de servicios * Adaptación * Internet del Futuro * Interoperabilidad * Aspectos socio-económicos * Negocio digital en red Línea de media * Cloud Computing * Usabilidad * Orientación a la persona</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>El ITA dispone de un Plan Tecnológico con el objetivo de definir y ordenar los ámbitos de desarrollo de la actividad de investigación y desarrollo tecnológico del instituto, favorecer la generación de nuevo conocimiento y posicionar al centro como referente nacional en los diferentes Programas Estratégicos, entre los que se encuentra el de Tecnologías de la Información y de las Comunicaciones. Dentro de este ámbito, destacan las siguientes actuaciones: - La aplicación de las Tecnologías de la Información y de las Comunicaciones en la resolución de problemas logísticos, actividad desarrollada dentro del centro de conocimiento LOGysTIC-A (financiado por el subprograma Avanza Contenidos: Centros del Conocimiento - REF TSI-070200-2008-76). - La aplicación de las tecnologías multimedia para generar plataformas audiovisuales e interfaces Interactivos, actividad desarrollada dentro del centro de conocimiento CETVi (financiado por el subprograma Avanza Contenidos: Centros del Conocimiento - REF PAV-100000-2007-307). - La mejora de la calidad del software basada en los procesos de desarrollo, con especial atención a la optimización del proceso en las small settings y al desarrollo colaborativo - Global Software Engineering. En este apartado nuestro plan tecnológico detalla el modelado, la ejecución, las herramientas de ayuda a la toma de decisiones basadas en simulación de procesos software y los mecanismos de desarrollo colaborativo como elementos estratégicos a desarrollar. En relación a la Agenda Estratégica de INES: -</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Zaragoza</v:locality>
+            <v:postal-code>50018</v:postal-code>
+            <v:street-address>c/ María de Luna 8</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Instituto Tecnologico de Aragón</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/LogoITA.jpg?1276853868</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Instituto Tecnologico de Aragón</v:organisation-name>
+            <v:organisation-unit>Centro Público de Investigación</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/907">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28000</v:postal-code>
+                    <v:street-address>Madrid</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>QUANDO DESARROLLO EMPRESARIAL S.L.</ecos:name>
+            <ecos:uri>www.quando.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;GRUPO DE EMPRESAS QUANDO DESARROLLO EMPRESARIAL S.L:&lt;br&gt;
+- Instituto de Formación Integral (IFI) es una empresa dedicada a la formación y la prestación de servicios de consultoría en el ámbito de la prevención, calidad, nuevas tecnologías y desarrollo de proyectos nacionales y europeos. Destacamos las siguientes Áreas:&lt;br&gt;
+ * Área de Programas Europeos: área especializada en la gestión de proyectos financiados en el marco de la Unión Europea, formado por personal con alta cualificación y demostrada experiencia en el área de consultoría, así como en la presentación y ejecución de proyectos desarrollados en el entorno de la UE.&lt;br&gt;
+* Área de Proyectos Tecnológicos: Asesoría técnica y Apoyo a la Innovación y al uso de las TIC. Profesionales expertos en Estudios de Detección de Necesidades, Planes de Mejora, Soluciones de Negocio, Líneas de subvención e Instrumentos Financieros de apoyo a la I+D+i en la PYME así como en el diseño y gestión del ciclo completo de proyectos técnicos.&lt;br&gt;
+* Dirección Técnica de IFI: Departamento de consultoría de tecnologías de la información (Internet, cuadros de mando y herramientas de ayuda a la toma de decisiones, automatización y optimización de procesos de negocio, seguridad de la información, mantenimiento y explotación de sistemas informáticos) y encargado del desarrollo, investigación e innovación en tecnologías de la información.&lt;br&gt;
+- PREVALIA es una empresa altamente especializada en la Prevención de Riesgos Laborales, compuesta por técnicos especializados por áreas y sectores de actividad (Industria Alimentaria, Metalurgia, Construcción, Servicios, etc.) y cuenta con un nutrido grupo de colaboradores expertos en relaciones laborales, ingeniería, consultoría y formación.&lt;br&gt;
+- FIDENS provee a sus clientes de servicios especializados en materia de consultoría y auditoría de sistemas de gestión empresarial (formación continua, prevención de riesgos laborales, medio ambiente y calidad).&lt;br&gt;
+- CURSOFORUM: factoría de contenidos y gestión del conocimiento, con una actividad muy intensa en el ámbito del Diseño y las Artes Gráficas, la Edición, la producción de contenidos de e-Learning y la Consultoría. Destacamos las siguientes áreas:&lt;br&gt;
+* Área de Edición de Contenidos: Concepción, elaboración y ejecución de contenidos para materiales formativos online&lt;br&gt;
+* Área de NICT: Programación y Aplicación de soluciones tecnológicas innovadoras a la formación, así como mantenimiento de las aplicaciones existentes y valoración de inversiones tecnológicas.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>-</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28000</v:postal-code>
+            <v:street-address>Madrid</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>QUANDO DESARROLLO EMPRESARIAL S.L.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>QUANDO DESARROLLO EMPRESARIAL S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>8</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

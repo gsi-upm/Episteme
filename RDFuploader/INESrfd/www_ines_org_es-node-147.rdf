@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/147">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Vizcaya</v:locality>
+                    <v:postal-code>48160</v:postal-code>
+                    <v:street-address>Avda Txorierri, 9-2º (Edif. Arteaga) Derio</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Semantic Systems, S.A.</ecos:name>
+            <ecos:uri>www.semantic-systems.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;SEMANTIC SYSTEMS es una Compañía de proyectos en Tecnologías de la Información, especializada en el diseño, implantación y mantenimiento de soluciones informáticas en empresas del ámbito industrial.&lt;/p&gt;
+&lt;p&gt;SEMANTIC SYSTEMS apuesta decididamente por obtener ventaja competitiva originada mediante la innovación tecnológica, invirtiendo a través de su departamento de I+D en el desarrollo de tecnología propia.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Gestión de la complejidad, métodos y herramientas para la productividad, interfaz de usuario, web semántica, integración de servicios, ... todo ello aplicado al mundo industrial.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Vizcaya</v:locality>
+            <v:postal-code>48160</v:postal-code>
+            <v:street-address>Avda Txorierri, 9-2º (Edif. Arteaga) Derio</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Semantic Systems, S.A.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Semantic Systems, S.A.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>99</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

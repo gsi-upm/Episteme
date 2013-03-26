@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/eki-argi-electricidad-s-l_1437222.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>ESPINOSA DE LOS MONTEROS Nº 3  2º Izq 20110 PASAI SAN PEDRO (Guipúzcoa)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>EKI-ARGI ELECTRICIDAD S.L.</ecos:name>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>INSTALACIONES Y MONTAJES ELECTRICOS</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>EKI-ARGI ELECTRICIDAD S.L.&#13; Esta a su servicio para poder ofrecerle la mejor &#13;oferta a cualquier trabajo en electricidad.&#13;                     RAPIDEZ Y LIMPIEZA&#13;- INSTALACIONES INDUSTRIALES&#13;- REFORMAS&#13;- ILUMINACION&#13;- MANTENIMIENTOS&#13;Llame sin compromiso y pida presupuesto.&#13;                 TELEFONO  606 972 388&#13;           ekiargielectricidad@hotmail.com</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Guipúzcoa</v:locality>
+            <v:street-address>ESPINOSA DE LOS MONTEROS Nº 3  2º Izq 20110 PASAI SAN PEDRO (Guipúzcoa)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>EKI-ARGI ELECTRICIDAD S.L.</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/1437222_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>EKI-ARGI ELECTRICIDAD S.L.</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>606972388</rdf:value>
+          </rdf:Description>
+        </v:tel>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>vulka</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>3</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

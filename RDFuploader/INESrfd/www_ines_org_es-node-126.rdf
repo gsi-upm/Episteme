@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/126">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Vizcaya</v:locality>
+                    <v:postal-code>48930</v:postal-code>
+                    <v:street-address>Avda. Zugazarte 8, 1º - 6</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Software Quality Systems, S.A.</ecos:name>
+            <ecos:uri>www.sqs.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Software Quality Systems, S.A. es una empresa independiente de testeo de software especializada en el diseño e implantación de procesos de verificación y validación.&lt;br&gt;
+SQS S.A. se creó en 1998 y viene ofreciendo desde entonces servicios de aseguramiento de la calidad del software, un sector, en el que se ha convertido líder del mercado español.&lt;br&gt;
+Los clientes de SQS son empresa líder en el sector de las telecomunicaciones, aeronáutica, farmacia, ferrocarril, electrónica y banca. La experiencia de SQS comprende un profundo conocimiento técnico en el diseño, implantación, gestión de entornos complejos de testeo. El posicionamiento de SQS le permite ofrecer la experiencia, conocimiento, métodos y herramientas que están implementadas actualmente en el SQS Test Lab®, como la base fundamental para la creación de nuevas Plataformas de Test. Las plataformas de test que se han creado hasta el momento permiten gestionar y validar tanto requisitos funcionales como no-funcionales (interoperabilidad, usabilidad, carga, stress, etc).&lt;br&gt;
+SQS S.A. presta soporte y asesoramiento tanto a nivel de calidad de proceso como de producto. Algunos de los servicios ofrecidos por SQS son:&lt;br&gt;
+•Diseño e implantación de programas de certificación de productos.&lt;br&gt;
+•Diseño e implantación de procesos de verificación y validación para sistemas críticos de seguridad, mediante el cumplimiento de estándares sectoriales (CENELEC, FDA).&lt;br&gt;
+•Diseño, seguimiento e implantación de procesos de desarrollo de software.&lt;br&gt;
+•Diseño e implantación de procesos de benchmarking.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>SQS S.A. centra su labor investigadora en la mejora de procesos, ingeniería de requisitos y seguridad en internet. En concreto, las líneas de investigación seguidas hasta ahora y las que se prevén para el futuro son las siguientes:
+Ingeniería de Requisitos
+Metodologías ágiles
+Mejora de procesos de desarrollo
+Validación y verificación
+Validación de aplicaciones Web
+Normalización y certificación bajo estándares sectoriales</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Vizcaya</v:locality>
+            <v:postal-code>48930</v:postal-code>
+            <v:street-address>Avda. Zugazarte 8, 1º - 6</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Software Quality Systems, S.A.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Software Quality Systems, S.A.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>151</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

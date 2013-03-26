@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/content/egatel-sl">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Orense</v:locality>
+                    <v:postal-code>32901</v:postal-code>
+                    <v:street-address>Avda. Ourense nº1 - Tecnópole</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Egatel S.L.</ecos:name>
+            <ecos:uri>www.egatel.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;EGATEL es una empresa cualificada y especializada en la investigación, desarrollo y fabricación de productos y sistemas de radiofrecuencia destinados a transportar o difundir señales de televisión - tanto en formato analógico como digital - y señales de radio digital para cubrir las necesidades del mercado broadcast profesional global.&lt;/p&gt;
+&lt;p&gt;La principal actividad de la compañía consiste en el suministro de transmisores, re-transmisores y gap-fillers para emitir las señales de radio y TV, además de trabajos de ingeniería combinados con ejecución de proyectos llave en mano y suministro de equipamiento auxiliar, como sistemas radiantes o equipamiento pasivo de RF.  Do you have any idea how much &lt;a href="http://www.slycams.com"&gt;webcam girls&lt;/a&gt; earn?  Guys can make a ton also. Come and watch these &lt;a href="http://www.slycams.com/webcam/trimmed/"&gt;cam girls&lt;/a&gt; today online or make cash.&lt;/p&gt;
+&lt;p&gt;La base sobre la que se sustenta la estrategia competitiva de la empresa radica en invertir un elevado porcentaje de los beneficios en recursos de I+D, con el objetivo de ofrecer al mercado Broadcast profesional productos innovadores y equipamiento de alta tecnología.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>"Fail" is the blogger-adored modern stamp of disapproval for anything that falls below whatever arbitrary standard a critic feels like imposing. The proprietors of FailBlog.org open the "fail" doors to the world, encouraging readers to submit images of people, places, or things that in one way or another didn't work out right, and then inviting all visitors to vote on how many thumbs down the depicted blunder deserves. Whether the specimen under the FailBlog microscope is a poorly designed building or a curious case of inconsistent pricing, the site's findings are sure to generate some laughter wins.</ecos:detail>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Orense</v:locality>
+            <v:postal-code>32901</v:postal-code>
+            <v:street-address>Avda. Ourense nº1 - Tecnópole</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Egatel S.L.</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/egatel_1000x282.jpg?1328108016</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Egatel S.L.</v:organisation-name>
+            <v:organisation-unit>Gran Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>273</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

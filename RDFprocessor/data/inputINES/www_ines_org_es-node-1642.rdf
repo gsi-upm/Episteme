@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1642">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Granada</v:locality>
+                    <v:postal-code>18100</v:postal-code>
+                    <v:street-address>Avd. de la Innovación 1, Edificio BIC</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>IActive Intelligent Technologies</ecos:name>
+            <ecos:uri>http://www.iactive.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;IActive es una Spin-off de la Universidad de Granada cuya misión es la transferencia de tecnologías basadas en el área de la Inteligencia Artificial para su explotación comercial. Estamos especializados en planificación automática, razonamiento basado en casos, sistemas expertos, razonadores lógicos, ontologías, satisfacción de restricciones y aprendizaje automático (entre otros). Proveemos de tecnologías a nuestra red de partners facilitando el modelado y la integración de las herramientas inteligentes dentro de las soluciones generadas por los mismos.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Nuestras herramientas van encaminadas a facilitar las labores cotidianas de los denominados knowledge workers http://en.wikipedia.org/wiki/Knowledge_worker. Estos trabajadores son especialistas en un área en concreto cuyo conocimiento es muy valioso, pero para los cuales todavía no existen demasiadas herramientas que les presten apoyo. Las herramientas basadas en tecnologías de la Inteligencia Artificial son muy adecuadas para proporcionar este soporte. Las herramientas gestadas en el departamento de I+D+i van encaminadas a proporcionar ayuda a la decisión a este tipo de trabajadores y la forma de llegar a ellos es a través de las soluciones que utilizan nuestras tecnologías que son desarrolladas pornuestra red de partners.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Planificación automática, razonamiento basado en casos, sistemas expertos, razonadores lógicos, ontologías, satisfacción de restricciones y aprendizaje automático (entre otros).</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Granada</v:locality>
+            <v:postal-code>18100</v:postal-code>
+            <v:street-address>Avd. de la Innovación 1, Edificio BIC</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>IActive Intelligent Technologies</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/iactive_1.jpg?1273658100</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>IActive Intelligent Technologies</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

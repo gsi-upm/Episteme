@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:gsi="http://www.gsi.dit.upm.es/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <gsi:Company rdf:about="http://www.ines.org.es/content/alarcos-quality-center">
+    <gsi:activity>- Creación y mejora de fábricas/departamentos de software.
+    - Evaluación y mejora de la calidad de procesos de desarrollo software.
+    - Evaluación y mejora de la calidad del producto software.
+    - Testing de sistemas informáticos.
+    - Calidad de datos.
+    - Ingeniería de procesos.</gsi:activity>
+    <gsi:activity>Alarcos Quality Center (AQC) es una spin-off de la Universidad de Castilla-La Mancha cuyo objetivo es proporcionar un servicio de aseguramiento de la calidad del software tanto a factorías y departamentos de desarrollo, como a empresas adquisidoras de software.</gsi:activity>
+    <gsi:activity>La principal actividad de AQC se centra en la consultoría y prestación de servicios en el área de la calidad de sistemas de información. Específicamente en temas relacionados con:</gsi:activity>
+    <gsi:address>Paseo de la Universidad 4</gsi:address>
+    <gsi:challenges>Mejora de los modelos para la evaluación de procesos y productos software.
+Validación de métricas para la evaluación del software.
+Creación de entornos para la evaluación y mejora de la calidad del software.</gsi:challenges>
+    <gsi:inesCandidate>No</gsi:inesCandidate>
+    <gsi:inesCommittee>No</gsi:inesCommittee>
+    <gsi:inesWhy>- Participar en las actividades de esta iniciativa.&#xD;
+- Apoyar en los grupos de trabajo relacionados con nuestras actividades.&#xD;
+- Conocer los distintos puntos de vista y avances existentes en las áreas tecnológicas que trabajamos.&#xD;
+- Participar en la elaboración de proyectos de I+D.</gsi:inesWhy>
+    <gsi:logo>http://www.ines.org.es/sites/default/files/Logo-AQC-Peque%C3%B1o.jpg?1312200186</gsi:logo>
+    <gsi:name>Alarcos Quality Center</gsi:name>
+    <gsi:postcode>13071</gsi:postcode>
+    <gsi:province>Ciudad Real</gsi:province>
+    <gsi:shortName>AQC</gsi:shortName>
+    <gsi:skills>Consultoría para la mejora de procesos de desarrollo software.
+Evaluación de la madurez de empresas frente a modelos de calidad (CMMI, ISO 15504).
+Evaluación de la calidad del producto software.
+Testing de sistemas informáticos</gsi:skills>
+    <gsi:type>Pequeña y mediana empresa</gsi:type>
+    <gsi:ui37pm>Si</gsi:ui37pm>
+    <gsi:ui3Technologies>Software Quality</gsi:ui3Technologies>
+    <gsi:web>www.alarcosqualitycenter.com</gsi:web>
+  </gsi:Company>
+
+  <gsi:Company rdf:about="http://www.ines.org.es/content/ammi-technologies-sl">
+    <gsi:activity>AMMI TECHNOLOGIES es una empresa joven y dinámica que ofrece múltiples servicios de tecnología, desde el montaje de placas electrónicas y de equipos completos hasta el diseño, desarrollo e implantación de proyectos de base tecnológica.
+Desde sus inicios en el montaje de placas electrónicas, poco a poco reafirmando sus logros, avanza hacia la consolidación de un equipo de I+D que le permite posicionarse en el mapa tecnológico mundial.</gsi:activity>
+    <gsi:activity>AMMI Technologies  proporciona Productos y Servicios de tecnología profesional , Subcontratación o Desarrollo.
+ Hardware y Software.
+ Montaje de Placas Electrónicas.
+ Montaje de Equipos Electrónicos, Eléctricos y Mecánicos completos.
+ Diseño, desarrollo e implantación de proyectos de base tecnológica.
+ Compra y logística de los componentes electrónicos, eléctricos y mecánicos.</gsi:activity>
+    <gsi:activity>AMMi Technologies tiene un Compromiso especial con:
+Medio Ambiente
+Responsabilidad Social
+I+D+i</gsi:activity>
+    <gsi:activity>En AMMi Technologies buscamo proporcionar un servicio eficiente a la medida de las necesidades y objetivos del cliente.</gsi:activity>
+    <gsi:activity>Los principales Valores en los que se fundamenta el equipo son:
+Seriedad
+Confidencialidad
+Transparencia
+Cooperación
+Coordinación
+Colaboración
+Comunicación
+Flexibilidad</gsi:activity>
+    <gsi:address>Poligono San Ciprián de Viñas c/Ricardo Martín Esperanza Calle 1 (Anexo Tecnopole)</gsi:address>
+    <gsi:challenges>La creación del Departamento de I+D+i dentro de la empresa es reciente. Con ella, se pretende abordar y fortalecer todas las actividades de desarrollo de hardware/software, la colaboración entre empresas y demás agentes tecnológicos y conseguir un sistema de vigilancia tecnológica que nos permita actualizar diariamente cualquier avance tecnológico relacionado con las actividades a desarrollar.</gsi:challenges>
+    <gsi:inesCandidate>No</gsi:inesCandidate>
+    <gsi:inesCommittee>No</gsi:inesCommittee>
+    <gsi:inesWhy>AMMI TECHNOLOGIES S.L. ha iniciado su actividad en el año 2009. Desde entonces, su actividad se ha centrado mayoritariamente en la fabricación de hardware. La creación del Departamento de I+D+i dentro de la empresa, junto con la necesidad de dotar al hardware del software adecuado en función de las especificaciones de cada cliente, crea la necesidad de marcar una nueva línea de actuación en la empresa de cara a colaborar y desarrollar nuevas actividades relacionadas con la parte software integrada en los dispositivos electrónicos que desarrollemos y produzcamos.</gsi:inesWhy>
+    <gsi:logo>http://www.ines.org.es/sites/default/files/logoammi.JPG?1327411681</gsi:logo>
+    <gsi:name>AMMI TECHNOLOGIES S.L.</gsi:name>
+    <gsi:postcode>32901</gsi:postcode>
+    <gsi:province>Orense</gsi:province>
+    <gsi:shortName>AMMI TECHNOLOGIES</gsi:shortName>
+    <gsi:skills>* Montaje de placas electrónicas de alta calidad.
+* Montaje de equipamientos electrónicos y eléctricos (Racks de TDT, racks de maquinaria, cuadros eléctricos…).
+* Soldadura de placas electrónicas.
+* Fabricación y Montaje de cableados electrónicos a medida de alta calidad y especificaciones.
+* Comprobación y verificación de los montajes electrónicos y eléctricos.
+* Inserción de placas electrónicas en sus soportes.
+* Montajes mecánicos para equipamientos: racks, cuadros, bastidores, soportes.
+* Modificación de equipos mecánicos.
+* Montaje de componentes diversos: conectores, disipadores, carátulas, regletas…
+* Estudios de necesidades en el mercado de las TICs.
+* Oficina Técnica.
+* Análisis / Consultoría de soluciones tecnológicas.
+* Prototipados según necesidades de cliente.</gsi:skills>
+    <gsi:type>Pequeña y mediana empresa</gsi:type>
+    <gsi:ui37pm>Si</gsi:ui37pm>
+    <gsi:ui3Sectors>Aerospace</gsi:ui3Sectors>
+    <gsi:ui3Sectors>Agricultural</gsi:ui3Sectors>
+    <gsi:ui3Sectors>Automobile</gsi:ui3Sectors>
+    <gsi:ui3Sectors>Biomedical</gsi:ui3Sectors>
+    <gsi:ui3Sectors>Biotechnology</gsi:ui3Sectors>
+    <gsi:ui3Sectors>Building</gsi:ui3Sectors>
+    <gsi:ui3Sectors>Car</gsi:ui3Sectors>
+    <gsi:ui3Sectors>Clothing</gsi:ui3Sectors>
+    <gsi:ui3Sectors>Communication</gsi:ui3Sectors>
+    <gsi:ui3Sectors>Consulting</gsi:ui3Sectors>
+    <gsi:ui3Sectors>Defense</gsi:ui3Sectors>
+    <gsi:ui3Sectors>Distribution</gsi:ui3Sectors>
+    <gsi:ui3Sectors>Electronics</gsi:ui3Sectors>
+    <gsi:ui3Sectors>Energy</gsi:ui3Sectors>
+    <gsi:ui3Sectors>Engineering</gsi:ui3Sectors>
+    <gsi:ui3Sectors>Health</gsi:ui3Sectors>
+    <gsi:ui3Sectors>Industry</gsi:ui3Sectors>
+    <gsi:ui3Sectors>Logistics</gsi:ui3Sectors>
+    <gsi:ui3Sectors>Manufacturing</gsi:ui3Sectors>
+    <gsi:ui3Sectors>R&amp;D</gsi:ui3Sectors>
+    <gsi:ui3Sectors>Telecommunication</gsi:ui3Sectors>
+    <gsi:ui3Sectors>Telephone</gsi:ui3Sectors>
+    <gsi:ui3Sectors>Transport</gsi:ui3Sectors>
+    <gsi:ui3Sectors>Water Utilities</gsi:ui3Sectors>
+    <gsi:ui3Technologies>3D</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Ambience Intelligent</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Bluetooth</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Business Intelligence</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Cloud</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Communications</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Competence Management</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Electronic transactions</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Embedded systems</gsi:ui3Technologies>
+    <gsi:ui3Technologies>GPS</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Galileo</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Green IT</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Grid</gsi:ui3Technologies>
+    <gsi:ui3Technologies>HaaS</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Hardware</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Medical history</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Mobility</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Moodle</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Navigation Systems</gsi:ui3Technologies>
+    <gsi:ui3Technologies>On demand computing</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Open Source</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Project Management</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Protocols</gsi:ui3Technologies>
+    <gsi:ui3Technologies>RFID</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Real Time Infrastructure</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Rendering</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Robotics</gsi:ui3Technologies>
+    <gsi:ui3Technologies>SaaS</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Satellite</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Security</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Web 3.0</gsi:ui3Technologies>
+    <gsi:ui3Technologies>Web Technologies</gsi:ui3Technologies>
+    <gsi:ui3Technologies>WiFi</gsi:ui3Technologies>
+    <gsi:ui3Technologies>eHealth</gsi:ui3Technologies>
+    <gsi:ui3Why>Desde AMMI TECHNOLOGIES S.L. consideramos fundamental la colaboración en grupos de trabajo para poder participar en los diferentes programas abiertos dentro del FP7.&#xD;
+Dicha línea de actuación permitirá fortalecer las relaciones entre diferentes empresas del sector, abrir posibles líneas de internalización de nuestros productos como optar a fuentes de financiación propuestas bajo este marco.</gsi:ui3Why>
+    <gsi:web>http://www.ammitechnologies.es</gsi:web>
+  </gsi:Company>
+</rdf:RDF>

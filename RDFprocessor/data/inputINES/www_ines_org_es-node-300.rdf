@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/300">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28043</v:postal-code>
+                    <v:street-address>C/Emilio Varga 6</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Telefónica I+D</ecos:name>
+            <ecos:uri>http://www.tid.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Telefónica I+D es la empresa de innovación del Grupo Telefónica.&lt;/p&gt;
+&lt;p&gt;Creada en 1988, su misión es contribuir a la competitividad y modernidad del Grupo, mediante la innovación tecnológica. Para ello, aplica nuevas ideas, conceptos y prácticas, a la vez que desarrolla productos y servicios avanzados.&lt;/p&gt;
+&lt;p&gt;Constituye el primer centro privado de I+D de España por actividad y recursos, y es la primera empresa del continente en participación en proyectos europeos de investigación, en el sector de las TIC (Tecnologías de la Información y la Comunicación).&lt;/p&gt;
+&lt;p&gt;Actualmente, colabora con los líderes tecnológicos y con numerosas organizaciones de 42 países distintos; entre ellas, con más de 150 universidades de todo mundo. También participa en los principales foros internacionales de conocimiento tecnológico Así, está creando a su alrededor uno de los mayores ecosistemas de innovación del sector TIC.&lt;/p&gt;
+&lt;p&gt;Productos como el teléfono público modular de las cabinas actuales de Telefónica (1990), los grandes sistemas de gestión de las redes fija y móvil (1990), los conmutadores de datos (1991), los servicios de acceso a Internet (1996), los desarrollos para el hogar digital y el coche conectado (2000), el sistema prepago de telefonía móvil (2004), la televisión digital interactiva a la carta (Imagenio) (2004), los nuevos servicios para TV y los modelos nuevos de negocio sobre Internet (2006)... son algunos de sus muchos resultados.&lt;/p&gt;
+&lt;p&gt;En estos años y dentro de un mercado global, Telefónica I+D ha crecido para conformar una red de centros de excelencia tecnológica que traspasa las fronteras de España, llevando las actividades de I+D a sus sedes de Barcelona, Granada, Huesca, Madrid, Valladolid, Sao Paulo (Brasil) y México.&lt;/p&gt;
+&lt;p&gt;A la vez, trabaja para las empresas del Grupo Telefónica en el resto de Europa, América y Asia.&lt;/p&gt;
+&lt;p&gt;Desde su creación, además de numerosos galardones de carácter técnico, fue reconocida en 2002 con el premio Príncipe Felipe a la Excelencia Empresarial.&lt;br&gt;&lt;a href="http://neumannsouthey.com/"&gt;Sexcam&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>* Coordinación estratégica. Garantiza que los proyectos de innovación de Telefónica I+D estén alineados con la estrategia del Grupo. Además, potencia la transferencia de sus resultados al Grupo.</ecos:detail>
+            <ecos:detail>* Propiedad Intelectual y trazabilidad. Estimula la generación de patentes. Dentro del contexto de Innovación Abierta (Open Innovation), establece las metodologías y procesos que faciliten la trazabilidad de ideas.</ecos:detail>
+            <ecos:detail>* Vigilancia Tecnológica. Explora la posible aplicación práctica del conocimiento técnico, para apoyar la estrategia de innovación. Su principal herramienta es el Observatorio Tecnológico, que anticipa la evolución y los cambios disruptivos. Este conocimiento permite asesorar en la toma de decisiones y crear ventajas competitivas en los negocios basadas en tecnologías.</ecos:detail>
+            <ecos:detail>Sus principales actividades son:</ecos:detail>
+            <ecos:detail>Telefónica I+D cuenta con una actividad dedicada a la estrategia tecnológica. Su misión es cohesionar la visión tecnológica global con el Grupo Telefónica y coordinar las actividades de Telefónica I+D.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>*Evolución de la WEB (fusión de Web Semántica y Web 2.0/3.0)
+*Green IT
+*Infraestructuras Orientadas a Servicios y Grids
+*Ingeniería del Software
+*Interfaces Multimodales en Ambientes Inteligentes
+*Internet del Futuro
+*SEA: Service Engineering &amp; (service-oriented) Architectures
+*Software de Código Abierto</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28043</v:postal-code>
+            <v:street-address>C/Emilio Varga 6</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Telefónica I+D</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/LogoTelefonica.jpeg?1276850936</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Telefónica I+D</v:organisation-name>
+            <v:organisation-unit>Centro Privado de Investigación</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

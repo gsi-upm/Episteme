@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/electricidad-grupo-morante_1430735.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>Avda. Haygon Nº25-A 03690 San Vicente (Alicante)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>ELECTRICIDAD GRUPO MORANTE</ecos:name>
+            <ecos:uri>http://www.grupomorante.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>Puertas Automáticas , electricidad , energia azul , telefonillos , videoporteros , electricista , redes informáticas , cctv , control accesos , Kava , antenas , hilo musical , iluminación , boletines , instalador autorizado , averias , reparaciones</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Grupo morante es una empresa especializada y con una trayectoria ascendente en el campo de la electricidad , automatismos , puertas automáticas , telecomunicaciones. Realizamos desde una simple avería , pasando por mantenimientos tanto eléctricos como de puertas automáticas , hasta realización de edificios , locales comerciales .  Realizamos estudios de iluminación para elegir nuestros clientes lo más adecuado en cada ámbito de uso y de presupuesto.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Alicante</v:locality>
+            <v:street-address>Avda. Haygon Nº25-A 03690 San Vicente (Alicante)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>ELECTRICIDAD GRUPO MORANTE</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/1430735_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>ELECTRICIDAD GRUPO MORANTE</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>965661558</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>696884071</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.grupomorante.es</v:url>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>vulka</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>10</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

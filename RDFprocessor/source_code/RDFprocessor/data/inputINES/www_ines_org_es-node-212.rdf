@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/212">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Barcelona</v:locality>
+                    <v:postal-code>08018</v:postal-code>
+                    <v:street-address>Llacuna 166, Pl-10</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>openTrends Solucions i Sistemes, S.L.</ecos:name>
+            <ecos:uri>http://www.opentrends.net</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;OpenTrends es una empresa de ingeniería de sistemas de información, que mediante la aplicación de las últimas tendencias en el desarrollo y la utilización intensiva de los estándares y soluciones de software libre plantea soluciones novedosas para empresas y administraciones públicas.&lt;br&gt;
+El posicionamiento es el de una empresa especializada en la aplicación de las soluciones de negocio de las comunidades de software libre en grandes corporaciones, profesionalizado su adaptación, soporte y mantenimiento. OpenTrends hace de puente entre las comunidades de software libre y las empresas que requieren soluciones de negocio.&lt;br&gt;
+OpenTrends lleva tres años en el mercado con numerosas referencias en el mercado, tanto en sector privado como público y participa en diversas comunidades de software libre, contribuyendo con diversos desarrollos a estas comunidades.&lt;br&gt;
+Las lineas de negocio o tecnologías que ofrece a sus clientes son:&lt;br&gt;
+- Frameworks de desarrollo e integración&lt;br&gt;
+- BPM y Tramitación electrónica&lt;br&gt;
+- Portales y gestión de contenidos y documental&lt;br&gt;
+- ERP/CRM y eCommerce&lt;br&gt;
+- Formularios inteligentes en PDF&lt;br&gt;
+- Distribuciones linux especializadas&lt;br&gt;
+- Sistemas embarcados y móviles&lt;br&gt;
+El modelo de negocio de openTrends está basado en servicios, desde la consultoría tecnológica hasta el desarrollo, la implantación y el mantenimiento. Todos los productos y tecnologías desarrolladas se licencian como software libre y se liberan generalmente a las comunidades de origen.&lt;br&gt;
+Actualmente, openTrends es una de las compañías, con un modelo puro de servicios sobre software libre, líderes en el país.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>La mayor parte del I+D realizado en los últimos años por parte de openTrends está dirigido a la mejora de la productividad en el desarrollo de los sistemas informáticos. Concretamente en las lineas de investigación siguiente:
+Integración de soluciones y módulos de software libre, mediante mecanismos automáticos o semiautomáticos, basados en los estándares SOA.
+Sistemas de generación automática de código, a partir de especificaciones mediante interfases gráficas, que encajen en la arquitectura de referencia.
+Entornos de desarrollo colaborativo que permitan trabajar de forma descentralizada, pero con un estricto control de la planificación y calidad del software.</ecos:detail>
+            <ecos:detail>Otra linea de trabajo en el I+D+i de openTrends, es la posibilidad de definir una certificación como empresa de servicios de “software libre”. Esta linea incluye la formalización de los procesos y metodologías que debe cumplir una empresa para garantizar la calidad y mejora continua de tales procesos, de cara a dar confianza a los clientes y productividad en la ejecución de los proyectos.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>openTrends, como empresa especializada en implantar soluciones provenientes de las comunidades de software libre, dispone de excelentes competencias en las técnicas que proveen la capacidad de industrialización de software y su adecuación a los estándares y formas de trabajo colaborativo, inspiradas en la propia forma de trabajar en estas comunidades.
+OpenTrends diseñó, como estrategia de productividad, calidad y estandarización en el desarrollo y mantenimiento del software, toda una linea de negocio que contiene los componentes siguientes:
+- Un framework de desarrollo, basado en más de treinta iniciativas o módulos de software libre y estándares de facto en el mundo del desarrollo (Struts, Spring y Hibernate, como los más relevantes). Estos módulos están integrados para funcionar de forma integrada y permiten una aplicación directa de los patrones de diseño más habituales en los desarrollos sobre plataforma J2EE. Dicho framework incorpora interficies ricas basadas en Ajax y diseño orientado a aspectos.
+- Una metodología de desarrollo (RUP-Agile)
+- Una metodología de integración continua, implementada mediante repositorios CVS/SVN, Maven y el planificador Cruise Control
+- Una metodología de automatización de pruebas, basada en Junits y Plugins de Maven.
+- Herramientas de Generación Automática de código y ficheros de configuración, a partir de interfases gráficas.
+- Un entorno de desarrollo colaborativo (openForge) que permite trabajar de forma similar a las comunidades de software libre e integrar todas las herramientas antes citadas.
+Aunque esta linea de trabajo, inicialmente se creó como una forma de mejorar la productividad interna de los equipos de openTrends, en los dos últimos años se ha implantado de forma extensa en varias corporaciones, desde administraciones públicas, hasta entidades financieras o  grandes empresas industriales.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Barcelona</v:locality>
+            <v:postal-code>08018</v:postal-code>
+            <v:street-address>Llacuna 166, Pl-10</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>openTrends Solucions i Sistemes, S.L.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>openTrends Solucions i Sistemes, S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

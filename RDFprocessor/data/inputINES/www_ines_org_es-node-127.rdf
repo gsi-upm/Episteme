@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/127">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Valencia</v:locality>
+                    <v:postal-code>46022</v:postal-code>
+                    <v:street-address>CIUDAD POLITÉCNICA DE LA INNOVACIÓN - UPV - ED. 8G. ACC. B - CAMINO DE VERA S/N</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>INSTITUTO TECNOLÓGICO DE INFORMÁTICA</ecos:name>
+            <ecos:uri>http://www.iti.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;El Instituto Tecnológico de Informática, ITI, es un Centro Tecnológico especializado en Investigación, Desarrollo e Innovación en tecnologías de la información y las Comunicaciones. Constituido como asociación sin ánimo de lucro en 1994 por iniciativa de la Universidad Politécnica de Valencia, del Instituto de la Pequeña y Mediana Industria Valenciana (IMPIVA) y un grupo de empresas relevantes del sector informático, pertenece a  la red de Institutos Tecnológicos de la Comunitat Valenciana (REDIT). Desde su creación, el ITI desarrolla una labor de investigación, desarrollo, innovación y transferencia de tecnología ofreciendo a las empresas la posibilidad de incorporar las tecnologías y capacidades desarrolladas en proyectos de I+D+I en sus productos, procesos o negocios.&lt;/p&gt;
+&lt;p&gt;Tiene por misión Investigar, Desarrollar e Innovar en tecnologías de la información y de las comunicaciones para mejorar y mantener la posición competitiva de las empresas tecnológicas, generando y transfiriendo los conocimientos necesarios para la evolución de la industria y de la sociedad en general.&lt;/p&gt;
+&lt;p&gt;Actualmente el Instituto cuenta entre sus asociados con el 93% de las empresas TIC de la CV de más de 8 empleados y forma parte de la junta directiva de las principales patronales del sector TIC a nivel regional.&lt;/p&gt;
+&lt;p&gt;La sede del ITI se encuentra enclavada en la Ciudad Politécnica de la Innovación, un parque científico de 140.000 m2 donde se espera agrupar a los mejores centros de investigación de Valencia con el fin de poner todo el potencial científico al servicio de la investigación y el desarrollo empresarial. El edificio del ITI se divide arquitectónicamente en dos zonas dedicadas a tareas de gestión y actividades científico-tecnológicas en una superficie construida de más de 1700 m2. El ITI cuenta también con una unidad técnica en Alcoy. Sus instalaciones, totalmente adecuadas para la realización de la labor investigadora, están dotadas de laboratorios de hardware y software testing, laboratorios de prototipos y aulas de formación.&lt;/p&gt;
+&lt;p&gt;El ITI trabaja habitualmente en dos principales actividades:&lt;/p&gt;
+&lt;p&gt;•	I+D+i: Investigación, desarrollo e innovación tecnológica, que es la base fundamental del Instituto Tecnológico de Informática y que se divide en dos ramas diferentes:&lt;br&gt;
+o	I+D: cuyo objetivo es la adquisición de nuevos conocimientos científicos y técnicos, dirigidos a la aplicación tecnológica. Con el objetivo de alcanzar el nivel científico/tecnológico necesarios, el ITI realiza proyectos individuales y en cooperación con otros grupos a nivel regional, nacional y europeo, algunos de ellos han constituido un referente a nivel europeo. Dentro del departamento de I+D se encuentran los siguientes grupos de investigación:&lt;br&gt;
+	Grupo de investigación de Sistemas Distribuidos.&lt;br&gt;
+	Grupo de investigación de Reconocimiento del Habla y Tecnologías del Lenguaje.&lt;br&gt;
+	Grupo de investigación de Visión Artificial.&lt;br&gt;
+	Grupo de Informática Industrial, Comunicaciones y Automática (GIICA).&lt;br&gt;
+	Grupo de Sistemas Optimización Aplicada (SOA)&lt;br&gt;
+o	Tecnologías y Servicios: cuyo objetivo es coordinar las áreas de Servicios, de Transferencia Tecnológica e Investigación Aplicada garantizando que la dirección sea el puente entre la demanda de la sociedad y la industria y la investigación. Dentro del área de Tecnologías y Servicios se trabaja en:&lt;br&gt;
+	Área de Sistemas, Seguridad y Software Libre&lt;br&gt;
+	Área de Desarrollos y Arquitecturas Software&lt;br&gt;
+	Área de soporte de soporte de prototipos y laboratorio&lt;br&gt;
+	Área de Calidad del Software&lt;br&gt;
+	Área de Internet y Computación Ubicua&lt;/p&gt;
+&lt;p&gt;•	Transferencia Tecnológica. Esta unidad tiene como objetivo fundamental el potenciar la comunicación bidireccional entre el activo principal del ITI, representado en su Unidad de I+D+I, con el entorno que rodea al mismo, a nivel nacional e internacional. La unidad se divide en tres focos prioritarios:&lt;br&gt;
+o	Inteligencia Estratégica y Competitiva: cuyo objetivo es captar y analizar las tendencias y evolución de las Tecnologías de la Información y las Comunicaciones y las estrategias de investigación y políticas nacionales e internacionales en torno a ellas para orientar al conjunto del Instituto (y a las empresas) sobre nuevos proyectos, productos o procesos que puedan constituirse en oportunidades de I+D+I o negocio para el Instituto y las empresas y coordinar la respuesta ante estas oportunidades. Este objetivo se consigue a través de las siguientes líneas de actividad:&lt;br&gt;
+	Vigilancia Tecnológica&lt;br&gt;
+	Detección de oportunidades de I+D+I nacionales&lt;br&gt;
+	Detección de oportunidades de I+D+I internacional&lt;br&gt;
+	Inteligencia Competitiva&lt;br&gt;
+	Formación&lt;br&gt;
+o	Comercial y Marketing: cuyo objetivo es captar necesidades de las empresas, ofrecer soluciones a las mismas partiendo de las tecnologías, productos y servicios desarrollados por el Instituto y difundir y transferir y posicionar las capacidades y acciones del ITI en su entorno.&lt;br&gt;
+o	Gestión Tecnológica: cuyo objetivo es el fomento y asesoramiento en la financiación de la I+D+I, a través de acciones como:&lt;br&gt;
+	Ofrecer un servicio de información y difusión de contenido tecnológico totalmente actualizado para el uso de los profesionales, de las empresas y de las unidades de investigación.&lt;br&gt;
+	Informar y asesorar a los grupos de I+D y a las empresas sobre las fuentes de financiación existentes a nivel europeo, nacional y regional.&lt;br&gt;
+	Asesorar sobre aspectos relacionados con la IPR (propiedad intelectual e industrial).&lt;br&gt;
+	Entablar relaciones con los organismos de la administración pública encargados de la promoción de la I+D+I.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Arquitecturas de Software
+o	Análisis, diseño y desarrollo de arquitecturas software</ecos:detail>
+            <ecos:detail>Biometría
+o	Aplicación de sistemas de identificación, control de presencia y accesos por biometría facial
+o	Biometría dactilar, palmar, iris, …</ecos:detail>
+            <ecos:detail>Calidad del Software
+o	Metodología para la mejora de procesos de testeo. Generación automática de casos de testeo
+o	Consultoría de calidad y testeo de software
+o	Metodología para la ingeniería y gestión de software
+o	Metodología de certificación de productos software
+o	Testeo de rendimiento, estrés y carga
+o	Testeo y mejoras de Usabilidad en Web y Aplicaciones
+o	Homologación de aplicaciones Software</ecos:detail>
+            <ecos:detail>Comunicaciones
+-	Aplicación y desarrollo de soluciones avanzadas de:
+o	Infraestructuras de comunicaciones
+o	Diseño y planificación de redes heterogéneas
+o	Redes industriales
+o	Automatización Industrial
+o	Sensorización (sensores biomédicos)
+o	Telemedicina
+-	Análisis y desarrollo de:
+o	Algoritmos de encaminamiento en redes móviles</ecos:detail>
+            <ecos:detail>Dentro de las tecnologías de desarrollo de software y servicios informáticos, el ITI pretende convertirse en referente tecnológico en las áreas en las que posee competencias. Así, los principales desafíos de I+D son los siguientes:
+Optimización, Logística y Producción
+-	Aplicación y desarrollo de soluciones avanzadas de:
+o	Previsión de demanda
+o	Planificación de la producción
+o	Optimización de la producción
+o	Optimización  de rutas de transporte y de movilidad (urbanas e interurbanas)
+o	Resolución de problemas complejos
+o	Ubicación óptima en almacenes
+-	Análisis y desarrollo de:
+o	Tecnologías para la previsión de riesgos de tesorería
+o	Tecnologías de inteligencia colectiva para comercio electrónico
+o	Sistemas innovadores en minería de datos</ecos:detail>
+            <ecos:detail>Gráficos
+o	Desarrollo de sistemas de Realidad Virtual- Realidad Aumentada</ecos:detail>
+            <ecos:detail>Internet y Computación Ubicua
+o	Soluciones integradas de Domótica / Inmótica
+o	Diseño de redes de Sensores Inalámbricas
+o	Sistemas de Inteligencia ambiental
+o	Gestión de contenidos para dispositivos móviles
+o	Soportes de fiabilidad en redes inalámbricas ad hoc
+o	Arquitecturas cross-layer para redes inalámbricas ad hoc</ecos:detail>
+            <ecos:detail>Sistemas Distribuidos
+o	Implantación y desarrollo de tecnologías software para maquinas y dispositivos
+o	Sistemas de alta disponibilidad y tolerancia a fallos
+o	Desarrollo de metodologías y procedimientos que aseguren la interoperabilidad</ecos:detail>
+            <ecos:detail>Sistemas y Software Libre
+o	Diagnósticos y Consultoría en Análisis y Soluciones Open Source
+o	Migración a Software Libre
+o	Sistemas de información corporativa
+o	Virtualización
+o	Desarrollo de plataformas Software Libre orientadas a Servicios</ecos:detail>
+            <ecos:detail>Tecnologías de Procesamiento del Lenguaje Humano
+o	Tecnologías de reconocimiento de voz
+o	Sistemas de traducción automática
+o	Sistemas de traducción asistida</ecos:detail>
+            <ecos:detail>Visión Artificial
+-	Aplicación y desarrollo de:
+o	Sistemas de captura de datos en documentos (formularios, facturas…) mediante tecnologías OCR/ICR y texto manuscrito continuo
+o	Sistemas de control y seguridad mediante reconocimiento de matrículas
+o	Sistemas automatizados para el reconocimiento, control e inspección 2D/3D de productos y procesos industriales
+o	Sistemas de visión para seguridad</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>El ITI se estructura en grupos de inv. que desarrollan su actividad dentro de las instalaciones que se disponen en la Ciudad Politécnica de la Innovación, donde se cuenta con laboratorios de investigación, biblioteca, sala de demostraciones, aula de formación, etc. Los competencias tecnológicas del Instituto se agrupan de la sigueinte forma:
+Visión Artificial y Biometría
+Reconocimiento de voz y Tecnologías del Lenguaje
+Optimización de la Producción
+Optimización Logística
+Sistemas Distribuidos
+Sistemas empotrados, Computación Ubicua y dispositivos móviles
+Comunicaciones y Automática, Gráficos y Simulación
+Sistemas, Seguridad y Software Libre
+Desarrollos y Arquitecturas Software
+Calidad del Software</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Valencia</v:locality>
+            <v:postal-code>46022</v:postal-code>
+            <v:street-address>CIUDAD POLITÉCNICA DE LA INNOVACIÓN - UPV - ED. 8G. ACC. B - CAMINO DE VERA S/N</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>INSTITUTO TECNOLÓGICO DE INFORMÁTICA</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/logoiti.jpg?1276853747</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>INSTITUTO TECNOLÓGICO DE INFORMÁTICA</v:organisation-name>
+            <v:organisation-unit>Centro Tecnológico</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

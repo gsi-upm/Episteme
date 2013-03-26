@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/266">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Guipúzcoa</v:locality>
+                    <v:postal-code>20550</v:postal-code>
+                    <v:street-address>Polígono Basabe EO-15</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>ISEA S. COOP.</ecos:name>
+            <ecos:uri>http://www.iseamcc.net</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;SEA es un Centro de Investigación de carácter privado y sin ánimo de lucro especializado en el Sector de los Servicios Empresariales, que ha sido promocionado en el curso del ejercicio de 2006 por la División de Ingeniería, Servicios Profesionales y Educativos de MONDRAGON (antigua MCC), con la categoría de Centro Tecnológico Divisional.  &lt;/p&gt;
+&lt;p&gt;ISEA cubre el conjunto de la cadena de valor de la investigación y el emprendizaje, abarcando:&lt;/p&gt;
+&lt;p&gt;-El desarrollo de proyectos de investigación aplicada y desarrollo tecnológico.&lt;br&gt;
+-La prestación de asistencia y servicios tecnológicos.&lt;br&gt;
+-La prospección tecnológica y la inteligencia competitiva.&lt;br&gt;
+-La transferencia de tecnología y el lanzamiento de nuevos negocios.&lt;br&gt;
+-La difusión del conocimiento y la experiencia adquirida.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>- Complementar el desarrollo interno mediante la colaboración con Centros Tecnológicos, promoviendo y articulando la cooperación con otros Centros Tecnológicos en áreas de actividad complementarias.</ecos:detail>
+            <ecos:detail>- Fomentar la colaboración entre las empresas de la División de Ingeniería, Servicios Profesionales y Educativos con el propósito de afrontar desarrollos que superen la capacidad individual de las cooperativas, mediante la promoción de proyectos ó actuaciones tecnológicas en cooperación mediante el desarrollo de “Plataformas Tecnológicas”.</ecos:detail>
+            <ecos:detail>- Impulsar el desarrollo del I+D en las empresas asociadas, incrementado el esfuerzo inversor en I+D+i hasta alcanzar cotas de liderazgo en el sector de los servicios a empresas.
+- Consolidar grupos de I+D en las líneas de investigación estratégicas y desarrollar actividades de especialización en las líneas tecnológicas claves para el desarrollo empresarial de las cooperativas de la División de Ingeniería, Servicios Profesionales y Educativos.</ecos:detail>
+            <ecos:detail>-Promover la integración de las empresas de la División de Ingeniería, Servicios Profesionales y Educativos en el Espacio Europeo de Investigación con el propósito de fortalecer la actividad prospectiva.
+-Participar en programas europeos de I+D, en especial en el VII Programa Marco Europeo.
+-Articular la colaboración con centros tecnológicos de referencia internacional en las líneas de investigación estratégicas para la División de Ingeniería, Servicios Profesionales y Educativos.</ecos:detail>
+            <ecos:detail>El trabajo en red con otros centros tecnológicos:</ecos:detail>
+            <ecos:detail>Internacionalización de la actividad investigadora:</ecos:detail>
+            <ecos:detail>La misión de ISEA radica en articularse como la estructura divisional de I+D+i que permita potenciar el desarrollo tecnológico de las empresas de la División de Ingeniería, Servicios Profesionales y Educativos de MONDRAGON, incrementando para ello la capacidad y la inversión en I+D de las empresas usuarias. Se pretende con ello lanzar nuevos negocios de base tecnológica que contribuyan al desarrollo empresarial de la División de Ingeniería, Servicios Profesionales y Educativos.</ecos:detail>
+            <ecos:detail>Para la consecución de este propósito, ISEA desplegará las siguientes estrategias:</ecos:detail>
+            <ecos:detail>Potenciar la actividad de I+D+i:</ecos:detail>
+            <ecos:detail>Potenciar la cooperación en I+D+i  entre las empresas usuarias:</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>- Interoperabilidad en el sector de la construcción
+- Negocio digital en red
+- Tecnologías para la web social
+- Software libre
+- eInclusion Interfaces accesibles, usables e inteligentes para la formación</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Guipúzcoa</v:locality>
+            <v:postal-code>20550</v:postal-code>
+            <v:street-address>Polígono Basabe EO-15</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>ISEA S. COOP.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>ISEA S. COOP.</v:organisation-name>
+            <v:organisation-unit>Centro Privado de Investigación</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

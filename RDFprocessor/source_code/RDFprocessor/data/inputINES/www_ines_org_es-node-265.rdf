@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/265">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Barcelona</v:locality>
+                    <v:postal-code>08005</v:postal-code>
+                    <v:street-address>Paseo García Faria, 29</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Fundación Universitaria Iberoamericana</ecos:name>
+            <ecos:uri>www.funiber.org</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La Fundación Universitaria Iberoamericana (FUNIBER) se enmarca dentro del mundo universitario y de la formación con un planteamiento que va más allá de las fronteras nacionales y cuyo fin es formar personas en un ambiente que permite difundir y compartir el conocimiento global, así como difundir y enriquecer el conocimiento local.&lt;/p&gt;
+&lt;p&gt;Los tres ejes fundamentales son:&lt;/p&gt;
+&lt;p&gt;    * Promover la creación de programas interuniversitarios.&lt;br&gt;
+    * Apoyar en la formación y en actividades de Proyectos de Cooperación Internacional.&lt;br&gt;
+    * Soluciones de Formación a Medida y de Gestión del Conocimiento.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>La Fundación Universitaria Iberoamericana (FUNIBER) posee una dilatada experiencia en proyectos de formación, producción, difusión y despliegue de contenidos, gestión y explotación de campus virtuales y LMS, y en general todas las actividades de un proyecto de educación a distancia.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>La Fundación Universitaria Iberoamericana (FUNIBER) es una fundación que se enmarca dentro del mundo universitario y de la formación.
+FUNIBER busca difundir y compartir el conocimiento europeo y el latinoaméricano. Desde su fundación en 1997 en Barcelona-España, FUNIBER ha crecido continuamente llegando hoy en día a ser una red académica y profesional con presencia en 18 países. Esta red la componen actualmente más de 40 universidades europeas y latinoamericanas y muchas empresas y organismos de presencia y renombre internacional , que aportan experiencia y conocimiento con el único fin de formar personas como iguales con una educación internacional de primer nivel y categoría sin dejar de lado lo que cada país aporta en su individualidad, singularidad y ventajas comparativas.
+FUNIBER es hoy en día una institución que se desarrolla con la sociedad, a través de diversos convenios y proyectos, participando en actividades, tanto académicas, científicas y de investigación, como de cooperación, desarrollo y crecimiento económico, gracias a su vinculación con universidades e instituciones profesionales para conseguir dar finalmente una Formación Global respetando las Identidades locales.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Barcelona</v:locality>
+            <v:postal-code>08005</v:postal-code>
+            <v:street-address>Paseo García Faria, 29</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Fundación Universitaria Iberoamericana</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Fundación Universitaria Iberoamericana</v:organisation-name>
+            <v:organisation-unit>Gran Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

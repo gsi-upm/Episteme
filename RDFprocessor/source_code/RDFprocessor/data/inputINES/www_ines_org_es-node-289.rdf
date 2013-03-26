@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/289">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Islas Baleares</v:locality>
+                    <v:postal-code>07120</v:postal-code>
+                    <v:street-address>Parque Empresarial Parc Bit, Edificio U, Ctr.Valldemosa Km 7,4</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>DOME CONSULTING &amp; SOLUTIONS S.L.</ecos:name>
+            <ecos:uri>http://www.dome-consulting.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;DOME CONSULTING desarrolla herramientas tecnológicas punteras para el sector turístico internacional.&lt;br&gt;
+Nuestra misión es asesorar, definir, desarrollar e implantar soluciones tecnológicas en aquellas empresas interesadas en aprovechar la tecnología para su crecimiento..&lt;br&gt;
+Como clientes tenemos a los principales Touroperadores, Agencias de Viajes y Compañias aéreas del Pais.&lt;br&gt;
+Nuestro equipo humano está formado por programadores, analistas, jefes de proyecto , formadores y profesionales del sector, con una formación sobresaliente y una amplia experiencia profesional en las grandes empresas del sector turístico nacional e internacional permitiendo ofrecer el mejor producto con la mejor tecnología y un diseño a la medida del cliente.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Aquirir conocimientos en los siguientes temas:
+- web semántica.
+- Internet del futuro
+- Travel 2.0.
+- Cloud Computing.
+- Plataformas de Servicios Web</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Experiencia en implantación de proyectos turísticos de sistemas de reservas y gestión de empresas, tanto en Agencias de Viajes, Touroperadores y Compañias Aéreas.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Islas Baleares</v:locality>
+            <v:postal-code>07120</v:postal-code>
+            <v:street-address>Parque Empresarial Parc Bit, Edificio U, Ctr.Valldemosa Km 7,4</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>DOME CONSULTING &amp; SOLUTIONS S.L.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>DOME CONSULTING &amp; SOLUTIONS S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

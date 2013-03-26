@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/117">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Málaga</v:locality>
+                    <v:postal-code>29071</v:postal-code>
+                    <v:street-address>Avda. Cervantes,2.</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Universidad de Málaga</ecos:name>
+            <ecos:uri>http://www.uma.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Como Universidad pública de ámbito general la UMA realiza su actividad docente e investigadora en los diferrentes ámbitos del saber científico. En el ámbito concreto de esta plataforma, las tres titulaciones de informática se imparten en la Escuela Técnica Superior de Ingeneiría Informática, la cual tiene unos 2500 alumnos y unos 150 profesores.&lt;br&gt;
+Las actividades relativas al software se realizan básicamente en el Departamento de Lenguajes y Ciencias de la Computación, principalmente por el grupo de investigación de Ingeniería del Software (GISUM).  &lt;/p&gt;
+&lt;p&gt;Líneas de interés en al campo del software son:&lt;br&gt;
+ Metodologías y entornos de desarrollo:&lt;br&gt;
+ Métodos Formales en Ingeniería del Software:&lt;br&gt;
+ Seguridad en sistemas y aplicaciones distribuidas:&lt;br&gt;
+ Algoritmos paralelos y distribuídos:&lt;br&gt;
+ Tecnología de Objetos:&lt;br&gt;
+ Modelos y Lenguajes de Coordinación:&lt;br&gt;
+ Datos semiestructurados y recuperacion de informacion en WWW:&lt;br&gt;
+ Programación Declarativa e Integración de Paradigmas:&lt;br&gt;
+ Lógicas y Modelos para la Concurrencia:&lt;br&gt;
+ Especificación y Validación de Protocolos:&lt;br&gt;
+ Análisis de Programas:&lt;br&gt;
+ Algoritmos Evolutivos:&lt;br&gt;
+ Arquitectura del Software:&lt;br&gt;
+ Programación con Restricciones:&lt;br&gt;
+ Desarrollo de Software Basado en Componentes:&lt;br&gt;
+ Métricas de Calidad del Software:&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Promover prácticas de desarrollo de software de calidad.
+Favorecer la creación y uso de herramientas tecnológicas que soporten estas prácticas.
+Abordar los problemas de la interoperabilidad e integración del software.
+Desarrrollo de nuevas aplicaciones, principalmente en el campo de los sistemas distribuidos, empotrados, móviles, etc.
+Proporcionar técnicas y herramientas que aseguren la seguridad y confianza de los sistemas software.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Líneas de interés en al campo del software son:
+ Metodologías y entornos de desarrollo
+ Métodos Formales en Ingeniería del Software
+ Seguridad en sistemas y aplicaciones distribuidas
+ Tecnología de Objetos
+ Interoperabilidad del software
+ Fiabilidad y calidad del software
+ Arquitectura del Software
+ Desarrollo de Software Basado en Componentes
+ Métricas de Calidad del Software</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Málaga</v:locality>
+            <v:postal-code>29071</v:postal-code>
+            <v:street-address>Avda. Cervantes,2.</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Universidad de Málaga</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/logoUma.jpg?1276853045</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Universidad de Málaga</v:organisation-name>
+            <v:organisation-unit>Universidad</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/rentinet-servicios-informaticos-proyectos-tic-ip_729050.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>Travau 30, 1_1 08031 BARCELONA (Barcelona)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>RENTINET Servicios Informáticos - Proyectos TIC, IP</ecos:name>
+            <ecos:uri>http://www.rentinet.net</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>INFORMATICA:  Servicios Informáticos, Proyectos TIC, IP, VoIP, Servicio de Asistencia Técnica a Domicilio y local.</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Servicios Informáticos - Proyectos TIC, IP (Voz y Video sobre IP)&#13;Consultoría de Proyectos de Informática y Telecomunicaciones - TIC.&#13;Venta de equipos y suministros informáticos y de Telecomunicaciones.&#13;SAT - Servicio de Asistencia Técnica&#13;Cursos de Informática: Internet, Iniciación en Ordenadores e Informática, Herramientas de Oficina (Word, Excel, etc.)</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Barcelona</v:locality>
+            <v:street-address>Travau 30, 1_1 08031 BARCELONA (Barcelona)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>RENTINET Servicios Informáticos - Proyectos TIC, IP</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/729050_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>RENTINET Servicios Informáticos - Proyectos TIC, IP</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>603 062 683</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>687 088 086</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.rentinet.net</v:url>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>vulka</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>5</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/246">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Guipúzcoa</v:locality>
+                    <v:postal-code>20009</v:postal-code>
+                    <v:street-address>PASEO MIKELETEGI Nº5</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>INSTITUTO IBERMÁTICA DE INNOVACIÓN</ecos:name>
+            <ecos:uri>www.i3b.ibermatica.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;El Instituto Ibermática de Innovación (i3B) es un centro de investigación aplicada, cuyo objetivo es promover nuevas formas de innovación en el ámbito de los servicios, mediante el empleo de las Tecnologías de la Información. Para ello, i3B pretende desarrollar herramientas y modelos de innovación específicos para diferentes ámbitos de actividad.&lt;/p&gt;
+&lt;p&gt;i3B nace para dar respuesta a la creciente demanda de innovación existente en el sector de los servicios. La actividad del Instituto se orientará tanto hacia el interior del Grupo Ibermática como hacia el exterior, mediante el desarrollo de proyectos singulares que permitan diseñar soluciones y servicios avanzados.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>- Incorporando la sistemática de la innovación en las personas y en los procesos de Ibermática.
+- Investigando nuevas formas de innovación en los procesos de los clientes de Ibermática.
+- Contribuyendo al desarrollo económico y social como agente activo de innovación.</ecos:detail>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Guipúzcoa</v:locality>
+            <v:postal-code>20009</v:postal-code>
+            <v:street-address>PASEO MIKELETEGI Nº5</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>INSTITUTO IBERMÁTICA DE INNOVACIÓN</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>INSTITUTO IBERMÁTICA DE INNOVACIÓN</v:organisation-name>
+            <v:organisation-unit>Centro Privado de Investigación</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>489</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

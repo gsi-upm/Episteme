@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/328">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Valencia</v:locality>
+                    <v:postal-code>46980</v:postal-code>
+                    <v:street-address>C/ BENJAMIN FRANKLIN, 12. EDIFICIO CEEI - PARQUE TECNOLÓGICO. PATERNA</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>SETIVAL SOCIEDAD COOPERATIVA VALENCIANA</ecos:name>
+            <ecos:uri>http://www.setival.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Setival es un empresa valenciana dedicada a la Consultoría en Nuevas Tecnologías, centrada en el eLearning, que además proporciona servicios de Consultoría de valor añadido en Sistemas de Gestión de la Calidad (ISO9001) y de la Seguridad (ISO27001). Como pieza fundamental de su negocio se encuentran los proyectos de I+D+i que son el eje vertebrador de los productos que comercializa. Fruto de estos proyectos de I+D+i, apoyados en diversos programas regionales (IMPIVA) y nacionales (AVANZA I+D), son los productos de eLearning comercializados bajo la marca SAMOO que se han desarrollado, como el Authoring Tool denominado ReiVen; o los productos de consultoría Geconsulting y SGSI Tracking.Entre los servicios del área de Nuevas Tecnologías, bajo la marca SAMOO, se encuentran la Instalación, configuración, mantenimiento y migraciones de Campus Virtuales o “Learning Management Systems “ (LMS), siendo especialistas en plataformas Sakai y Moodle, y el desarrollo de contenidos multimedia-multiplataforma (PC, PDA, móvil) a través de la herramienta de autor ReiVen.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>El departamento de I+D+i de la empresa se estructura, igual que sus líneas de trabajo, en tres areas: Nuevas Tecnologías (eLearning), Calidad y Sistemas de la Información (seguridad informática). Dentro del área de eLearning, son cuatro las personas que trabajan en la mejora de los productos existentes así como en el lanzamiento de nuevos como la tercera versión de la herramienta de autor ReiVen que incluye la generación de cursos para plataformas TDT, además de las plataformas PC, PDA o móvil. Este departamento trabaja en colaboración con la Asociación ITACA (Universidad Politécnica de Valencia) junto con los cuales, además, se están desarrollando los productos del área de Calidad y Seguridad denominados Geconsulting y SGSI Tracking respectivamente. El principal desafío del departamento es la evolución de ReiVen hacia una herramienta de autor multimedia-multiplataforma potente que sea una referencia en el sector, además de posicionarse en el mercado como un referente en Consultoría de eLearning y generación de desarrollos ad-hoc, basados en plataformas Sakai y Moodle, todo ello bajo la marca SAMOO.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>SETIVAL SCV ha enfocado una de sus líneas de trabajo dentro del ámbito del eLearning, con lo que sus trabajos están claramente orientados a los grupos de trabajo dedicados al Desarrollo de Aplicaciones, y concretamente dentro del Grupo de trabajo de eLearning.
+Dentro de este área, SETIVAL dispone de un equipo con gran experiencia en sistemas eLearning, que participa continuamente en comunidades Open Source y que se mantiene actualizado en todo momento sobre las novedades del sector. Específicamente el equipo de trabajo de Nuevas Tecnologías de la empresa es experto en sistemas LMS basados en Sakai y Moodle, en la creación de Aulas Virtuales y en herramientas de autor multimedia-multiplataforma, como la herramienta propietaria denominada ReiVen, la cual ya se halla en su tercera versión.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Valencia</v:locality>
+            <v:postal-code>46980</v:postal-code>
+            <v:street-address>C/ BENJAMIN FRANKLIN, 12. EDIFICIO CEEI - PARQUE TECNOLÓGICO. PATERNA</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>SETIVAL SOCIEDAD COOPERATIVA VALENCIANA</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>SETIVAL SOCIEDAD COOPERATIVA VALENCIANA</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

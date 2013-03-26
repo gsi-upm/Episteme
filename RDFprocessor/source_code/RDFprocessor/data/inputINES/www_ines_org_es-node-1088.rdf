@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1088">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Islas Baleares</v:locality>
+                    <v:postal-code>07005</v:postal-code>
+                    <v:street-address>Islas Baleares</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Hook Sistemas, S.L.</ecos:name>
+            <ecos:uri>http://www.hooksistemas.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Hook es una empresa especializada en el análisis y desarrollo de aplicaciones I+D+i y proyectos web. Utiliza las tecnologías más vanguardistas para incrementar, tanto sus niveles de eficiencia en la gestión como la calidad de sus servicios.&lt;/p&gt;
+&lt;p&gt;Además ofrece una serie de servicios alternativos entre los que cabe destacar consultoría tecnológica.&lt;/p&gt;
+&lt;p&gt;Hook pone a su servicio un equipo de profesionales especializado y con experiencia.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Investigación y desarrollo de tecnologías del entorno web aplicadas al sector náutico.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Planificación y desarrollo de plataformas tecnológicas vía web, sincronización de sistemas con dispositivos tecnológicos y diseño web</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Islas Baleares</v:locality>
+            <v:postal-code>07005</v:postal-code>
+            <v:street-address>Islas Baleares</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Hook Sistemas, S.L.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Hook Sistemas, S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

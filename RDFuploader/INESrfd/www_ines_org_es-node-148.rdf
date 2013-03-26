@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/148">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Málaga</v:locality>
+                    <v:postal-code>29590</v:postal-code>
+                    <v:street-address>C/ María Curie nº 9 - 11; Parque Tecnológico de Andalucía</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Ingeniería e Integración de Sistemas (Ingenia), S.A.</ecos:name>
+            <ecos:uri>www.ingenia.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Ingenia se dedica a ofertar servicios en las tecnologías de la información, comunicaciones e internet: desarrollo de aplicaciones software a media en distintas tecnologías, integración de sistemas, diseño y desarrollo de portales y páginas web, diseño y ejecución de proyectos en internet (e-business, e-learning, e-government), realización de proyectos de comunicaciones, transmisión de datos y seguridad. Consultoría y formación en los campos nombrados anteriormente. Data center.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Actualemnte Ingenia se plantea su desarrollo en I+D en dos líneas de actuación:
+1.- Nuevas aplicaciones de la RFID. Se trata de seguir profundizando en la tecnología RFID y encontrar nuevas aplicaciones útiles para el mercado.
+2.- Evolución de la gestión de la formación a través de internet. Desde casi la fundación de Ingenia (hace ya 13 años) la teleformación ha sido una constante en su actividad. Ingenia ha desarrollado una plataforma de gestión de la teleformación (Learning Management System) que evoluciona constantemente, adapatando las nuevas tendencias tanto pedagógicas como tecnológicas (nuevos estándares, nuevos sistemas de comunicación, etc.)</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Málaga</v:locality>
+            <v:postal-code>29590</v:postal-code>
+            <v:street-address>C/ María Curie nº 9 - 11; Parque Tecnológico de Andalucía</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Ingeniería e Integración de Sistemas (Ingenia), S.A.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Ingeniería e Integración de Sistemas (Ingenia), S.A.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>2</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

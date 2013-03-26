@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/content/la-c%C3%BApula-music-sl">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Gerona</v:locality>
+                    <v:postal-code>17003</v:postal-code>
+                    <v:street-address>Emili Grahit, 91</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>La Cúpula Music, S.L.</ecos:name>
+            <ecos:uri>www.musicxip.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Joven empresa de base tecnológica enfocada en el desarrollo de nuevos servicios SaaS para las industrias culturales, en especial el sector de la música. Estos servicios son ofrecidos mediante una plataforma B2B propia donde se integran otros servicios de terceras empresas internacionales y otras aplicaciones. Empresa ubicada en el Parque Tecnológico de la Universidad de Gerona.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>sistemas de recomendación basados en análisis semántico de datos recogidos de un individuo y en análisis de patrón de audio mediante tecnología de huella digital.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Gerona</v:locality>
+            <v:postal-code>17003</v:postal-code>
+            <v:street-address>Emili Grahit, 91</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>La Cúpula Music, S.L.</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/logoMUSICXIP.jpg?1341323581</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>La Cúpula Music, S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>18</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

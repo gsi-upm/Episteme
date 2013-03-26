@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/217">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Barcelona</v:locality>
+                    <v:postal-code>08019</v:postal-code>
+                    <v:street-address>C/Pellaires, 30-38</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Gestión del conocimiento, S.A.</ecos:name>
+            <ecos:uri>http://www.gec.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;GEC es una empresa líder que desarrolla soluciones innovadoras en e-learning, comunidades virtuales y trabajo colaborativo, con numerosas experiencias en proyectos de gran envergadura y en diferentes sectores.&lt;/p&gt;
+&lt;p&gt;El principal objetivo de GEC es proporcionar valor a nuestros clientes mediante la definición y puesta en marcha de soluciones integrales de calidad y el establecimiento de relaciones de confianza a largo plazo.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Transferencia de tecnologia entre el mundo académico y el ámbito del software libre hacia el entorno empresarial. Desarrollo y actualización de plataforma de e-learning y de comunidades virtuales de fidelización incorporando herramientas y funcionalidades de última generación mediante el uso de arquitecturas facilitadoras (estándares, SOA, ...).
+Interoperabilidad con las herramientas de gestión más habituales en el mundo empresarial que faciliten la interoperabilidad entre la plataforma de e-learning y comunidades virtuales de fidelización y las herramientas existentes en la empresa en cada caso.
+Análisis y desarrollo de interfaces que incrementen la usabilidad y la accesibilidad de los entornos.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Análisis y desarrollo de la integración de herramientas y estándares de software libre en plataformas empresariales básicamente dentro del ámbitol del e-learning y las comunidades virtuales de fidelización.
+Técnicas de diseño centrado en el usuario para mejorar la accesibilidad y la usabilidad de los entornos y materiales de elearning y de las comunidades virtuales
+Incorporación de Arquitectura de Servicios a la plataforma de elearning y comunidades virtuales para mejorar la integración en entornos empresariales y la incorporación de nuevas funcionalidades.
+Desarrollo de mecanismos de interoperabilidad técnica con los diferentes sistemas existentes en el entorno empresarial
+Desarrollo de mecanismos para facilitar el intercambio de información entre múltiples formatos que faciliten la compatibilidad con otras aplicaciones.
+Implantación de mecanismos de SLA en la relación con los clientes.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Barcelona</v:locality>
+            <v:postal-code>08019</v:postal-code>
+            <v:street-address>C/Pellaires, 30-38</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Gestión del conocimiento, S.A.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Gestión del conocimiento, S.A.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

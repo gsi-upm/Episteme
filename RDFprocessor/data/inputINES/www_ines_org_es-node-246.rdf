@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/246">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Guipúzcoa</v:locality>
+                    <v:postal-code>20009</v:postal-code>
+                    <v:street-address>PASEO MIKELETEGI Nº5</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>INSTITUTO IBERMÁTICA DE INNOVACIÓN</ecos:name>
+            <ecos:uri>www.i3b.ibermatica.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;El Instituto Ibermática de Innovación (i3B) es un centro de investigación aplicada, cuyo objetivo es promover nuevas formas de innovación en el ámbito de los servicios, mediante el empleo de las Tecnologías de la Información. Para ello, i3B pretende desarrollar herramientas y modelos de innovación específicos para diferentes ámbitos de actividad.&lt;/p&gt;
+&lt;p&gt;i3B nace para dar respuesta a la creciente demanda de innovación existente en el sector de los servicios. La actividad del Instituto se orientará tanto hacia el interior del Grupo Ibermática como hacia el exterior, mediante el desarrollo de proyectos singulares que permitan diseñar soluciones y servicios avanzados.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>- Incorporando la sistemática de la innovación en las personas y en los procesos de Ibermática.
+- Investigando nuevas formas de innovación en los procesos de los clientes de Ibermática.
+- Contribuyendo al desarrollo económico y social como agente activo de innovación.</ecos:detail>
+            <ecos:detail>1- Desarrollo de un espacio de relación sobre innovación (ERI)
+   - Programa sistemático de actividades dirigidas a clientes, no clientes y profesionales de Ibermática. Referencia para la activación de nuevos negocios para Ibermática.
+   - Desarrollo de acciones formativas, seminarios, talleres de innovación, publicaciones, etc. en torno a la innovación.
+2- Desarrollo de proyectos avanzados con clientes
+   - Desarrollo de iniciativas sectoriales en proyectos de evaluación de tecnologías (investigación aplicada) con una visión a medio plazo.
+   - Consolidación de la participación en proyectos europeos, CDTI, INTEK, proyectos de investigación con clientes, etc.
+3- Incremento del valor de la oferta de Ibermática
+   - Incorporación de actividades de mayor valor en la oferta actual de Ibermática y en su evolución.
+   - Identificación de aplicaciones sectoriales desde nuevas tecnologías horizontales de valor.
+   - I+D+i Conocimiento: capacitación de recursos y aprovechamiento de conocimientos adquiridos.
+4- Inserción de prácticas de innovación en Ibermática
+   - Transformación de procesos internos: Comercialización, Producción y Conocimiento. Coordinación de la actividad de las unidades internas de I+D+i.
+   - Gestión de la innovación. Indicadores de innovación.
+   - Difusión buenas prácticas internas.
+5- Participación en redes y grupos de investigación
+   - Establecimiento de redes de colaboración estables con clientes y centros de investigación (centros tecnológicos, universidades, grupos empresariales, etc.).
+   -Punto de encuentro de relación comercial y modo de expresión del conocimiento sectorial.</ecos:detail>
+            <ecos:detail>1- El Código Capital Innovación, que es una metodología de autodiagnóstico asistido, desarrollada por el Instituto Ibermática de Innovación (i3b), que permite medir y desarrollar la capacidad de cambio y ajuste de una organización ante las nuevas circunstancias del mercado y del entorno, mediante la potenciación de proyectos innovadores en sus procesos de diseño, producción, relación y soporte.</ecos:detail>
+            <ecos:detail>1-Proceso de inserción de tecnología en los clientes
+-Adquisición de tecnología base
+-Inserción de tecnología en productos/desarrollos
+-Implantación de tecnología en servicios del cliente
+2-Diseño de soluciones sectoriales específicas
+3-Innovación de procesos internos mediante la estructuración de las unidades internas
+-I+D+i Comercial
+-I+D+i Conocimiento
+-I+D+i Producción
+4-Gestión de la innovación en los procesos y negocios del cliente (CCI)
+5-Valores de la innovación. Creación de espacios de innovación</ecos:detail>
+            <ecos:detail>2- Seguridad Clínica en Bloque Quirúrgico. Aplicación de tecnologías avanzadas, que tiene por objetivo incrementar la seguridad y eficacia en los bloques quirúrgicos de los centros sanitarios. Este sistema permite la identificación automática de pacientes en quirófanos, evitando errores de identidad y de operaciones, proporcionando una estación clínica personalizada a cada perfil profesional que interviene en un quirófano: cirujanos, anestesistas y enfermeras.</ecos:detail>
+            <ecos:detail>3- Nueva plataforma de gestión de la información científica, que permite integrar toda la información que se genera en torno a cada objeto recogido, tanto “en línea” en el propio yacimiento como en el posterior trabajo científico. Asimismo, se puede gestionar y explotar la información de aspectos logísticos de los recursos.
+Por otro lado y vía Internet, se pone a disposición de toda la comunidad científica interesada la información disponible del proyecto del yacimiento Sierra de Atapuerca.</ecos:detail>
+            <ecos:detail>4- Proyecto Glackma: la web de los glaciares. En colaboración con Adolfo Eraso, se desarrolla una web que contiene el trabajo científico realizado en el proyecto GLACKMA (objetivos, expediciones, método de predicción…). La web cumple una función de divulgación, presentándose los diarios de las dos expediciones anuales (al Ártico durante el verano boreal y a la Antártida durante el verano austral) con un enfoque didáctico.Está realizada con la nueva tecnología de desarrollo de aplicaciones RIA (Rich Internet Applications) de Microsoft, SilverLight.</ecos:detail>
+            <ecos:detail>Desafíos estratégicos en I+D+i:</ecos:detail>
+            <ecos:detail>Entre sus proyectos más significativos e innovadores podemos destacar los siguientes:</ecos:detail>
+            <ecos:detail>La misión del Instituto de Innovación de Ibermática (i3b) es una entidad de investigación aplicada, cuyo fin es promover soluciones y servicios innovadores, basados en las TIC:</ecos:detail>
+            <ecos:detail>Visión global e integrada de la gestión de la I+D+i del Grupo Ibermática</ecos:detail>
+            <ecos:detail>Áreas de actividad:</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>El Instituto Ibermática de Innovación (I3B) como centro de I+D+i del grupo Ibermática, tiene como objetivo dotar al Grupo de soluciones innovadoras y que incorporen conceptos como la calidad o la productividad, tanto en los desarrollos como en los procesos. Para cumplir estos objetivos I3b participa en un gran número de proyectos acometidos dentro del grupo y en los que se cuenta con participación de profesionales de I3B. Dentro de este ámbito, I3B cuenta con experiencia en aspectos como:
+1-Los modelos de especificación y traza de requisitos que se aplican especialmente a los productos y servicios de larga vida, desarrollados por el grupo. En este ámbito existe una gran experiencia en las herramientas de verificación, gestión de la calidad (Spice) y validación de los resultados.
+2-Un framework de desarrollo rápido que permite la integración de patrones, facilitando la validación y la verificación del software desarrollado con el mismo.
+3-Viabilidad en la utilización de herramientas de prácticas de desarrollo ágiles como Scrum, XP…
+4-Participación en iniciativas como Libertools, que favorezcan la generación de comunidades que ayuden a la utilización de herramientas y técnicas basadas en código libre.
+5- Organización del conocimiento mediante la incorporación en I3B de profesionales referentes dentro del grupo en tecnologías tan diversas como SAP, Oracle, J2ee, Gestión de documentación, bussiness Inteligent...
+6- Participación en iniciativas punteras e innoadoras,  como el Inredis (Cenit), o el proyecto estratégico Patrac para la generación de interfaces multimodales y adaptables a personas con diversidad funcional.
+Así mismo I3b promueve dentro del grupo Ibermática servicios innovadores con temáticas diversas como:
+-E-Business, con proyectos referentes de factura electrónica (Consorcio de Aguas Bilbao-Bizkaia, NaturGas), ó soluciones de E-Government para el Gobierno Vasco y Castilla la Mancha.
+-Integración de sistemas mediante arquitecturas orientadas a Servicios, con la utilización tanto de herramientas Open Source como de  Propietarios.
+-Web semántica, con la participación dentro de proyectos tanto a nivel estatal como europeo, con fuerte implicación en desarrollos en los que las herramientas de acceso semántica a la información tienen una fuerte participación. 
+-Departamento de gestión de infraestructuras con soluciones de Virtualización, Hosting de aplicaciones, provisión de soluciones hardware.
+Seguridad de la información y herramientas de firma electrónica, voto electrónico, con gran experiencia tanto en banca (Kutxa, Banco Guipuzcoano), como administraciones Gobierno Vasco.
+Participación dentro del modelo de gestión de la calidad de Ibermática ISO 9001:2000, y cumplimiento de las normativas como CMMi o Spice en los desarrollos emprendidos.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Guipúzcoa</v:locality>
+            <v:postal-code>20009</v:postal-code>
+            <v:street-address>PASEO MIKELETEGI Nº5</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>INSTITUTO IBERMÁTICA DE INNOVACIÓN</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>INSTITUTO IBERMÁTICA DE INNOVACIÓN</v:organisation-name>
+            <v:organisation-unit>Centro Privado de Investigación</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

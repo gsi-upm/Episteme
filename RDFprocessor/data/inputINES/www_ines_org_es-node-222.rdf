@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/222">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28003</v:postal-code>
+                    <v:street-address>Plaza Descubridor Diego de Ordás, 3</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Consorcio de Transportes de Madrid</ecos:name>
+            <ecos:uri>http://www.ctm-madrid.es/</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;El Consorcio Regional de Transportes de Madrid se constituye en el año 1986 para agrupar los esfuerzos de Instituciones Públicas y Privadas relacionadas con el Transporte Público, con el fin de coordinar Servicios, Redes y Tarifas, de forma que se ofrezca al Usuario una mayor capacidad y mejor calidad de la Oferta.&lt;br&gt;
+De los 951 millones de viajeros transportados en 1986 se ha pasado a 1.591,8 millones en 2005, lo que da una clara idea del esfuerzo inversor y de coordinación realizado en estos años.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>En el ámbito del transporte, uno de los principales desafíos de I+D+i es la incorporación de una nueva tecnología como soporte de títulos que permita mejorar el acceso al transporte público, disminuir los costes y aumentar la seguridad. También pensamos que es otro reto fundamental la búsqueda de soluciones tipo SAE para PYMES, es decir, SAEs de bajo costo.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Conocimientos en Sistemas Inteligentes de Transporte (ITS: Intelligent Transport Systems), en especial en Billetaje Inteligente y en Sistemas SAE de recursos compartidos.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28003</v:postal-code>
+            <v:street-address>Plaza Descubridor Diego de Ordás, 3</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Consorcio de Transportes de Madrid</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Consorcio de Transportes de Madrid</v:organisation-name>
+            <v:organisation-unit>Asociación de Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

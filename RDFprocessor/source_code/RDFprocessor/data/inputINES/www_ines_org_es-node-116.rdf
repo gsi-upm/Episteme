@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/116">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Sevilla</v:locality>
+                    <v:postal-code>41004</v:postal-code>
+                    <v:street-address>C/ San Fernando</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Universidad de Sevilla</ecos:name>
+            <ecos:uri>http://www.us.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Las propias de cualquier Universidad Pública&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Las necesidades actuales de sistemas de información hacen que el desarrollo dirigido por las necesidades de negocio (BDD, business–driven development) de sistemas con arquitecturas flexibles y orientadas a servicios (SOA, service– oriented architecture) sea actualmente uno de los principales retos dentro de la ingeniería del software. Este nuevo reto plantea la necesidad de revisar las actuales metodologías y plataformas de ejecución a fin de desarrollar, mantener y explotar de manera más rápida, fiable y económica este nuevo tipo de sistemas.
+Para ello, se pueden plantear dos grandes objetivos. El primero de ellos consiste en desarrollar un marco de
+trabajo compuesto por metodologías, técnicas y herramientas aplicando el enfoque denominado fábricas de software al desarrollo de sistemas BDD/SOA. Este enfoque, que integra conceptos de otras áreas como ingeniería de requisitos, líneas de productos, desarrollo dirigido por modelos, etc., se basa en configurar entornos de desarrollo a semejanza de las líneas de producción industriales, a fin de producir y mantener de manera rápida y económica múltiples variantes de un producto, en este caso sistemas BDD/SOA.
+El segundo objetivo consiste en desarrollar un conjunto de técnicas y componentes que proporcionen facilidades (facilities) avanzadas en las plataformas de servicios web actuales, en concreto emparejamiento de servicios web compuestos, búsqueda semántica de servicios web y negociación y obtención automática de acuerdos de nivel de servicio (SLA, service–level agreements). Estas facilidades permitirán desarrollar sistemas BDD/SOA capaces de reaccionar rápidamente ante los cambios de los requisitos de usuario y la aparición de nuevas ofertas de servicios.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Gestión de la complejidad:  Ingeniería de requisitos. Identificación y trazabilidad. Requisitos no funcionales Modelos de software. MDA, AOD
+Métodos y herramientas para la productividad: Metodologías. Líneas de productos software. Entornos para ingeniería de servicios
+Negocio digital en red: Modelos de procesos de negocio. Redes de proceso. Ecosistemas digitales
+WEb Semántica: Publicación e intercambio de informacion. Motores de búsqueda semánticos
+Integración de servicios. Modelado de SOA. Descripción de servicios. Descubrimiento de servicios. Composición
+Servicios GRID: Optimación de recursos.
+Calidad predecible. Calidad de productos software. Calidad de servicios compuestos.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Sevilla</v:locality>
+            <v:postal-code>41004</v:postal-code>
+            <v:street-address>C/ San Fernando</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Universidad de Sevilla</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/us.gif?1276593735</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Universidad de Sevilla</v:organisation-name>
+            <v:organisation-unit>Universidad</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

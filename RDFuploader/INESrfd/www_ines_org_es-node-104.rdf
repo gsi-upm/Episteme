@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/104">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28039</v:postal-code>
+                    <v:street-address>c/ Alejandro Rodríguez, 32</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Denodo Technologies, S.L.</ecos:name>
+            <ecos:uri>http://www.denodo.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Denodo Technologies nace de un esfuerzo de investigación y desarrollo llevado a cabo en la década de los noventa por un equipo experto en tecnologías IP, Arquitecturas Software Distribuidas, y Sistemas de Tiempo Real.&lt;/p&gt;
+&lt;p&gt;La convergencia de estas tecnologías y su aplicación en el contexto de los sistemas de información corporativos, especialmente en el ámbito de la búsqueda, estructuración y filtrado de información, ha permitido crear un conjunto de tecnologías de vanguardia que facilitan la integración de información dispersa y heterogénea y la automatización de su procesamiento.&lt;/p&gt;
+&lt;p&gt;En Enero de 2000 se inicia la comercialización de la cartera de servicios web de búsqueda y agregación bajo la denominación comercial de Telemática 2000 finalizando el año contando ya con destacados clientes: Airtel/Vodafone , Biwe , R , Ono , Excite@home , Wanadoo .&lt;/p&gt;
+&lt;p&gt;A inicios de 2001 la empresa adopta un nuevo nombre, Denodo Technologies , y centra su actividad en el desarrollo de infraestructura tecnológica y soluciones para el óptimo aprovechamiento de todo tipo de fuentes de información heterogéneas y distribuidas, internas o externas.&lt;/p&gt;
+&lt;p&gt;Tras el éxito de la primera comercialización ( BBVA, Banco Popular, Agencia EFE, Telefónica, Comunitel, R… ), y durante el año 2004, Denodo da entrada en su capital social a ROSP para financiar la expansión internacional y la comercialización a gran escala de la tecnología.&lt;/p&gt;
+&lt;p&gt;Actualmente Denodo opera desde sus oficinas de Madrid, Barcelona, A Coruña y Palo Alto. Asimismo, cuenta entre otras con alianzas comerciales con importantes integradoras (Indra , Azertia…) para la distribución e integración de la tecnología.&lt;/p&gt;
+&lt;p&gt;Denodo cuenta con el certificado ISO 9000 para diseño, desarrollo e instalación de productos y servicios telemáticos, y mantenimiento de servicios telemáticos.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Por otra parte, el desarrollo de aplicaciones, productos y middleware de integración de información convierte nuestras soluciones en core tecnológico de cualquier infraestructura software corporativa. Por tanto, la capacidad de integración con las arquitecturas existentes, como adelantarse al mercado en cuanto a las arquitecturas y plataformas emergentes, es una prioridad para Denodo y su departamento de I+D.</ecos:detail>
+            
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28039</v:postal-code>
+            <v:street-address>c/ Alejandro Rodríguez, 32</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Denodo Technologies, S.L.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Denodo Technologies, S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>163</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

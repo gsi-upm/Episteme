@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/223">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28231</v:postal-code>
+                    <v:street-address>Oliva 18</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>KYBELE CONSULTING</ecos:name>
+            <ecos:uri>www.kybeleconsulting.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Compañía dedicada a prestar servicios de consultoría, con el fin de mejorar la competitividad de las empresas a través de sustanciales mejoras en ingeniería del software, gestión de proyectos y procesos informáticos.&lt;/p&gt;
+&lt;p&gt;SOMOS spin-off de Universidad, los principales grupos en ingeniería software y redes de investigación forman parte de la compañía.&lt;/p&gt;
+&lt;p&gt;SOMOS PROFESIONALES, con amplia experiencia trabajando en unidades de desarrollo software, fábricas, CMMI, metodologías, gestión de las TI, etc., en puestos estratégicos y en destacadas multinacionales.&lt;/p&gt;
+&lt;p&gt;	Evaluación de la calidad de productos software.&lt;/p&gt;
+&lt;p&gt;	Consultoría sobre procesos software.&lt;/p&gt;
+&lt;p&gt;	Creación y evolución de fábricas software.&lt;/p&gt;
+&lt;p&gt;	Mejora de la calidad de departamentos de desarrollo.&lt;/p&gt;
+&lt;p&gt;	Externalización del proceso de pruebas software.&lt;/p&gt;
+&lt;p&gt;	Verificación, validación y control de calidad independiente.&lt;/p&gt;
+&lt;p&gt;	Implantación de cuadros de mando e indicadores.&lt;/p&gt;
+&lt;p&gt;	Selección y evaluación de proveedores de desarrollo.&lt;/p&gt;
+&lt;p&gt;	Valoración económica de proyectos y acciones de mejora.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Potenciar el I+D+i en Fábricas Software, Ingeniería del software y Gestión de Proyectos</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Fábricas Software, Ingeniería del software y Gestión de Proyectos</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28231</v:postal-code>
+            <v:street-address>Oliva 18</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>KYBELE CONSULTING</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>KYBELE CONSULTING</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

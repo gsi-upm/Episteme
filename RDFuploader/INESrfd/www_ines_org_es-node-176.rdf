@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/176">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Asturias</v:locality>
+                    <v:postal-code>33003</v:postal-code>
+                    <v:street-address>San Francisco 3 Oviedo</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Universidad de Oviedo</ecos:name>
+            <ecos:uri>http://www.uniovi.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Enseñanza Universitaria e Investigacón&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>- Mejora de la eficiencia en los procesos de prueba del software
+- Mejora de la eficacia de las pruebas del software
+- Evaluación empírica de la eficacia y eficiencia de las pruebas del software
+Ámbito de aplicación (actual):
+- Aplicaciones con sistemas de gestión de bases de datos
+- Repositorios de datos XML
+- Composiciones de servicios Web
+- Herramientas para la automatización</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Estándares para portar aplicaciones</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Coaliciones dinámicas</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Metodología de ingeniería de desarrollo y gestión de SoS</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Arquitectura de referencia</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Mashups de servicios y recursos guiados por el usuario</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Composición y agregación de mashups</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Personalización y reutilización de los servicios</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Herramientas de soporte a la generación de servicios complejos desde una perspectiva centrada en el usuario</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Técnicas y métodos que faciliten la creación de servicios por parte de los usuarios</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Métodos de explotación (ITIL)</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Gestión de versiones y migración de servicios</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Gestión de transacciones</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Gestión de políticas y SLAs</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Monitorización y Optimización</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Orquestación y coreografía</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Provisión según demanda</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Propiedades self-*: auto-gestión, auto-optimización, auto-configuración…</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Búsqueda semántica, en base a requisitos y/o especificaciones</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Especificación de necesidades/criterios</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Aspectos dinámicos y de adaptación al contexto</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Estándares para la descripción de servicios</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>SOA</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Estandarización en el empleo de ayudas técnicas y evaluación de su compatibilidad con el sistema.</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Aplicación y uso de asistentes</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Certificaciones de interoperabilidad M2M</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Certificaciones de accesibilidad</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Navegadores de tercera generación: interpretación de la semántica de páginas web.</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Especificación declarativa de la capa de presentación</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Ontologías para descripción de interacción (usuarios, interfaces y capacidades de los sistemas).</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Uso de realidad virtual y aumentada como capa software de ayuda a la interacción persona-sistema.</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Nuevos mecanismos de interacción persona-sistema inteligente.</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Accesibilidad</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Adaptación al usuario</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Contextualización y Personalización</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Validación de modelos.</ecos:name>
+                    <ecos:level>Advanced</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Verificación y validación asociada a la especificación de los requisitos y las métricas de calidad. Técnicas para la certificación</ecos:name>
+                    <ecos:level>Advanced</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Especificación y trazabilidad de requisitos funcionales y no funcionales</ecos:name>
+                    <ecos:level>Advanced</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Orientadas tanto al producto como al proceso</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Métodos de evaluación y mejora de procesos (CMMI®, SPICE)</ecos:name>
+                    <ecos:level>Expert</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Gestión de la calidad en desarrollo (testing unitario, testing de integración) y explotación (testing de aceptación o usuario, testing de prestaciones)</ecos:name>
+                    <ecos:level>Advanced</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Despliegue y personalización de metodologías en una organización.</ecos:name>
+                    <ecos:level>Advanced</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Desarrollo dirigido por modelos</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Arquitecturas y patrones de software</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Lenguajes de modelado específicos de dominio (como medio de acelerar la recogida formal de requisitos en el lenguaje del cliente</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Herramientas de generación automática, compiladores optimizantes y con ayudas para la depuración.</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>AOD (Aspect-Oriented Development): separación de negocio y plataforma de implementación (aspectos)</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>MDA (Model Driven Architecture)</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Gestión de la línea de productos: métricas, uso de OTS (COTS, OSS o web services).</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Gestión de configuraciones de una línea de producto</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Gestión de variantes en el producto (requisitos, diseño, código) y en el proceso de desarrollo.</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Integración de procesos de negocio en cadenas de valor: canal estratégico para la producción y distribución</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Infraestructuras para la cooperación entre PyMES a través de la integración de sus procesos de negocio.</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Análisis y evolución de procesos. Reglas y métricas de proceso.</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Modelado procesos, incluyendo las dimensiones de productos, personas y sistemas</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Digitalización de los procesos y gestión más eficiente de los sectores energéticos</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Definición de acuerdos de nivel de servicio establecidos</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Gestión de mecanismos internos de gestión del software</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>UGC(User Generated Content)</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Ontologías como formalismo de estructuración y anotación de contenidos</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Mecanismos para traducción de información a distintos formatos (compatibles con diversas aplicaciones)</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Desarrollo de estándares y tecnologías usables para la identificación de contenidos de información genérica</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Desarrollo de estándares y tecnologías usables para la identificación de contenidos audiovisuales</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Recuperación de la información basado en contenido semántico</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Presentación utilizando conceptos del modelo semántico</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Sistemas de inferencia automáticos para validar y completar la información</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Asturias</v:locality>
+            <v:postal-code>33003</v:postal-code>
+            <v:street-address>San Francisco 3 Oviedo</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Universidad de Oviedo</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Universidad de Oviedo</v:organisation-name>
+            <v:organisation-unit>Universidad</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>897000</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

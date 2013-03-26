@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/178">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Valladolid</v:locality>
+                    <v:postal-code>47151</v:postal-code>
+                    <v:street-address>Parque Tecnológico de Boecillo</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Centro para el Desarrollo de las Telecomunicaciones en Castilla y León</ecos:name>
+            <ecos:uri>www.cedetel.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;El Centro para el Desarrollo de las Telecomunicaciones de Castilla y León (CEDETEL) se constituye a finales de septiembre de 1995 como una asociación sin ánimo de lucro perteneciente a la Red de Centros Tecnológicos de Castilla y León, cuyo principal objetivo se centra en colaborar con nuestra Comunidad Autónoma para dar solución a las necesidades de la región en materia de telecomunicaciones.&lt;br&gt;
+CEDETEL está estructurado en cuatro departamentos que son: Investigación, Empresas, Administraciones Públicas y el centro de innovación. Las líneas de trabajo de cada uno de estos departamentos se describen a continuación.&lt;/p&gt;
+&lt;p&gt;Investigación&lt;br&gt;
+Este departamento tiene como objetivos desarrollar proyectos en los siguientes campos de investigación:&lt;br&gt;
+- E-learning&lt;br&gt;
+- Televisión Digital Interactiva&lt;br&gt;
+- Redes Inalámbricas&lt;br&gt;
+- Comunicaciones Ópticas&lt;br&gt;
+- Desarrollo de la Sociedad de la Información&lt;/p&gt;
+&lt;p&gt;Empresas&lt;br&gt;
+Este departamento tiene como objetivo aplicar la investigación, el desarrollo y la innovación tecnológica para la mejora de la competitividad empresarial de las PYMES. Este departamento está especializado en la Investigación el Desarrollo y la Innovación en TIC, y la transferencia de tecnología hacia el tejido empresarial en particular y hacia la sociedad en general. &lt;/p&gt;
+&lt;p&gt;Administraciones Públicas&lt;br&gt;
+Uno de los fines estratégicos de CEDETEL es el de apoyar a las Administraciones Públicas y en particular, a la Junta de Castilla y León, en el desarrollo y ejecución de las Políticas relativas a las Tecnologías de la Información y de las Comunicaciones para las empresas, y para el ciudadano.&lt;/p&gt;
+&lt;p&gt;Centro de innovación en la movilidad&lt;br&gt;
+Su objetivo es crear en torno al mismo un polo de conocimiento en tecnología .NET, que oriente su actividad hacia la innovación en soluciones de movilidad, de forma que sirva para impulsar la incorporación de Castilla y León a la Sociedad de la Información, y favorecer el desarrollo del sector de las TICs en la región.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>La misión de CEDETEL es contribuir a que Castilla y León sea una comunidad puntera y referente, en el uso y desarrollo de las Tecnologías de la Información y las Comunicaciones. CEDETEL como Centro Tecnológico pretende crear un entorno favorable a la innovación tecnológica y acercar las nuevas tecnologías, de forma efectiva, a la sociedad en general y al mundo empresarial en particular. Para ello desarrollamos un plan de acercamiento y de detección de las necesidades de las empresas de la región de Castilla y León y se establecen cauces de colaboración permanente para alcanzar una competitividad sostenida. Además, se promueve la creación de nuevas empresas de base tecnológica a partir de procesos de investigación del propio centro.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Valladolid</v:locality>
+            <v:postal-code>47151</v:postal-code>
+            <v:street-address>Parque Tecnológico de Boecillo</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Centro para el Desarrollo de las Telecomunicaciones en Castilla y León</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Centro para el Desarrollo de las Telecomunicaciones en Castilla y León</v:organisation-name>
+            <v:organisation-unit>Centro Tecnológico</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>87</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

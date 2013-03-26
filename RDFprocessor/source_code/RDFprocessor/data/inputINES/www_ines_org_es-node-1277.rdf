@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1277">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Santa Cruz de Tenerife</v:locality>
+                    <v:postal-code>38320</v:postal-code>
+                    <v:street-address>Ctra. General Santa Cruz Laguna, La Higuerita, Edificio Elisabeth, Oficina 3, 38320, La Laguna</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Arte Consultores Tecnológicos S.L</ecos:name>
+            <ecos:uri>http://www.arte-consultores.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Arte Consultores se dedica fundamentalmente al desarrollo de sistemas de información. Hasta ahora, su línea principal está dirigida hacia la e-Administración, desarrollando tareas de integración de sistemas y desarrollo de servicios que permitan la interoperabilidad. Su objetivo es participar y promover proyectos de alto nivel tecnológico. De ahí que queramos apostar de manera firme y decidida por participar en proyectos de I+D+i, que no sólo nos proporcionen mayor nivel de competitividad, sino que nos haga partícipes de forma activa en el desarrollo de un modelo económico basado en el conocimiento.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Como ya he mencionado somos una empresa joven y perqueña. Nuestro objetivo principal no es crecer en tamaño sino consolidarnos como una pequeña empresa altamente tecnológica. Enfocamos nuestros esfuerzos en fomentar y participar en proyectos que supongan retos, tanto a nivel tecnológico como a nivel de negocio. Compartimos vuestra visión en la Plataforma INES de que hay que cambiar el corazón de las empresas españolas para, haciendo uso de la tecnología, lograr que sean más productivas y competitivas.
+Para nuestra empresa, ubicada en un territorio como Canarias, es un deber apostar por la economía del conocimiento, por la investigación, por el desarrollo y por la innovación. Sólo así podremos lograr el objetivo de formar una empresa sólida y competitiva.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Somos una pequeña empresa creada en el 2005. Los dominios tecnológicos sobre los que trabajamos se centran en lo que la Agenda Estratégica de Investigación de INES ha llamado el pilar "Servicios". Los proyectos que hemos acometido este pasado año y otros en los que colaboraremos durante el 2007 están centrados en la E-Administración y tiene los siguientes objetivos:
+1) Desarrollo de nuevos servicios horizontales.
+2) Integración de sistemas existentes para que puedan interoperar dentro de un ambiente SOA.
+3) Desarrollo de una plataforma de interoperabilidad que permita el intercambio de información y la invocación de servicios entre Administraciones.
+Por lo tanto, creemos que nuestras posibles aportaciones se centran en los siguientes retos:
+* Fundamentos claves: Interoperabilidad.
+* Pilar servicios: negocio digital en la red.
+* Pilar servicios: integración de servicios.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Santa Cruz de Tenerife</v:locality>
+            <v:postal-code>38320</v:postal-code>
+            <v:street-address>Ctra. General Santa Cruz Laguna, La Higuerita, Edificio Elisabeth, Oficina 3, 38320, La Laguna</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Arte Consultores Tecnológicos S.L</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Arte Consultores Tecnológicos S.L</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

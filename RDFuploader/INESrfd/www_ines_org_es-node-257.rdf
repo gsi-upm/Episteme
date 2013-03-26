@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/257">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Sevilla</v:locality>
+                    <v:postal-code>41020</v:postal-code>
+                    <v:street-address>Avda. de la Innovación 1, 2ª planta, Edificio Innova</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>PROMAINSUR S.A.U</ecos:name>
+            <ecos:uri>http://www.promainsur.com/</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Promainsur es una empresa especializada en soluciones de negocio para las entidades financieras, orientada a la generación y desarrollo de soluciones innovadoras y al suministro de servicios informáticos a clientes en el mundo de las TI y con una clara vocación integradora en los proyectos, con soluciones horizontales y verticales.&lt;/p&gt;
+&lt;p&gt;La oferta de servicios, aplicable al Sector Financiero, al de Industria y Servicios y al de Administraciones Públicas, se centra en cuatro áreas principales:&lt;/p&gt;
+&lt;p&gt;- Servicios de Consultoría Tecnológica y de Procesos&lt;br&gt;
+- Servicios orientados a Proyectos&lt;br&gt;
+- Servicios de Auditoría Informática&lt;br&gt;
+- Generación e Implantación de Soluciones de negocio propias&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Productos y servicios en el ámbito de las TIC</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Sevilla</v:locality>
+            <v:postal-code>41020</v:postal-code>
+            <v:street-address>Avda. de la Innovación 1, 2ª planta, Edificio Innova</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>PROMAINSUR S.A.U</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>PROMAINSUR S.A.U</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>3</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

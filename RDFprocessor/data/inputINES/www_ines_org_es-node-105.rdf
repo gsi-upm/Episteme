@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/105">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Barcelona</v:locality>
+                    <v:postal-code>08035</v:postal-code>
+                    <v:street-address>Av. Tibidabo 39</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Universitat Oberta de Catalunya</ecos:name>
+            <ecos:uri>http://www.uoc.edu</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La UOC es una institución que surge de la sociedad del conocimiento con la misión de facilitar la formación de las personas a lo largo de su vida. El objetivo primordial de la Universidad es conseguir que cada persona pueda satisfacer sus necesidades de aprendizaje aprovechando al máximo su esfuerzo. &lt;/p&gt;
+&lt;p&gt;Con esta finalidad, se emplean de manera intensiva las tecnologías de la información y la comunicación (TIC), que permiten superar las barreras de tiempo y espacio y ofrecer un modelo educativo basado en la personalización y el acompañamiento integral del estudiante. En la UOC, estudiantes, profesores y gestores interactúan y cooperan en el Campus Virtual, y constituyen una comunidad universitaria que utiliza la red para crear, estructurar, compartir y difundir el conocimiento. &lt;/p&gt;
+&lt;p&gt;En la UOC, nuestro propósito es desarrollar la creatividad de las personas y contribuir al progreso de la sociedad, impulsando la investigación especializada en torno a la sociedad de la información y del conocimiento y estableciendo alianzas con universidades e instituciones de todo el mundo que compartan objetivos y valores para construir un espacio global de conocimiento.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Algunas de las líneas de investigación, innovación y desarrollo son:</ecos:detail>
+            <ecos:detail>Uno de los principales retos de la UOC es conseguir la adecuación del modelo pedagógico y modelo de gestión en entornos virtuales y la permanente innovación en el campo de las nuevas tecnologías, para garantizar un aprovechamiento de las ventajas de la era de la información. En este marco de progreso la UOC participa en una amplia variedad de proyectos de cooperación nacional e internacionales para la investigación y el desarrollo.</ecos:detail>
+            <ecos:detail>• Herramientas para la gestión: esta línea reúne todos los proyectos e iniciativas relacionadas con la mejora de la gestión de la organización: sistemas para la gestión de RRHH, gestión financiera y presupuestaria, gestión del Portal, Biblioteca, etc.</ecos:detail>
+            <ecos:detail>• LearningSolutions reúne una serie de proyectos e iniciativas relacionados con la mejora y la innovación de las tecnologías elearning y Campus Virtual. En esta línea encontramos proyectos como CAMPUS en software libre, innovación el las aulas virtuales, aplicaciones de portfolio, etc. Destacamos el proyecto CAMPUS, iniciado en abril 2006, ya que se trata de un proyecto interuniversitario para la creación de una plataforma de elearning en software libre, subvencionado por la Generalitat de Catalunya, y en el que participan activamente la universidades catalanas y cuyos resultados serán utilizados directamente por la UOC y también serán accesibles a toda la comunidad de software libre.</ecos:detail>
+            <ecos:detail>• MyWAY: herramientas para la personalización. Esta línea destaca los proyectos relacionados con la edición personalizada de materiales docentes. En esta línea de investigación intervienen factores como accesibilidad, edición de materiales, usabilidad, etc.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Los Sistemas Informáticos de la UOC son expertos en el diseño,  desarrollo y mantenimiento de plataformas de elearning y sistemas en software libre, en el diseño y desarrollo de intrumentos para la gestión, así como en metodologías, personalización, accesibilidad y diseño centrado en el usuario.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Barcelona</v:locality>
+            <v:postal-code>08035</v:postal-code>
+            <v:street-address>Av. Tibidabo 39</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Universitat Oberta de Catalunya</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Universitat Oberta de Catalunya</v:organisation-name>
+            <v:organisation-unit>Centro Privado de Investigación</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

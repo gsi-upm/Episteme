@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/ecomspain-conectividad_1425904.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>AVDA.VIA LACTEA S/N CME LOCAL 17 28830 SAN FERNANDO DE HENARES (Madrid)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>ECOMSPAIN CONECTIVIDAD</ecos:name>
+            <ecos:uri>http://www.ecomspain.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>IMPORTADORES Y FABRICANTE ESPECIALIZADOS EN PRODUCTOS DE NETWORKING REDES Y COMUNICACIONES INFORMATICAS</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>FABRICANTES Y DESARROLLADORES DE PRODUCTOS INFORMATICOS EN EL SEGMENTO DE CONECTIVIDAD, MAS CONOCIDO COMO REDES Y COMUNICACIONES. TRABAJAMOS PRODUCTOS DE WIRELESS: PUNTOS DE ACCESO, ROUTERS, ADAPTADORES WIFI, ANTENAS, AMPLIFICADORES Y UNA AMPLIA GAMA DE ACCESRIOS WIRELESS. TAMBIEN TRABAJAMOS REDES CABLEADAS: TARJETAS DE RED, SWITCHES GAMA MEDIA-ALTA, ASÍ COMO PRODUCTOS DE FIBRA OPTICA Y DE VIDEOVIGILANCIA.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:street-address>AVDA.VIA LACTEA S/N CME LOCAL 17 28830 SAN FERNANDO DE HENARES (Madrid)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>ECOMSPAIN CONECTIVIDAD</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/1425904_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>ECOMSPAIN CONECTIVIDAD</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>902012260</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>902402555</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.ecomspain.com</v:url>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>vulka</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>122</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

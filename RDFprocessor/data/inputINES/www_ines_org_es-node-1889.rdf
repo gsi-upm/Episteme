@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1889">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28034</v:postal-code>
+                    <v:street-address>c/ Fco Sancha 22, bajo G</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Company for Software and Devlopment</ecos:name>
+            <ecos:uri>www.csd.com.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;CSD es una compañía española de servicios de Tecnologías de la Información y Comunicaciones (TIC), orientada a la integración de sistemas, desarrollo y calidad del software, Infraestructuras tecnológicas y consultoría. &lt;/p&gt;
+&lt;p&gt;Desde su creación en 1996, CSD ha experimentado un crecimiento constante debido a la confianza mostrada por nuestros clientes. Actualmente disponemos de sedes en Madrid, Valencia y Londres y contamos con más de 90 profesionales trabajando en proyectos de alcance nacional e internacional. &lt;/p&gt;
+&lt;p&gt;En CSD nos centramos en la integración y desarrollo de soluciones tecnológicas, manteniendo una continua comunicación con nuestros clientes, entendiendo sus necesidades y transformándolas en soluciones. Nuestro deseo es acompañar a nuestros clientes en su “viaje” tecnológico, estableciendo relaciones de confianza duraderas y estables y persiguiendo el mutuo desarrollo y crecimiento en un camino de mejora continua y excelencia.&lt;/p&gt;
+&lt;p&gt;En nuestra Compañía se dedica un importante porcentaje de los beneficios a investigación, innovación y formación de nuestros profesionales, adaptando nuestra oferta de servicios a los últimos avances tecnológicos. &lt;/p&gt;
+&lt;p&gt;CSD tiene un ámbito de actuación muy abierto, tanto en sectores de actividad como en implantación geográfica. Nuestros clientes se distribuyen por todas las comunidades  autónomas y, a nivel internacional, venimos desarrollando proyectos en Europa y Sudamérica.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>- Tecnologias para la Inclusion
+- Tecnologias para la Salud
+- Inteligencia Artificial
+- Mejora GIS
+- Web semantica avanzada
+- SCADA avanzado</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>- Integración de sistemas
+- Desarrollo y calidad del software
+- Infraestructuras tecnológicas
+- Consultoría</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28034</v:postal-code>
+            <v:street-address>c/ Fco Sancha 22, bajo G</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Company for Software and Devlopment</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/LOGO%20CSD.jpg?1276783697</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Company for Software and Devlopment</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

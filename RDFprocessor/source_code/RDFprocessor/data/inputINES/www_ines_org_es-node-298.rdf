@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/298">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28045</v:postal-code>
+                    <v:street-address>Ombíº 3</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>MATCHMIND S.L.</ecos:name>
+            <ecos:uri>http://www.matchmind.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Empresa dedicada a la consultoría de gestión y tecnología de la información, orientada a la promoción de nuevas ideas y nuevas tecnologías.&lt;br&gt;
+Nuestra oferta de servicios se agrupa en diferentes divisiones (consultoría, tecnología y soluciones y externalización) cada una de ellas especializadas en distintas líneas de negocio claramente definidas y con su propia capacidad de I+D+i&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Dotar a la compañía de medios específicos en términos de dedicación para poder prestar la atención debida a estos asuntos.
+Participar en proyectos interesantes de I+D
+Formar parte de las plataformas y foros que actualmente lideran los grandes proyectos de I+D, a nivel nacional y europeo.
+Concentrar el esfuerzo que la compañía pueda hacer en el terreno de la I+D.
+Contribuir a potenciar la compañía como una compañía innovadora, a través de la participación en proyectos punteros.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Pilar Software
+Reto 1: Gestión de la complejidad.
+Ingeniería de requisitos
+Modelos para la especificación y traza de requisitos
+Requisitos no funcionales para inteligencia ambiental
+Verificación y validación
+Modelos del software
+Lenguajes de modelado específicos de dominio
+Arquitecturas y patrones de software
+MDA, AOD: separación de negocio y aspectos
+Ingeniería Inversa
+Reto 2: Métodos y herramientas para la productividad.
+Metodologías y Herramientas
+Definición de ciclos de vida, prácticas ágiles
+Ingeniería de procesos.
+Métricas de proceso y de producto: gestión cuantitativa
+Herramientas de generación automática, análisis y diagnóstico
+Desarrollo distribuido en comunidades abiertas
+Practicas, técnicas, herramientas y estándares software
+Mejora de Tecnologías y métricas (aspectos de calidad)
+Líneas de producto software
+Ingeniería de dominio
+Gestión de variantes en el producto y proceso
+Gestión de la línea de productos.
+Reto 3: Interfaces accesibles e inteligentes.
+Interfaces adaptables
+Interfaces multimodales
+Semántica de las interfaces
+Pilar Servicios
+Reto 1: Negocio digital en red.
+Proceso de negocio
+Despliegue de negocio en red
+Ecosistemas digitales de negocio
+Reto 2: Web semántica.
+Publicación e intercambio de información
+Motores de búsqueda semánticos
+Inferencia y complexión
+Reto 3: Integración de servicios.
+Arquitecturas orientadas a servicios
+Descripción de servicios
+Descubrimiento de Servicios
+Composición</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28045</v:postal-code>
+            <v:street-address>Ombíº 3</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>MATCHMIND S.L.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>MATCHMIND S.L.</v:organisation-name>
+            <v:organisation-unit>Gran Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

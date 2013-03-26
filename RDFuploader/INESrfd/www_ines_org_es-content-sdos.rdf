@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/content/sdos">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Sevilla</v:locality>
+                    <v:postal-code>41020</v:postal-code>
+                    <v:street-address>Avda de la Innovación 1, 2ª Planta , Edificio Innova</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Sdos</ecos:name>
+            <ecos:uri>www.s-dos.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;S·dos es una Consultora Tecnológica que presta, de forma completa y global, los servicios de Consultoría, Desarrollo e Integración de Sistemas. Ayudando a los clientes a transformar, optimizar e incluso preservar su ecosistema de aplicaciones de IT.&lt;br&gt;
+Con nuestra contrastada experiencia en el desarrollo de soluciones personalizadas para mejorar los procesos de negocio de todos los departamentos de la empresa, conseguimos que las Nuevas Tecnologías se conviertan en una ventaja estratégica, aporten soluciones para canalizar sus operaciones, faciliten la comunicación con sus clientes y herramientas para alcanzar nuevos mercados.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Apostamos por la Innovación y la Investigación en el Desarrollo de las Soluciones Tecnológicas más eficaces para nuestros clientes.
+Innovación Práctica
+Cooperación Interempresas TIC
+Multicanalidad</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Sevilla</v:locality>
+            <v:postal-code>41020</v:postal-code>
+            <v:street-address>Avda de la Innovación 1, 2ª Planta , Edificio Innova</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Sdos</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/Logo_S2_1_vectorized.png?1330111935</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Sdos</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>576000000</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

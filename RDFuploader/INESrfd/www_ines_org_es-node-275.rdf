@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/275">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Barcelona</v:locality>
+                    <v:postal-code>08018</v:postal-code>
+                    <v:street-address>Sancho de Avila 110-130</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Fundació Barcelona Digital Centre Tecnològic</ecos:name>
+            <ecos:uri>http://www.bdigital.org</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Centro tecnológico de las TIC de Cataluña&lt;/p&gt;
+&lt;p&gt;Somos el centro tecnológico referente de las TIC, mediante la generación y mejora de conocimiento tecnológico y su correspondiente aplicación y difusión para el crecimiento del sector y el desarrollo de la Sociedad de la Información tanto en el ámbito empresarial como social.&lt;/p&gt;
+&lt;p&gt;VISIÓN:&lt;br&gt;
+Centro de investigación, desarrollo tecnológico y promoción de la innovación. Líder al servicio del desarrollo de la Sociedad de la Información y referente para las empresas catalanas y la sociedad; reconocido internacionalmente por la excelencia en el ámbito de las tecnologías de la información aplicadas a la salud y de la movilidad y la seguridad aplicadas transversalmente.&lt;/p&gt;
+&lt;p&gt;MISIÓN:&lt;br&gt;
+﻿Nuestra misión es contribuir al desarrollo de la sociedad de la información y al crecimiento del sector TIC, mediante:&lt;br&gt;
+- El fomento de la investigación, la transferencia tecnológica y la innovación tecnológica; buscando el liderazgo en las especializaciones que nos son propias.&lt;br&gt;
+- El desarrollo de proyectos de innovación y conocimiento para la mejora de la competitividad e internacionalización de productos y servicios de las empresas catalanas.&lt;br&gt;
+- La promoción y uso de las TIC.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>- Línea Movilidad</ecos:detail>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Barcelona</v:locality>
+            <v:postal-code>08018</v:postal-code>
+            <v:street-address>Sancho de Avila 110-130</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Fundació Barcelona Digital Centre Tecnològic</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Fundació Barcelona Digital Centre Tecnològic</v:organisation-name>
+            <v:organisation-unit>Centro Privado de Investigación</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>24</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/309">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Barcelona</v:locality>
+                    <v:postal-code>08006</v:postal-code>
+                    <v:street-address>C/ Tuset 23, 1a</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Cast Info S,A</ecos:name>
+            <ecos:uri>http://www.cast-info.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Cast Info genera valor y ventajas competitivas para sus clientes. La propuesta de Cast Info, basada en soluciones y servicios de vanguardia, cuenta con la consistencia que le dan más de 15 años en el mercado de las TI, unida a su experiencia como compañía pionera en la introducción de las tecnologías vinculadas a Internet en la gestión de empresas.&lt;br&gt;
+El objetivo de este servicio es ayudar a las empresas a generar valor y ventajas competitivas, mediante la aplicación de soluciones innovadoras vinculadas a internet a sus procesos de negocio, basadas en el dominio de los conocimientos, los instrumentos y los métodos específicos de nuestras tecnologías.&lt;br&gt;
+Combinando el dominio de la tecnología, una metodología en los procesos de desarrollo y la sólida experiencia de su equipo de profesionales, Cast Info ayuda a sus clientes a planificar y mejorar sus necesidades tecnológicas, aportando a cada problema soluciones globales, seguras, flexibles y de cualidad.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>- Finalización del módulo de monitorización de servicios a nivel de negocio.
+- Instalación, parametrización y desarrollos de las funcionalidades necesarias para el uso de JIRA como gestor de incidencias (sistema de ticketing), para la adecuación del mismo a las mejores prácticas definidas en ITIL.
+- Ampliación del sistema de monitorización de infraestructuras para poder contemplar múltiples ‘sites’ a monitorizar con distintas políticas y procedimientos de actuación desde un solo centro de servicios.</ecos:detail>
+            
+            
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Barcelona</v:locality>
+            <v:postal-code>08006</v:postal-code>
+            <v:street-address>C/ Tuset 23, 1a</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Cast Info S,A</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Cast Info S,A</v:organisation-name>
+            <v:organisation-unit>Gran Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>443</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

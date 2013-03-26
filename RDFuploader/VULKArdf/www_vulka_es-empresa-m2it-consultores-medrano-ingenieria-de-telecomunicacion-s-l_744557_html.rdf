@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/m2it-consultores-medrano-ingenieria-de-telecomunicacion-s-l_744557.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>Encuadernadores 4, 3ºB 02006 ALBACETE (Albacete)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>M2iT Consultores - Medrano Ingeniería de Telecomunicación, S.L.</ecos:name>
+            <ecos:uri>http://www.m2itconsultores.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>INGENIERIA DE TELECOMUNICACIONES, DOMOTICA y BAJA TENSION</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>M2iT Consultores es un gabinete de Ingeniería especializado en Telecomunicaciones, Domotica y Baja Tension.&#13;La calidad de nuestros proyectos y servicios le ayudará a diferenciar sus viviendas de la competencia.&#13;Visite nuestra web para más información:&#13;www.m2itconsultores.com&#13;O contacte con nosotros por teléfono&#13;967.603.308</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Albacete</v:locality>
+            <v:street-address>Encuadernadores 4, 3ºB 02006 ALBACETE (Albacete)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>M2iT Consultores - Medrano Ingeniería de Telecomunicación, S.L.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>M2iT Consultores - Medrano Ingeniería de Telecomunicación, S.L.</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>617607016</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>967603308</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.m2itconsultores.com</v:url>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>vulka</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>5</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

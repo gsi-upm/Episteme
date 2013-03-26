@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/190">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Vizcaya</v:locality>
+                    <v:postal-code>48170</v:postal-code>
+                    <v:street-address>Parque Tecnológico, Edif. 202</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Tecnalia</ecos:name>
+            <ecos:uri>WWW.tecnalia.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La propuesta de valor de la Unidad Software Systems Engineering de Tecnalia Research &amp;amp; Innovation consiste en proveer tecnología, arquitecturas, procesos, buenas prácticas de ingeniería y de gestión, componentes, etc, para conseguir mejorar la Ingeniería de Software y Sistemas para que aporte valor al negocio de la empresa e incluso permita concebir nuevos negocios.&lt;br&gt;&lt;br&gt;
+La oferta de la Unidad se dirige fundamentalmente a las empresas intensivas en Tecnologías de la Información (TI), es decir, aquellas empresas cuyo negocio depende de manera crítica del software presente en todo tipo de dispositivos físicos y en aplicaciones y servicios TI de soporte al negocio.&lt;br&gt;&lt;br&gt;&lt;br&gt;
+Los clientes de la Unidad son fundamentalmente grandes organizaciones que se dedican al desarrollo de software y sistemas y/o que gestionan los servicios TI para sus clientes externos o internos (es decir, como departamento de software y/o sistemas de una empresa).&lt;br&gt;&lt;br&gt;
+Estos clientes incluyen empresas de Servicios (Banca, Seguros, Salud, Comercio, Administraciones Públicas, Utilities, Turismo, Ocio y Entretenimiento, etc.), así como empresas industriales (Automoción, Ferrocarril, Construcción, Dispositivos electrónicos, Infraestructuras, Seguridad, Control).&lt;br&gt;&lt;br&gt;
+La oferta de la Unidad también se dirige a las PYMES con una propuesta de valor similar, pero con un modelo de negocio basado en proyectos asociativos donde un número de PYMES se aborda de modo conjunto, a través de un agente intermedio (asociación sectorial, cámara de comercio, cluster, asociación regional, etc.) para conseguir mejorar la Ingeniería de Software de modo individual y también integral.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>De forma más específica y relativa a INES, sería:
+	Desafío 1: Mejora de la Gestión de la Complejidad en dos aspectos: Ingeniería de requisitos y las buenas prácticas en el modelado del software.
+	Desafío 2: Mejora de la productividad a través de métodos y herramientas, búsqueda de líneas software y desarrollo distribuido en comunidades abiertas.
+	Desafío 3: Definición, despliegue y desarrollo de los procesos de negocio en red mediante la tecnologías SOA e infraestructura y soporte necesario. Integración se servicios y web 2.0.
+	Desafío 4: Definición de nuevas sistemas, middlewares, mecanismos, plataformas y arquitecturas seguras, fiables y confiables.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Service Engineering
+
+Process Improvement
+		Técnicas y metodologías para mejorar los procesos de software tomando como referencia uno o más modelos de buenas prácticas de gestión e ingeniería.
+		Tecnologías: Sofware (CMMi-Sw, SPICE/ISO 15504, Automotive SPICE,  ISO29110); Servicios (CMMiSVC, ITIL, ISO 20000), Proveedores (CMMI ACQ); Seguridad (ISO 27000); Pymes (ISO29110).
+		Pueden hacerse distinciones por ámbito, tamaño, sector, etc.
+	
+
+IT Services &amp; Architecture
+		Ámbito de competencia: Transition to SOA and Cloud
+		Reingeniería de sistemas legados (monolíticos) a entorno SOA para poder desplegar los servicios en la nube. Esto incluye servicios (SaaS) y plataformas (PaaS) (ej.  con ADM – Architecture driven modernization). Service specification languages (SOAML). Impacto en el modelo de negocio.
+	
+
+Trust &amp; Security
+		El campo de aplicación de seguridad investiga e implementa soluciones de seguridad digital y de ingeniería de seguridad para empresas y organizaciones desarrolladoras e integradores de software. TS-Seguridad se centra en tres focos: 
+
+				Security In Motion (SIM): Con el objetivo de posibilitar el uso los dispositivos móviles como carnet de identidad y tarjetas de crédito
+			
+
+				Security by Design (SbD): Mejorando la ingeniería de software introduciendo la seguridad en el ciclo de vida del proceso ingenieril, minimizando las vulnerabilidades y fortaleciendo las salvaguardas
+			
+
+				Control de acceso en la nube: Introduciendo mecanismo de gestión de la identidad y control de acceso en el nuevo paradigma cloud
+			
+
+Systems Engineering
+
+Software Productivity
+		Herramientas y procesos de automatización para incrementar la productividad en el desarrollo de sistemas. Entendiendo automatización como un proceso guiado, soportado parcial o totalmente por herramientas.
+Product-lines Engineering 
+Software components and reuse
+Model driven engineering
+Open source
+
+
+Smart Systems Development
+		Smart Systems investiga y desarrolla arquitecturas, middlewares y herramientas para el desarrollo de sistemas inteligentes.
+		Un sistema inteligente es un conjunto de dispositivos que incorporan funciones de sensorización, actuación y control, capaces de analizar y describir una situación, y tomar decisiones en base a la información disponible en el entorno, prediciendo o adaptándose a dicha situación. La inteligencia del sistema se evalúa por la calidad de estas decisiones tomadas de forma autónoma.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Vizcaya</v:locality>
+            <v:postal-code>48170</v:postal-code>
+            <v:street-address>Parque Tecnológico, Edif. 202</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Tecnalia</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/Tecnalia.JPG?1329987522</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Tecnalia</v:organisation-name>
+            <v:organisation-unit>Centro Tecnológico</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

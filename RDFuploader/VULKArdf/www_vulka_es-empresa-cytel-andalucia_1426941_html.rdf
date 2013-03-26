@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/cytel-andalucia_1426941.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>C/ Ahorro, 19 P.I. Ctra. Amarilla 41007 Sevilla (Sevilla)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>CYTEL ANDALUCIA</ecos:name>
+            <ecos:uri>http://www.cabletelandalucia.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>Cables Eléctricos, Conductores, Voz y Datos, Fibra Optica, Racks, Telecomunicaciones, Cableado Estructurado, Cables especiales</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Cables y Telecomunicaciones Andalucía, S.L.&#13;SEVILLA&#13;P.I. Ctra. Amarilla C/ Ahorro, 19&#13;41007 - Sevilla&#13;Tfno. 954 673 552   FAX 954 673 518&#13;correo electrónico: cytelandalucia@cytelandalucia.es&#13;MALAGA&#13;P.I. San Luis C/ La Orotava, 119&#13;29006 - Málaga&#13;Tfno. 952 177 058  FAX 952 171 480&#13;correo electrónico: cabletelmalaga@cabletelmalaga.es&#13;correo electrónico: cabletelalmeria@cabletelalmeria.es</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Sevilla</v:locality>
+            <v:street-address>C/ Ahorro, 19 P.I. Ctra. Amarilla 41007 Sevilla (Sevilla)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>CYTEL ANDALUCIA</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/1426941_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>CYTEL ANDALUCIA</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>954 673 518</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>954 673 552</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.cabletelandalucia.com</v:url>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>vulka</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>18</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

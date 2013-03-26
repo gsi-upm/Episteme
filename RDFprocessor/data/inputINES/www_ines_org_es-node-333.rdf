@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/333">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28660</v:postal-code>
+                    <v:street-address>C/Isabel de Farnesio nº 33 Boadilla del Monte</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Forbes Sinclair S.L.</ecos:name>
+            <ecos:uri>www.forbes-sinclair.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;FORBES SINCLAIR desde 1998 firma internacional de servicios profesionales especializada en el campo de la gestión del riesgo y seguridad IT, que proporciona a sus clientes la experiencia profesional y la metodología necesaria para desarrollar e implantar un entorno seguro de procesos de negocio.&lt;/p&gt;
+&lt;p&gt;Nuestros servicios abarcan el ciclo completo de seguridad, siempre con un objetivo final, minimizar los riesgos tecnológicos, legales, organizativos y del buen gobierno asociados a los sistemas de información.&lt;/p&gt;
+&lt;p&gt;Para ello, FORBES SINCLAIR utiliza metodologías internacionales de reconocido prestigio como los estándares (BS ISO/IEC 27001, BS ISO/IEC 20000, BS 25999, PAS 99, BSI Advanced Audit Skills), ITIL, COBIT, CMMI, etc., así como una Knowledgebase propia para la ejecución de los proyectos.&lt;/p&gt;
+&lt;p&gt;Por otro lado, mencionar el equipo de profesionales con años de experiencia dentro del ámbito formación, colaborando con BSI a la hora de impartir cursos dentro del ambito de la seguridad, abarcando  aspectos legales , organizativos, y tecnológicos.&lt;/p&gt;
+&lt;p&gt;Por último destacar,  que FORBES SINCLAIR colabora en la ejecución de proyectos con Partners estratégicos tales como ATOS, BSI, Global Group y Telindus.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Poder participar en proyectos relacionados con los servicios mencionados anteriormente de forma activa.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Como consultora contamos con tres divisiones que están directamente relacionado con temas tratados directamente desde INES evolución de la WEB 2.0/3.0 e internet del futuro:
+División de Consultoría, con amplia experiencia en el campo de la gestión del riesgo y seguridad IT, utiliza metodologías internacionales de reconocido prestigio como los estándares (BS ISO/IEC 27001, BS ISO/IEC 20000, BS 25999) así como ITIL, COBIT, CMMI, etc., para la ejecución de los proyectos, siendo consultora asociada del BSI.
+	División Legal, con  en Derecho de las Tecnologías de la Información y gestión de la seguridad de la información. Integrada por un grupo de profesionales, abogados e informáticos, cuyo objetivo es facilitar por medio de sus servicios la labor de adecuación de su organización a las disposiciones legales vigentes en la materia, así como proporcionar el asesoramiento necesario para la resolución de consultas relacionadas con el Derecho de las Tecnologías de la Información.
+	FSnewMedia, especializada en prestar servicios de comunicación innovadores (formatos newmedia) y eficaces para las empresas. Nuestra misión, es guiar al cliente en el proceso comunicativo, para materializar sus necesidades y concretarlas en unos objetivos y acciones específicas. Sabemos que la Comunicación Corporativa es una parte esencial del éxito de la empresa y no siempre es fácil mantener un canal de comunicación abierto y bidireccional.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28660</v:postal-code>
+            <v:street-address>C/Isabel de Farnesio nº 33 Boadilla del Monte</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Forbes Sinclair S.L.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Forbes Sinclair S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

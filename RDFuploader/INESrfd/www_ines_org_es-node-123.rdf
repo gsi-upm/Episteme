@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/123">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Valladolid</v:locality>
+                    <v:postal-code>47001</v:postal-code>
+                    <v:street-address>Plaza de Madrid nº4, 1º Planta-Valladolid</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Confederación Española de Empresas de Tecnologías de la Información Comunicaciones y Electrónica</ecos:name>
+            <ecos:uri>http://www.conetic.info</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;CONETIC nace con la unión de 13 asociaciones, con el objetivo de aunar los esfuerzos de las Asociaciones Territoriales, la representación de los intereses de las pequeñas y medianas empresas ante organismos locales, Autonómicos, Centrales y Europeos.&lt;/p&gt;
+&lt;p&gt; • Defender y promover los intereses de las empresas de los sectores representados ante las administraciones central y europea.&lt;/p&gt;
+&lt;p&gt;• Promover la colaboración y la cooperación científica, tecnológica, formativa, productiva y comercial, entre PYMEs.&lt;/p&gt;
+&lt;p&gt;• Promover la expansión de las PYMEs del sector en otros sectores y ámbitos geográficos.&lt;/p&gt;
+&lt;p&gt;• Estimular la creación de redes entre empresas, agentes tecnológicos, administraciones y sociedad.&lt;/p&gt;
+&lt;p&gt;• Facilitar la innovación tecnológica y social.&lt;/p&gt;
+&lt;p&gt;• Consolidar e incrementar posicionamiento en mercados.&lt;/p&gt;
+&lt;p&gt;• Promover la aplicación de las nuevas tecnologías en otros sectores.&lt;/p&gt;
+&lt;p&gt;• Atraer nuevas empresas y talento al TEI.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Tratar de incrementar la competitividad de la industria española y posicionarla a nivel europeo como una de las mejores en el ámbito del software y servicios.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Valladolid</v:locality>
+            <v:postal-code>47001</v:postal-code>
+            <v:street-address>Plaza de Madrid nº4, 1º Planta-Valladolid</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Confederación Española de Empresas de Tecnologías de la Información Comunicaciones y Electrónica</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Confederación Española de Empresas de Tecnologías de la Información Comunicaciones y Electrónica</v:organisation-name>
+            <v:organisation-unit>Asociación de Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>221</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

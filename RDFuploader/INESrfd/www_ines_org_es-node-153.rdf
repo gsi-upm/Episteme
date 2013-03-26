@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/153">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>La Coruña</v:locality>
+                    <v:postal-code>15705</v:postal-code>
+                    <v:street-address>Avda de Vigo s/n. Santiago de Compostela.</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Centro de Supercomputación de Galicia</ecos:name>
+            <ecos:uri>http://www.cesga.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La S.A.X. CESGA nace del compromiso de la Xunta de Galicia de promover servicios comunes de apoyo a las tareas de investigación, y por otra parte, del interés del CSIC de promocionar en Galicia un entorno de trabajo en el área del cálculo intensivo, comunicaciones y servicios avanzados en la sociedad de la información y el conocimiento.&lt;/p&gt;
+&lt;p&gt;MISION Y FUNCIONES&lt;/p&gt;
+&lt;p&gt;FUNDACIÓN CESGA:&lt;/p&gt;
+&lt;p&gt;Misión: Fomentar, difundir, prestar servicios de cálculo intensivo y comunicaciones a las comunidades investigadoras gallegas y del CSIC, así como, a aquellas empresas o instituciones que lo soliciten y de este modo, contribuir mediante el perfeccionamiento tecnológico y la innovación, a la mejora de la competitividad de las empresas.&lt;/p&gt;
+&lt;p&gt;Funciones más significativas:&lt;/p&gt;
+&lt;p&gt;    * Proporcionar servicios de cálculo intensivo y comunicaciones avanzadas a la comunidad de usuarios.&lt;br&gt;
+    * Gestionar la "Rede de Ciencia e Tecnoloxía de Galicia".&lt;br&gt;
+    * Fomentar y Promocionar la cooperación entre empresas e instituciones.&lt;/p&gt;
+&lt;p&gt;S.A.X. CESGA:&lt;/p&gt;
+&lt;p&gt;Misión: Promover servicios comunes de apoyo a la investigación, desarrollo e innovación en el ámbito de las tecnologías de la información y de las comunicaciones, en Galicia y en la comunidad investigadora del CSIC.&lt;/p&gt;
+&lt;p&gt;Para ello la S.A.X. CESGA promoverá acciones tendientes a la innovación y mejora en la prestación de servicios de cálculo intensivo y comunicaciones avanzadas así como actividades encaminadas a favorecer soluciones en el campo de la sociedad del conocimiento.&lt;/p&gt;
+&lt;p&gt;Funciones más significativas:&lt;/p&gt;
+&lt;p&gt;    * Promover y difundir el uso de tecnologías de cálculo intensivo y comunicaciones avanzadas&lt;br&gt;
+    * Promover y difundir el uso de tecnologías relacionadas con la sociedad del conocimiento incluyendo: comercio electrónico, e-learning y sistemas de información geográfica.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Participar en una plataforma de opinión y desarrollo de iniciativas de I+D+i en el área de e-learning a nivel nacional</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>La Coruña</v:locality>
+            <v:postal-code>15705</v:postal-code>
+            <v:street-address>Avda de Vigo s/n. Santiago de Compostela.</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Centro de Supercomputación de Galicia</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Centro de Supercomputación de Galicia</v:organisation-name>
+            <v:organisation-unit>Centro Tecnológico</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>8460</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/content/novasoft-corporaci%C3%B3n-empresarial-sl">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Málaga</v:locality>
+                    <v:postal-code>29590</v:postal-code>
+                    <v:street-address>C/Marie Curie, 14 PTA</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Novasoft Corporación empresarial S.L.</ecos:name>
+            <ecos:uri>www.novasoft.eu</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Novasoft es una compañía de base Tecnológica orientada al servicio de valor, pionera en aplicar un modelo de excelencia empresarial y criterios basados en la responsabilidad social corporativa.&lt;/p&gt;
+&lt;p&gt;Despliega sus capacidades en Consultoría Estratégica y Tecnológica, Calidad y Medioambiente, Seguridad, Comunicación, Formación especializada y enseñanza reglada.&lt;br&gt;&lt;a href="http://www.livejasmin.com/freechat.php?psid=taocarlos&amp;amp;pstour=t3&amp;amp;psprogram=REVS&amp;amp;setlang=de&amp;amp;tags=girl&amp;amp;random" title="live sex"&gt;livesex&lt;/a&gt;&lt;br&gt;&lt;a href="http://www.livejasmin.com/freechat.php?psid=taocarlos&amp;amp;pstour=t3&amp;amp;psprogram=REVS&amp;amp;setlang=fr&amp;amp;tags=girl&amp;amp;random" title="live sex"&gt;live sex&lt;/a&gt;&lt;br&gt;&lt;a href="http://www.livejasmin.com/freechat.php?psid=taocarlos&amp;amp;pstour=t3&amp;amp;psprogram=REVS&amp;amp;setlang=es&amp;amp;tags=girl&amp;amp;random" title="live sex"&gt;livesex&lt;/a&gt;&lt;br&gt;&lt;a href="http://www.livejasmin.com/freechat.php?psid=taocarlos&amp;amp;pstour=t3&amp;amp;psprogram=REVS&amp;amp;setlang=it&amp;amp;tags=girl&amp;amp;random" title="live sex"&gt; live sex&lt;/a&gt;&lt;br&gt;&lt;a href="http://www.89teen.com" title="sexcam"&gt;livesex&lt;/a&gt;&lt;br&gt;&lt;a href="http://www.5isex.com" title="sexcam"&gt;sexcam&lt;/a&gt;&lt;br&gt;&lt;a href="http://www.hollandlove.com" title="webcamsex"&gt;sexchat&lt;/a&gt;&lt;br&gt;
+Desde el año 1993, la compañía ha trabajado en el sector TIC con organismos e instituciones públicas y privadas. La experiencia adquirida y la solvencia demostrada en estos años, ha permitido a Novasoft innovar y diversificar sus soluciones y servicios hacia otros sectores más amplios, principalmente hacia el sector del conocimiento&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Mejora en los procesos de desarrollo y verificación formal de software</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>tres factorias de sotfware con certificado CMMI3</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>e-Government</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>eHealth</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Health</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>ICT</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>R&amp;D</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Telecommunication</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Málaga</v:locality>
+            <v:postal-code>29590</v:postal-code>
+            <v:street-address>C/Marie Curie, 14 PTA</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Novasoft Corporación empresarial S.L.</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/logonovasoft_in_nuevo.jpg?1291288986</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Novasoft Corporación empresarial S.L.</v:organisation-name>
+            <v:organisation-unit>Gran Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

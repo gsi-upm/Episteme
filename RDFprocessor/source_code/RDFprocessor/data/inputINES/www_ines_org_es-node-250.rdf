@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/250">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28023</v:postal-code>
+                    <v:street-address>Gobelas, 13, 1</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>FRACTALIA REMOTE SYSTEMS</ecos:name>
+            <ecos:uri>http://www.fractalia.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;ractalia Remote Systems es un grupo español líder en software de gestión remota de redes de PCs, presente en 12 países. Las distintas operaciones del grupo se organizan en torno a tres filiales:&lt;br&gt;
+1.Fractalia Software es la división del grupo Fractalia Remote Systems dedicada al desarrollo de aplicaciones para la administración remota de grandes infraestructuras informáticas. Sus robustas soluciones se caracterizan por la sencillez y la eficiencia. El desarrollo de su marca Iriscene ha marcado el inicio de un nuevo concepto de software para empresas e instituciones que evoluciona el concepto de PC Life Cicle Management.&lt;br&gt;
+Grandes integradores, como Fujitsu, Telefónica o IT Deusto se han convertido en el mejor canal posible para la implementación de Iriscene.&lt;br&gt;
+2.Fractalia Engineering ofrece soluciones basadas en el software Iriscene. Realiza proyectos llave en mano, que pueden incluir servicios de consultoría, soporte y mantenimiento, en función de las necesidades del cliente.&lt;br&gt;
+La línea de negocio de Fractalia Engineering permite a nuestros partners disponer de una oferta flexible y personalizada, basada en la cercanía a cada cliente individual.&lt;br&gt;
+La implementación de infraestructuras de acceso público a Internet para establecimientos hoteleros es una de las líneas de negocio más fuertes de la compañía.&lt;br&gt;
+3.Fractalia Hotel Systems lidera el sector de acceso público en cadenas hoteleras y aeropuertos, tanto en España como en Portugal. Además, la empresa está presente en otros diez países de Europa y de Latinoamérica.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>mejorar la seguridad así como la gestión remota de infraestrucutras.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>gestion remota, y seguridad.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28023</v:postal-code>
+            <v:street-address>Gobelas, 13, 1</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>FRACTALIA REMOTE SYSTEMS</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>FRACTALIA REMOTE SYSTEMS</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

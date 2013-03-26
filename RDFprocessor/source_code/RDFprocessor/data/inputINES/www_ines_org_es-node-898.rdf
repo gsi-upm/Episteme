@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/898">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Pontevedra</v:locality>
+                    <v:postal-code>36211</v:postal-code>
+                    <v:street-address>Pontevedra</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Vmodal Interactive, S.L.</ecos:name>
+            <ecos:uri>http://www.vmodal.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Vmodal es una IEBT de reciente creación, spinoff de la actividad investigadora desarrollada por la empresa 2Mares durante más de 10 años en el ámbito de algoritmos de aprendizaje y modelado del comportamiento en el interfaz hombre-máquina. Está centrada en el desarrollo de productos y servicios tecnológicos en estas áreas de conocimiento.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Desarrollar de forma sostenida y planificada actividades de I+D en el ámbito de la Ingeniería Artificial, Web Semántica y modelado del comportamiento en interfaces avanzadas.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Las competencias giran entorno a las líneas de I+D de la empresa:
+- Interfaces avanazadas
+- Inteligencia artificial
+- modelado de la interacción y del comportamiento</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Pontevedra</v:locality>
+            <v:postal-code>36211</v:postal-code>
+            <v:street-address>Pontevedra</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Vmodal Interactive, S.L.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Vmodal Interactive, S.L.</v:organisation-name>
+            <v:organisation-unit>Gran Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

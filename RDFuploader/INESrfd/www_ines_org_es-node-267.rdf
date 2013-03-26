@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/267">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Sevilla</v:locality>
+                    <v:postal-code>41092</v:postal-code>
+                    <v:street-address>AVDA. ISAAC NEWTON 4, PABELLÓN DE ITALIA 3ª PTA. ISLA DE LA CARTUJA</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Sociedad Andaluza para el Desarrollo de las Telecomunicaciones S.A</ecos:name>
+            <ecos:uri>http://www.sandetel.es/</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La Sociedad Andaluza para el Desarrollo de las Telecomunicaciones (SANDETEL S.A.) tiene como objetivo desarrollar y fomentar el uso de las tecnologías de la Información y las Comunicaciones por las empresas y ciudadanos andaluces, instrumentalizando y ejecutando las políticas que a este respecto dicte la Junta de Andalucía. Su fin es lograr que cualquier hogar, empresa o institución andaluza, con independencia de su ubicación, esté conectada con tecnologías de última generación y con acceso a la información especializada que la sociedad de hoy demanda.El objetivo final, en definitiva, es incorporar Andalucía a la vanguardia de la nueva Sociedad de la Información, como elemento indispensable para la competitividad de las empresas andaluzas, la posibilidad de dar nuevos servicios al ciudadano que redundará en la creación de empleo y en el bienestar social.ad&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Armonizar el trabajo de INES con las distintas iniciativas territoriales, materializando un canal de comunicación bidireccional.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Sevilla</v:locality>
+            <v:postal-code>41092</v:postal-code>
+            <v:street-address>AVDA. ISAAC NEWTON 4, PABELLÓN DE ITALIA 3ª PTA. ISLA DE LA CARTUJA</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Sociedad Andaluza para el Desarrollo de las Telecomunicaciones S.A</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/logoSandetel.jpg?1276854300</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Sociedad Andaluza para el Desarrollo de las Telecomunicaciones S.A</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>367</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

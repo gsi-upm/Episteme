@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/175">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Barcelona</v:locality>
+                    <v:postal-code>08004</v:postal-code>
+                    <v:street-address>Jaume Fabra 12</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>CONSEN EEIG Euro-Group</ecos:name>
+            <ecos:uri>http://consen.org</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;CONSEN - CONSEN (EEIG) Euro-Group is a Grouping of European SMEs who have agreed to cooperate as Euro-Cluster in Information Society Technologies projects, tenders and business throughout Europe.  CONSEN is a non-profit, independent and international consulting firm constituted in November of 2004 in Barcelona.  CONSEN aims to maximize socio-economic benefits acting Pro-Information Society and Open Technologies.  A member of CONSEN Partners network Grouping owns a shares and pays an annual fee and receives benefits in four major areas: research and innovation, marketing and promotion, network building, and organization.  CONSEN is a European OS/IST Cluster built with the networking methodologies and competences of our partners.  CONSEN is evolving to a cooperative society to enhance the exploitation of the partners competences and the building of a fair market, trade in Open Source technologies.   The main objective of the CONSEN (EEIG) is to establish an ongoing and effective dialogue between members focused on Research, Development, Innovation and Business of Open Technological Solutions for Information and Communication at European level.  The companies are all experts in Open-Source Software, Contents, Standards, Infrastructures and Information Society Technologies.  CONSEN aims to function as the focal point for partners wishing to work inside the EU and for the EU.The CONSEN partner's commitment maximizes the Socio-Economic benefits of CONSEN activities.  The CONSEN member's strategy is to share resources and assets, to exploit and manage the network competencies of their members with synergic effect.  The partnership of CONSEN is focused on growing open source business and solutions by pooling resources for collective actions in Consulting; Marketing and Business, in three Layers:  Research and Innovation projects, Tenders and Bids and IST join Brochure for Technological Business.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Challenges of an exponential scale require an evolutionary coping strategy of a commensurate scale at a cooperative cross-disciplinary, international, multilingual, cross-cultural level.</ecos:detail>
+            
+            
+            
+            
+            
+            
+            
+            
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Barcelona</v:locality>
+            <v:postal-code>08004</v:postal-code>
+            <v:street-address>Jaume Fabra 12</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>CONSEN EEIG Euro-Group</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>CONSEN EEIG Euro-Group</v:organisation-name>
+            <v:organisation-unit>Asociación de Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>87</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

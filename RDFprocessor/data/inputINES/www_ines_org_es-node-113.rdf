@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/113">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Sevilla</v:locality>
+                    <v:postal-code>41001</v:postal-code>
+                    <v:street-address>Calle Rioja, 5 -1º</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Yaco Sistemas</ecos:name>
+            <ecos:uri>http://www.yaco.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Yaco es una empresa que centra su actividad a la consutoría y desarrollo de productos y servicios de TI basados en software libre y estándares abiertos.&lt;/p&gt;
+&lt;p&gt;El modelo de negocio de Yaco se basa en la colaboración y el retorno tenológico a la comunidad y en la especialización en:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Soluciones Cloud&lt;/li&gt;
+&lt;li&gt;Soluciones para la Gestión y Promoción de Contenidos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nacida de la iniciativa de miembros activos de la comunidad del software libre y colaboradores de departamentos universitarios, puede ser considerada una spin-off que, tras más de diez años de vida, las referencias de clientes y proyectos realizados, es una clara demostración de que el modelo de negocio cambia y es posible con esta tecnología.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Colaborar con otras empresas y compartir I+D+i en grandes proyectos es una actividad que desde 2006 realizamos con la participación en consorcio para programas nacionales y europeos.</ecos:detail>
+            <ecos:detail>El crecimiento de nuestra empresa, nuestra situación de éxito actual, se debe a una inversión constante en I+D+i, que ha sido visible a terceros, a nuestros clientes, desde lod inicios.</ecos:detail>
+            <ecos:detail>Nuestro mayor desafía en el I+D+I es la de dar respuesta a las exigencias de nuestros clientes y colaborar activamente, en abierto, gestionando estos puntos como ventaja competitiva, estando siempre por delante de lo que marque lo útil ahora, fijando la vista en el porvenir.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Negocio digital en Red.
+Web Semántica.
+Integración.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Sevilla</v:locality>
+            <v:postal-code>41001</v:postal-code>
+            <v:street-address>Calle Rioja, 5 -1º</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Yaco Sistemas</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Yaco Sistemas</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

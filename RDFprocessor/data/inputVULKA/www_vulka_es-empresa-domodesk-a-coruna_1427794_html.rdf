@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/domodesk-a-coruna_1427794.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>c/ Rafael Alberti, 13 - 1ºA 15008 A Coruña (A Coruña)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Domodesk A Coruña</ecos:name>
+            <ecos:uri>http://www.domodesk.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>Domótica de fácil instalación y facil uso, desde el gadget hasta el proyecto mas ambicioso.</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Nos enfocamos desde soluciones a necesidades puntuales como por ejemplo: control y alerta remoto de temperatura, humedad, etc. para CPD o activacion de calderas mediante un SMS. Ademas ofrecemos proyectos e instalaciones domóticos completos para los clientes más exigentes que quienen obtener el mayor confort de su vivivenda.&#xD;Contamos tanto con soluciones cableadas para vievienda en construcción, como inalambricas para viviendas ya construidas.&#xD;En Domodesk tenemos más de 10 años haciendo "Domótica diferente".</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Domótica</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>A Coruña</v:locality>
+            <v:street-address>c/ Rafael Alberti, 13 - 1ºA 15008 A Coruña (A Coruña)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Domodesk A Coruña</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/1427794_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Domodesk A Coruña</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>695368234</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>881918136</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.domodesk.com</v:url>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

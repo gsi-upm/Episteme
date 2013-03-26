@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/content/soltel-it-solutions">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Sevilla</v:locality>
+                    <v:postal-code>41927</v:postal-code>
+                    <v:street-address>C/ Industria 1, Edif. Metropol 1 - Planta 3º - Módulo 14</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Soltel IT Solutions</ecos:name>
+            <ecos:uri>www.soltel.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La Misión de SOLTEL es ser el socio tecnológico de sus clientes, aportando valor a sus organizaciones a través de las TIC con una actitud de innovación continua, buscando la especialización adecuada al estado del arte de la tecnología en los campos de Asistencia Técnica, Ingeniería Software e Ingeniería de Sistemas.&lt;/p&gt;
+&lt;p&gt;La Visión de SOLTEL es ser un Grupo Empresarial de productos y servicios TIC líder en referencia tecnológica y en continuo crecimiento, con vocación internacional, que se distinga por proporcionar una calidad de servicio excelente a sus clientes, una rentabilidad sostenida a sus accionistas, una ampliación de oportunidades de desarrollo profesional y personal a sus empleados y una contribución positiva a la sociedad actuando con un compromiso de ciudadanía&lt;/p&gt;
+&lt;p&gt;Nuestros valores:&lt;br&gt;
+   ·   Profesionalidad&lt;br&gt;
+   ·   Eficiencia&lt;br&gt;
+   ·   Orientación al cliente&lt;br&gt;
+   ·   Proactividad&lt;br&gt;
+   ·   Actitud vanguardista&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Explotación inteligente de datos inteligente.
+Sistemas expertos.
+Interfaces mejorados</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Sevilla</v:locality>
+            <v:postal-code>41927</v:postal-code>
+            <v:street-address>C/ Industria 1, Edif. Metropol 1 - Planta 3º - Módulo 14</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Soltel IT Solutions</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/it_solutions_250x250.png?1350565708</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Soltel IT Solutions</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>8210</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

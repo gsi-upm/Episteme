@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1098">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Gerona</v:locality>
+                    <v:postal-code>17071</v:postal-code>
+                    <v:street-address>Gerona</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Universitat de Girona</ecos:name>
+            <ecos:uri>www.udg.edu</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La Universidad de Girona es una institución pública que busca la excelencia en la docencia y en la investigación y que participa en el progreso y el desarrollo de la sociedad, mediante la creación, transmisión, difusión y crítica de la ciencia, la técnica, las humanidades, las ciencias sociales y las artes.&lt;br&gt;
+La Universidad de Girona está arraigada en el país y en la cultura catalana y es uno de los principales motores económicos y culturales de su entorno. Al mismo tiempo, expresa la vocación de universalidad y de apertura a todas las tradiciones, avances y culturas.&lt;br&gt;
+La Universidad tiene su sede en la ciudad de Girona y se integra en el sistema de universidades públicas catalanas.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>The objectives of the IIiA are the following:</ecos:detail>
+            
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Gerona</v:locality>
+            <v:postal-code>17071</v:postal-code>
+            <v:street-address>Gerona</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Universitat de Girona</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/logo-UdG.jpg?1278404522</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Universitat de Girona</v:organisation-name>
+            <v:organisation-unit>Universidad</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>195000</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

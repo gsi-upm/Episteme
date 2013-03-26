@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/241">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28033</v:postal-code>
+                    <v:street-address>C/ Serrano Galvache 56, Edificio Álamo</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Thales Information Systems S.A.U.</ecos:name>
+            <ecos:uri>www.thalesgroup.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Thales, uno de los mayores grupos internacionales de ingeniería informática y electrónica, se encuentra establecida en los cinco continentes, cuenta con más de 70.000 empleados y provee servicios de alta tecnología a empresas y administraciones públicas de todo el mundo. &lt;/p&gt;
+&lt;p&gt;La compañía actúa en los mercados de Defensa, Aeroespacial, Seguridad y Servicios. La filial española, Thales Information Systems, opera encuadrada en la División Soluciones de Seguridad y Servicios (D3S). Thales cuenta con una oferta global en el sector de las Tecnologías de la Información y la Comunicación, especializada en consultoría, outsourcing y desarrollo, integración y mantenimiento de sistemas técnicos y de gestión. &lt;/p&gt;
+&lt;p&gt;SIMULACIÓN&lt;br&gt;
+Desde los sistemas de entrenamiento asistido por ordenador hasta los simuladores full flight. &lt;/p&gt;
+&lt;p&gt;SEÑALIZACIÓN FERROVIARIA&lt;br&gt;
+Diseña, suministra e instala sistemas de señalización para trenes y metros . &lt;/p&gt;
+&lt;p&gt;SISTEMAS DE CONTROL DE LOS TRANSPORTES&lt;br&gt;
+A la vanguardia de la innovación, con la implantación de la billética integrada sin contacto. &lt;/p&gt;
+&lt;p&gt;e-SECURITY&lt;br&gt;
+Líder en el mercado de la seguridad informática, con equipamientos y soluciones destinados a proteger los intercambios de datos. &lt;/p&gt;
+&lt;p&gt;SISTEMAS DE SEGURIDAD&lt;br&gt;
+Integra sistemas de seguridad y de protección para los mercados de la administración civil (soluciones e-gobierno, soluciones de identidad) y las infraestructuras críticas (energía, gas y petróleo, aeropuertos, grandes eventos, centros operativos de seguridad y gestión de crisis ). &lt;/p&gt;
+&lt;p&gt;SERVICIOS A LAS EMPRESAS&lt;br&gt;
+Thales interviene en toda la informática  de las actividades críticas, en especial outsourcing, integración y uso de soluciones de gestión del ciclo de vida de productos, gestión de la cadena de suministros y gestión de certificación y conformidad.&lt;/p&gt;
+&lt;p&gt;e-TRANSACCIONES&lt;br&gt;
+Líder europeo de las soluciones monéticas protegidas, suministra terminales de pago fijo, portátiles y móviles, soluciones de pagos integradas, autómatas de pago, teclados protegido para cajeros automáticos y sistemas de gestión de terminales.&lt;/p&gt;
+&lt;p&gt;SERVICIOS DE DEFENSA Y AERONAÚTICA&lt;br&gt;
+Servicios de apoyo a misiones operativas de los ejércitos y Servicios de gestión para cubrir la creciente necesidad de subcontratar funciones de soporte no directamente asociadas con las operaciones militares.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Actualmente, el sector TIC en Europa, más específicamente el desarrollo e integración de sistemas software, se encuentra en una fase de crecimiento en nuevas áreas. Por su parte, dos de los factores clave para la economía de servicios son la innovación basada en el conocimiento y las operaciones realizadas con costes optimizados,  sostenidos ambos por la generación de un conocimiento distribuido a través de Internet y los modelos de negocio colaborativos, en los que los competidores a menudo actúan como socios.</ecos:detail>
+            
+            
+            
+            
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28033</v:postal-code>
+            <v:street-address>C/ Serrano Galvache 56, Edificio Álamo</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Thales Information Systems S.A.U.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Thales Information Systems S.A.U.</v:organisation-name>
+            <v:organisation-unit>Gran Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>75</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/161">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Vizcaya</v:locality>
+                    <v:postal-code>48007</v:postal-code>
+                    <v:street-address>Avda. Universidades, 24</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Fundación Deusto - Deustu Fundazioa</ecos:name>
+            <ecos:uri>www.tecnologico.deusto.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Los fines prioritarios de la Fundación Deusto son los siguientes:&lt;br&gt;
+(1) Colaborar a la transformación estructural y cultural que demanda la sociedad del conocimiento, desde la preocupación ética y humanística que aparecen en el Proyecto Universitario Deusto, poniendo también al servicio de la Sociedad el Patrimonio científico de la Universidad de Deusto, los resultados de investigación y docencia y cualquier otra actividad de la misma.&lt;br&gt;
+(2) Colaborar y complementar la actividad de la Universidad de Deusto mediante la aportación de medios humanos, técnicos, económicos o de cualquier otra índole que puedan servir para potenciar y desarrollar otras actividades de carácter universitario. Se pondrá especial dedicación a las actividades de investigación, docencia, formación y desarrollo tecnológico.&lt;br&gt;
+(3) Apoyar la creación de Cátedras, Institutos especializados, Centros Tecnológicos, etc., y los proyectos que se consideren oportunos en todas las actividades universitarias anteriormente citadas.&lt;br&gt;
+(4) Facilitar Becas o dotar con los recursos necesarios a estudiantes y graduados, -destacados por sus dotes intelectuales, capacidad de iniciativa, competencia científica o profesional y responsabilidad ética-, para cursar programas de Master, Doctorado o cualquier otra oferta formativa promovida por Instituciones de Enseñanza Superior.&lt;br&gt;
+(5) Colaborar en todas las actividades de investigación, docentes, culturales, de formación y de desarrollo tecnológico y, en general, en cuantas actividades propias de su objeto desarrolle la Universidad de Deusto, así como complementarlas.&lt;br&gt;
+(6) La Fundación podrá desarrollas las finalidades anteriormente expuestas, bien de forma autónoma e independiente, o bien mediante acuerdos o asociaciones con otras Instituciones o empresas que ayuden, colaboren o participen en el cumplimiento de sus fines.&lt;br&gt;
+(7) La Fundación dará publicidad suficiente a sus objetivos y actividades, a fin de que sean conocidas por sus eventuales beneficiarios e interesados.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Nos interesa la evolución de la Web (Web2.0 y Web3.0), su relación con la Web Semántica y la posible convergencia con SOA.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Vizcaya</v:locality>
+            <v:postal-code>48007</v:postal-code>
+            <v:street-address>Avda. Universidades, 24</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Fundación Deusto - Deustu Fundazioa</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Fundación Deusto - Deustu Fundazioa</v:organisation-name>
+            <v:organisation-unit>Centro Privado de Investigación</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>8</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/268">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28040</v:postal-code>
+                    <v:street-address>Avda. de Sí©neca, 2, 4ª planta</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Univesidad Complutense de madrid</ecos:name>
+            <ecos:uri>http://www.ucm.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Formación e investigación en numerosas areas de conocimiento.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>- Uso coordinado de recursos heterogéneos. Aprovechamiento coordinado de sistemas heterogéneos y dinámicos distribuidos en diferentes sitios, alcanzando el desacoplamiento entre las aplicaciones y los recursos físicos subyacentes.
+- Soporte para el desarrollo de aplicaciones sobre una infraestructura grid usando interfaces estándar del Global Grid Forum
+- Nuevos Modelos de Provisión de Recursos: El acceso a recursos bajo demanda está considerado por numerosos estudios como el siguiente desafío en la evolución de Internet. Este nuevo paradigma ofrece numerosos beneficios para una organización, como la reducción de costes fijos, la posibilidad de acceso a una potencia de cálculo “ilimitada” y la  mejora de la  flexibilidad; haciendo por tanto la provisión de recursos más ágil y adaptable.
+- Soporte para infraestructuras virtuales. La integración tecnologías de virtualización en una infraestructura o CPD permite el desacoplamiento entre la ejecución de los servicios y los recursos físicos subyacentes. El desacoplamiento entre la capa de servicios y los recursos conlleva múltiples ventajas como la posibilidad de implementación de políticas locales de compartición de recursos; o la facilidad en el despliegue de nuevas aplicaciones con exigentes requisitos de configuración.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>- Tecnología grid y virtualizacion
+- Diseño, integración y despliegue de infraestructuras para la resolución eficiente de aplicaciones de gran desafío
+- Desarrollo de middleware y servicios grid para meta-planificación que permitan la ejecución desatendida, fiable, segura y eficiente de aplicaciones sobre infraestructuras grid dinámicas y heterogéneas.
+- Desarrollo de middleware y servicios grid que permiten la gestión de entornos virtuales para las aplicaciones grid
+- Desarrollo de tecnología para la gestión dinámica de máquinas virtuales
+- Desarrollo de componentes para soportar el despliegue de nuevos modelos de provisión de recursos, como utility computing, por medio de la virtualización del acceso al propio grid  usando aproximaciones tipo plug-and-play que permitan el despliegue jerárquico de infraestructuras</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28040</v:postal-code>
+            <v:street-address>Avda. de Sí©neca, 2, 4ª planta</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Univesidad Complutense de madrid</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/complutense.jpg?1329925714</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Univesidad Complutense de madrid</v:organisation-name>
+            <v:organisation-unit>Universidad</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

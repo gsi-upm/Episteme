@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/221">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28660</v:postal-code>
+                    <v:street-address>Facultad de Informatica - Bloque 3 - Campus de Montegancedo - Boadilla del Monte - Madrid 28660</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>IMDEA Software</ecos:name>
+            <ecos:uri>http://www.imdea.org/Software</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;- Investigación de excelencia a un nivel competitivo&lt;br&gt;
+- Transferencia de conocimiento para transferir a la industria los resutlados de la investigación&lt;br&gt;
+- Educación y formación, para ofrecer servicios educativos y formativos a investigadores y profesionales de la industria&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>- Producir software sin errores o con un porcentaje muy bajo
+- Manejar el aumento de la complejidad en el desarrollo software mediante modelos y abstracciones rigurosas que especifiquen problemas y soluciones de una forma muy productiva y efectiva
+- Mejorar las herramientas que el programador utiliza para producir productos y servicios software con funcionalidad sofisticada que sean rentables, seguros, fiables y eficientes
+- Conocer y comprender las características de los modelos y procesos y tecnologías de desarrollo que llevan al éxito a un desarrollo por sofware libre</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28660</v:postal-code>
+            <v:street-address>Facultad de Informatica - Bloque 3 - Campus de Montegancedo - Boadilla del Monte - Madrid 28660</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>IMDEA Software</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>IMDEA Software</v:organisation-name>
+            <v:organisation-unit>Centro Privado de Investigación</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>13100</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

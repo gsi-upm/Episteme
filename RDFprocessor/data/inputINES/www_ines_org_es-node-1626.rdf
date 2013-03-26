@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1626">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Guipúzcoa</v:locality>
+                    <v:postal-code>20009</v:postal-code>
+                    <v:street-address>Paseo Mikeletegi 56 201</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>CICtourGUNE</ecos:name>
+            <ecos:uri>www.tourgune.org</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;El Centro de Investigación  Cooperativa en Turismo, CICtourGUNE, es la infraestructura científico-tecnológica para la generación de conocimiento en el ámbito del turismo y la movilidad, creada en febrero de 2007 en Euskadi.&lt;/p&gt;
+&lt;p&gt;Se define como núcleo científico del Polo de Innovación Turístico Vasco que, genera beneficios sobre todo el sistema y la cadena de valor de la generación de conocimiento, aportando un mayor grado de competitividad al sector turístico.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Modelización, tecnología semántica, teoría del contexto, gestión inteligente de la información</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Tourism Systems and Media, Human Mobility and Technology, Tourism and environments.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Guipúzcoa</v:locality>
+            <v:postal-code>20009</v:postal-code>
+            <v:street-address>Paseo Mikeletegi 56 201</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>CICtourGUNE</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/CICTOURGUNE%2BACTIVIDAD_0.jpg?1274714351</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>CICtourGUNE</v:organisation-name>
+            <v:organisation-unit>Centro Privado de Investigación</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

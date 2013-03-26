@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/263">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28020</v:postal-code>
+                    <v:street-address>c/ Orense 62</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Asociación Multisectorial de Empresas Españolas de Electrónica y Comunicaciones</ecos:name>
+            <ecos:uri>http://www.asimelec.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;ASIMELEC es la Asociación Multisectorial de Empresas Españolas de Electrónica y Comunicaciones. Las empresas que componen ASIMELEC dan trabajo directo a 300.000 personas y su facturación supone el 3% del PIB de España. Actualmente, ASIMELEC cuenta con más de 2.000 empresas representadas.&lt;br&gt;
+ASIMELEC surge con el fin de defender y representar los intereses comunes de las empresas del sector. Por esta razón, entre las actividades que desarrolla se encuentra el establecimiento de una vía de comunicación con la Administración española y comunitaria representando a los distintos sectores que componen la Asociación. Al mismo tiempo, participa en diferentes instituciones, tanto nacionales como europeas, lo que permite conocer la evolución del sector y transmitir los intereses de las empresas asociadas. &lt;/p&gt;
+&lt;p&gt;Por otro lado, y para facilitar la consecución de los mismos objetivos, las empresas asociadas constituyen Comisiones o grupos de trabajo, lo que les permite llevar a cabo acciones de promoción, solución de problemas comunes, análisis de normativa… todo aquello que revierta en el beneficio común de las empresas.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>1)Comisión de Seguridad en las Tecnologías de la Información y Confianza en la Red:
+Modelos integrales de seguridad, Seguridad y Confianza de Infraestructuras y Servicios, Protección y Seguridad de datos, Protección de Propiedad Intelectual y Fraudes</ecos:detail>
+            
+            
+            
+            
+            
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28020</v:postal-code>
+            <v:street-address>c/ Orense 62</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Asociación Multisectorial de Empresas Españolas de Electrónica y Comunicaciones</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Asociación Multisectorial de Empresas Españolas de Electrónica y Comunicaciones</v:organisation-name>
+            <v:organisation-unit>Asociación de Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>4100</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/content/centro-andaluz-de-innovaci%C3%B3n-y-tecnolog%C3%AD-de-la-informaci%C3%B3n-y-las-comunicaciones">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Málaga</v:locality>
+                    <v:postal-code>29590</v:postal-code>
+                    <v:street-address>C/Marie Curie 6, EDIF. CITIC, Parque Tecnológico de Andalucía</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Centro Andaluz de Innovación y Tecnologías de la Información y las Comunicaciones</ecos:name>
+            <ecos:uri>www.citic.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;CITIC, como Centro de Innovación en el área de las Tecnologías de la Información y las Comunicaciones, está realizando una clara apuesta por fomentar el desarrollo de proyectos de alto nivel tecnológico en el área de las telecomunicaciones y las tecnologías de la información, con el objetivo de innovar en este campo.&lt;br&gt;
+Algunas de las actividades que CITIC lleva a cabo se pueden encuadrar dentro del marco de desarrollo de proyectos colaborativos en entornos distribuidos geográficamente a nivel nacional. Hay que destacar la colaboración con empresas y universidades en el desarrollo de proyectos, realizando tanto labores de coordinación y gestión de los proyectos como de desarrollo en el departamento de I+D+i.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Los desafíos de I+D+i de CITIC se engloban en diferentes líneas de investigación en las que se tiene bastante experiencia o se está comenzando a investigar.
+Entre estas líneas de investigación se encuentran:
++ Pasarelas residenciales y plataformas orientadas a servicios.
++ Sistemas multiplataforma
++ Proyectos con tecnologías móviles
++ Televisión digital
++ Sistemas domóticos, de gestión y eficiencia energética y de inteligencia ambiental.
++ interfaces hombre-máquina avanzados
++ realidad aumentada
++ simulación
++ visión por computador
++ procesamiento del lenguaje natural
++ inteligencia artificial, minería de textos, de datos, de contenidos Web
++ accesibilidad y usabilidad</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Algunas de las actividades que CITIC lleva a cabo se pueden encuadrar dentro del marco de desarrollo de proyectos colaborativos en entornos distribuidos geográficamente a nivel nacional. Hay que destacar la colaboración con empresas y universidades en el desarrollo de proyectos, realizando tanto labores de coordinación y gestión de los proyectos como de desarrollo en el departamento de I+D+i. Los proyectos que se realizan dentro de CITIC se pueden clasificar en las siguientes áreas de desarrollo:
+1.	Comunicaciones inalámbricas y móviles
+-	Implementación con SDL de capas del protocolo UMTS de comunicaciones móviles 3G
+-	Interconexión de dispositivos con protocolos GSM, GPRS, UMTS, Bluetooth, ZigBee, WLAN, RFID
+-	Sistema de identificación de pacientes mediante RFID
+-	Centro de Interoperatibilidad y Demostración de Tecnologías Inalámbricas
+2.	Sensores
+-	Red de sensores médicos con protocolos GSM, GPRS, UMTS, Bluetooth, ZigBee, WLAN, RFID
+-	Sistema de detección de caídas basados en sensores acelerométricos
+-	Desarrollo Hw de prototipos
+3.	Estándares médicos
+-	Interconexión con sistemas de PET y TAC certificados DICOM
+-	Tratamiento de imágenes en formato DICOM
+-	Interconexión de sistemas compatibles HL7 v2/v3 y desarrollo de los mensajes del estándar
+4.	Plataformas de trabajo colaborativo y teleformación
+-	Desarrollos web de espacios colaborativos basados en Zope, Plone, Dotproject, Mambo/Joomla
+-	Desarrollos de teleformación con Moodle
+5.	Aplicaciones informáticas especializadas
+-	Lectura y tratamiento de imágenes médicas
+-	Gestión de historia clínica de paciente y de registros clínicos
+-	APIs de conexión a fuentes de datos
+6.	Aplicaciones en entorno web
+-	Aplicaciones sanitarias en entorno web (J2EE, Struts, Hibernate, Web services)
+-	Portales
+-	Espacios colaborativos
+-	Aplicaciones de gestión empresarial
+7.	Computación distribuida y sistemas de alta disponibilidad
+-	Desarrollo de aplicaciones para clusters OpenMosix
+-	Optimización de Sun Grid Engine para nodos Linux de baja memoria
+-	Estudio de utilización de sistemas de ficheros distribuidos para la construcción de un grid
+-	Implementación de algoritmos bioinformáticas bajo GPUs (procesadores gráficos) integrados en un grid
+9.	Televisión Digital Terrestre Interactiva (TDTi)
+-	Tecnología DVB-T
+-	Análisis de tramas DVB-T (Software Libre)
+-	Tecnología MHP
+-	Simulación de receptores TDTi
+-	Estudio sobre el canal de retorno
+10.	Adaptación de las TICs a las redes de distribución eléctrica.
+-	 Automatización de las Subestaciones Transformadoras y Centros de Transformación.
+-	 Telegestión de las redes de distribución.
+-	 Telecontrol de los nodos de la red eléctrica a través de la tecnología PLC (Power Lines Communications).
+-	 Comunicaciones sobre la red eléctrica a través de la tecnología BPL (Broadband over Power Lines Communications).
+-	 Establecimiento de sistemas SCADA a través de redes sensoriales.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Málaga</v:locality>
+            <v:postal-code>29590</v:postal-code>
+            <v:street-address>C/Marie Curie 6, EDIF. CITIC, Parque Tecnológico de Andalucía</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Centro Andaluz de Innovación y Tecnologías de la Información y las Comunicaciones</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Centro Andaluz de Innovación y Tecnologías de la Información y las Comunicaciones</v:organisation-name>
+            <v:organisation-unit>Centro Tecnológico</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/146">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28223</v:postal-code>
+                    <v:street-address>Crta. Pozuelo-Majadahonda Km 1,800, Pozuelo de Alarcón</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Universidad Francisco de Vitoria</ecos:name>
+            <ecos:uri>http://www.ufv.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La Universidad Francisco de Vitoria inició su trayectoria académica en octubre de 1993, como Centro Universitario adscrito a la Universidad Complutense de Madrid. Unos años más tarde, consiguió la plena homologación como Universidad privada. Cuenta con 17 titulaciones odficiales cursadas por más de 3.000 alumnos. &lt;/p&gt;
+&lt;p&gt;Todas ellas (Licenciaturas, Diplomaturas, Ingenierías, Ingenierías Técnicas, Segundos ciclos y Dobles titulaciones) y se complementan con 12 títulos de especialización que se imparten en colaboración con empresas líderes de cada sector y cuyo objetivo es acercar a nuestros alumnos a la práctica de la realidad profesional. &lt;/p&gt;
+&lt;p&gt;La Universidad forma parte de un sistema universitario internacional que integra instituciones de formación superior en Norteamérica (donde cuentan con un extraordinario prestigio), Europa y América del Sur.&lt;/p&gt;
+&lt;p&gt;En la actualidad se imparten las titulaciones de Ingeniería Superior Informática e Ingenierías Técnicas en Informática de Gestión y de Sistemas.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Desarrollo de SW Libre y comunidades de SW libre</ecos:detail>
+            <ecos:detail>Formación y educación: Acercamiento del mundo empresarial y académico con programas de reciclado de profesionales ya en funcionamiento en la actualidad</ecos:detail>
+            <ecos:detail>Negocio electrónico y su implantación en la cultura empresarial de las PYMES</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Negocio digital en Red - relación con Administraciones (eGovernement)
+Tele-educación. Aprendizaje remoto y blended (eLearning, bLearning)
+Diseño de Interfaces Gráficas: semántica, accesibilidad, interfaces inteligentes
+Metodologías de desarrollo y ciclos de vida: teécnicas inteligentes, modelos soportados por KBS (sistemas basados en el conocimiento)
+nterés personal en redes de excelencia y promover la cooperación y el intercambio</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28223</v:postal-code>
+            <v:street-address>Crta. Pozuelo-Majadahonda Km 1,800, Pozuelo de Alarcón</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Universidad Francisco de Vitoria</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Universidad Francisco de Vitoria</v:organisation-name>
+            <v:organisation-unit>Universidad</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

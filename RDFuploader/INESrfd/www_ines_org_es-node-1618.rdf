@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1618">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Sevilla</v:locality>
+                    <v:postal-code>41092</v:postal-code>
+                    <v:street-address>PT Cartuja 93, Calle Isaac Newton nº 4, Pabellón de Italia planta 4 NO</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>ASOCIACIÓN DE EMPRESARIOS DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES DE ANDALUCÍA</ecos:name>
+            <ecos:uri>www.eticom.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La Asociación de Empresarios de Tecnologías de la Información y Comunicaciones de Andalucía, ETICOM, es la patronal andaluza de las pymes Tics del hipersector de Tecnologías de la Información, las Comunicaciones y Electrónica.&lt;/p&gt;
+&lt;p&gt;Nace en el año 2000, estando registrada con el número A/4/00 en el Consejo Andaluz de relaciones laborales, donde están depositados legalmente nuestros Estatutos. (BOJA Nº 22 del 22 de febrero de 2000). &lt;/p&gt;
+&lt;p&gt;En Septiembre según resolución del Ministerio de Industria, Turismo y Comercio, Dirección General de la Pyme, es calificada como Agrupación Empresarial Innovadora, siendo inscrita en el registro de AEI con el número REAEI-00040 “AEI de Empresas de Desarrollo de Software Vertical de Andalucía” &lt;/p&gt;
+&lt;p&gt;Desde sus orígenes, ETICOM es una asociación regional compuesta por empresas tecnológicas repartidas por toda Andalucía y unidas bajo un fin común: producir, desarrollar o implantar Tecnologías de la Información y Comunicaciones.&lt;/p&gt;
+&lt;p&gt;En la actualidad están asociadas a ETICOM, 400 empresas del hipersector TIC andaluz, sea cual sea su tamaño y orientación, con un equipo humano superior a los 16.000 profesionales entre tecnólogos, ingenieros, licenciados y técnicos, representando el 90% de la facturación del sector empresarial TIC andaluz, debido a lo cual se puede afirmar que ETICOM es la patronal TIC regional con mayor representatividad en el país.&lt;/p&gt;
+&lt;p&gt;Las actividades que principalmente se llevan a cabo en el seno de ETICOM son:&lt;/p&gt;
+&lt;p&gt;-	Gestión y ejecución de proyectos: en las siguientes páginas se describen los principales proyectos en los que ETICOM ha participado&lt;br&gt;
+-	Actividades de formación (on line, sectorial y profesional ocupacional). Por ejemplo, en 2009 se han impartido más de 100 cursos (4.000 horas de duración aprox.) y formado a casi 2.000 alumnos.&lt;br&gt;
+-	Actividades de formación y divulgación del sector TIC. A modo  de ejemplo, ETICOM organiza jornadas, desayunos, encuentros networking, seminarios, talleres de trabajo, etc&lt;br&gt;
+-	Actividades de internacionalización que faciliten a las empresas andaluzas la internacionalización e inclusión en otros mercados. En este sentido, ETICOM organiza jornadas, encuentros para la internacionalización, crea grupos de exportación, etc&lt;br&gt;
+-	Actividades de I+D+i. En este sentido, se asesora a las empresas en sus proyectos de I+D+i, se gestionan incentivos a la I+D+i, se crean consorcios tecnológicos, etc&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Desarrollar proyectos dentro del programa Marco, fomentar la I+D+i dentro de las empresas del sector TIC, etc</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Sevilla</v:locality>
+            <v:postal-code>41092</v:postal-code>
+            <v:street-address>PT Cartuja 93, Calle Isaac Newton nº 4, Pabellón de Italia planta 4 NO</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>ASOCIACIÓN DE EMPRESARIOS DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES DE ANDALUCÍA</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/LOGO%20NUEVO%20ETICOM.jpg?1273234031</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>ASOCIACIÓN DE EMPRESARIOS DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES DE ANDALUCÍA</v:organisation-name>
+            <v:organisation-unit>Asociación de Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>367</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

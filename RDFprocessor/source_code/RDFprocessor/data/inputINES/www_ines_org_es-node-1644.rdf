@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1644">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28914</v:postal-code>
+                    <v:street-address>pozuelo de alarcon 59</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>A1 ITELNET CONSULTING S.L</ecos:name>
+            <ecos:uri>www.itelnetconsulting.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Consultoría de desarrollo de software de alto nivel,orientado a la inteligencia artificial, toma de decisiones, respuesta en tiempo real, e integración de sistemas complejos en multientornos. La innovación y los proyectos en I+D+i así como la integración de soluciones en el coche del futuro y la ciudad del futuro, con la mezcla inherente de las telecomunicaciones son nuestro core más avanzado. La internacionalización y el trabajo en entidades bancarias, empresas de telecomunicaciones y cualquier entidad que quiera maximizar su rendimiento, son nuestros clientes potenciales. Nuestra consultoría abarca aspectos organizacionales, de management y gestión externa de proyectos complejos.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>integración de la personalidad del conductor en el vehículo y la reducción de accidentes a 0, incremento del confort, reducción del consumo energético.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>desarrollo
+innovacion
+telecomunicaciones
+comunicaciones radio
+comunicaciones con satélites
+comunicaciones por red
+comunicaciones laser
+entornos web
+entornos cliente servidor
+bases de datos
+organizacion
+gestion
+management
+analisis
+diseño
+green it
+coche verde
+soa</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28914</v:postal-code>
+            <v:street-address>pozuelo de alarcon 59</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>A1 ITELNET CONSULTING S.L</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/Logo%20Oficial%20iTelnet%20JPG.JPG?1273747811</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>A1 ITELNET CONSULTING S.L</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

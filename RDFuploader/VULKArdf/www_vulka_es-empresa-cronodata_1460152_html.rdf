@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/cronodata_1460152.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>Tecnocampus Mataró Av. Ernest Lluch 32, TCM 2, 4º. 4º 08302 Mataró (Barcelona)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Cronodata</ecos:name>
+            <ecos:uri>http://www.cronodata.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>Empresa de investigación y desarrollo, consultoría y formación en nuevas tecnologías.</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Cronodata es una compañía de apoyo que ayuda a compañías comprometidas con el I+D+i a entender el mercado, la competencia y el impacto de las tecnologías de la información en su modelo de negocio.&#13;Cronodata abarca campos como el desarrollo de sistemas, telemedicina, robótica, sistemas mutitáctiles, aplicaciones móviles y sistemas de digital signale, así como dinámica de grupos, creatividad colectiva y gestión del conocimiento con especial énfasis en la lingüística computacional.&#13;Además la compañía posee un fuerte vínculo con universidades europeas y norteamericanas, y otras instituciones vinculadas a la investigación de tecnologías emergentes.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Barcelona</v:locality>
+            <v:street-address>Tecnocampus Mataró Av. Ernest Lluch 32, TCM 2, 4º. 4º 08302 Mataró (Barcelona)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Cronodata</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Cronodata</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>937665503</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.cronodata.com</v:url>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>vulka</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>4790</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

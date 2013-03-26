@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/262">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Málaga</v:locality>
+                    <v:postal-code>29600</v:postal-code>
+                    <v:street-address>Ctra. Nacional 340, km 189.6</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Centro de Innovación Turística de Andalucía (CINNTA)</ecos:name>
+            <ecos:uri>www.cinnta.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;El Centro de Innovación Turística de Andalucía (CINNTA) es una entidad de desarrollo tecnológico de ámbito regional que  nace con la vocación de integrar y aglutinar los esfuerzos del sector público y privado entorno a un objetivo común: potenciar la competitividad del sector turístico andaluz mediante procesos de investigación, desarrollo e innovación (I+D+i).&lt;/p&gt;
+&lt;p&gt;Impulsada por la Consejería de Turismo, Comercio y Deporte de la Junta de Andalucía, CINNTA es una entidad de carácter público-privado que se constituye como fundación y en la que participan 26 entidades del sector turístico, universidades, agentes económicos y sociales y centros tecnológicos.&lt;/p&gt;
+&lt;p&gt;Para alcanzar su objetivo el Centro ha definido tres líneas principales de actuación:&lt;/p&gt;
+&lt;p&gt;    * Impulsar procesos de I+D+i&lt;br&gt;
+    *Impulsar la transferencia de conocimiento y la cultura de la innovación.&lt;br&gt;
+    *Convertirse en lugar de encuentro, reflexión y debate sobre el conocimiento turístico.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Los desafíos en materia de I+D+i que afronta CINNTA son aquellos que inciden directamente sobre un aumento de la competitividad del sector turístico y que aseguran su sostenibilidad:
+-Mejora de la experiencia del turista.
+-Mejora de la posición competitiva del sector turístico en Andalucía incrementando el diferencial de calidad respectoa a otros destinos.
+-Favorecimiento los procesos de comercialización.
+-Aumento del valor añadido e incremento el atractivo del sector para los trabajadores y para los inversores.
+-Reducción los costes económicos y medioambientales y aumento de la productividad.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>El objetivo de CINNTA es impulsar proyectos de I+D+i entre el sector turístico andaluz. Para ello cuenta con una serie de líneas de investigación alrededor de las cuales pretende gestar dichos proyectos. En concreto, las actuales líneas de investigación en materia de I+D+i son:
+-Aplicación del software libre al sector turístico.
+-Aplicación de realidad virtual para la promoción turística.
+-Implantación de nuevas tecnologías en  procesos para la promoción y marketing turístico.
+-Explotación de las posibilidades que la  Web 2.0 ofrece al sector turístico.
+Estas líneas de actuación son revisadas anualmente y se encuentran por tanto enmarcadas en el plan de acción anual de CINNTA. Para el desarrollo de los proyectos asociados a estas líneas de investigación CINNTA alinea y coordina las actuaciones de los distintos agentes generadores del conocimiento en Andalucía: Universidades, Centros Tecnológicos, RETA (Red  de Espacios Tecnológicos de Andalucía)...</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Málaga</v:locality>
+            <v:postal-code>29600</v:postal-code>
+            <v:street-address>Ctra. Nacional 340, km 189.6</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Centro de Innovación Turística de Andalucía (CINNTA)</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Centro de Innovación Turística de Andalucía (CINNTA)</v:organisation-name>
+            <v:organisation-unit>Universidad</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

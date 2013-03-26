@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/228">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Valladolid</v:locality>
+                    <v:postal-code>47002</v:postal-code>
+                    <v:street-address>Plaza de Sta. Cruz, nº 8</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Universidad de Valladolid</ecos:name>
+            <ecos:uri>http://www.uva.es/</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La Universidad de Valladolid mantiene un firme compromiso con la docencia y la investigación. Es un Centro de Enseñanza Superior con más de 100 titulaciones de grado, 17 programas de postgrado y 50 master, que se imparten en sus cuatro campus (Valladolid, Palencia, Segovia y Soria). Realiza también una importante actividad investigadora, contando en la actualidad con 161 Grupos de Investigación Reconocidos y una extensa red de relaciones internacionales y centros de investigación.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>El objetivo principal del grupo es el fomento de la investigación sobre la transmisión de los lenguajes y la superación de barreras con la ayuda de las nuevas tecnologías de la información y la comunicación, además de la investigación y puesta en marcha de sistemas telemáticos de apoyo a la docencia y de recursos comunicativos en entornos de discapacidad.
+El Grupo de Investigación muestra gran interés por la participación en proyectos de I+D+i en torno a:
+- E-learning
+- Infraestructuras de red adecuadas para la aplicación de la nuevas tecnologías y servicios.
+- Aplicaciones, tecnologías y servicios de telecomunicaciones e informática aplicados a la traducción y transmisión del lenguaje y el conocimiento.
+- Lingüística aplicada a la traducción
+- Lenguaje cifrado de signos en el movimiento surrealista y en las vanguardias
+- Traducción automática
+- Traducción subordinada (publicitaria, del cómic, doblaje, subtitulado, etc.)
+-  Lingüística clínica: Logopedia, recuperación de afasias, etc.
+-  Lenguas de discapacidad: Braille, Lengua de Signos, etc.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Valladolid</v:locality>
+            <v:postal-code>47002</v:postal-code>
+            <v:street-address>Plaza de Sta. Cruz, nº 8</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Universidad de Valladolid</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/logo_uva.jpg?1278403914</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Universidad de Valladolid</v:organisation-name>
+            <v:organisation-unit>Universidad</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>773000</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

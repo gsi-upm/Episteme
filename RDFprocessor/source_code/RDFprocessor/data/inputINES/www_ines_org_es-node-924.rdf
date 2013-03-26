@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/924">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Valladolid</v:locality>
+                    <v:postal-code>20000</v:postal-code>
+                    <v:street-address>Parque Tecnológico de Boecillo</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Selfor 21</ecos:name>
+            <ecos:uri>www.selforsistemas.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;-&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>La empresa está incrementando su actividad I+D+i con el objetivo de crear productos y procedimientos más competitivos en el mercado, dicha evolución ascendente, se manifiesta  la envergadura de actuación, desde proyectos regionales a proyectos a nivel europeo. Actualmente, SELFOR 21 participa a nivel europeo en el FP7 como miembro participante de consorcios, e impulsando ideas propias.
+El objetivo de SELFOR 21 es consolidar las líneas de actuación en base a la Plataforma Tecnológica INES, con el fin de que los resultados sean competitivos bajo una estrategia común.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>SELFOR 21 es una empresa española, fundada en el año 2000, cuyas áreas de actividad son la Consultoría, Desarrollo e Ingeniería de Proyectos, todas ellas enmarcadas en el sector de las Tecnologías de la Información y las Comunicaciones.
+SELFOR 21 se caracteriza por ofrecer productos y servicios de alto nivel tecnológico, siendo la programación orientada a objetos,  herramientas de ingeniería software, desarrollo avanzado de GUI, y bases de datos las principales áreas de experiencia de la compañía. En concreto:
+•       Sistemas embebidos, hubs de diferentes ámbitos, proveedores de servicios.
+•       Wireless Sensor networks.
+•       Procesamiento de imágenes y análisis.
+•       Diseño y desarrollo avanzado de GUIs, basados en RIA (Rich Internet Applications)
+•       Desarrollo y gestión de bases de datos,  Oracle, Sybase, SQL Server, DB2, MySQL (diseños - capas de persistencia).
+•       Pruebas de sistema.
+SELFOR 21, dispone de su sede central en Madrid, el otro centro se localiza en Valladolid  (Parque Tecnológico de Boecillo), dicho emplazamiento, promueve la cooperación con organizaciones tanto públicas como privadas dedicadas al I+D+i. Dentro de la estructura organizativa de la empresa, podemos observar el equipo técnico se halla divido en la división de desarrollo y la división estratégica de I+D+i, ambas conectadas con el departamento comercial.
+SELFOR 21 es una empresa española, fundada en el año 2000, cuyas áreas de actividad son la Consultoría, Desarrollo e Ingeniería de Proyectos, todas ellas enmarcadas en el sector de las Tecnologías de la Información y las Comunicaciones.
+SELFOR 21 se caracteriza por ofrecer productos y servicios de alto nivel tecnológico, siendo la programación orientada a objetos,  herramientas de ingeniería software, desarrollo avanzado de GUI, y bases de datos las principales áreas de experiencia de la compañía. En concreto:
+•       Sistemas embebidos, hubs de diferentes ámbitos, proveedores de servicios.
+•       Wireless Sensor networks.
+•       Sistemas distribuídos.
+•       Diseño y desarrollo avanzado de GUIs, basados en RIA (Rich Internet Applications)
+•       Desarrollo y gestión de bases de datos,  Oracle, Sybase, SQL Server, DB2, MySQL (diseños - capas de persistencia).
+•       Pruebas de sistema.
+SELFOR 21, dispone de su sede central en Madrid, el otro centro se localiza en Valladolid  (Parque Tecnológico de Boecillo), dicho emplazamiento, promueve la cooperación con organizaciones tanto públicas como privadas dedicadas al I+D+i. Dentro de la estructura organizativa de la empresa, podemos observar el equipo técnico se halla divido en la división de desarrollo y la división estratégica de I+D+i, ambas conectadas con el departamento comercial.
+SELFOR 21 incorpora gestión de procesos de calidad en sus procedimientos, todas las fases están sujetas a la evaluación del manual interno de calidad de la compañía.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Valladolid</v:locality>
+            <v:postal-code>20000</v:postal-code>
+            <v:street-address>Parque Tecnológico de Boecillo</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Selfor 21</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Selfor 21</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/127">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Valencia</v:locality>
+                    <v:postal-code>46022</v:postal-code>
+                    <v:street-address>CIUDAD POLITÉCNICA DE LA INNOVACIÓN - UPV - ED. 8G. ACC. B - CAMINO DE VERA S/N</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>INSTITUTO TECNOLÓGICO DE INFORMÁTICA</ecos:name>
+            <ecos:uri>http://www.iti.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;El Instituto Tecnológico de Informática, ITI, es un Centro Tecnológico especializado en Investigación, Desarrollo e Innovación en tecnologías de la información y las Comunicaciones. Constituido como asociación sin ánimo de lucro en 1994 por iniciativa de la Universidad Politécnica de Valencia, del Instituto de la Pequeña y Mediana Industria Valenciana (IMPIVA) y un grupo de empresas relevantes del sector informático, pertenece a  la red de Institutos Tecnológicos de la Comunitat Valenciana (REDIT). Desde su creación, el ITI desarrolla una labor de investigación, desarrollo, innovación y transferencia de tecnología ofreciendo a las empresas la posibilidad de incorporar las tecnologías y capacidades desarrolladas en proyectos de I+D+I en sus productos, procesos o negocios.&lt;/p&gt;
+&lt;p&gt;Tiene por misión Investigar, Desarrollar e Innovar en tecnologías de la información y de las comunicaciones para mejorar y mantener la posición competitiva de las empresas tecnológicas, generando y transfiriendo los conocimientos necesarios para la evolución de la industria y de la sociedad en general.&lt;/p&gt;
+&lt;p&gt;Actualmente el Instituto cuenta entre sus asociados con el 93% de las empresas TIC de la CV de más de 8 empleados y forma parte de la junta directiva de las principales patronales del sector TIC a nivel regional.&lt;/p&gt;
+&lt;p&gt;La sede del ITI se encuentra enclavada en la Ciudad Politécnica de la Innovación, un parque científico de 140.000 m2 donde se espera agrupar a los mejores centros de investigación de Valencia con el fin de poner todo el potencial científico al servicio de la investigación y el desarrollo empresarial. El edificio del ITI se divide arquitectónicamente en dos zonas dedicadas a tareas de gestión y actividades científico-tecnológicas en una superficie construida de más de 1700 m2. El ITI cuenta también con una unidad técnica en Alcoy. Sus instalaciones, totalmente adecuadas para la realización de la labor investigadora, están dotadas de laboratorios de hardware y software testing, laboratorios de prototipos y aulas de formación.&lt;/p&gt;
+&lt;p&gt;El ITI trabaja habitualmente en dos principales actividades:&lt;/p&gt;
+&lt;p&gt;•	I+D+i: Investigación, desarrollo e innovación tecnológica, que es la base fundamental del Instituto Tecnológico de Informática y que se divide en dos ramas diferentes:&lt;br&gt;
+o	I+D: cuyo objetivo es la adquisición de nuevos conocimientos científicos y técnicos, dirigidos a la aplicación tecnológica. Con el objetivo de alcanzar el nivel científico/tecnológico necesarios, el ITI realiza proyectos individuales y en cooperación con otros grupos a nivel regional, nacional y europeo, algunos de ellos han constituido un referente a nivel europeo. Dentro del departamento de I+D se encuentran los siguientes grupos de investigación:&lt;br&gt;
+	Grupo de investigación de Sistemas Distribuidos.&lt;br&gt;
+	Grupo de investigación de Reconocimiento del Habla y Tecnologías del Lenguaje.&lt;br&gt;
+	Grupo de investigación de Visión Artificial.&lt;br&gt;
+	Grupo de Informática Industrial, Comunicaciones y Automática (GIICA).&lt;br&gt;
+	Grupo de Sistemas Optimización Aplicada (SOA)&lt;br&gt;
+o	Tecnologías y Servicios: cuyo objetivo es coordinar las áreas de Servicios, de Transferencia Tecnológica e Investigación Aplicada garantizando que la dirección sea el puente entre la demanda de la sociedad y la industria y la investigación. Dentro del área de Tecnologías y Servicios se trabaja en:&lt;br&gt;
+	Área de Sistemas, Seguridad y Software Libre&lt;br&gt;
+	Área de Desarrollos y Arquitecturas Software&lt;br&gt;
+	Área de soporte de soporte de prototipos y laboratorio&lt;br&gt;
+	Área de Calidad del Software&lt;br&gt;
+	Área de Internet y Computación Ubicua&lt;/p&gt;
+&lt;p&gt;•	Transferencia Tecnológica. Esta unidad tiene como objetivo fundamental el potenciar la comunicación bidireccional entre el activo principal del ITI, representado en su Unidad de I+D+I, con el entorno que rodea al mismo, a nivel nacional e internacional. La unidad se divide en tres focos prioritarios:&lt;br&gt;
+o	Inteligencia Estratégica y Competitiva: cuyo objetivo es captar y analizar las tendencias y evolución de las Tecnologías de la Información y las Comunicaciones y las estrategias de investigación y políticas nacionales e internacionales en torno a ellas para orientar al conjunto del Instituto (y a las empresas) sobre nuevos proyectos, productos o procesos que puedan constituirse en oportunidades de I+D+I o negocio para el Instituto y las empresas y coordinar la respuesta ante estas oportunidades. Este objetivo se consigue a través de las siguientes líneas de actividad:&lt;br&gt;
+	Vigilancia Tecnológica&lt;br&gt;
+	Detección de oportunidades de I+D+I nacionales&lt;br&gt;
+	Detección de oportunidades de I+D+I internacional&lt;br&gt;
+	Inteligencia Competitiva&lt;br&gt;
+	Formación&lt;br&gt;
+o	Comercial y Marketing: cuyo objetivo es captar necesidades de las empresas, ofrecer soluciones a las mismas partiendo de las tecnologías, productos y servicios desarrollados por el Instituto y difundir y transferir y posicionar las capacidades y acciones del ITI en su entorno.&lt;br&gt;
+o	Gestión Tecnológica: cuyo objetivo es el fomento y asesoramiento en la financiación de la I+D+I, a través de acciones como:&lt;br&gt;
+	Ofrecer un servicio de información y difusión de contenido tecnológico totalmente actualizado para el uso de los profesionales, de las empresas y de las unidades de investigación.&lt;br&gt;
+	Informar y asesorar a los grupos de I+D y a las empresas sobre las fuentes de financiación existentes a nivel europeo, nacional y regional.&lt;br&gt;
+	Asesorar sobre aspectos relacionados con la IPR (propiedad intelectual e industrial).&lt;br&gt;
+	Entablar relaciones con los organismos de la administración pública encargados de la promoción de la I+D+I.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Arquitecturas de Software
+o	Análisis, diseño y desarrollo de arquitecturas software</ecos:detail>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Estándares para portar aplicaciones</ecos:name>
+                    <ecos:level>Expert</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Coaliciones dinámicas</ecos:name>
+                    <ecos:level>Expert</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Metodología de ingeniería de desarrollo y gestión de SoS</ecos:name>
+                    <ecos:level>Expert</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Arquitectura de referencia</ecos:name>
+                    <ecos:level>Expert</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Mashups de servicios y recursos guiados por el usuario</ecos:name>
+                    <ecos:level>Advanced</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Composición y agregación de mashups</ecos:name>
+                    <ecos:level>Advanced</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Personalización y reutilización de los servicios</ecos:name>
+                    <ecos:level>Expert</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Herramientas de soporte a la generación de servicios complejos desde una perspectiva centrada en el usuario</ecos:name>
+                    <ecos:level>Expert</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Técnicas y métodos que faciliten la creación de servicios por parte de los usuarios</ecos:name>
+                    <ecos:level>Expert</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Métodos de explotación (ITIL)</ecos:name>
+                    <ecos:level>Expert</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Gestión de versiones y migración de servicios</ecos:name>
+                    <ecos:level>Advanced</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Gestión de transacciones</ecos:name>
+                    <ecos:level>Expert</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Gestión de políticas y SLAs</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Monitorización y Optimización</ecos:name>
+                    <ecos:level>Advanced</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Orquestación y coreografía</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Provisión según demanda</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Propiedades self-*: auto-gestión, auto-optimización, auto-configuración…</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Búsqueda semántica, en base a requisitos y/o especificaciones</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Especificación de necesidades/criterios</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Aspectos dinámicos y de adaptación al contexto</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Estándares para la descripción de servicios</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>SOA</ecos:name>
+                    <ecos:level>Advanced</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Estandarización en el empleo de ayudas técnicas y evaluación de su compatibilidad con el sistema.</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Aplicación y uso de asistentes</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Certificaciones de interoperabilidad M2M</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Certificaciones de accesibilidad</ecos:name>
+                    <ecos:level>Advanced</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Navegadores de tercera generación: interpretación de la semántica de páginas web.</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Especificación declarativa de la capa de presentación</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Ontologías para descripción de interacción (usuarios, interfaces y capacidades de los sistemas).</ecos:name>
+                    <ecos:level>Expert</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Uso de realidad virtual y aumentada como capa software de ayuda a la interacción persona-sistema.</ecos:name>
+                    <ecos:level>Expert</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Nuevos mecanismos de interacción persona-sistema inteligente.</ecos:name>
+                    <ecos:level>Expert</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Accesibilidad</ecos:name>
+                    <ecos:level>Advanced</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Adaptación al usuario</ecos:name>
+                    <ecos:level>Advanced</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Contextualización y Personalización</ecos:name>
+                    <ecos:level>Advanced</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Validación de modelos.</ecos:name>
+                    <ecos:level>Expert</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Verificación y validación asociada a la especificación de los requisitos y las métricas de calidad. Técnicas para la certificación</ecos:name>
+                    <ecos:level>Advanced</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Especificación y trazabilidad de requisitos funcionales y no funcionales</ecos:name>
+                    <ecos:level>Advanced</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Orientadas tanto al producto como al proceso</ecos:name>
+                    <ecos:level>Advanced</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Métodos de evaluación y mejora de procesos (CMMI®, SPICE)</ecos:name>
+                    <ecos:level>Advanced</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Gestión de la calidad en desarrollo (testing unitario, testing de integración) y explotación (testing de aceptación o usuario, testing de prestaciones)</ecos:name>
+                    <ecos:level>Advanced</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Despliegue y personalización de metodologías en una organización.</ecos:name>
+                    <ecos:level>Advanced</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Desarrollo dirigido por modelos</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Arquitecturas y patrones de software</ecos:name>
+                    <ecos:level>Advanced</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Lenguajes de modelado específicos de dominio (como medio de acelerar la recogida formal de requisitos en el lenguaje del cliente</ecos:name>
+                    <ecos:level>Expert</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Herramientas de generación automática, compiladores optimizantes y con ayudas para la depuración.</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>AOD (Aspect-Oriented Development): separación de negocio y plataforma de implementación (aspectos)</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>MDA (Model Driven Architecture)</ecos:name>
+                    <ecos:level>Expert</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Gestión de la línea de productos: métricas, uso de OTS (COTS, OSS o web services).</ecos:name>
+                    <ecos:level>Expert</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Gestión de configuraciones de una línea de producto</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Gestión de variantes en el producto (requisitos, diseño, código) y en el proceso de desarrollo.</ecos:name>
+                    <ecos:level>Expert</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Integración de procesos de negocio en cadenas de valor: canal estratégico para la producción y distribución</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Infraestructuras para la cooperación entre PyMES a través de la integración de sus procesos de negocio.</ecos:name>
+                    <ecos:level>Advanced</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Análisis y evolución de procesos. Reglas y métricas de proceso.</ecos:name>
+                    <ecos:level>Advanced</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Modelado procesos, incluyendo las dimensiones de productos, personas y sistemas</ecos:name>
+                    <ecos:level>Advanced</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Digitalización de los procesos y gestión más eficiente de los sectores energéticos</ecos:name>
+                    <ecos:level>Expert</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Definición de acuerdos de nivel de servicio establecidos</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Gestión de mecanismos internos de gestión del software</ecos:name>
+                    <ecos:level>Advanced</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>UGC(User Generated Content)</ecos:name>
+                    <ecos:level>Expert</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Ontologías como formalismo de estructuración y anotación de contenidos</ecos:name>
+                    <ecos:level>Expert</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Mecanismos para traducción de información a distintos formatos (compatibles con diversas aplicaciones)</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Desarrollo de estándares y tecnologías usables para la identificación de contenidos de información genérica</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Desarrollo de estándares y tecnologías usables para la identificación de contenidos audiovisuales</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Recuperación de la información basado en contenido semántico</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Presentación utilizando conceptos del modelo semántico</ecos:name>
+                    <ecos:level>Intermediate</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Sistemas de inferencia automáticos para validar y completar la información</ecos:name>
+                    <ecos:level>Expert</ecos:level>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Valencia</v:locality>
+            <v:postal-code>46022</v:postal-code>
+            <v:street-address>CIUDAD POLITÉCNICA DE LA INNOVACIÓN - UPV - ED. 8G. ACC. B - CAMINO DE VERA S/N</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>INSTITUTO TECNOLÓGICO DE INFORMÁTICA</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/logoiti.jpg?1276853747</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>INSTITUTO TECNOLÓGICO DE INFORMÁTICA</v:organisation-name>
+            <v:organisation-unit>Centro Tecnológico</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>8390</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/659">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Barcelona</v:locality>
+                    <v:postal-code>08034</v:postal-code>
+                    <v:street-address>Pedro i Pons 9-11</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>UPCnet Serveis d'accés a internet de la Universitat Politècnica de Catalunya SL.</ecos:name>
+            <ecos:uri>http://www.upcnet.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Servicios TIC a universidades, administraciones públicas y otras empresas de interés.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Tecnologias de accesibilidad: reconocimiento de voz, escritura, adaptación a discapcitados.
+Mejora de la seguridad en servicios, servicios de confianza.
+Virtualización de servicios
+Web semantica
+Modelos Mashup</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Gestión de la complejidad
+Metodos y herramientas para la productividad
+Interfaces accesibles y inteligentes
+Negocio digital en red
+Integración de servicios
+Calidad, usabilidad, etc.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Barcelona</v:locality>
+            <v:postal-code>08034</v:postal-code>
+            <v:street-address>Pedro i Pons 9-11</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>UPCnet Serveis d'accés a internet de la Universitat Politècnica de Catalunya SL.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>UPCnet Serveis d'accés a internet de la Universitat Politècnica de Catalunya SL.</v:organisation-name>
+            <v:organisation-unit>Gran Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

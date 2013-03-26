@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/blasco-centro-material-electrico-s-l_1437261.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>C/ LA SOLANA, 32 28850 TORREJON DE ARDOZ (Madrid)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>BLASCO CENTRO MATERIAL ELECTRICO, S.L.</ecos:name>
+            <ecos:uri>http://www.blascosa.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>DISTRIBUIDOR DE MATERIAL ELECTRICO</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Distribuidores de las principales marcas del sector de material electrico: Siemens, Simon, Osram, Obo-Bettermann,Legrand, Atlantic, Fuji, Orbis, Normalux, Miguelez, Gewiss, G. Electric, Himel, Hager, Televes. &#13;ILUMINACION, MATERIAL INDUSTRIAL, DOMOTICA, CLIMATIZACION, CONDUCTORES ELECTRICOS, MEDIA TENSION...&#13;Delagaciones en AVILA, SEGOVIA, VALLADOLID,TORREJON DE ARDOZ ,FUENLABRADA Y VIGO..</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:street-address>C/ LA SOLANA, 32 28850 TORREJON DE ARDOZ (Madrid)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>BLASCO CENTRO MATERIAL ELECTRICO, S.L.</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/1437261_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>BLASCO CENTRO MATERIAL ELECTRICO, S.L.</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>916761586</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>916555890</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.blascosa.com</v:url>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>vulka</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>69</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

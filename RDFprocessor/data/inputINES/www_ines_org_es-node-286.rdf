@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/286">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Pontevedra</v:locality>
+                    <v:postal-code>36310</v:postal-code>
+                    <v:street-address>VIGO  -  LAGOAS MARCOSENDE S/N</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>CENTRO TECNOLOGICO DE TELECOMUNICACIONES DE  GALICIA</ecos:name>
+            <ecos:uri>WWW.GRADIANT.ORG</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;El Centro Tecnológico de Telecomunicaciones de Galicia (GRADIANT: Galician Research and Development Center in Advanced Telecommunications) fue fundado en Diciembre de 2007 por once empresas del sector TIC de Galicia (Arantia, Arteixo Telecom, Egatel, Gsertel, Indra, Ineo, R, Telefónica, Televés, Tredess y Tele2 Comunitel), la Consellería de Industria de la Xunta de Galicia, y las tres universidades gallegas (A Coruña, Santiago y Vigo). El 51% del capital fundacional de GRADIANT es privado, adoptando la fórmula jurídica de "fundación privada sin ánimo de lucro".&lt;/p&gt;
+&lt;p&gt;El proyecto de creación del Centro tiene sus inicios en el año 2003, cuando la Xunta de Galicia, a través de la Consellería de Innovación, Industria y Energía , dirigida por Juan Rodríguez Yuste, solicita a un grupo de profesores de la Escuela Superior de Ingenieros de Telecomunicación de Vigo que realicen un estudio de viabildad para su puesta en marcha. &lt;/p&gt;
+&lt;p&gt;Actualmente, GRADIANT se ubica de forma provisional en instalaciones cedidas por la Escuela de Ingenieros de Telecomunicación de Vigo, mientras no concluye la primera fase de la Ciudad Tecnolóxica de Vigo (Citexvi), cuya entrada en funcionamiento, también en el campus vigués, está prevista para el tercer trimestre de 2009. GRADIANT parte de la experiencia de grupos punteros en investigación y transferencia de la Escuela de Ingenieros de Vigo, tanto de los Departamentos de Teoría de la Señal y Comunicaciones, como de Ingeniería Telemática. Prueba de dicha experiencia lo constituye el hecho de que los dos grupos de investigación que promovieron la creación de GRADIANT recibieron el sello de consolidados por parte de la Xunta de Galicia, siendo los únicos en la comunidad gallega a los que, en el ámbito de las Telecomunicaciones, les fue otorgada dicha distinción.&lt;/p&gt;
+&lt;p&gt;A fecha de hoy su Mapa de conocimiento y Líneas de interes son:&lt;/p&gt;
+&lt;p&gt;Area de Comunicaciones&lt;/p&gt;
+&lt;p&gt;Area de Redes y Servicios&lt;/p&gt;
+&lt;p&gt;( en el aparatado Competencia se incluye un mayor detalle de cada una de ellas)&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Con este objetivo Gradiant trata que cada una de las lineas de Investigación que desarrolla cubra las necesiadaes que las empresas españolas demandan o demandaran en un futuro.</ecos:detail>
+            <ecos:detail>El principal desadio de Gradiant como centro tecnológico es conseguir que sus  lineas de Investigación sean "utiles" a las empresas y les ayuden  a desarrollar nuevos productos o servicios y a ser más competitivos en general.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Área de Comunicaciones Digitales:
+Difusión de televisión digital: 
+Comunicaciones por satélite.
+Comunicaciones inalámbricas.
+Watermarking de señales multimedia, autentificación y protección del copyright. 
+Radio cognitiva y redes de sensores. Estimación distribuida, centralización de la información, estrategias cooperativas. 
+Áreas de Redes y Aplicaciones :
+Biometría: Reconocimiento de facial, voz, huella y firma escrita. . 
+E-learning: Interoperabilidad y estandarización. 
+Vídeo bajo demanda y streaming multimedia: protocolos, codificación de red en tiempo real, señalización, sincronización, etc. 
+Comunicaciones móviles e inalámbricas: seguridad, planificación, tecnologías y servicios de localización, satélite, WLANs, WPANs, redes móviles ad-hoc, redes de sensores, DTNs, redes vehiculares, etc.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Pontevedra</v:locality>
+            <v:postal-code>36310</v:postal-code>
+            <v:street-address>VIGO  -  LAGOAS MARCOSENDE S/N</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>CENTRO TECNOLOGICO DE TELECOMUNICACIONES DE  GALICIA</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>CENTRO TECNOLOGICO DE TELECOMUNICACIONES DE  GALICIA</v:organisation-name>
+            <v:organisation-unit>Centro Tecnológico</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

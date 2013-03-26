@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/176">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Asturias</v:locality>
+                    <v:postal-code>33003</v:postal-code>
+                    <v:street-address>San Francisco 3 Oviedo</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Universidad de Oviedo</ecos:name>
+            <ecos:uri>http://www.uniovi.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Enseñanza Universitaria e Investigacón&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>- Mejora de la eficiencia en los procesos de prueba del software
+- Mejora de la eficacia de las pruebas del software
+- Evaluación empírica de la eficacia y eficiencia de las pruebas del software
+Ámbito de aplicación (actual):
+- Aplicaciones con sistemas de gestión de bases de datos
+- Repositorios de datos XML
+- Composiciones de servicios Web
+- Herramientas para la automatización</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>- Calidad del producto Software -&gt; Tecnologías para la verificación y Validación -&gt; Pruebas del Software
+- Calidad de procesos -&gt; Madurez del proceso de desarrollo</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Asturias</v:locality>
+            <v:postal-code>33003</v:postal-code>
+            <v:street-address>San Francisco 3 Oviedo</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Universidad de Oviedo</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Universidad de Oviedo</v:organisation-name>
+            <v:organisation-unit>Universidad</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

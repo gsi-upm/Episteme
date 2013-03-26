@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/121">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Pontevedra</v:locality>
+                    <v:postal-code>36318</v:postal-code>
+                    <v:street-address>Carretera de Madrid 210, Local H</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>PENTARED S.L.</ecos:name>
+            <ecos:uri>http://www.pentared.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Pentared S.L. es una empresa vinculada con el mundo de la informática y las telecomunicaciones con una amplia experiencia acreditada por los 10 años de actividad profesional prestando servicio a nuestros clientes, con una estructura de personal altamente cualificado que trabajan dando cobertura a las demandas que nuestros clientes realizan a los diferentes departamentos que constituyen nuestra empresa.&lt;br&gt;
+En lo que se refiere al desarrollo e integración de soluciones innovadoras y proyectos de I+D+i,  en los últimos años, y con el objetivo en mente de estar siempre a la vanguardia tecnológica con el análisis e incorporación de nuevas soluciones se ha constituido un área específico de I+D que implica a diversos departamentos y a profesionales de formaciones muy diversas con un objetivo fundamental: la implementación de estrategias que permitan el incremento de los procesos de innovación tecnológica mediante la investigación, desarrollo y promoción de novedosas soluciones técnicas que permitan un incremento en los niveles de adaptación TIC, así como un fomento de la cultura científica-tecnológica.&lt;br&gt;
+Estos procesos de innovación se aplican tanto a producto como a procesos. Ambas son desarrolladas a partir de conocimiento adquirido y la identificación de problemas sectoriales y tienen, en general, un carácter incremental.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>- Posicionamiento sectorial de Pentared en un mercado cada vez más globalizado.
+- Reducción de la brecha tecnológica entre estado del arte y el estado de la práctica.
+- Retorno de las inversiones realizadas mediante diversas fórmulas (y no las meramente económicas) como la transferencia de conocimiento con comunidades mediante sistemas de Código Libre.
+- Ahorro de tiempo, entendiento por tal en no aplicar recursos en actuaciones que ya poseen lineas pragmáticas de ejecución, apostando caramente por la innovación como mecanismo de crecimiento.</ecos:detail>
+            
+            
+            
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Pontevedra</v:locality>
+            <v:postal-code>36318</v:postal-code>
+            <v:street-address>Carretera de Madrid 210, Local H</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>PENTARED S.L.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>PENTARED S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>81</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

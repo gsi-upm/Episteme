@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/100">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28925</v:postal-code>
+                    <v:street-address>c/Tablas de Daimiel 2, portal 2, 1ºB - 28.925 ALCORCON (MADRID)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>ANSWARETECH S.L.</ecos:name>
+            <ecos:uri>www.answare-tech.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Answare presta servicios de consultoría y desarrollo en las Tecnologías de la Información y de la Comunicación (TIC) para los sectores Aerospacial, Defensa, Telecomunicaciones y Internet a nivel nacional e internacional. &lt;/p&gt;
+&lt;p&gt;Answare proporciona todos los servicios en las TIC relacionados con la consultoría, la formación y el desarrollo de proyectos basados en las tecnologías y las herramientas más avanzadas del mercado, aportando soluciones a la medida de las necesidades de cada cliente. &lt;/p&gt;
+&lt;p&gt;En temas de la consultoría, proporcionamos a sus clientes ingenieros y expertos altamente cualificados y especialistas en un amplio espectro de ramas de la ingeniería software. &lt;/p&gt;
+&lt;p&gt;En temas de la formación, proporcionamos cursos en las metodologías, tecnologías y herramientas punteras del mercado.&lt;/p&gt;
+&lt;p&gt;En temas de desarrollo de aplicaciones software y de sistemas informáticos, desarrollamos aplicaciones y sistemas a la medida de las necesidades de cada cliente y proporcionamos asistencia técnica a nuestros clientes. Abarcamos el ciclo de vida completo de cualquier desarrollo de sistema y aplicación informática, incluyendo todos los procesos de ingeniería: estudio de viabilidad, análisis de los requisitos del usuario, especificaciones de requisitos del usuario, especificaciones de requisitos del sistema, diseño, desarrollo, pruebas, entrega al usuario, soporte técnico.&lt;/p&gt;
+&lt;p&gt;Proveemos soluciones globales que generan ventajas competitivas para nuestros clientes y socios. Suministramos sistemas y aplicaciones software adaptados a las necesidades específicas de cada cliente. Somos proveedor de una solución total.&lt;/p&gt;
+&lt;p&gt;Entre los clientes de Answare se encuentran: Comisión Europea, EUMETSAT - satélites METEOSAT, SES ASTRA, Centro de Satélites de la Unión Europea, INTA (Instituto Nacional de Técnica Aerospacial), INDRA Espacio, ILOG, y también subcontratista de Telefónica Móviles (TME), IBERIA, Construcciones Aeronáuticas (EADS CASA), ALCATEL, SEAT GEDAS, Metro de Madrid, ELIOP.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Answare esta convencida que las TIC son un recurso estratégico para incrementar la cifra de negocio de una empresa. Ahora, el éxito se basa en tener a tiempo las soluciones TIC. El despliegue de las TIC se acelerará en el futuro debido a que las tecnologías y los productos se adaptan cada vez mas a las necesidades de la industria, son técnicamente mas fiables y son económicamente mas asequibles gracias al ahorro de costes de desarrollo y de mantenimiento.</ecos:detail>
+            <ecos:detail>Hoy en día, la mayoría de nuestro trabajo se basa en implementar soluciones a medida. Prevemos explotar la competencia adquirida en los proyectos implementados en los sectores Espacio y TIC, en nuestras actividades de  consultoría y en las tecnologías que utilizamos. Tenemos un gran interés en re-utilizar esta experiencia junto con los resultados de nuestras actividades internas de I+D para aplicarles a otros sectores, y así extender y diversificar nuestro abanico de ofertas de servicios.</ecos:detail>
+            <ecos:detail>Nuestro objetivo consiste en responder rápidamente a las necesidades crecientes de transferencias de tecnologías y consultoría por parte de la industria y por otro lado, en proporcionar soluciones innovadoras que generan ventajas competitivas a nuestros clientes y a nuestros socios.</ecos:detail>
+            <ecos:detail>Tenemos la intención de construir una reputación de primera clase en servicios de ingeniería software, y desarrollo de productos TIC con altos estándares de calidad y a precio competitivo, utilizando tecnologías punteras. Para conseguir nuestro objetivo, nos aferramos al reto del mercado de las TIC que requiere la mezcla de conocimientos técnicos sólido, potencial creativo, calidad de servicios y compromiso continuo para alcanzar los mejores resultados.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Ayudamos a las empresas en todas las fases de estudio y desarrollo necesarias para elaborar proyectos que integren TIC. Nuestro objetivo es de entregar soluciones de calidad que cumplen con los requisitos, según planificación y presupuestos acordados. Seguimos los procesos de ingeniería para cubrir todas las fases del ciclo de vida del proyecto, desde la iniciación hasta la finalización del proyecto, interviniendo a todos los niveles:
+- Definición y especificación de necesidades
+- Diseño y desarrollo (incluidos prototipos)
+- Pruebas de integración, verificación y validación
+- Puesta en operación y mantenimiento
+- Formación a los usuarios
+- Actividades asociadas al ciclo de vida de un proyecto: Gestión de proyecto, Control de configuración, Control de calidad
+Nuestro trabajo, desarrollado en los sectores aerospacial, defensa, transporte, telecomunicaciones e Internet, nos ha permitido adquirir competencia en los siguientes campos:
+- Sistemas de planificación y de optimización
+- Sistemas de mando y de control en tiempo real
+- Sistemas de visualización y de información geográfica (GIS)
+- Sistemas de ayuda y soporte a la decisión
+- Aplicaciones Internet e e-projects (p.ej. comercio electrónico)
+- Diseño y implementación de sitios Web
+Sistemas de planificación y optimización
+Answare tiene experiencia en desarrollar sistemas software para asignar recursos y planificar actividades. Utilizamos técnicas de Inteligencia Artificial como programación por restricción, una técnica de optimización potente con mecanismos de búsqueda inteligente para aplicaciones complejas de resolución de problemas de planificación, de secuencias y configuración.
+Sistemas de mando y control en tiempo real
+Answare esta plenamente cualificada para especificar, diseñar e implementar sistemas de mando y control en tiempo real. Suministramos sistemas con arquitectura centralizada o distribuida (i.e. para control remoto vía Internet).
+Sistemas de visualización y de información geográfica
+Answare tiene experiencia probada en aplicaciones de visualización y interfaces de usuario gráficas. Proporcionamos servicios de ingeniería software en sistemas de información geográfica (GIS).
+Sistemas de ayuda y soporte a la decisión
+Answare ha desarrollado con éxito sistemas de ayuda a la decisión en tiempo real.  Utilizamos tecnologías de Inteligencia Artificial como sistemas a bases de reglas (conocidos como sistemas expertos), donde el conocimiento es explicito, en vez de ser mezclado de forma implícita dentro del algoritmo.
+Aplicaciones Internet e e-projects
+Answare proporciona a sus clientes soluciones avanzadas para el desarrollo de aplicaciones basadas en Internet. Nuestras soluciones se basan en arquitecturas cliente / middleware / servidor, donde el cliente es un usuario Internet con un PC y un web browser. Nuestros sistemas aseguran la confidencialidad y protección al acceso de datos a través de transacciones seguras.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28925</v:postal-code>
+            <v:street-address>c/Tablas de Daimiel 2, portal 2, 1ºB - 28.925 ALCORCON (MADRID)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>ANSWARETECH S.L.</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/answare-newLogo.png?1340109973</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>ANSWARETECH S.L.</v:organisation-name>
+            <v:organisation-unit>Centro Privado de Investigación</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

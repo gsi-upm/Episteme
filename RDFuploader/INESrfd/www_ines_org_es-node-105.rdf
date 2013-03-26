@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/105">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Barcelona</v:locality>
+                    <v:postal-code>08035</v:postal-code>
+                    <v:street-address>Av. Tibidabo 39</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Universitat Oberta de Catalunya</ecos:name>
+            <ecos:uri>http://www.uoc.edu</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La UOC es una institución que surge de la sociedad del conocimiento con la misión de facilitar la formación de las personas a lo largo de su vida. El objetivo primordial de la Universidad es conseguir que cada persona pueda satisfacer sus necesidades de aprendizaje aprovechando al máximo su esfuerzo. &lt;/p&gt;
+&lt;p&gt;Con esta finalidad, se emplean de manera intensiva las tecnologías de la información y la comunicación (TIC), que permiten superar las barreras de tiempo y espacio y ofrecer un modelo educativo basado en la personalización y el acompañamiento integral del estudiante. En la UOC, estudiantes, profesores y gestores interactúan y cooperan en el Campus Virtual, y constituyen una comunidad universitaria que utiliza la red para crear, estructurar, compartir y difundir el conocimiento. &lt;/p&gt;
+&lt;p&gt;En la UOC, nuestro propósito es desarrollar la creatividad de las personas y contribuir al progreso de la sociedad, impulsando la investigación especializada en torno a la sociedad de la información y del conocimiento y estableciendo alianzas con universidades e instituciones de todo el mundo que compartan objetivos y valores para construir un espacio global de conocimiento.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Algunas de las líneas de investigación, innovación y desarrollo son:</ecos:detail>
+            
+            
+            
+            
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Barcelona</v:locality>
+            <v:postal-code>08035</v:postal-code>
+            <v:street-address>Av. Tibidabo 39</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Universitat Oberta de Catalunya</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Universitat Oberta de Catalunya</v:organisation-name>
+            <v:organisation-unit>Centro Privado de Investigación</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>261000</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

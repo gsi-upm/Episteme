@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/239">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Barcelona</v:locality>
+                    <v:postal-code>08290</v:postal-code>
+                    <v:street-address>Parc Tecnologic del Valles, Av. Universitat Autonoma, 23</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Fundación ASCAMM</ecos:name>
+            <ecos:uri>http;//www.ascamm.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La Fundación ASCAMM es una fundación privada sin ánimo de lucro, reconocida como Centro de Innovación y Tecnología (CIT) por la Comisión Interministerial de Ciencia y Tecnología (CICYT) y como Centro Tecnológico  por el Centro de Innovación y Desarrollo Empresarial (CIDEM) de la Generalitat de Catalunya. Asimismo, es miembro fundador de la Federación Española de Entidades de Innovación y Tecnología (FEDIT).&lt;br&gt;
+La misión del Centro Tecnológico de ASCAMM es ayudar a las empresas a mejorar su competitividad por la vía de la innovación y la transferencia tecnológica, consolidándose como un referente europeo en este sentido. En el Centro se dan cita varias líneas de investigación aplicada que tienen como principal objetivo la generación de conocimiento tecnológico para ser transferido hacia el entorno industrial de manera eficiente y sostenible.&lt;br&gt;
+Desde sus orígenes, en ASCAMM se han llevado a cabo más de 200 proyectos de I+D+i subvencionados en los tres niveles geográficos (Generalitat de Catalunya, Ministerios de España y Comisión Europea). Otro indicador interesente son los más de 20.000 alumnos que han pasado por el Centro para recibir formación especializada en una gran variedad de áreas tecnológicas. El Centro Tecnológico está estrechamente vinculado a una Asociación de empresas catalanas con más de 200 asociados.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>El departamento de TIC de ASCAMM tiene continuamente abiertas varias líneas de I+D en Ingeniería del Conocimiento. Para fortalecerlas se lleva a cabo una estrecha colaboración con diversas OPIs, entre las que cabe destacar: el LSI de la UPC, el eXIT de la UdG , el IIIA del CSIC , el School of Computing and Technology de la Sunderland University, el WMG de la Warwick University y el Bremen Institute of Production Technology and Applied Work Science. Buena parte de esta colaboración se traduce en movilidad de investigadores e incorporación de doctores en plantilla.</ecos:detail>
+            <ecos:detail>En cuanto a las líneas específicas de I+D, actualmente se están potenciando las siguientes (algunas de ellas bajo subvención parcial de la Generalitat, el Ministerio y la Comisión Europea):
+•	Sistemas Expertos con Razonamiento Basado en Casos (CBR).
+•	Sistemas Multiagentes para el brokerage de conocimiento.
+•	Entornos colaborativos en web semántica.
+•	Análisis de Redes Sociales del Conocimiento.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>A continuación se listan las competencias tecnológicas de Software y Servicios del departamento TIC de ASCAMM según el mapa que ofrecen los grupos de trabajo que desarrollan, evolucionan e implementan la Agenda Estratégica de Investigación de INES (el documento del que se dispone es INES_AEI_v2_0.pdf).
+•	eLearning.- Se trata de una de las líneas de Servicios más maduras de ASCAMM, hay que tener presente que cada año pasan por el Centro más de 2000 alumnos y un 50% de la actividad formativa tiene soporte online. Desde hace más de seis años se vienen desarrollando soluciones en código abierto de eLearning para el propio Centro y a la medida de algunos clientes.
+•	Ingeniería del Software.- ASCAMM ofrece servicios de ingeniería de software para un amplio espectro de soluciones: ingeniería del conocimiento, soluciones de movilidad, herramientas de planificación de recursos, entornos de trabajo colaborativos, digital writing, sistemas empotrados, entornos CAx...
+•	Software de Código Abierto.- Se trata del modelo de licencia más habitual con el que se realizan los desarrollos. Actualmente se está liberando un entorno de trabajo colaborativo orientado a proyectos.
+•	Evolución de la WEB (fusión de Web Semántica y Web 2.0/3.0).- ASCAMM colabora con la Comisión Europea en temas de web semántica para aplicaciones industriales.
+•	eTurismo.- Hace un año que se está trabajando en una solución para catálogo virtual de hoteles.
+El centro de masas de las capacidades tecnológicas del departamento TIC de ASCAMM recae en la Ingeniería del Conocimiento. En los últimos cuatro años se han coordinado desde ASCAMM proyectos de desarrollo de soluciones como:
+Sistemas expertos para soporte a la toma de decisiones en ámbitos industriales (desde procesos concretos de producción hasta supply chain).
+Redes sociales del conocimiento para ámbitos tecnológicos de interés industrial.
+Sistemas Multiagentes para el brokerage de conocimiento.
+Entornos colaborativos con web semántica y captación de perfiles basados en ontologías.
+Además de las categorías que aparecen en la AEI de INES, ASCAMM también desarrolla soluciones para eIndustry, eHealth y eGovernment.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Barcelona</v:locality>
+            <v:postal-code>08290</v:postal-code>
+            <v:street-address>Parc Tecnologic del Valles, Av. Universitat Autonoma, 23</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Fundación ASCAMM</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Fundación ASCAMM</v:organisation-name>
+            <v:organisation-unit>Centro Tecnológico</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

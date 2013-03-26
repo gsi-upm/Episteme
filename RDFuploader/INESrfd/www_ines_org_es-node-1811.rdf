@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1811">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Valencia</v:locality>
+                    <v:postal-code>46702</v:postal-code>
+                    <v:street-address>Pº Germanias, 84</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Aura Difusión S.L..</ecos:name>
+            <ecos:uri>www.auraportal.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Empresa de desarrollo de Software Empresarial BPM (Business Process Management) para la automatización de las Actividades Empresariales mediante Procesos de Negocio.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>El ascendente de AuraPortal en el mundo TIC se remonta  a más de 30 años en los que ha venido transvasando su experiencia entre diferentes equipos disciplinarios que han realizado verdaderas aportaciones  innovadoras en su campo: Software de Gestión Empresarial, en empresas como Dimoni, Exact Sofware y ahora AuraPortal. Por lo que su perfil tecnológico es sumamente alto y está refrendado por su propia política de inversiones en I+D+i. Por lo tanto, en sus objetivos inmediatos se encuentra seguir escalando en su posicionamiento mundial cuya actual posición es la de empresa referente en el mundo de la tecnología BPM, aunque es consciente de que para mantenerse y seguir dicho camino es sumamente necesario poseer la apertura necesaria y la adecuada estrategia de cooperación y colaboración con proyectos y espacios de intercambio donde la innovación tecnológica sea el principal factor a impulsar, como es el caso de la Plataforma INES a la que acaba de solicitar su incorporación; primero como miembro del Grupo dedicado a la Innovación, y segundo, con el objetivo de aportar sus recursos y potencial de conocimientos tecno-empresariales para la apertura de nuevos espacios de trabajo INES.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Valencia</v:locality>
+            <v:postal-code>46702</v:postal-code>
+            <v:street-address>Pº Germanias, 84</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Aura Difusión S.L..</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/Portal_LogoAP%20B-B-Y-XL-S.jpg?1275492502</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Aura Difusión S.L..</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>15</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

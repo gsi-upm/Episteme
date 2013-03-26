@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/192">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28942</v:postal-code>
+                    <v:street-address>Camino del Molino nº 2 Fuenlabrada</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Hospital de Fuenlabrada</ecos:name>
+            <ecos:uri>http://www.hospitaldefuenlabrada.org/</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;El Hospital de Fuenlabrada es una Empresa Pública perteneciente a la Red Única de la Comunidad de Madrid, que presta servicios de atención sanitaria especializada y realiza actividades docentes e investigadoras.&lt;br&gt;
+Asistencial: Presta servicios de atención sanitaria especializada en coordinación con otros niveles y dispositivos sanitarios con un enfoque curativo y preventivo.&lt;br&gt;
+Docente: Su actividad docente esta dirigida a la formación de profesionales en diferentes disciplinas de las ciencias de la salud, (licenciatura y especialización ) en colaboración con la Universidad y otras instituciones docentes relevantes.&lt;br&gt;
+Investigadora: Dirigida a colaborar en la resolución de los problemas de salud mas prevalentes de la población, promoviendo el avance en el conocimiento de aquellas cuestiones prioritarias que mejor responden a sus necesidades actuales.&lt;br&gt;
+El Hospital está firmemente comprometido con:&lt;br&gt;
+Un servicio público que orienta todas las decisiones hacia las necesidades de los usuarios, con fundamento en la evidencia científica e interiorizando el “coste oportunidad” y el “beneficio social” de las mismas.&lt;br&gt;
+El desarrollo profesional dentro del trabajo en equipo basado en la delegación de responsabilidad por niveles de competencia.&lt;br&gt;
+Las iniciativas de avance que puedan surgir en la sociedad científica a la que pertenece.&lt;br&gt;
+Con el respeto y mejora del entorno donde se ubica y realiza sus actividades.&lt;br&gt;
+Aspiramos a ser un hospital con:&lt;br&gt;
+Una preocupación por la formación como medio para la capacitación continua de sus profesionales y su motivación en una política de gestión del conocimiento que incluya a todos los actores y en estrecha relación con la Universidad.&lt;br&gt;
+Permanentemente ocupado en la mejora continua de sus procesos de trabajo, afianzando sus recursos tecnológicos e innovando sus sistemas de información, en un marco de adecuada descentralización de las tareas de gestión de su actividad.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Líneas de desarrollo de las TICs en:
+Estándares de Historia Clínica Electrónica.
+Terminologías y modelización del conocimiento clínico.
+Continuidad de la asistencia con Atención Primaria y otros niveles.
+Implicación de pacientes en el cuidado de su salud.
+Gestión de pacientes.
+Procesos asistenciales del hospital.
+Áreas de gestión.
+Cuadro de mando.
+Soluciones departamentales.</ecos:detail>
+            <ecos:detail>Por otro lado, las líneas de investigaron biomédica de la epidemiología clínica y la evaluación de servicios sanitarios, lo que permite combinar objetivos y metodologías de investigación en salud y en TIC.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>LA INNOVACIÓN Y DESARROLLO EN SISTEMAS DE INFORMACIÓN PARA LA MEJORA DEL FUNCIONAMIENTO DEL CENTRO EN TODOS SUS ÁMBITOS DE ACTUACIÓN es una línea estratégica del hospital.
+Disponer y ordenar el conocimiento y la experiencia acumulada para el mejor diseño y desarrollo de sistemas de información, que en permanente adaptación a las necesidades de los pacientes y de los profesionales que les atienden, faciliten los procesos que la Institución precisa para el logro de su misión, promoviendo paralelamente el avance de las TIC`s en el ámbito de la sanidad.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28942</v:postal-code>
+            <v:street-address>Camino del Molino nº 2 Fuenlabrada</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Hospital de Fuenlabrada</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Hospital de Fuenlabrada</v:organisation-name>
+            <v:organisation-unit>Centro Público de Investigación</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

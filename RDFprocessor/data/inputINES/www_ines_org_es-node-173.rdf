@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/173">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Santa Cruz de Tenerife</v:locality>
+                    <v:postal-code>38001</v:postal-code>
+                    <v:street-address>Elías Ramos González, 4, ofc. 304</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Open Canarias, SL</ecos:name>
+            <ecos:uri>http://www.opencanarias.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Open Canarias en una empresa dedicada a las Tecnologías de la Información y las  Comunicaciones, fundamentalmente en los siguientes ámbitos:&lt;br&gt;
+- Outsourcing de centros de atención de llamadas (CAT) y centros de atención de usuarios (CAU).&lt;br&gt;
+- Diseño e instalación de redes (Intranets y Extranets).&lt;br&gt;
+- Venta y asistencia en técnica de sistemas para servidores Windows, Unix, Linux, AS/400 y Mainframes 390 IBM.&lt;br&gt;
+- Consultoría y diseño de soluciones para la seguridad informática (cortafuegos, servidores de correo seguros, certificados electrónicos, firma electrónica, etc.).&lt;br&gt;
+- Desarrollos basados en la plataforma J2EE (Java 2 Enterprise Edition) para entorno web, integración de sistemas heredados, gestión documental, workflow, portales, e-learning, SAP, etc.&lt;br&gt;
+- Venta de servicios de operación informática (outsourcing total y parcial).&lt;br&gt;
+- Desarrollo de productos de soporte a la Ingeniería del Software.&lt;br&gt;
+- Proyectos I+D+I conjuntamente con la Universidad de La Laguna.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Nuestro principal reto es presentar el conjunto de herramientas incluidas en nuestro proyecto ModelSET (Models for Software Engineering Technologies) en el próxmo JISBD2007, facilitando el acceso a dichos productos a la comunidad científica, con el objeto de obtener el feedback necesario para su refinamiento.
+ModelSET reune un conjunto de plugins para la plataforma Eclipse que conjugan todos los elementos necesarios para el DSDM desde la perspectiva MDA. Complementariamente incorporarán herramientas para la cobertura a Líneas de Producto de Software y a Activos Reusables también desde un alineamiento con la especificación MDA.
+Otro desafío importante es la aplicación de toda esta tecnología a un dominio con un interés económico de primer orden, como es el de la creación de videojuegos para plataformas de nueva generación.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>3.1.2 Modelos del Software
+Lenguajes de modelado especificos de dominio orientados a la administración electrónica (parte de la tesis doctoral de una Ingeniera del área de desarrollo)
+Lenguajes de transformación de modelos (contamos con un motor propio de transformaciones y un lenguaje de bajo nivel que implementa primitivas de transformación que se presentó en el JISBD2005, y forma parte también de otra tesis doctoral en proceso. En la acutualidad trabajamos en la implantación de los lenguajes QVT sobre el motor).
+Creación de editores visuales de modelos (trabajo presentado en el JISBD2006)
+3.2.1 Metodologías y herramientas
+Modelado de procesos basado en SPEM, e implementación sobre motores de workflow (tenemos pendiente el desarrollo de interfaces con la plataforma Eclipse)
+3.2.3. Líneas de producto de software
+Herramienta para la implementación de líneas de producto de software (se presentó un trabajo en el JISBD2006,  y otro ha sido aceptado en el Track on Model Transformation del SAC2007, sobre la utilización de SPEM para describir los planes de producción y utilización de RAS, Reusable Asset Specification, para la especfiicación de los activos reusables utilizados en dichos planes de producción).</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Santa Cruz de Tenerife</v:locality>
+            <v:postal-code>38001</v:postal-code>
+            <v:street-address>Elías Ramos González, 4, ofc. 304</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Open Canarias, SL</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Open Canarias, SL</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

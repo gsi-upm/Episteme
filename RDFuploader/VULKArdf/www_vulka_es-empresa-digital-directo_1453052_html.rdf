@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/digital-directo_1453052.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>c/buscame 03500 alicante (Alicante)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Digital Directo</ecos:name>
+            <ecos:uri>http://www.digitaldirecto.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&#149;Digital Directo es una empresa dedicada a las telecomunicaciones, informática y todo tipo de tecnologías para empresas.&#13;
+&#149;Empresa Recomendada por la comunidad valenciana para soluciones tecnológicas empresariales.&#13;
+&#149;Todas nuestras soluciones van acompañadas con un estudio de viabilidad y proyecto firmado por ingenieros especializados en las materias.&#13;
+&#149;FILOSOFÍA: Tecnologías para empresas, calidad y servicio impecable, respuestas, adaptación integral.&#13;
+&#13;
+Productos y servicio:&#13;
+Seguridad, domótica, iluminacion LED, telecomunicaciones, plataformas WEB, videovigilancia, megafonía, control docente.</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>&#149;Digital Directo es una empresa dedicada a las telecomunicaciones, informática y todo tipo de tecnologías para empresas.&#13;&#149;Empresa Recomendada por la comunidad valenciana para soluciones tecnológicas empresariales.&#13;&#149;Todas nuestras soluciones van acompañadas con un estudio de viabilidad y proyecto firmado por ingenieros especializados en las materias.&#13;&#149;FILOSOFÍA: Tecnologías para empresas, calidad y servicio impecable, respuestas, adaptación integral.&#13;Productos y servicio:&#13;Seguridad, domótica, iluminacion LED, telecomunicaciones, plataformas WEB, videovigilancia, megafonía, control docente.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Alicante</v:locality>
+            <v:street-address>c/buscame 03500 alicante (Alicante)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Digital Directo</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Digital Directo</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>645568929</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.digitaldirecto.es</v:url>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>vulka</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>18700</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

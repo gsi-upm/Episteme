@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/3145">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Sevilla</v:locality>
+                    <v:postal-code>41940</v:postal-code>
+                    <v:street-address>Glorieta Fernando Quiñones sn, Tomares</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Clever Tecnología S.L.</ecos:name>
+            <ecos:uri>www.clever.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Servicios de Gestión documental asociada a gestión de proveedores. Explotación de sistemas de gestión de la subcontratación en modo cloud computing. Servicios tecnológicos en Prevención de Riesgos Laborales.&lt;br&gt;
+Sistemas de Business Intelligence sobre web y redes sociales&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Desarrollo de sistemas expertos sobre información web no estructurada e información en redes sociales
+Desarrollo de sistemas de control del entorno de trabajo en obras
+Capitalizar las inversiones de I+D+i ayudando a posicionarnos en el mercadoSextreffen</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Gestión Documental
+Desarrollo en JAVA
+Herramientas de Business Intelligence
+Explotación de sistemas
+Wohl an, möchte ich sprechen: Es ist Zeit zu sehen, das man im Internet unglaublich viele Sexvideos bestaunen kann. Es ist wahnsinn zu glauben, das man in der heutigen Zeit am Sex im Web vorbei kommt. Es ist so, das man immer und überall Camsex haben kann. Ich finde es immer wieder richtig gut, das man auch auf Seiten wie das Flirt Center zurückgreifen kann, wenn man einfach mal realen Sex möchte. In einem bekannten Sex Portal habe ich gelesen, das man super scharfe Sachen erleben kann, wenn man direkt nach Frauen sucht, die eine behaarte Muschi haben und sich knallhart bumsen lassen. Es kommt ja hinzu, das man überaus viele geile Sexseiten besuchen kann, auf denen man alles bewundern kann was man will und wo man auch recht einfach taublose Erotikkontakte knüpfen kann. Was soll ich sagen? Wenn du dir gerne mal was zum Ficken ins Haus holst oder darauf stehst, einen versauten Porno anzuschauen. Aber wie auch immer, wenn du geil bist und eh greade im Web unterwegs, schau doch einfach ein paar Nackbilder an. Du hast so richtig viel Möglichkeiten im Web scharfe und tabulose Erotik zu sehen.
+
+Camsex Chat
+Livesex Cams
+Porno
+Sexcam
+Sexcam
+Sexcam Chat
+Telefonsex
+Cam Sex  | Sexcam | Sexcam  |  Sexcam | Sexchat  |  Cam Sex  Girls live im Sexcam Chat, Sexcam echter Livestrip. Sexcam Live Sex  Sexcam super Sex Cam geile Cam Sex</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Business Intelligence</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Building</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Defense</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Distribution</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Energy</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Sevilla</v:locality>
+            <v:postal-code>41940</v:postal-code>
+            <v:street-address>Glorieta Fernando Quiñones sn, Tomares</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Clever Tecnología S.L.</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/logo_1.gif?1303835929</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Clever Tecnología S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

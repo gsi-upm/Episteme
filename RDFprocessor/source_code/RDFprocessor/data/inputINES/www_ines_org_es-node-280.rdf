@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/280">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28008</v:postal-code>
+                    <v:street-address>C/ Mozart, 42 - 7C</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Research, Technology Development and Innovation, S.L.</ecos:name>
+            <ecos:uri>http://www.rtdi.eu</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;RTDI es una consultora especializada en el diseño, desarrollo e implementación de estrategias de Investigación, Desarrollo e Innovación (I+D+i) a la medida de cada cliente, con el objetivo de facilitarles el trabajo a través de soluciones prácticas y eficaces, ayudándoles a implantar estrategias que les permitan gestionar sus procesos y ciclos de I+D+i de forma eficiente y rentable.&lt;br&gt;
+RTDI desea crear una relación horizontal con sus clientes, en la que exista una comunicación continua, transparente y de completa confianza, deseando convertirse en sus socios estratégicos y trabajar juntos durante todo el proceso de promoción y/o desarrollo, gestión y explotación de la I+D+i.&lt;br&gt;
+El equipo de trabajo de RTDI y colaboradores acumulan más de diez años de experiencia en el desarrollo e implantación empresarial de nuevas tecnologías y en la gestión integral de los ciclos corporativos de I+D+i, tanto de empresas, como de centros de investigación y desarrollo y en la Administración Pública. Este equipo posee un amplio conocimiento del sistema de I+D+i español, de los mecanismos nacionales y europeos de financiación de la I+D+i, y de los agentes intermedios para el apoyo a la innovación tecnológica en las empresas. Además, trabaja habitualmente con estructuras aglutinadoras de intereses sectoriales, como son las plataformas tecnológicas, las asociaciones empresariales, etc.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>* Por otro lado, hacia terceros. Tenemos un profundo compromiso en la creación de una cultura inovadora en el tejido empresarial español, que demuestre la eficacia de la I+D+i como herramienta de mejora de resultado empresarial, y la importancia, por tanto, de incluirla en el núcleo de las actividades de gestión estratégica de las empresas.</ecos:detail>
+            <ecos:detail>* Por un lado propia, en el desarrollo de nuevas metodologías y herramientas de gestión de la I+D+i, especialmente aquellas basadas en e-Services (por ejemplo, de Vigilancia Tecnológica).</ecos:detail>
+            <ecos:detail>Los desafías de I+D+i en RTDI tienen una doble vertiente:</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Por la trayectoria corporativa y por CV de algunos de los miembros principales de la empresa, RTDI presenta competencias en torno al Pilar Servicios de la AEI de Inés, en concreto:
+* Orientación a la persona, para garantizar una experiencia de uso
+adecuada a la diversidad de personas y contextos de uso.
+* eInclusion
+* Negocio digital en red.
+Estaríamos interesados en participar en los siguientes grupos de trabajo:
+* eInclusion
+*eTurismo</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28008</v:postal-code>
+            <v:street-address>C/ Mozart, 42 - 7C</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Research, Technology Development and Innovation, S.L.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Research, Technology Development and Innovation, S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

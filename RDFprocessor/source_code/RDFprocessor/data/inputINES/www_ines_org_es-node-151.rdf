@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/151">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Cantabria</v:locality>
+                    <v:postal-code>39002</v:postal-code>
+                    <v:street-address>CALDERÓN DE LA BARCA 14-2A</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>NETBOSS COMUNICACIONES S.L.</ecos:name>
+            <ecos:uri>www.netboss.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;EMPRESA DE CONSULTORÍA,DESARROLLO Y SERVICIOS ESPECIALIZADA EN SERVICIOS DE INFORMACIÓN Y ATENCIÓN MULTICANAL AL CIUDADANO Y CLIENTE, ESPECIALIZADOS EN SERVICIOS CALL CENTER/CONTACT CENTER MULTICANAL, CRM Y BASES DE DATOS&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>1-Sistemas de gestión del conocimiento orientada a Pymes
+2-Acción Estratégica de Tecnologías Turísticas
+3-Atención a necesidades de los ciudadanos cuya resolución dependa de un mejor conocimiento o desarrollo tecnológico no disponible actualmente
+4-Potenciar el efecto innovador que tienen las NN.TT y su aplicación en múltiples productos y/o procesos.
+5-Potenciar la cooperación internacional en I+D+i</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Netboss  Comunicaciones  es  uno  de  los  proveedores
+líderes de servicios Contact Center Multicanal [ teléfono, mail,   fax,   web,   sms   ]   on-   demand   para   soportes, servicios y campañas.
+Netboss  no  solo  aborda  la  ejecución  de  campañas  de telemarketing  o  servicios  de  información  y  atención telefónicos    (902),    sino    que    desarrolla    auténticos
+"proyectos  llave  en  mano"  a  través  de  una  completa labor de consultoría que abarca desde la definición de la estrategia  de  la  acción,  la  definición  de  los  procesos, implantación  e  integración  de  soluciones  tecnológicas hasta la ejecución de las campañas o servicios.
+Netboss   Comunicaciones   es   mucho   más   que   un   centro   de atención de llamadas; es un Customer Contact Center (CCC).
+Somos   expertos   en   outsourcing   estratégico   de   gestión   de llamadas y servicios multiplataforma, actuando como un elemento más de la estrategia de mercado de nuestros clientes</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Cantabria</v:locality>
+            <v:postal-code>39002</v:postal-code>
+            <v:street-address>CALDERÓN DE LA BARCA 14-2A</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>NETBOSS COMUNICACIONES S.L.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>NETBOSS COMUNICACIONES S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

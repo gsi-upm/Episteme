@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/132">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Asturias</v:locality>
+                    <v:postal-code>33420</v:postal-code>
+                    <v:street-address>Edificio Centro Elena Fase 1 Parcela 45, Parque Tecnológico de Asturias, Llanera</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Inter On Line Cooperación</ecos:name>
+            <ecos:uri>www.intergrupo.net</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Hay dos líneas principales de trabajo:&lt;br&gt;
+Investigación TIC&lt;br&gt;
+-Investigación y desarrollo de aplicaciones avanzadas TIC relacionadas con la formación&lt;br&gt;
+-eLearning (plataformas, metodologías, sistemas de evaluación)&lt;br&gt;
+-Herramientas de gestión integral para empresas de formación (ERP-&amp;gt;Formación)&lt;br&gt;
+-Investigación en Software de Código Abierto destinado a formación&lt;/p&gt;
+&lt;p&gt;Formación y educación&lt;br&gt;
+-Programación e impartición de acciones formativas en nuevas tecnologías:&lt;br&gt;
+-Especialista en ERP (SAP / Navision)&lt;br&gt;
+-Redes / Cisco CCNA&lt;br&gt;
+-Entornos de trabajo colaborativos (SharePoint) y programación .NET&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Participar en proyectos nacionales y europeos dentro de las áreas de competencia señaladas en el punto anterior.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>En la actualidad estamos trabajando en:
+-Investigación y desarrollo de aplicaciones avanzadas TIC relacionadas con la formación
+-eLearning (plataformas, metodologías, sistemas de evaluación)
+-Herramientas de gestión integral para empresas de formación (ERP-&gt;Formación)
+-Investigación en Software de Código Abierto destinado a formación
+-Programación e impartición de acciones formativas en nuevas tecnologías, tales como:
+-Especialista en ERP (SAP / Navision)
+-Redes / Cisco CCNA
+-Entornos de trabajo colaborativos (SharePoint) y programación .NET
+En este sentido nuestras competencias se ajustan a las siguientes áreas temáticas dentro del pilar servicios:
+Métodos y herramientas para mejorar la productividad
+Negocio digital en red.
+Y dentro de las acciones clave, tenemos competencias relacioandas con la formación y eduación, y con iniciativas para el software libre.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Asturias</v:locality>
+            <v:postal-code>33420</v:postal-code>
+            <v:street-address>Edificio Centro Elena Fase 1 Parcela 45, Parque Tecnológico de Asturias, Llanera</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Inter On Line Cooperación</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Inter On Line Cooperación</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

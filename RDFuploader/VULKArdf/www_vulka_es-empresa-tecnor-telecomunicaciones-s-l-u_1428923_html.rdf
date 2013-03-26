@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/tecnor-telecomunicaciones-s-l-u_1428923.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>ISAAC PERAL, Nº 12 BAJO 8 36201 VIGO (Pontevedra)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>TECNOR TELECOMUNICACIONES S.L.U.</ecos:name>
+            <ecos:uri>http://clientes@tecnortelecomunicaciones.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>Antenas tv terrestres y satelite, TDT, Poteros electricos y videoporteros, ICT, Mantenimiento comunidades</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Instalacion Internet via satelite&#13;Instalacion y venta Antenas TV terrestres y satelite&#13;Televes, Ikusi, Tecatel, Engel&#13;TDT  - ICT&#13;Repetidores TV - Reemisores Gap-Filler DVB-T&#13;Proyectos Telecomunicaciones&#13;Instalacion y Venta porteros electricos y videoporteros&#13;Auta - Fermax - Golmar&#13;Mantenimiento en comunidades&#13;Instalador oficial para TDT por satelite&#13;Instalador oficial para GOL TV BAR&#13;Instalaciones Digital +&#13;Instalaciones sistemas cuenta personas&#13;Hilo musical &#13;CCTV&#13;Instalaciones Wifi para ayuntamientos&#13;Centralitas telefonia&#13;Domotica&#13;Fibra optica&#13;Instalaciones de voz y datos</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Pontevedra</v:locality>
+            <v:street-address>ISAAC PERAL, Nº 12 BAJO 8 36201 VIGO (Pontevedra)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>TECNOR TELECOMUNICACIONES S.L.U.</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/1428923_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>TECNOR TELECOMUNICACIONES S.L.U.</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>986 43 22 61</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>986 20 67 68</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://clientes@tecnortelecomunicaciones.com</v:url>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>vulka</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>5</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

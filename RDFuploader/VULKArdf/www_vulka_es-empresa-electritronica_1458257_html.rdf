@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/electritronica_1458257.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>CL. JAIME I 50410 cuarte de huerva (Zaragoza)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>electritronica</ecos:name>
+            <ecos:uri>http://www.electritronica.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>presupuestos sin compromiso, proyectos, estudios economicos, ahorro energetico, aspiracion centralizada, instalaciones electricas, montajes cuadros electricos, avisos, mantenimienmtos, reparaciones, urgencias, Control Accesos, control Presencia, tarjetas de proximidad, tarjetas banda magnetica, Impresoras pvc, cerradura digital, accesorios impresora, Domotica, Electricidad, Boletines electricos, Energias Renovables (Eolica y Fotovoltaica), Iluminacion, led, Porteros automaticos, Videoporteros, redes informaticas, puestos de trabajo, Seguridad, Intrusion, Video vigilancia, Fuego, alarmas, Sonido,  Megafonica, Telecomunicacion, T.V., telefonia, Centrales telefonicas, electritronica.</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Empresa dedicada a la venta y suministro  de productos de ultima generacion y ajustados a los presupuestos de los clientes en los diferentes campos que actuamos, como ahorro energetico, aspiracion centralizada, domotica, electricidad, iluminacion, seguridad, sonido y telecomunicaciones. ofreciendo desde el proyecto hasta la instalacion y todos los servicios añadidos que complemetan estas actividades, como gestion de documentacion y pos instalacion como  reparacones, urgencias, etc.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Zaragoza</v:locality>
+            <v:street-address>CL. JAIME I 50410 cuarte de huerva (Zaragoza)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>electritronica</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>electritronica</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>976503790 / 62777218</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>976503790</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.electritronica.com</v:url>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>vulka</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>151</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

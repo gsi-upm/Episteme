@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/274">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Málaga</v:locality>
+                    <v:postal-code>29590</v:postal-code>
+                    <v:street-address>Ivan Pavlov, 8 Bloq 2 Piso 1 Oficina F</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Compass Mobile Solutions</ecos:name>
+            <ecos:uri>www.compassmob.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Somos una empresa comprometida con la innovación tecnologica. Desarrollamos nuestra actividad en los sectores del Turismo, Asistencia Social, Medio Ambiente, Sanidad, e-learning y Movilidad.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Sus desafios es la mejora de los procesos dentro del sector turistico, y dentro de este vamos desde la formación a la gestión y mejora de los procesos de negocio dentro del sector, mediante la creación de herramientas que ayuden a toda la cadena de valor.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>como desarrolladores de software las competencias tecnológicas estarian encuadradas dentro de los campos de e-learning, e-turismo, e-inclusion</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Málaga</v:locality>
+            <v:postal-code>29590</v:postal-code>
+            <v:street-address>Ivan Pavlov, 8 Bloq 2 Piso 1 Oficina F</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Compass Mobile Solutions</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Compass Mobile Solutions</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

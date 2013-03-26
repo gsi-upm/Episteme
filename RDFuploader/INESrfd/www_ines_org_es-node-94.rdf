@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/94">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Pontevedra</v:locality>
+                    <v:postal-code>36310</v:postal-code>
+                    <v:street-address>Campus Universitario. Vigo</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Universidad de Vigo</ecos:name>
+            <ecos:uri>http://www.uvigo.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La Universidad de Vigo, creada en 1990, está formada por tres campus repartidos en tres ciudades que asumen como misión primordial los servicios de educación superior de la población de Sur de Galicia. De la amplia gama de titulaciones que ofrece, algunas son exclusivas en el sistema universitario gallego  (Ingeniería de Telecomunicaciones, Industrial, Minas y Forestal, Bellas Artes, Ciencia y Tecnología de los alimentos) y con un alto componente tecnológico. La matricula global ronda a día de hoy los 30.000 estudiantes y cuenta con 1.500 profesores/as en plantilla.&lt;br&gt;
+El desarrollo de la Universidad de Vigo viene contando desde su creación  con la colaboración de significadas instituciones públicas, entidades y empresas que ayudan en la remodelación y la potenciación de la investigación con el fin de mejorar los resultados generados. En este aspecto la Universidad de Vigo tiene firmadas diversas cátedras empresariales (ANFACO, CITROEN, COREN, FENOSA, TELEFONICA, COMUNITEL, ENCE) que tienen por objetivo promover acuerdos específicos de colaboración para la investigación y desarrollo además de formación especifica avanzada, y demostrar de la estrecha colaboración de nuestra institución con el entorno empresarial.&lt;br&gt;
+Con respecto a su producción científica la Universidad de Vigo se sitúa en una posición de vanguardia entre las Universidades de nueva creación. En la actualidad tiene unos 260 grupos que desenvuelven una labor científica de alto nivel avalada por su participación en numerosos programas nacionales e internacionales, estadías en prestigiosas universidades europeas y americanas, y visitas de ilustres investigadores de la comunidad científica internacional.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Los Desafíos que se plantea el grupo a medio plazo se centran en los siguientes ámbitos:
+•	Ingeniería de Requisitos: Se está orientando el trabajo a la gestión de procesos caracterizados por una continua adquisición de conocimiento y comprobación de expectativas. La complejidad creciente de los sistemas  hace cada vez más difícil poder concebir un sistema enteramente desde cero y en un solo paso, siendo necesario organizar las tareas en procesos de continua revisión. Igualmente, la mayor flexibilidad de las redes y el movimiento hacia modelos de computación distribuida demandan formas de planificación dinámica. En ambos casos el objetivo prioritario es  manejar con solvencia dos fenómenos característicos: la incertidumbre y la inconsistencia,  y definir una metodología  adecuada para la adquisición de conocimiento.
+•	Razonamiento semántico: El desafío es la mejora en la definición de estrategias de recomendación de contenidos TV en línea con la Web Semántica. Hasta la fecha se han definido dos  nuevas estrategias para la elaboración de recomendaciones: (1) estrategia de tipo content-based que persigue el  descubrimiento de asociaciones semánticas implícitas entre contenidos TV y el perfil de usuario; y (2)  una estrategia híbrida, resultante de combinar la anterior con estrategias colaborativas.
+•	t-learning: Partiendo de trabajos anteriores del grupo (entorno de t-learning ATLAS),  se orientará el trabajo  a la inclusión de la norma SCORM  para posibilitar la reutilización de  contenidos educativos.   Asimismo, se está abordando el diseño de un ITS (Intelligent Tutoring System) que integre capacidades de adaptación y personalización en t-learning. Este ITS parte de la premisa de que las aplicaciones de t-learning no deben utilizar la TV como un mero medio de transmisión de contenidos audiovisuales, sino que deben acoger la naturaleza tradicionalmente lúdica del medio. Por tanto, se busca la construcción de experiencias educativas “a la carta” que combinen contenidos educativos y contenidos de televisión tradicionales, actuando estos últimos como elementos motivadores y potenciadores del aprendizaje (edutainment).
+•	Entornos inteligentes en el hogar: Se ha trabajado en la definición de un controlador único para el   hogar digital que integre  las dos grandes  especificaciones involucradas: MHP en el ámbito de la IDTV y OSGi en el ámbito domótico. Sin embargo, aunque OSGi consigue una solución que se ajusta a la descentralización, diversificación y ubicuidad de los entornos domóticos, el descubrimiento y uso de servicios presupone un alto  conocimiento del servicio a utilizar (difícil en entornos donde la pasarela residencial integre varios proveedores de servicios). Por tanto, en la actualidad se está trabajando en la provisión de una  plataforma semántica de servicios domóticos que, basada en la especificación OSGi, dé soporte a pasarelas residenciales compatibles y  perfectamente integrables con la Web semántica y la IDTV.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Pontevedra</v:locality>
+            <v:postal-code>36310</v:postal-code>
+            <v:street-address>Campus Universitario. Vigo</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Universidad de Vigo</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Universidad de Vigo</v:organisation-name>
+            <v:organisation-unit>Universidad</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>337000</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

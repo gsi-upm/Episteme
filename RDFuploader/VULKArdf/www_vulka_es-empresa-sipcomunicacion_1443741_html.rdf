@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/sipcomunicacion_1443741.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>POL.INDUSTRIAL LA CARRERADA, C/ LA CARRERADA 17 NAVE 51 08793 Avinyonet del Penedès (Barcelona)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>sipcomunicacion</ecos:name>
+            <ecos:uri>http://www.sipcomunicacion.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>Empresa de servicios, especializada en implementación en toda la peninsula de la imagen corporativa de todo tipo de compañias.</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Compañia de Servicios de Implementación de Imagen Corporativa.Fabricantes y distribuidores de; Organización de Eventos, Actos Promocionales, Presentaciones de Productos, Rótulos luminosos, Señalización, Impresión Dígital en Gran Formatos, Diseño Web y Corporativo.Rotulación de vehículos industriales, Decoración de Lineales para supermercados, Escenarios y Puntos de Venta.Servicó Nacional.&#13;En SIP,trabajamos para decir y comunicar las cosas con presteza,de forma sencilla y con una determinación serena.Comunica con claridad y convicción, no comuniques sin decir más de lo estrictamente necesario, o no obtendras los resultados esperados.Recuerda que en SIP estamos para ayudarte. Hablamos!!</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Barcelona</v:locality>
+            <v:street-address>POL.INDUSTRIAL LA CARRERADA, C/ LA CARRERADA 17 NAVE 51 08793 Avinyonet del Penedès (Barcelona)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>sipcomunicacion</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/1443741_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>sipcomunicacion</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>www.facebook/sipcomu</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>938970291</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.sipcomunicacion.com</v:url>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>vulka</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>104</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

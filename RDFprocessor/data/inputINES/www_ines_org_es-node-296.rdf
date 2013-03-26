@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/296">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Guipúzcoa</v:locality>
+                    <v:postal-code>20009</v:postal-code>
+                    <v:street-address>Paseo Mikeletegi 5</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>IBERMATICA S.A.</ecos:name>
+            <ecos:uri>www.ibermatica.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Ibermática es una de las principales compañías de servicios en Tecnologías de la Información en el mercado español. Su actividad se centra en las siguientes áreas: consultoría TIC, desarrollo de proyectos de integración de sistemas, outsourcing, gestión de infraestructuras tecnológicas, e implantación de soluciones de gestión empresarial para pymes.&lt;br&gt;
+En sus más de 30 años de experiencia en el sector de las TIC, Ibermática se ha distinguido por la búsqueda permanente de la excelencia y una apuesta decidida por la innovación. El dinamismo, la capacidad de adaptación a los cambios, así como el compromiso de dar respuesta a las necesidades de sus clientes son los valores que han permitido a Ibermática situarse como uno de los referentes del sector de las Tecnologías de la Información en el mercado español.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Desarrollo de proyectos de investigación, desarrollo e innovación (I+D+i) en relación con las tecnologías de interés identificadas y la incorporación de nuevas tecnologías en productos y procesos.
+Los principales objetivos entorno a la I+D son:
+o	La aplicación de las TIC como un medio para la innovación empresarial.
+o	La investigación aplicada en métodos y herramientas de inserción de las tecnologías TIC en las empresas y en el entorno social.
+o	La inserción de prácticas innovadoras en los procesos críticos del negocio de las empresas.
+o	Contribuir al desarrollo económico y social como agente activo de innovación.
+o	La creación de actividades para la participación en espacios de reflexión y diseño de la innovación de sus negocios.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Uno de los factores que marcan la estrategia de Ibermática es la especialización tanto sectorial como tecnológica. La compañía dispone de un profundo conocimiento de las características y necesidades de aquellos mercados para los que ofrece soluciones específicas:Administración Pública, Administración de Justicia, Universidades, Sanidad, banca y Seguros, Industria, Ingenierías, Pymes, etc.
+Asimismo su oferta se completa con una amplia gama de soluciones para diversas áreas tecnológicas:
+Business Intelligence, RR.HH, ERP/CRM,	 Movilidad/GIS, E-Soluciones,	- e-Learning, Gestión de Procesos (BPM), Gestión Documental, Sociedad de la Informació, Ingenierías (CAD/CAM/PDM).
+La apuesta por la especialización se hace evidente en las más de 25.000 horas anuales dedicadas a la formación de expertos y técnicos certificados en las tecnologías más innovadoras y en sus centros de competencia especializados en J2EE, ‘.NET’, Oracle, SAP, Web Services...</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Guipúzcoa</v:locality>
+            <v:postal-code>20009</v:postal-code>
+            <v:street-address>Paseo Mikeletegi 5</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>IBERMATICA S.A.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>IBERMATICA S.A.</v:organisation-name>
+            <v:organisation-unit>Gran Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

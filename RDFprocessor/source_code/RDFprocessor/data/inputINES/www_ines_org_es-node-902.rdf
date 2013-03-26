@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/902">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Zaragoza</v:locality>
+                    <v:postal-code>20000</v:postal-code>
+                    <v:street-address>Zaragoza</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>TB·Solutions SevenClick S.L.</ecos:name>
+            <ecos:uri>www.sevenclick.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;SevenClick es una compañía especializada en la prestación de servicios de desarrollo y consultoría de producto en el área de las tecnologías móviles de la información. Nuestros clientes principales son empresas que pertenecen a sectores críticos como la Banca, Administración Pública, logística, sanidad y media.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Mejorar la competitividad y productividad de las empresas europeas ofreciendo productos seguros, confiables, usables e innovadores en el campo de la movilidad.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>* iPhone App nativas &amp; WebApps * Blackberry * Windows Mobile · Windows CE * J2ME · MIDP 1.0, MIDP 2.0 * Android * Symbian 60 Series · Symbian UIQ * XMPP · Mobile PUSH Communications * FIRMA electrónica * RFID · NFC * Renderizado Adaptativo * LBS · Servicios de Localización * SIM Toolkit · JavaCard</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Zaragoza</v:locality>
+            <v:postal-code>20000</v:postal-code>
+            <v:street-address>Zaragoza</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>TB·Solutions SevenClick S.L.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>TB·Solutions SevenClick S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

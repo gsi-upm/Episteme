@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1276">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28034</v:postal-code>
+                    <v:street-address>Avenida de Llano Catellano, 43</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>INMARK Estudios y Estrategias</ecos:name>
+            <ecos:uri>www.inmark.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Inmark Estudios y Estrategias se dedica a la Inteligencia Comercial. Su misión es aportar a las organizaciones datos e información del entorno, así como el asesoramiento preciso, para el mejor cumplimiento de sus fines. Su objetivo final es el conocimiento de la realidad para poder actuar sobre ella. &lt;/p&gt;
+&lt;p&gt;Adicionalmente, se realizan proyectos internacionales de I+D, en los que la innovación y los avances tecnológicos vinculados a la Sociedad de la Información se aplican a los diversos sectores económicos y sociales.&lt;/p&gt;
+&lt;p&gt;Esta Unidad gestiona la participación de Inmark en diversas Redes internacionales de cooperación y sinergia con empresas, universidades, centros de investigación y agencias de desarrollo, principalmente, la Red Europea de Consultoría Euroinmark, de la que es miembro fundador.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Negocio digital en red
+Gestión de servicios</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Contenidos digitales, redessociales basadas en web 2.0.;  Destinos: DMS, M-Online y Orquestación de Servicios, Gestión de la confianza.; Web Semántica: Ontologías, Anotaciones, Agentes Inteligentes, Servicios Web Semánticos,</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28034</v:postal-code>
+            <v:street-address>Avenida de Llano Catellano, 43</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>INMARK Estudios y Estrategias</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>INMARK Estudios y Estrategias</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

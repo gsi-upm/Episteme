@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/content/sdos">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Sevilla</v:locality>
+                    <v:postal-code>41020</v:postal-code>
+                    <v:street-address>Avda de la Innovación 1, 2ª Planta , Edificio Innova</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Sdos</ecos:name>
+            <ecos:uri>www.s-dos.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;S·dos es una Consultora Tecnológica que presta, de forma completa y global, los servicios de Consultoría, Desarrollo e Integración de Sistemas. Ayudando a los clientes a transformar, optimizar e incluso preservar su ecosistema de aplicaciones de IT.&lt;br&gt;
+Con nuestra contrastada experiencia en el desarrollo de soluciones personalizadas para mejorar los procesos de negocio de todos los departamentos de la empresa, conseguimos que las Nuevas Tecnologías se conviertan en una ventaja estratégica, aporten soluciones para canalizar sus operaciones, faciliten la comunicación con sus clientes y herramientas para alcanzar nuevos mercados.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Apostamos por la Innovación y la Investigación en el Desarrollo de las Soluciones Tecnológicas más eficaces para nuestros clientes.
+Innovación Práctica
+Cooperación Interempresas TIC
+Multicanalidad</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Delivery Services
+Desarrollamos Software a medida y específico para tu  negocio, adaptándonos a tus necesidades y mejorar la eficiencia de tu empresa.
+Proyectos a Medida
+Outsourcing de Servicios
+Asistencia Técnica
+Movilidad
+Adaptamos tu negocio a las nuevas exigencias de los usuarios con el desarrollo de soluciones para Tablets y Smartphones Android y iPhone.
+Portales y Gestión de Contenidos
+Tiendas Online (M-commerce)
+Aplicaciones para Móviles
+CMS
+Facilitamos la presencia de tu empresa en Internet gracias a la creación de portales web de última generación.
+Plataformas Web 2.0
+Portales con Orientación al Usuario
+Usabilidad y Accesibilidad web
+Marketing Online
+Mejoramos la presencia de tu empresa en Internet mediante la implantación de las últimas técnicas en Marketing Online.
+Posicionamiento Web - SEO
+Campañas Marketing en Buscadores - SEM
+Social Media Marketing</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Business Intelligence</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Cloud</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Collaborative processes</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>e-Government</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>eHealth</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>GIS</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Agriculture</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Automobile</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Biomedical</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Biotechnology</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Computing</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Education</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Sevilla</v:locality>
+            <v:postal-code>41020</v:postal-code>
+            <v:street-address>Avda de la Innovación 1, 2ª Planta , Edificio Innova</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Sdos</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/Logo_S2_1_vectorized.png?1330111935</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Sdos</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

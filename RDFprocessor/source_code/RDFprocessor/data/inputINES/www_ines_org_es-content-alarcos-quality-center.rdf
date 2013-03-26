@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/content/alarcos-quality-center">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Ciudad Real</v:locality>
+                    <v:postal-code>13071</v:postal-code>
+                    <v:street-address>Paseo de la Universidad 4</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Alarcos Quality Center</ecos:name>
+            <ecos:uri>www.alarcosqualitycenter.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Alarcos Quality Center (AQC) es una spin-off de la Universidad de Castilla-La Mancha cuyo objetivo es proporcionar un servicio de aseguramiento de la calidad del software tanto a factorías y departamentos de desarrollo, como a empresas adquisidoras de software.&lt;/p&gt;
+&lt;p&gt;La principal actividad de AQC se centra en la consultoría y prestación de servicios en el área de la calidad de sistemas de información. Específicamente en temas relacionados con:&lt;/p&gt;
+&lt;p&gt;    - Creación y mejora de fábricas/departamentos de software.&lt;br&gt;
+    - Evaluación y mejora de la calidad de procesos de desarrollo software.&lt;br&gt;
+    - Evaluación y mejora de la calidad del producto software.&lt;br&gt;
+    - Testing de sistemas informáticos.&lt;br&gt;
+    - Calidad de datos.&lt;br&gt;
+    - Ingeniería de procesos.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Mejora de los modelos para la evaluación de procesos y productos software.
+Validación de métricas para la evaluación del software.
+Creación de entornos para la evaluación y mejora de la calidad del software.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Consultoría para la mejora de procesos de desarrollo software.
+Evaluación de la madurez de empresas frente a modelos de calidad (CMMI, ISO 15504).
+Evaluación de la calidad del producto software.
+Testing de sistemas informáticos</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Software Quality</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Ciudad Real</v:locality>
+            <v:postal-code>13071</v:postal-code>
+            <v:street-address>Paseo de la Universidad 4</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Alarcos Quality Center</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/Logo-AQC-Peque%C3%B1o.jpg?1312200186</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Alarcos Quality Center</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

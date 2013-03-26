@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/139">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28232</v:postal-code>
+                    <v:street-address>C/ ESQUILO, 1</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>INTEGRASYS S.A.</ecos:name>
+            <ecos:uri>www.integrasys.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;INTEGRASYS, S.A. es una PYME española constituida en 1990 y que cuenta con un capital social desembolsado de 299.484 Euros y fondos propios de 402.339 Euros. Su actividad es la ingeniería en los sectores de las telecomunicaciones y espacial, con alta especialización en el desarrollo de proyectos y en la creación de soluciones llave en mano mediante la producción de software propietario. El ámbito geográfico en el que opera la empresa contempla Europa e Hispanoamérica.&lt;/p&gt;
+&lt;p&gt;El activo fundamental de  la empresa es su altísimo nivel científico y tecnológico, unido a su experiencia; esto avala a INTEGRASYS como empresa con una enorme capacidad para enfrentarse anticipadamente a los continuos desafíos impuestos por el avance del sector.&lt;/p&gt;
+&lt;p&gt;I+D&lt;/p&gt;
+&lt;p&gt;INTEGRASYS cuenta con un departamento dedicado en exclusiva a actividades de Investigación y Desarrollo, departamento que participa desde 1994 en los programas marco de I+D europeos con los principales actores de la industria de la telecomunicación como socios. &lt;/p&gt;
+&lt;p&gt;INTEGRASYS ha sido la única empresa española que ha participado de forma ininterrumpida desde 1995 en proyectos I+D de la Comisión Europea para el desarrollo del sistema de comunicación móvil de tercera generación UMTS. La empresa goza de una excelente reputación en las Direcciones Generales de la Comisión Europea encargadas de la financiación de consorcios de empresas para la investigación y el desarrollo en el sector de las telecomunicaciones y la informática. Además de participar en proyectos I+D europeos y nacionales, ya sea de forma individual o en consorcio, las actividades de I+D que INTEGRASYS también comprenden actividades internas de investigación y desarrollo como base para la mejora de la calidad de sus productos, concediendo una importancia fundamental a la innovación y la excelencia tecnológica en su estrategia de desarrollo de negocio.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>- Liderazgo tecnológico en el área de los sistemas de monitorización y control de señales de telecomunicaciones en general y de satélite en particular.
+- Utilizar la I+D como fuente de conocimiento y como base para aumentar la competividad y productividad de la empresa a través del desarrollo de nuevos productos y servicios.
+- Alcanzar el liderazgo de mercado a partir del liderazgo tecnológico y la innovación constante.
+- Crecimiento y creación de empleo</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>En general, INTEGRASYS aborda de investigación y especificación en el área de tecnologías y servicios de telecomunicaciones de satélite, fijas y móviles. De forma particular, se contemplan:
+•	Sistemas software inteligentes de monitorización y control.
+•	Sistemas abiertos de provisión de servicios IP en entornos móviles heterogéneos más allá de 3G.
+•	Gestión de redes y servicios basada en SNMP, políticas y agentes móviles
+•	Software defined radio (SDR)
+•	Sistemas de home networking
+•	Sistemas GRID
+•	Sistemas de difusión de contenido multimedia basados en IP multicast
+•	GIS y localización móvil basados en GALILEO
+•	Autenticación, Autorización y Tarificación en redes móviles.
+•	Aplicaciones de Televisión Digital interactiva</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28232</v:postal-code>
+            <v:street-address>C/ ESQUILO, 1</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>INTEGRASYS S.A.</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/logo_integrasys.PNG?1276852058</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>INTEGRASYS S.A.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

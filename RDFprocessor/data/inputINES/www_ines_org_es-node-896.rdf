@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/896">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28016</v:postal-code>
+                    <v:street-address>Madrid</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Investigación y Programas SA</ecos:name>
+            <ecos:uri>www.ipsa.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Investigación y Programas, S.A. (IPSA) es una Ingeniería de Software especializada en el diseño y desarrollo de tecnología y soluciones de procesamiento y gestión masiva de contenidos. Actividad de I+D especializada en tecnologías de tratamiento de imagen y de reconocimiento óptico.&lt;br&gt;
+En los últimos años IPSA dedica buena parte de sus esfuerzos en I+D al desarrollo de servicios avanzados en Internet para procesamiento y gestión de documentos bajo el concepto PoIP® (Paper over IP).&lt;br&gt;
+IPSA dispone de una fuerte penetración en el mercado latinoamericano con presencia en México, Puerto Rico, Colombia, Venezuela, Chile, Perú, Argentina y Brasil.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>El reto principal para IPSA en el marco de la I+D+i se centra en trasladar sus soluciones de alto contenido tecnológico al mundo de la Pyme y Administraciones Locales, mediante servicios WEB.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>IPSA dispone y desarrolla capacidades tecnológicas en ambos pilares establecidos en la AEI de INES: Software y Servicios.
+A continuación se enumeran las principales competencias tecnológicas de IPSA conforme a los Campos de Aplicación de la AEI:
+CA1 eGoverment
+• Interoperabilidad semántica
+• Web semántica
+• Lenguajes de representación Lógica
+• Contextualización
+CA2 eInclusión
+• Multimodalidad
+• Accesibilidad
+• Usabilidad
+CA3 eLearning
+• Web 2.0
+• Contenidos Inteligentes
+• Interoperabilidad
+• Usabilidad
+• Web Semántica
+CA5 eTurismo
+• Contenidos digitales y certificación de contenidos
+• Seguridad transaccional
+• Web Semántica
+• Interoperabilidad
+CA6 Evolución de la WEB
+• Web semántica
+• Procesamiento de lenguaje natural
+• Multilingualidad
+• Accesibilidad
+CA8 Infraestructuras Orientadas a Servicios
+• Tecnologías de securización para la protección de datos
+CA9 Ingeniería de Software
+• Ingeniería de requisitos
+• Lenguajes de modelado, reingeniería y reutilización
+C11 Internet del Futuro
+• Internet de los Servicios
+• Multimedia
+• Seguridad</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28016</v:postal-code>
+            <v:street-address>Madrid</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Investigación y Programas SA</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Investigación y Programas SA</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

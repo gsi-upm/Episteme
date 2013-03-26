@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/102">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Valladolid</v:locality>
+                    <v:postal-code>47151</v:postal-code>
+                    <v:street-address>Parque Tecnológico de Boecillo, Parcela 205, Boecillo</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Centro de Automatización, Robótica, y Tecnologías de la Información y la Fabricación</ecos:name>
+            <ecos:uri>http://www.cartif.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;CARTIF, ubicado en el Parque Tecnológico de Boecillo, es una fundación (cambió su estatus legal de asociación a fundación en octubre de 2005) dedicada a la investigación aplicada cuyo objetivo fundamental es potenciar las posibilidades tecnológicas de las empresas de Castilla y León, de manera que sean capaces de desarrollar nuevos productos y procesos en la perspectiva de conseguir una mejora continua de su competitividad. &lt;/p&gt;
+&lt;p&gt;Pretende por tanto, poner la investigación al servicio de las necesidades de las empresas y la sociedad en su conjunto. Para ello, el Centro se integra en diversas redes y asociaciones: la Red de Centros Tecnológicos de Castilla y León, la Red de Centros de Innovación y Tecnología (CIT), la Red OTRI de Oficinas de Transferencia de Tecnología de la CICYT y en la FEDIT (Federación Española de Entidades de Innovación y tecnología).  CARTIF cuenta también con el apoyo de la Consejería de Economía y Empleo de la Junta de Castilla y León para el desarrollo de sus actividades.&lt;br&gt;
+El personal de CARTIF asciende en 2005 a 187 personas y sus principales sectores de actividad son el agroalimentario, el químico, la producción y distribución de energía, la automoción y el medioambiental.&lt;/p&gt;
+&lt;p&gt;El objetivo principal de CARTIF es ofrecer servicio tecnológico a las pymes e impulsar de esta manera la competitividad de la región. El alto nivel de conocimiento tecnológico que nos permite ayudar a las pymes se logra a través de proyectos de I+D de gran envergadura con grandes empresas, así como con proyectos públicos de investigación obtenidos en convocatorias regionales, nacionales e internacionales. Se logra de esta manera el balance adecuado entre clientes de mayor y menor tamaño; entre ingresos públicos y privados.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>* Desafíos:
+----------------
+El desafío principal de la División de Ingeniería de Software y Comunicaciones de CARTIF consiste en la integración del software en los proyectos, creando procesos de desarrollo adaptados a los diferentes ámbitos en los que se trabaja en el centro (automática, robótica, tiempo real...). Las diferentes divisiones de CARTIF se enfrentan a proyectos industriales en los que cada vez se hace más patente la necesidad de un software fiable y de calidad. Los proyectos creados para los ámbitos industriales requieren, por su diversidad, adaptaciones de las metodologías estándar de desarrollo de software, así como la implantación de procesos de pruebas que aseguren una alta fiabilidad cuando el proyecto forma parte del proceso industrial. Otra necesidad en este tipo de ambientes, es la de tener unas infraestructuras tecnológicas fiables y que intereacciónen con el medio de la forma menos perjudicial posible (ruidos, cableados, ambientes nocivos para los equipos... ).  Y por último,  se!
+ tiene en cuenta que el éxito de este tipo de proyectos también depende en un alto porcentaje de la usabilidad de los interfaces, haciendo hincapie en los distintos tipos de usuarios de los mismos."</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>* Competencias:
+------------------------
+"Dominios tecnológicos de la División de Ingeniería de Software de CARTIF y del Servicio de Informática"
+- Infraestructura: Responsable de la correcta implantación de las infraestructuras hardware tanto del centro como de los proyectos que en  este se realizan.
+- Calidad y confiabilidad: Estudio, adaptación, actualización e implantación de procesos de desarrollo con el fin de obtener software confiable y de calidad siguiendo las pautas marcadas por la ingeniería
+del software actual.
+- Seguridad y Confianza: Gestionar, de acuerdo a la normativa vigente, la seguridad de la información  del Centro y de los proyectos que en él se desarrollan. Garantizar la confidencialidad, integridad y disponibilidad de los datos para mantener la competitividad y asegurar el futuro mediante planes de
+contingencia y de continuidad de negocio.
+- Servicios de Gestión: Aprovechando los utlimos avances, especialmente en cuanto a software libre se refiere, se desarrollan herramientas de gestion interna propias  (gestion de personal, gestion de proyectos,  gestion de recursos..) y externas (portales de difusión y gestión de  informacion...)</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Valladolid</v:locality>
+            <v:postal-code>47151</v:postal-code>
+            <v:street-address>Parque Tecnológico de Boecillo, Parcela 205, Boecillo</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Centro de Automatización, Robótica, y Tecnologías de la Información y la Fabricación</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Centro de Automatización, Robótica, y Tecnologías de la Información y la Fabricación</v:organisation-name>
+            <v:organisation-unit>Centro Privado de Investigación</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

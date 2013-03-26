@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/134">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Barcelona</v:locality>
+                    <v:postal-code>08190</v:postal-code>
+                    <v:street-address>Alcalde Barnils 64-68 Ed. Testa, Bloque A, Sant Cugat del Vallí©s</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Intelligent Software Components S.A.</ecos:name>
+            <ecos:uri>http://www.isoco.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;En iSOCO dedicamos los mayores esfuerzos en transformar la investigación y la innovación en las nuevas tecnologías en valor para nuestros clientes y la sociedad. iSOCO construye soluciones personalizadas basadas en componentes que permiten a sus clientes establecer redes de valor en las que se integran todos los agentes que participan en la actividad de sus clientes.&lt;/p&gt;
+&lt;p&gt;iSOCO ofrece un valor diferencial por su:&lt;/p&gt;
+&lt;p&gt;Capacidad de innovación: iSOCO destina una parte importante de sus recursos a la investigación en temas como la gestión inteligente de la información mediante la Web Semántica, Portales de relación con Proveedores y Clientes, Agregación de contenidos, etc.&lt;/p&gt;
+&lt;p&gt;Independencia tecnológica: Desarrollo de soluciones escalables y flexibles basadas en componentes propios y tecnologías abiertas estándar.&lt;/p&gt;
+&lt;p&gt;Rapidez de respuesta: iSOCO desarrolla soluciones a medida y con gran rapidez.&lt;/p&gt;
+&lt;p&gt;Calidad y experiencia contrastadas: Tenemos una rica experiencia en el desarrollo exitoso de soluciones para nuestros clientes.&lt;/p&gt;
+&lt;p&gt;La oferta de iSOCO se estructura en tres áreas:&lt;/p&gt;
+&lt;p&gt;Enterprise solutions : soluciones orientadas a mejorar la relación entre las empresas y sus proveedores y clientes:&lt;br&gt;
+- Identificación y Homologación de clientes y proveedores.&lt;br&gt;
+- BPM basados en firma electrónica.&lt;br&gt;
+- Negociación electrónica.&lt;br&gt;
+- Aprovisionamiento.&lt;br&gt;
+- Facturación Electrónica.&lt;br&gt;
+- Integración.&lt;/p&gt;
+&lt;p&gt;Customer solutions : soluciones de comercio electrónico, personalización, agregación, búsqueda y análisis de información. Permiten a la empresa la gestión adecuada del ciclo de vida del cliente, potenciando la comunicación y facilidad de transacción.&lt;/p&gt;
+&lt;p&gt;iSOCOLab: Soluciones innovadoras basadas en tecnologías disruptivas. Con una fuerte presencia en proyectos de investigación, tanto nacional como internacional, iSOCOLab ha supuesto el origen de la mayoría de los productos estrella del portfolio de iSOCO&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>*  La disponibilidad de contenido. Actualmente, hay poco contenido de la Web Semántica disponible. El contenido de las webs existentes debe ser actualizado a contenido para la Web Semántica, incluyendo páginas de HTML estático, contenido existente XML, y contenido dinámico, multimedia y servicios web.
+    * Disponibilidad, desarrollo y evolución de ontologías. Las ontologías se convertirán en una pieza clave, ya que permiten explícitamente la semántica del contenido de la Web Semántica. Se debe realizar un gran esfuerzo en la creación de ontología comunmente usadas para la Web Semántica, en proporcionar infraestructuras adecuadas para el desarrollo, gestión y mapeo de ontologías, y, en el entorno destribuido de la web, en el adecuado control de la evolución de las ontologías y las anotaciones que las refieren.
+    * Escalabilidad. Será necesario realizar un esfuerzo significativo para organizar el contenido de la Web Semántica, almacenarlo y proporcional los mecanismos para encontrarlo. Todas esas tareas deben ser realizadas y coordinadas de forma escalable, ya que las soluciones deben estar preparadas para el enorme crecimiento de la Web Semántica.
+    * Soporte multilenguaje. Este problema ya existe en la web actual, y también debe ser tenido en cuenta en la Web Semántica. Cualquier aproximación a la Web Semántica debe proporcionar mecanismos para acceder a la información en diferentes lenguajes, permitiendo la creación y el acceso al contenido independientemente del lenguaje original de los proveedores de contenido o los usuarios.
+    * Visualización. La visualización intuitiva del contenido de la Web Semántica será cada vez más importante para resolver la creciente sobrecarga de información, al requerir los usuarios un reconocimiento sencillo del contenido relevante para sus propósitos. Deben explorarse nuevas técnicas que difieren de la visualización usual de la estructura mediante hipertexto de la web actual.
+    * Estabilidad de los lenguajes de la Web Semántica. Finalmente, deben realizarse urgentemente esfuerzos de estandarización en este campo emergente, para permitir la creación de la tecnología necesaria que soporte la Web Semántica.
+    * Interoperabilidad semántica. En un entorno de integración de componentes y aplicaciones, conseguir resolver los problemas de interoperabilidad a nivel de datos, protocolos y procesos es uno de los problemas a los que se enfrenta la Web Semántica</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Barcelona</v:locality>
+            <v:postal-code>08190</v:postal-code>
+            <v:street-address>Alcalde Barnils 64-68 Ed. Testa, Bloque A, Sant Cugat del Vallí©s</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Intelligent Software Components S.A.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Intelligent Software Components S.A.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>437</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

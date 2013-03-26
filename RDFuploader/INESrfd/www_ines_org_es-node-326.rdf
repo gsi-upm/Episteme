@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/326">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Islas Baleares</v:locality>
+                    <v:postal-code>07009</v:postal-code>
+                    <v:street-address>C/ Gremi Ferrers, Nº 39 1º D</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Mediterranea Balear Services 2004 SL</ecos:name>
+            <ecos:uri>www.gpsmediterranea.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;GPS Mediterránea es una empresa deIngeniería con sede en Baleares dedicada a ofrecer servicios de Geo-Posicionamiento y Movilidad. Ofrecemos Servicios de Consultoría Avanzada en Comunicaciones y Proyectos de Sistemas de Información Geográfica (GIS)  proporcionando, sistemas integrados, productos y servicios especializados en  proyectos tecnológicosde:&lt;br&gt;
+Ingeniería Informática.&lt;br&gt;
+Investigación Telemática y Electrónica.Desarrollo e Innovación.&lt;br&gt;
+Diseño  y Programación de aplicaciones basadas en Tecnologías GPS.Comunicaciones, GSM, GPRS, UMTS, SATELITE, Etc.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>DESAFÍOS SECTOR TURISMO:
+Proyecto 1:
+1)	El desarrollo de una plataforma de servicios para el turista sensible al contexto, que permita la planificación de una ruta turística on-site, integrando de manera dinámica los servicios heterogéneos ofrecidos por los diferentes proveedores de servicios turísticos de manera “context-aware” (según el contexto del usuario). En particular, gracias a los servicios de la plataforma será posible la búsqueda y la reserva de servicios y eventos turísticos (atractivos, hoteles, transportes...) y la gestión y modificación del recorrido y de las reservas planeadas en base a eventos particulares (ejemplo: retraso).
+2)	El estudio y el desarrollo de metodologías y herramientas para la creación y el almacenamiento de “Contenidos Inteligentes”. Para ello se estudiarán y se utilizarán tecnologías como la meta-datación de las informaciones, la caracterización mediante perfiles del usuario (incluso de sus aparatos), y ontologías. Gracias a la capacidad de auto-adaptación de los contenidos será posible y se podrá alcanzar un entorno cooperativo entre usuarios, sistemas informáticos y los mismos contenidos.
+.
+SALUD:
+Los problemas de circulación asociados a la diabetes pueden acarrear consecuencias realmente graves en los pies del enfermo. La formación de úlceras o la aparacición de zonas afectadas de gangrenas en los pies de las personas diabéticas necesitan un exhaustivo control por parte del especialista ya que, en caso contrario, se puede tener que llegar a sufrir una amputación. El 25% de pacientes con problemas de diabetes, desarrolla problemas en sus pies debidos a la enfermedad.
+ trata de contribuir a la investigación sobre mejoras en los tratamientos aplicados a pacientes con pie diabético mediante la incorporación de sistemas miniaturizados de sensores que captarán información sobre diversos parámetros en la interfase pie-calzado, la transmitirán a sistemas de captura de datos mediante pequeños dispositivos sin cables y de forma automática la remitirán a un centro de control a los especialistas médicos con diversos sistemas (GSM, GPRS, módem, etc...).
+PESCA:
+Proyecto consistente  es un Sistema de información Geográfica desarrollada para la gestión remota de flotas de pesca.
+TRANSPORTE Y LOGÍSTICA:
+El mundo digital es mucho más veloz que el mundo análogo en el que se desarrollaron las grandes empresas, lo que demanda un mayor dinamismo, tanto en su estructura organizacional, como en la capacidad para detectar necesidades del mercado y generar soluciones adecuadas.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Islas Baleares</v:locality>
+            <v:postal-code>07009</v:postal-code>
+            <v:street-address>C/ Gremi Ferrers, Nº 39 1º D</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Mediterranea Balear Services 2004 SL</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Mediterranea Balear Services 2004 SL</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>11</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

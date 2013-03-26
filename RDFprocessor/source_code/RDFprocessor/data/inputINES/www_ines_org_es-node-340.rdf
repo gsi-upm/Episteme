@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/340">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>La Rioja</v:locality>
+                    <v:postal-code>26007</v:postal-code>
+                    <v:street-address>Avenida Club Deportivo 32, 3ºE</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>imétodo</ecos:name>
+            <ecos:uri>http://www.imetodo.om</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;imétdo basa su actividad empresarial en tres áreas diferenciadas:&lt;br&gt;
+1. Consultoría tecnológica: formulación, análisis, diseño, planificación y gestión de proyectos y arquitecturas tecnológicas&lt;br&gt;
+2. Formación tecnológica y e-learning: desarrollo de plataformas de e-learning basadas en código abierto y web 2.0. Formación tecnológica&lt;br&gt;
+3. I+D+i: formulación de proyectos y captación de socios para empresas&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>1. Integración de servicios 2.0 en entornos e-learning abiertos
+2. Difusión e integración del e-learning en el ámbito de la PYME
+3. Desarrollo de metodologías de trabajo "pro PYME"
+4. Creación de redes de contacto de I+D orientadas a las PYMEs</ecos:detail>
+            <ecos:detail>Para la pequeña empresa es difícil invertir en I+D, pero creemos firmemente en la I+D como vía para el progreso tecnológico y social, así como para la diferenciación con nuestros competidores. En estos momentos nuestros mayores retos son:</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>1. Ingeniería del Software: en nuestra labor de consultoría tecnológica empleamos las metodologías con rigor tratando de aplicar las más adecuadas a cada proyecto. En este conetexto imétodo a desarrollado su propia metodología iDEM(imétodo DElivery Methods)
+2. e-learning 2.0: tratamos de potenciar el uso y expansión del e-learning creando soluciones basadas en estándares de código abierto incorporando tecnologías de la Web 2.0. Así mismo ofrecemos nuestros servicios en modo SaAS (cloud)</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>La Rioja</v:locality>
+            <v:postal-code>26007</v:postal-code>
+            <v:street-address>Avenida Club Deportivo 32, 3ºE</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>imétodo</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>imétodo</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

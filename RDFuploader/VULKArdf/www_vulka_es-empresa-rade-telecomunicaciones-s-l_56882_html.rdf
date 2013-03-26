@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/rade-telecomunicaciones-s-l_56882.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>Calle Murcia, 5 14010 CORDOBA (Córdoba)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>RADE TELECOMUNICACIONES S.L.</ecos:name>
+            <ecos:uri>http://www.radetelecomunicaciones.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>Antenas, porteros automáticos, televisión digital, instalaciones de telecomunicaciones.</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>EMPRESA CORDOBESA, LIDER EN EL SECTOR DE LAS INSTALACIONES DE TELECOMUNICACIONES.&#13;INSCRITA EN EL REGISTRO DE INSTALADORES CON EL Nº 2009 y CERTIFICADA CON SISTEMA DE CALIDAD ISO 9001&#13;* ANTENAS COLECTIVAS&#13;* ANTENAS DE TDT&#13;* ANTENAS PARABÓLICAS&#13;* PORTEROS Y VIDEO PORTEROS&#13;* CAMARAS DE VIDEO VIGILANCIA&#13;* CENTRALES TELEFONICAS&#13;* REDES DE Voz - Datos&#13;* DOMOTICA&#13;* I.C.T.&#13;* Wi-Fi&#13;* WI-MAX&#13;* INSTALDAOR OFICIAL PARA&#13;       - CANAL PLUS&#13;       - TELEVES &#13;       - CORTE INGLES&#13;       - TEGUI ( Porteros y Video porteros )</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Córdoba</v:locality>
+            <v:street-address>Calle Murcia, 5 14010 CORDOBA (Córdoba)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>RADE TELECOMUNICACIONES S.L.</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/56882_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>RADE TELECOMUNICACIONES S.L.</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>957 43 12 85</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>957 431 285</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.radetelecomunicaciones.com</v:url>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>vulka</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>22</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

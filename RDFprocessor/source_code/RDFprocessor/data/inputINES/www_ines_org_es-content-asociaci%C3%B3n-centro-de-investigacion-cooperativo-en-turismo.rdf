@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/content/asociaci%C3%B3n-centro-de-investigacion-cooperativo-en-turismo">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Guipúzcoa</v:locality>
+                    <v:postal-code>20009</v:postal-code>
+                    <v:street-address>Paseo Mikeletegi, 56 - 201</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Asociación Centro de Investigacion Cooperativo en Turismo</ecos:name>
+            <ecos:uri>http://www.tourgune.org</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;El centro de investigación cooperativa en turismo surge como herramienta dentro de la estrategia i-tourgune (i-tourgune nace para dar respuesta a la necesidad de una estrategia bien definida para impulsar el avance del sector turístico en la Comunidad Autónoma del Euskadi, orientada hacia la innovación y el desarrollo científico-tecnológico de Euskadi) , por lo tanto, el CICtourGUNE es:&lt;br&gt;
+Una plataforma de Cooperación creada con el objetivo de impulsar el desarrollo y las capacidades en el sector turístico y aglutinar aquellas que existiendo pueden aplicarse al mismo;&lt;br&gt;
+Una infraestructura que impulsará alianzas de cooperación e interacción efectiva entre agentes de diferentes ámbitos: las empresas, la universidad y los agentes de la red vasca de ciencia y tecnología,  y las administraciones públicas regionales y europeas;&lt;br&gt;
+Un espacio de conocimiento que aprovecha las sinergias derivadas de las áreas científico-tecnológicas -necesaria fertilización cruzada de conocimiento e ideas- en el que interactúan la investigación estratégica, la investigación aplicada, y la experiencia empresarial con el desarrollo industrial del conocimiento;&lt;br&gt;
+Una herramienta que genera beneficios que repercuten sobre todo el sistema y la cadena de valor de la generación de conocimiento, aportando un mayor grado de competitividad al sector turístico.&lt;br&gt;
+EL CICtourGUNE propone un paradigma integrado que se construye a través de redes de colaboración con centros de investigación básica y aplicada y otras empresas especializadas;&lt;br&gt;
+Estas redes se centran en acelerar los procesos de descubrimiento científico (conocimiento) y transformación en nuevos productos y servicios mediante la colaboración mutua;&lt;br&gt;
+El CICtourGUNE es un modelo que sitúa el conocimiento en su corazón, cuyo origen se encuentra en sus personas y su sistema operativo (modus operandi)&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>El objetivo principal del CICtourGUNE es profundizar y avanzar en el desarrollo de la investigación estratégica orientada al turismo a través de la convergencia de áreas científicas y tecnológicas tradicionales con el fin de favorecer la competitividad y la innovación en el sector turístico de la Comunidad Autónoma de Euskadi y, por consiguiente, en su economía y sociedad;
+El CICtourGUNE surge con una clara vocación de impulsar la difusión y transferencia de conocimiento entre los agentes del Sistema Vasco de Innovación, el sector turístico y la sociedad en general;
+El CICtourGUNE está concebido para alcanzar una posición de vanguardia en campos científico tecnológicos clave desde un modelo de gestión y de trabajo dinámico e integrado entre los centros tecnológicos, la universidad y las organizaciones público-privadas.
+Configurado desde la integración y convergencia de los ámbitos científico-tecnológicos, el CICtourGUNE impactará en la reestructuración de la investigación y en la puesta en común y la movilización de los recursos existentes;
+El CICtourGUNE incluye la apertura internacional para reforzar la coordinación de un sistema turístico de innovación y su integración en el Espacio Europeo de la Investigación . El objetivo es favorecer la adaptación del sector turístico a las exigencias de la nueva economía del conocimiento, apoyando al tejido empresarial existente y contribuyendo al desarrollo de nuevas empresas en sectores intensivos del conocimiento.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Ciencias del turismo
+Ciencia y tecnología de apoyo a la producción turística sostenible (CMS, DMOs)
+Servicio de valor añadido para el turista (Web 2.0, tecnología móvil)
+Ciencia, innovación y tecnología para la gestión del sector
+Nuevas estrategias en el ámbito del eTurismo</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Guipúzcoa</v:locality>
+            <v:postal-code>20009</v:postal-code>
+            <v:street-address>Paseo Mikeletegi, 56 - 201</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Asociación Centro de Investigacion Cooperativo en Turismo</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Asociación Centro de Investigacion Cooperativo en Turismo</v:organisation-name>
+            <v:organisation-unit>Centro Privado de Investigación</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/235">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Valladolid</v:locality>
+                    <v:postal-code>47007</v:postal-code>
+                    <v:street-address>Paseo Zoriilla 89-1A</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Gateway Strategic Consultancy Services S.L.</ecos:name>
+            <ecos:uri>http://gateway-scs.es/</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Desde su constitución en el año 1998, Gateway S.C.S. presta servicios de consultoría estratégica a empresas, administraciones públicas y organismos intermedios, de diversas áreas sectoriales (telecomunicaciones, agroalimentario, editorial, marítimo, ...)&lt;/p&gt;
+&lt;p&gt;Gateway S.C.S. tiene como misión principal trabajar conjuntamente con sus clientes en la definición de estrategias de las que se deriven ventajas competitivas estables. Pretendemos que nuestros clientes obtengan y perciban de forma clara el valor que aportamos a su organización.&lt;/p&gt;
+&lt;p&gt;El principal producto que ofrece Gateway S.C.S. es su conocimiento, tanto el de los profesionales que trabajan en y para nuestra organización, como el conocimiento corporativo que Gateway S.C.S. posee y que supone un valioso know how para mejorar los resultados de sus clientes y socios.&lt;/p&gt;
+&lt;p&gt;Los áreas de especialidad en los que la empresa dispone de un conocimiento y experiencia relevantes son Sociedad de la Información, Innovación Empresarial y Tecnologías de la Información y la Comunicación.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Nuestros principales retos en materia de I+D+i son: la distribución a escala global de servicios de información, la evolución del software distribuido como SaaS, la incorporación de tecnologías web2.0 a servicios de software existentes, la producción de software conforme a estándares abiertos, la interoperabilidad de servicios en base a estándares, los sistemas de AI (ML) para la mejora de procesos de decisión.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Valladolid</v:locality>
+            <v:postal-code>47007</v:postal-code>
+            <v:street-address>Paseo Zoriilla 89-1A</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Gateway Strategic Consultancy Services S.L.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Gateway Strategic Consultancy Services S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>35</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

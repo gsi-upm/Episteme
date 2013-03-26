@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1558">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28100</v:postal-code>
+                    <v:street-address>Calle Jose Echegaray 10</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Aurigae</ecos:name>
+            <ecos:uri>http://www.aurigae.com/</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Fundada en 1992, Aurigae nace con la vocación de aportar soluciones en el ámbito transaccional de los mercados Financiero, Industrial y de las Telecomunicaciones. Desde entonces Aurigae ha evolucionado con las nuevas tecnologías siendo hoy un referente en sectores críticos de negocio de muchas de las principales empresas del país.&lt;br&gt;
+Los servicios de Aurigae se agrupan en tres:&lt;br&gt;
+- Desarrollo: Especialistas en operaciones transaccionales Online (Medios de pago,&lt;br&gt;
+Ticketing, Gestión de Almacenes), Soluciones para entorno de pruebas, Aplicaciones Web, aplicaciones Cliente/Servidor etc&lt;br&gt;
+- Sistemas: Herramientas de monitorización y gestión de sistemas y administración de sistemas de alta disponibilidad.&lt;br&gt;
+- I+D+i: proyectos I+D en los cuales estamos embarcados con organismos públicos como el CDTI e IMADE, y con otras PYMEs&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Estos son los proyectos I+D en los cuales estamos embarcados con organismos públicos como el CDTI e IMADE, y con otras PYMEs:
+- Auriticket-RFID, aplicación segura para reservas de entradas de eventos utilizando tecnología NFC.
+- CashIER, monitorización remota de dispositivos de efectivo (recicladores de efectivo, dispensadores, …)
+- ComodIT, es un proyecto europeo formado por un consorcio de empresas de tecnología de diversos países de la Unión. La finalidad del proyecto es proveer de infraestructura y software en forma de servicios. Este proyecto se basa en el paradigma Cloud Computing.
+Nuestra aportación principal en el consorcio consta de dos módulos:
+  Metric: Aplicación para la medición y monitorización de todos los servicios y sus interrelaciones tanto con el cliente como con el resto de servicios en la Cloud.
+  Accounting and billing: Aplicación para gestionar la contabilidad y facturación sobre el uso de los servicios disponibles en la Cloud.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Somos expertos en todo lo que concierna a Medios de pago. Tenemos servicios para la monitorización de transacciones, realización de pruebas funcionales y de volumen y realzación de productos llave en mano.
+Por otro lado participamos en varios proyectos I+D+i con organismos públicos como el CDTI e IMADE, y con otras PYMEs.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28100</v:postal-code>
+            <v:street-address>Calle Jose Echegaray 10</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Aurigae</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Aurigae</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

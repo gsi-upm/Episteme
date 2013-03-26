@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/163">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28760</v:postal-code>
+                    <v:street-address>Isaac Newton,11, PTM Tres Cantos</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>GMV Space and Defence S.A.</ecos:name>
+            <ecos:uri>http://www.gmv.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;GMV es un grupo empresarial tecnológico de capital privado con presencia internacional. Fundado en 1984 GMV ofrece su soluciones, servicios y productos en muy diversos sectores: Aeronáutica, Banca y Finanzas, Espacio, Defensa, Sanidad, Seguridad, Transporte, Telecomunicaciones, Tecnologías de la Información para Administraciones Públicas y Gran Empresa.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Los mayores desafíos de I+D+i están orientados hacia:
+* Temas de seguridad y confianza.
+* Manejo semántico de la información (ontologías, motores, inferencia,...)
+* Semántica y personalización de las interfaces. Actualmente estamos trabajando en generadores automáticos de interfaz basados en herramientas open source
+* Estudio de la viabilidad de metodologías no clásicas de desarrollo de software (Agile, Xtreme)</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28760</v:postal-code>
+            <v:street-address>Isaac Newton,11, PTM Tres Cantos</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>GMV Space and Defence S.A.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>GMV Space and Defence S.A.</v:organisation-name>
+            <v:organisation-unit>Gran Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>4</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

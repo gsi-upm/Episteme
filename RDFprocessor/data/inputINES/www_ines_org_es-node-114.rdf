@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/114">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28660</v:postal-code>
+                    <v:street-address>Facultad de Informática - UPM. Campus de Montegancedo s/n. 28660 Boadilla del Monte. Madrid. SPAIN</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Universidad Politécnica de Madrid</ecos:name>
+            <ecos:uri>http://www.upm.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La Universidad Politécnica de Madrid (UPM) es la Universidad técnica más grande de España, con cerca de 40.000 estudiantes, 3.300 profesores e investigadores y un personal administrativo y técnico cercano a las 2000 personas. La UPM lidera el desarrollo tecnológico en España y juega un papel primordial en las actividades académicas y de investigación española y europea. La UPM ha sido el organismo que más dinero ha contratado con la Comisión Europea en los programas marco 4º, 5º y 6º del área IST y se esperan resultados similares en el 7º. Los ingresos relacionados con la investigación superan los 60 millones de euros tanto en programas nacionales como internacionales, así como con contratos privados. Con relación a la investigación en Software y Servicios, la UPM participa activamente en el programa nacional en Tecnologías Informáticas (TIN), los programas marco de la UE y también en Eureka-ITEA. El registro de las publicaciones científicas es considerablemente alto, lo que puede consultarse en los indicadores disponibles a la comunidad científica donde varios de nuestros investigadores aparecen mencionados en la lista de los autores más citados.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Análisis de los requisitos para optimizar los motores de búsqueda multimedia en base a la información contextual, a los intereses del usuario, a la disponibilidad de información semántica y a la presencia de un nivel de servicios autonómicos. Demostración e las posibilidades de acceso ubicuo y de las facilidades contextuales combinadas con los intereses y la propia actividad del usuario con el propósito de ofrecer un servicio más eficiente y personalizado. Definir los drivers y requisitos impuestos por el usuario (redes sociales) como creadores de información multimedia y los servicios de próxima generación (creación de servicios personales) a publicar y considerar en las búsquedas. Estudio de nuevos modelos de negocio que soporten esta visión.</ecos:detail>
+            <ecos:detail>Entre los desaríos de I+D+i a los que se enfrenta el proponente, destacamos, por su estrecha ligadura con los retos tecnológicos identificados en la AEI de INES, los relacionados con dos de las iniciativas en que se encuentra embarcado el grupo y con las que se ha concurrido a convocatorias del programa marco de la Comisión Europea: la primera relacionada con motores de búsqueda semánticos y la segunda con interfaces accesibles en entornos de computación ubícua y móvil.</ecos:detail>
+            <ecos:detail>Promover la conversión de la Web móvil en una realidad solucionando los problemas aún existentes en la Web 1.0 y explotando las posibilidades ofrecidas por la Web 2.0 en movilidad, tales como la disponibilidad de tecnologías de Web semántica y de Web social. Integración de ontologías y "folksonomías" para la descripción del contexto y la correlación de contenidos y servicios. disponibilidad de un lenguaje de descripción de interfaces que mejore los aspectos de accesibilidad, especialmente importantes en entornos de movilidad con fuertes restricciones de usabilidad y visibilidad. desarrollo de una plataforma de referencia de código abierto.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>En el contexto de la AEI de INES, ICTG-CETTICO tiene competencias tecnológicas asociadas fundamentalmente al pilar de servicios. Así, el grupo tiene demostrada experiencia en materia de tecnologías Web, accesibilidad Web, tecnologías de la Web Semántica, integración de servicios, arquitecturas orientadas a servicios, computación ubícua y móvil, interoperabilidad y tecnologías middleware. Fruto de esta experiencia, el grupo publica en revistas y foros internacionales de relevancia (IEEE, ACM, SIGMOD, SIGMOBILE, etc.) y concurre asiduamente a las diferentes convocatorias del Plan Nacional de Investigación y de los programas marco de la Comisión Europea.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28660</v:postal-code>
+            <v:street-address>Facultad de Informática - UPM. Campus de Montegancedo s/n. 28660 Boadilla del Monte. Madrid. SPAIN</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Universidad Politécnica de Madrid</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/UPM.gif?1276593524</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Universidad Politécnica de Madrid</v:organisation-name>
+            <v:organisation-unit>Universidad</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

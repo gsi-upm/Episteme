@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/275">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Barcelona</v:locality>
+                    <v:postal-code>08018</v:postal-code>
+                    <v:street-address>Sancho de Avila 110-130</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Fundació Barcelona Digital Centre Tecnològic</ecos:name>
+            <ecos:uri>http://www.bdigital.org</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Centro tecnológico de las TIC de Cataluña&lt;/p&gt;
+&lt;p&gt;Somos el centro tecnológico referente de las TIC, mediante la generación y mejora de conocimiento tecnológico y su correspondiente aplicación y difusión para el crecimiento del sector y el desarrollo de la Sociedad de la Información tanto en el ámbito empresarial como social.&lt;/p&gt;
+&lt;p&gt;VISIÓN:&lt;br&gt;
+Centro de investigación, desarrollo tecnológico y promoción de la innovación. Líder al servicio del desarrollo de la Sociedad de la Información y referente para las empresas catalanas y la sociedad; reconocido internacionalmente por la excelencia en el ámbito de las tecnologías de la información aplicadas a la salud y de la movilidad y la seguridad aplicadas transversalmente.&lt;/p&gt;
+&lt;p&gt;MISIÓN:&lt;br&gt;
+﻿Nuestra misión es contribuir al desarrollo de la sociedad de la información y al crecimiento del sector TIC, mediante:&lt;br&gt;
+- El fomento de la investigación, la transferencia tecnológica y la innovación tecnológica; buscando el liderazgo en las especializaciones que nos son propias.&lt;br&gt;
+- El desarrollo de proyectos de innovación y conocimiento para la mejora de la competitividad e internacionalización de productos y servicios de las empresas catalanas.&lt;br&gt;
+- La promoción y uso de las TIC.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>- Línea Movilidad</ecos:detail>
+            <ecos:detail>- Línea Salud:</ecos:detail>
+            <ecos:detail>- Línea Seguridad</ecos:detail>
+            <ecos:detail>El centro está especializado en las tecnologías de la información aplicadas a la salud, la seguridad y la movilidad.</ecos:detail>
+            <ecos:detail>Esta línea incluye las tecnologías dedicadas a proteger los datos y sistemas mediante mecanismos de autoidentificación, confidencialidad, integridad y disponibilidad de las comunicaciones y a identificar los perfiles de los usuarios a partir del análisis de los rastros de su navegación o tráfico por las redes. La protección también se contempla hacia ataques externos e internos de las organizaciones.</ecos:detail>
+            <ecos:detail>La evolución de las aplicaciones de la telefonía móvil, en todos sus ámbitos hacia 4G: evolución de las redes móviles, de los nuevos aparatos, de los servicios, contenidos y aplicaciones, así, como nuevos sistemas de banca móvil, transferencias móviles y pagos - micropagos.</ecos:detail>
+            <ecos:detail>Realización de actividades de I+D+i en las tecnologías de la información y la comunicación dedicadas a gestionar la movilidad de personas, vehículos y productos; así como la propia ubicuidad de la información.</ecos:detail>
+            <ecos:detail>Realización de actividades de I+D+i en las tecnologías de la información y la comunicación dedicadas a proporcionar seguridad en las transacciones en línea y la identificación de usuarios.</ecos:detail>
+            <ecos:detail>Realización de actividades de I+D+i en las tecnologías que permiten ofrecer una mejor asistencia sanitaria, facilitando el trabajo del personal médico, simplificando los procesos de prevención, diagnosis y tratamiento de enfermedades, healthcare, así como el desarrollo de instrumentación biomédica.</ecos:detail>
+            <ecos:detail>Se incluyen:
+- Sistemas para la gestión personal del bienestar.
+- Técnicas para una medicina individualizada y preventiva.
+- Gestión del conocimiento sanitario y su aplicación a la práctica clínica.</ecos:detail>
+            <ecos:detail>Ámbitos que incluye:
+- Mejora de sistemas y aplicaciones móviles para la empresa y para las personas, en entorno doméstico y profesional.
+- Mejora de sistemas y aplicaciones móviles para personas enfermas (e-salut y movilidad).
+- Mejora de la seguridad y optimización de las comunicaciones móviles.
+- Mejora de sistemas y aplicaciones para la movilidad, transporte de personas y mercancías y aplicaciones máquina - máquina.
+- Optimización de las redes móviles, convergencia y interoperatibilitat.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Técnicas de Inteligencia Artificial para aplicaciones médicas (agentes inteligentes, aprendizaje de patrones, redes neuronales, sistemas expertos, sistemas de lógica difusa, redes estadísticas, etc.) aplicadas a:
+- Apoyo a la decisión utilizando guías médicas ejecutables
+- interfaces de usuario adaptativas y ajustadas a perfiles
+- Inteligencia social, cooperación y comportamiento emergente
+- Modelos predicitivos y preventivos
+- Representación del conocimiento y ontologías para la web 2.0
+- Percepción y actuación en robótica
+Aplicación e integración de especialidades heterogeas TIC en aplicaciones médicas, incluyendo:
+- entornos virtuales
+- sensores
+- ortesis con componentes de automatización y control
+- redes inalámbricas
+- monitorización y control remoto
+- Usabildad y accesibildad</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Barcelona</v:locality>
+            <v:postal-code>08018</v:postal-code>
+            <v:street-address>Sancho de Avila 110-130</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Fundació Barcelona Digital Centre Tecnològic</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Fundació Barcelona Digital Centre Tecnològic</v:organisation-name>
+            <v:organisation-unit>Centro Privado de Investigación</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

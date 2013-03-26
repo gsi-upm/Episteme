@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/141">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Valencia</v:locality>
+                    <v:postal-code>46014</v:postal-code>
+                    <v:street-address>Tres Forques 147, Valencia</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>ETRA Investigación y Desarrollo</ecos:name>
+            <ecos:uri>www.etra.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;ETRA I+D es la empresa tecnológica del Grupo ETRA, parte a su vez de ACS.&lt;br&gt;
+Desarrollo de soluciones llave en mano -incluyendo software y sistemas- en las áreas de movilidad y servicios públicos.&lt;br&gt;
+Sistemas de control y gestión de información en tiempo real en entornos que  afectan a la seguridad y eficacia de las personas y organizaciones.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Llevar la inteligencia ambiental a los sistemas de control de tráfico, transporte y gestión de la movilidad, así como a los de gestión de servicios públicos.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>-Integración de Servicios
+-Semántica
+-Servicios de gestión
+-Seguridad y confianza
+-Interoperabilidad</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Valencia</v:locality>
+            <v:postal-code>46014</v:postal-code>
+            <v:street-address>Tres Forques 147, Valencia</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>ETRA Investigación y Desarrollo</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>ETRA Investigación y Desarrollo</v:organisation-name>
+            <v:organisation-unit>Gran Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

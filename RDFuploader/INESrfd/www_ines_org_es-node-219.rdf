@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/219">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Barcelona</v:locality>
+                    <v:postal-code>08007</v:postal-code>
+                    <v:street-address>Passeig de Grícia 11 Esc B 6í¨ 1a</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Secretaria de Telecomunicacions i Societat de la Informació de la Generalitat de Catalunya</ecos:name>
+            <ecos:uri>www.gencat.net</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La Secretaría de Telecomunicaciones y Sociedad de la Información (STSI) se creó con la finalidad de atender, desde la Administración Pública, los retos y la problemàtica que el nuevo escenario del sector de las telecomunicaciones y de la sociedad del conocimiento planteaban.&lt;br&gt;
+La STSI es responsable, entre otras competencias, de la política general de informàtica, telecomunicaciones y sociedad de la información en Catalunya, impulsa los respectivos sectores económicos e integra las tecnologías de la información en todos los ámbitos de la sociedad catalana.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Formación en TIC
+Actividades de difusión
+Aplicación del software libre en las Adeministraciones públicas
+Gestión de clusters TIC</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Barcelona</v:locality>
+            <v:postal-code>08007</v:postal-code>
+            <v:street-address>Passeig de Grícia 11 Esc B 6í¨ 1a</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Secretaria de Telecomunicacions i Societat de la Informació de la Generalitat de Catalunya</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Secretaria de Telecomunicacions i Societat de la Informació de la Generalitat de Catalunya</v:organisation-name>
+            <v:organisation-unit>Otros</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>239</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

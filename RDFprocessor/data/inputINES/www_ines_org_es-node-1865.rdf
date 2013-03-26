@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1865">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Sevilla</v:locality>
+                    <v:postal-code>41092</v:postal-code>
+                    <v:street-address>Tecnoincubadora Marie Curie. C/ Leonardo da Vincci, 18. 1º-6. Parque Científico y Tecnológico Cartuja 93.</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>3DEOLOGIC S.L.</ecos:name>
+            <ecos:uri>www.3deologic.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Diseño y producción 3D. Ingeniería y servicios avanzados. Formación. I+D+I en 3D&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Implementación de aplicaciones web para el mundo 3D. Plataformas avanzadas e-learning. Servicios de renderizado por supercomputación. Redes sociales en 3D</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Experto en 3D. Master en animación e infoarquitectura. Instructor oficial de ZBrush. Delegado Internacional de Pixologic Inc para España, Portugal, Países Árabes y Unión Africana.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Sevilla</v:locality>
+            <v:postal-code>41092</v:postal-code>
+            <v:street-address>Tecnoincubadora Marie Curie. C/ Leonardo da Vincci, 18. 1º-6. Parque Científico y Tecnológico Cartuja 93.</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>3DEOLOGIC S.L.</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/3deologic%20logo%20pix.jpg?1276538713</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>3DEOLOGIC S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

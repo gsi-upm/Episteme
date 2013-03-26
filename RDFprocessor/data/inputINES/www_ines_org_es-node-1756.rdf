@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1756">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28030</v:postal-code>
+                    <v:street-address>Corregidor Diego Cabeza de Vaca, 4</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Brainific, SL</ecos:name>
+            <ecos:uri>http://www.brainific.com/</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Brainific es una nueva empresa de base tecnológica que proporciona soluciones punteras en las áreas de inteligencia artificial, minería de datos y aprendizaje automático.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Brainific apuesta con fuerza por la I+D+i, llevando sus actividades mucho más allá de la mera transferencia tecnológica y de la aplicación de resultados. Brainific tiene un importante programa de investigación en AI/DM/ML donde se analizan las necesidades específicas de las empresas a fin de dar lugar a nuevos desarrollos que lleven el estado de la tecnología cada vez un paso más lejos.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Brainific ofrece soluciones punteras de inteligencia artificial, data mining y aprendizaje automático. En especial, busca su aplicación novedosa en sectores como la salud, los videojuegos o las redes sociales.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28030</v:postal-code>
+            <v:street-address>Corregidor Diego Cabeza de Vaca, 4</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Brainific, SL</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/brainific.png?1274974003</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Brainific, SL</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

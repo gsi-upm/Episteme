@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/164">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28042</v:postal-code>
+                    <v:street-address>Cañada Real de las Merinas 1-3</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Boeing Research and Technology Europe</ecos:name>
+            <ecos:uri>http://www.boeing.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La compañía está organizada en cuatro unidades de negocio fundamentales: Boeing Capital Corporation, Boeing Commercial Airplanes, Connexion by Boeing SM y Boeing Integrated Defense Systems. Como apoyo a estos negocios, Boeing Shared Services Group proporciona servicios comunes e infraestructuras eficientes que permiten a las unidades de negocio centrarse en sus actividades de crecimiento rentable. Además, Phantom Works aporta investigación y desarrollo de vanguardia, incluyendo conceptos avanzados pata la gestión del tráfico aéreo. Phantom Works trabaja con las unidades de negocio de la compañía para identificar sus necesidades tecnológicas y abordarlas con soluciones innovadoras y asequibles.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Pendiente de definir según colaboración</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Web Semántica
+Servicios GRID e Infraestructuras</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28042</v:postal-code>
+            <v:street-address>Cañada Real de las Merinas 1-3</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Boeing Research and Technology Europe</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Boeing Research and Technology Europe</v:organisation-name>
+            <v:organisation-unit>Asociación de Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

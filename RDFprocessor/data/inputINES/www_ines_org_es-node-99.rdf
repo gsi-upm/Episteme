@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/99">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28043</v:postal-code>
+                    <v:street-address>Arequipa I</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Oficina de Cooperación Universitaria S.A.</ecos:name>
+            <ecos:uri>www.ocu.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Desarrollo y mantenimiento de software para la gestión universitaria&lt;/p&gt;
+&lt;p&gt;Servicios software y hardware para universidades &lt;/p&gt;
+&lt;p&gt;Consultoría para instituciones docentes&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>-. Potenciar el I+D en la compañía
+-. La aplicación práctica del estado del arte
+-. Su retorno de Inversión
+-. Centrar las actividades en el aumento de la productividad y calidad
+-. Principalmente en las competencias descritas en el cuadro anterior</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>-. Ingeniería del Software
+-. Ingeniería de Requisitos
+-. Modelos software (arquitecturas y patrones)
+-. Metodologías
+-. Fábricas Software - Líneas de Producto
+-. Calidad de Producto -  Proceso Software
+-. Aspectos economicos de la Ing del Sw
+-. Gestión de Proyecos Software</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28043</v:postal-code>
+            <v:street-address>Arequipa I</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Oficina de Cooperación Universitaria S.A.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Oficina de Cooperación Universitaria S.A.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

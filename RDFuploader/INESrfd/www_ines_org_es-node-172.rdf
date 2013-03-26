@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/172">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28037</v:postal-code>
+                    <v:street-address>C/ Cronos, 63 - 2º local 1</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>INEXTRAMA, Soluciones Informáticas para el Sector Gráfico, S.L.</ecos:name>
+            <ecos:uri>http://www.inextrama.com/</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Desarrollo de Soluciones Informáticas para las empresas del sector gráfico español. Estas soluciones se refieren a Sistemas de Gestión Integral de Negocio para dichas empresas, desarrollados mediante los módulos necesarios para informatizar los Procesos de Gestión de las empresas.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Los desafíos a los que pretende hacer frente INEXTRAMA, ya apuntados más arriba, es, en primer lugar: la incorporación del Job Definition Format (JDF) como estándar XML de comunicación entre el Sistema de Gestión INEXTRAMA FRAMEWORK y el resto de dispositivos de la empresa gráfica; y como siguiente paso: la integración de las soluciones con Flujos de Trabajo Digitales (FTD).</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28037</v:postal-code>
+            <v:street-address>C/ Cronos, 63 - 2º local 1</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>INEXTRAMA, Soluciones Informáticas para el Sector Gráfico, S.L.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>INEXTRAMA, Soluciones Informáticas para el Sector Gráfico, S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>11</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

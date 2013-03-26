@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/128">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Guipúzcoa</v:locality>
+                    <v:postal-code>20018</v:postal-code>
+                    <v:street-address>Pº DE MANUEL LARDIZABAL 15, SAN SEBASTIAN</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>CENTRO DE ESTUDIOS E INVESTIGACIONES TECNICAS DE GIPUZKOA</ecos:name>
+            <ecos:uri>www.ceit.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;EL CEIT ES UN CENTRO SIN ÁNIMO DE LUCRO CUYA PRINCIPAL MISIÓN ES SERVIR A LA INDUSTRIA, REALIZANDO PROYECTOS DE INVESTIGACION APLICADA Y DE DESARROLLO TECNOLOGICO.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Una de las líneas más interesantes para el CEIT es todo lo relacionado con servicios GRID e infraestructura. Actualmente esta línea figura como uno de los futuros retos en este campo. Finalmente, apuntar a que la inteligencia ambiental sobrevuela muchos de los proyectos actuales, pero que duda cabe que por ahora se mantiene como un desafío actual.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>El CEIT actualmente está inmerso en varios proyectos en los se integran varios servicios en un mismo dispositivo, dando forma así a verdaderos sistemas embebidos con distintas funcionalidades. El software es en estos casos protagonista principal, por lo que las arquitecturas empleadas han de ser diseñadas específicamente para soportar los diferentes servicios que el/los dispositivos deben soportar. Las herramientas estándares son imprescindibles, y más aun si son de libre uso. Los frameworks gestores de servicios como OSGi son un ejemplo de ello. 
+            Por otro lado, el CEIT ve como una prioridad, cada vez más evidente con la llegada de la TVoIP, las tecnologías de evolución y control de la calidad de servicio, pudiendo ser ésta predecible y gestionada. Sin olvidar la necesidad de unificar los estándares de calidad de software que garanticen una estabilidad a los productos que de él de pendan. En definitiva aportar al software seguridad y confianza.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Guipúzcoa</v:locality>
+            <v:postal-code>20018</v:postal-code>
+            <v:street-address>Pº DE MANUEL LARDIZABAL 15, SAN SEBASTIAN</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>CENTRO DE ESTUDIOS E INVESTIGACIONES TECNICAS DE GIPUZKOA</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>CENTRO DE ESTUDIOS E INVESTIGACIONES TECNICAS DE GIPUZKOA</v:organisation-name>
+            <v:organisation-unit>Centro Privado de Investigación</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

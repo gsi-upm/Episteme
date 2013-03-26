@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/140">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>La Coruña</v:locality>
+                    <v:postal-code>15190</v:postal-code>
+                    <v:street-address>POCOMACO Sector I, Portal 5</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Fundación Instituto Tecnológico de Galicia</ecos:name>
+            <ecos:uri>http://www.itg.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Misión:&lt;br&gt;
+El Instituto Tecnológico de Galicia (en adelante ITG) tiene como misión el mejorar la capacidad competitiva de las empresas, los profesionales y las organizaciones, facilitando su acceso a las actividades de investigación y desarrollo tecnológico e impulsado los procesos de innovación y mejora continua.&lt;br&gt;
+Visión:&lt;br&gt;
+El ITG quiere ser el Centro de Referencia de la Tecnología e Innovación en Galicia, fuertemente arraigado en el tejido industrial, ayudando a las empresas a mejorar su capacidad competitiva, vinculado al entorno institucional y constituyendo un modelo de eficacia organizativa.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Línea 01
+ Reto 0101:  Modelado de negocio sectorial.- Aplicación a la cadena de valor de la edificación.
+ Reto 0102 Modelado de procesos de negocio e integración automática en procesos de parametrización de sistemas contra usuario final.</ecos:detail>
+            
+            
+            
+            
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>La Coruña</v:locality>
+            <v:postal-code>15190</v:postal-code>
+            <v:street-address>POCOMACO Sector I, Portal 5</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Fundación Instituto Tecnológico de Galicia</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Fundación Instituto Tecnológico de Galicia</v:organisation-name>
+            <v:organisation-unit>Centro Privado de Investigación</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>349</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

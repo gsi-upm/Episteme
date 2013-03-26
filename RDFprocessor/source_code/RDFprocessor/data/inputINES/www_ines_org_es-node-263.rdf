@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/263">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28020</v:postal-code>
+                    <v:street-address>c/ Orense 62</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Asociación Multisectorial de Empresas Españolas de Electrónica y Comunicaciones</ecos:name>
+            <ecos:uri>http://www.asimelec.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;ASIMELEC es la Asociación Multisectorial de Empresas Españolas de Electrónica y Comunicaciones. Las empresas que componen ASIMELEC dan trabajo directo a 300.000 personas y su facturación supone el 3% del PIB de España. Actualmente, ASIMELEC cuenta con más de 2.000 empresas representadas.&lt;br&gt;
+ASIMELEC surge con el fin de defender y representar los intereses comunes de las empresas del sector. Por esta razón, entre las actividades que desarrolla se encuentra el establecimiento de una vía de comunicación con la Administración española y comunitaria representando a los distintos sectores que componen la Asociación. Al mismo tiempo, participa en diferentes instituciones, tanto nacionales como europeas, lo que permite conocer la evolución del sector y transmitir los intereses de las empresas asociadas. &lt;/p&gt;
+&lt;p&gt;Por otro lado, y para facilitar la consecución de los mismos objetivos, las empresas asociadas constituyen Comisiones o grupos de trabajo, lo que les permite llevar a cabo acciones de promoción, solución de problemas comunes, análisis de normativa… todo aquello que revierta en el beneficio común de las empresas.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>1)Comisión de Seguridad en las Tecnologías de la Información y Confianza en la Red:
+Modelos integrales de seguridad, Seguridad y Confianza de Infraestructuras y Servicios, Protección y Seguridad de datos, Protección de Propiedad Intelectual y Fraudes</ecos:detail>
+            <ecos:detail>2) Grupo de Trabajo de Medio Ambiente y Sostenibilidad
+Las TIC para la sostenibilidad y la eficiencia energética, Recogida y reciclado de RAEE</ecos:detail>
+            <ecos:detail>3) Comisión Multisectorial del Hogar Digital
+e-Inclusion, domótica, eHealth, tele-asistencia, interoperabilidad entre los servicios, eficiencia energética</ecos:detail>
+            <ecos:detail>4) Comisión de Tecnologías de Contact Center y del Habla
+Reconocimiento y sintetización de la Voz, Soluciones CRM
+VoIP/ToIP, Sistemas Open Source, Enrutamiento Inteligente
+Asistentes Virtuales</ecos:detail>
+            <ecos:detail>5) Comisión de Telecomunicaciones e Internet
+evolución de la Web.</ecos:detail>
+            <ecos:detail>Dentro de cada Comisión y Grupo de Trabajo de ASIMELEC, ls desafíos de I+D+i son los propios de las empresas que los componen, es decir de los respectivos sectores, y coinciden con los marcados por la AEI de INES.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Las empresas asociadas a ASIMELEC pertenecen a diferentes sectores dentro del macro-sector TIC.
+Entre las diferentes Comisiones y Grupos de Trabajo que actualmente se reunen denro de la Asociación, los cuyas competencias tecnológicas coinciden con algunos de los grupos de trabajo de INES son:
+1) La Comisión de Seguridad en las Tecnologías de la Información y Confianza en la Red, con sus Grupos de Trabajo:
+- Grupo de Trabajo de Factura Electrónica
+- Grupo de Trabajo de Identidad Digital y DNIe 
+2) Grupo de Trabajo de Medio Ambiente y Sostenibilidad
+3) Comisión Multisectorial del Hogar Digital
+4) Comisión de Tecnologías de Contact Center y del Habla 
+5) Comisión de Telecomunicaciones e Internet</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28020</v:postal-code>
+            <v:street-address>c/ Orense 62</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Asociación Multisectorial de Empresas Españolas de Electrónica y Comunicaciones</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Asociación Multisectorial de Empresas Españolas de Electrónica y Comunicaciones</v:organisation-name>
+            <v:organisation-unit>Asociación de Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

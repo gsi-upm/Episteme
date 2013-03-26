@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1868">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Málaga</v:locality>
+                    <v:postal-code>29590</v:postal-code>
+                    <v:street-address>c/Severo Ochoa, 34. parque Tecnológico de Andalucia</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Brain Dynamics S.L.</ecos:name>
+            <ecos:uri>http://www.brain-dynamics.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;la Gestión del Conocimiento sobre la Anatomía y Función del Cerebro Humano tanto Normal como Patológico, mediante la integración de herramientas y bases de datos ya existentes, la realización de desarrollos propios y lo más importante, la creación de una base de datos de conocimiento anatómico-funcional basada en lo que podríamos denominar Neurociencia Basada en la Evidencia.&lt;/p&gt;
+&lt;p&gt;Por tanto, procesamos Información de todo tipo sobre Enfermedades Neurológicas y Psiquiátricas, la transformamos en Conocimiento y lo Gestionamos, creando productos y servicios para Profesionales y Ciudadanos.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Modelos matemáticos sobre funciones cognitivas superiores, Brain computer interfaces, Mejora de algoritmos en imagen molecular avanzada, web semántica, aplicaciones de las TICs en enfermedades neurológicas y psiquiátricas</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Málaga</v:locality>
+            <v:postal-code>29590</v:postal-code>
+            <v:street-address>c/Severo Ochoa, 34. parque Tecnológico de Andalucia</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Brain Dynamics S.L.</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/logo_BDYN.jpg?1276590934</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Brain Dynamics S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>116</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

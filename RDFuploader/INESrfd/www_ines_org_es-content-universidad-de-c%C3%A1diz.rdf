@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/content/universidad-de-c%C3%A1diz">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Cádiz</v:locality>
+                    <v:postal-code>11002</v:postal-code>
+                    <v:street-address>C/ Chile 1</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Universidad de Cádiz</ecos:name>
+            <ecos:uri>http://www.uca.es/</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;El grupo de investigacion MEJORA DEL PROCESO SOFTWARE Y MÉTODOS FORMALES (SPI&amp;amp;FM, Software Process Improvement and Formal Methods) se creó en el año 2004 dentro del Plan Andaluz de Investigación. Está integrado por un grupo de profesores del Departamento de Lenguajes y Sistemas Informáticos y tiene su sede en la Universidad de Cádiz. Las líneas de investigación del grupo se centran en los campos de la mejora del proceso software orientado a servicios, la gestión de procesos y servicios de aprendizaje, la web semántica y los servicios web.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Llevamos a cabo proyectos de I+D+i en convocatorias competitivas nacionales e internacionales sobre el proceso software, las tecnologías del aprendizaje y los sistemas web</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Cádiz</v:locality>
+            <v:postal-code>11002</v:postal-code>
+            <v:street-address>C/ Chile 1</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Universidad de Cádiz</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/universidad-de-cadiz.gif?1329928358</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Universidad de Cádiz</v:organisation-name>
+            <v:organisation-unit>Universidad</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>425000</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

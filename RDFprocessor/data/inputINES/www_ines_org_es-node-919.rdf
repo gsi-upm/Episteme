@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/919">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Sevilla</v:locality>
+                    <v:postal-code>20000</v:postal-code>
+                    <v:street-address>Sevilla</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Wellness Telecom S.L</ecos:name>
+            <ecos:uri>http://www.wtelecom.es/</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Wellness es una empresa española ubicada en el sector de las telecomunicaciones cuya misión es contribuir al bienestar de las personas, los profesionales y las empresas mediante la implantación de la innovación tecnológica y organizativa, basándose en el uso las nuevas Tecnologías de la Comunicación. Para ello, Wellness Telecom quiere convertirse en un centro innovador en la generación y transferencia de conocimiento al más alto nivel nacional e internacional en lo que se refiere a Nuevas Tecnologías de Comunicación, aplicándolas a: La mejora del bienestar y la calidad de vida de las personas. La mejora de la capacidad y comodidad de los profesionales. La mejora de la eficiencia y el ahorro de costes de las empresas. La salud de los ciudadanos y el medio ambiente. Wellness Telecom tiene sede principal en Tomares (Sevilla) y su ámbito de acción es global. Actualmente cuenta con tres delegaciones más: Una en Badajoz con el ánimo de poder abordar mas directamente el mercado extremeño y dos más, dedicados en exclusiva al desarrollo de proyectos de I+D, una en Valladolid y la última en la Isla de la Cartuja (Sevilla). Áreas de especialización Las áreas que definen la estrategia tecnológica de Wellness Telecom se dividen en tres pilares fundamentales: 1. I+D+i: En Wellness Telecom hemos apostado desde nuestros comienzos por la inversión en Investigación, Desarrollo e Innovación (I+D+i) para la creación y mejora de nuestros productos y servicios de calidad avanzados que nos permita ofrecer valor añadido a nuestros clientes a medida de sus necesidades y ser altamente competitivos en el mercado internacional de la TICs. Desde Wellness hemos diseñado una estrategia basada en la elaboración de proyectos de I+D+i propios y en colaboración con otras organizaciones que nos permitan investigar, desarrollar y adquirir nuevos conocimientos así como acceder a las últimas tecnologías disponibles en el mercado. Nuestras principales áreas de especialización en I+D está fundamentas en tecnologías horizontales que pueden ser aplicadas a multitud de campos verticales específicos. 2. Consultoría: Wellness actúa como el agente de confianza que es capaz de dar la mejor solución tecnológica, adaptada a las necesidades de los clientes. Y siempre teniendo en cuenta la relación calidad/precio. Esto es posible gracias a nuestra continúa vigilancia tecnológica, de las últimas tecnologías del mercado. Wellness ofrece servicios de consultoría previa a la ejecución de proyectos en las siguientes áreas: Despliegue de redes de comunicación. Prestación de servicios de valor añadido sobre redes IP. Procesos de mejora de la productividad empresarial. Adopción de soluciones basadas en software libre. TICs aplicadas a la salud pública. 3. Ejecución de proyectos de integración: Integración de soluciones propias y de terceros para ofrecer soluciones específicas y completas a las necesidades de nuestros clientes. Dentro de la variedad de herramientas tecnológicas que Wellness utiliza para conseguirlo, se pueden destacar las siguientes: Comunicación IP: Productos y servicios encaminados a establecer todo tipo de comunicación (voz, datos, videoconferencia...), unificados mediante el protocolo IP (sistemas de telefonía IP, herramientas de colaboración, sistemas de videoconferencia, etc.) Conectividad entre sedes: Productos y servicios que proporcionan la conectividad IP entre distintas sedes o ubicaciones (conectividad VPN IP entre sedes en cualquier ubicación del mundo, sistemas integrados de seguridad y telefonía, acceso remoto seguro a teletrabajadores a la red corporativa, etc.) Conexiones inalámbricas: Productos y servicios de tecnología inalámbrica, dedicados a la conectividad de sedes, o de usuarios finales con la red (WiMAX, Wi-fi, Bluetooth, Zigbee, etc.) Seguridad: Productos y servicios que aseguran que toda la comunicación está libre de ataques y amenazas externas. Switching e infraestructuras: Productos y servicios dedicados a la conectividad física de todo tipo de dispositivos (plataformas de alta disponibilidad, switches de gama media, Power-over-Ethernet, etc.). 4. Formación: Si el conocimiento ha de ser compartido, tiene que ser transmitido. La formación es una pieza clave de la estrategia de Wellness, tanto a nivel de mejora de los conocimientos de sus empleados como de cara a transmitir los conocimientos adquiridos a terceros. Wellness plantea ofrecer una acción formativa que cubra, sin perjuicio de añadir alguna otra en función de necesidades particulares de nuestros clientes, las siguientes áreas: Incorporación de las TICs a la empresa. Redes de telecomunicación. Software libre.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>En Wellness Telecom hemos apostado desde nuestros comienzos por la inversión en Investigación, Desarrollo e Innovación (I+D+i) para la creación y mejora de nuestros productos y servicios de calidad avanzados que nos permita ofrecer valor añadido a nuestros clientes a medida de sus necesidades y ser altamente competitivos en el mercado internacional de la TICs. Desde Wellness hemos diseñado una estrategia basada en la elaboración de proyectos de I+D+i propios y en colaboración con otras organizaciones que nos permitan investigar, desarrollar y adquirir nuevos conocimientos así como acceder a las últimas tecnologías disponibles en el mercado. Para ello Wellness participa tanto a nivel Nacional como Europeo en las Principales Plataformas Tecnológicas del Sector TIC (eMOV, eNEM, es.INTERNET, eMobility, NEM, etc.) como foro de vigilancia tecnológica especifica y búsqueda de sinergias con distintas entidades para la elaboración de proyectos. Nuestras áreas de especialización en I+D está fundamentas en tecnologías horizontales (Diseño e Integración Sistemas de Gestión de Redes y Sensores, Servicios de Valor Añadido Sobre redes IP, Tecnologías de Video, Herramienta y Procesos de mejora de Productividad Empresarial) que pueden ser aplicadas a multitud de campos verticales específicos (Salud, Medio Ambiente, Energía, Control Industrial, etc.)</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Wellness es una empresa española ubicada en el sector de las telecomunicaciones cuya misión es contribuir al bienestar de las personas, los profesionales y las empresas mediante la implantación de la innovación tecnológica y organizativa, basándose en el uso las nuevas Tecnologías de la Comunicación. Para ello, Wellness Telecom quiere convertirse en un centro innovador en la generación y transferencia de conocimiento al más alto nivel nacional e internacional en lo que se refiere a Nuevas Tecnologías de Comunicación, aplicándolas a: La mejora del bienestar y la calidad de vida de las personas. La mejora de la capacidad y comodidad de los profesionales. La mejora de la eficiencia y el ahorro de costes de las empresas. La salud de los ciudadanos y el medio ambiente. Wellness Telecom tiene sede principal en Tomares (Sevilla) y su ámbito de acción es global. Actualmente cuenta con tres delegaciones más: Una en Badajoz con el ánimo de poder abordar mas directamente el mercado extremeño y dos más, dedicados en exclusiva al desarrollo de proyectos de I+D, una en Valladolid y la última en la Isla de la Cartuja (Sevilla). Áreas de especialización Las áreas que definen la estrategia tecnológica de Wellness Telecom se dividen en tres pilares fundamentales: 1. I+D+i: En Wellness Telecom hemos apostado desde nuestros comienzos por la inversión en Investigación, Desarrollo e Innovación (I+D+i) para la creación y mejora de nuestros productos y servicios de calidad avanzados que nos permita ofrecer valor añadido a nuestros clientes a medida de sus necesidades y ser altamente competitivos en el mercado internacional de la TICs. Desde Wellness hemos diseñado una estrategia basada en la elaboración de proyectos de I+D+i propios y en colaboración con otras organizaciones que nos permitan investigar, desarrollar y adquirir nuevos conocimientos así como acceder a las últimas tecnologías disponibles en el mercado. Nuestras principales áreas de especialización en I+D está fundamentas en tecnologías horizontales que pueden ser aplicadas a multitud de campos verticales específicos. 2. Consultoría: Wellness actúa como el agente de confianza que es capaz de dar la mejor solución tecnológica, adaptada a las necesidades de los clientes. Y siempre teniendo en cuenta la relación calidad/precio. Esto es posible gracias a nuestra continúa vigilancia tecnológica, de las últimas tecnologías del mercado. Wellness ofrece servicios de consultoría previa a la ejecución de proyectos en las siguientes áreas: Despliegue de redes de comunicación. Prestación de servicios de valor añadido sobre redes IP. Procesos de mejora de la productividad empresarial. Adopción de soluciones basadas en software libre. TICs aplicadas a la salud pública. 3. Ejecución de proyectos de integración: Integración de soluciones propias y de terceros para ofrecer soluciones específicas y completas a las necesidades de nuestros clientes. Dentro de la variedad de herramientas tecnológicas que Wellness utiliza para conseguirlo, se pueden destacar las siguientes: Comunicación IP: Productos y servicios encaminados a establecer todo tipo de comunicación (voz, datos, videoconferencia...), unificados mediante el protocolo IP (sistemas de telefonía IP, herramientas de colaboración, sistemas de videoconferencia, etc.) Conectividad entre sedes: Productos y servicios que proporcionan la conectividad IP entre distintas sedes o ubicaciones (conectividad VPN IP entre sedes en cualquier ubicación del mundo, sistemas integrados de seguridad y telefonía, acceso remoto seguro a teletrabajadores a la red corporativa, etc.) Conexiones inalámbricas: Productos y servicios de tecnología inalámbrica, dedicados a la conectividad de sedes, o de usuarios finales con la red (WiMAX, Wi-fi, Bluetooth, Zigbee, etc.) Seguridad: Productos y servicios que aseguran que toda la comunicación está libre de ataques y amenazas externas. Switching e infraestructuras: Productos y servicios dedicados a la conectividad física de todo tipo de dispositivos (plataformas de alta disponibilidad, switches de gama media, Power-over-Ethernet, etc.). 4. Formación: Si el conocimiento ha de ser compartido, tiene que ser transmitido. La formación es una pieza clave de la estrategia de Wellness, tanto a nivel de mejora de los conocimientos de sus empleados como de cara a transmitir los conocimientos adquiridos a terceros. Wellness plantea ofrecer una acción formativa que cubra, sin perjuicio de añadir alguna otra en función de necesidades particulares de nuestros clientes, las siguientes áreas: Incorporación de las TICs a la empresa. Redes de telecomunicación. Software libre.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Sevilla</v:locality>
+            <v:postal-code>20000</v:postal-code>
+            <v:street-address>Sevilla</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Wellness Telecom S.L</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Wellness Telecom S.L</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/electra-electricidad-telecom-systems_1451167.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>C/ SAN FELIX 35 33210 GIJON (Asturias)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>ELECTRA ELECTRICIDAD TELECOM SYSTEMS</ecos:name>
+            <ecos:uri>http://electratelecom.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>Empresa Instaladora Aurorizada de Instalaciones y Reparaciones Eléctricas y de Telecomunicaciones.</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Instalaciones Eléctricas&#13;Reformas Eléctricas y Atención de Averías&#13;Instalaciones de Calefacción Eléctrica&#13;Instalaciones de Iluminación Decorativa&#13;Reducción de Consumos&#13;Renovación de Centralizaciones de Contadores&#13;Instalación de Interruptores de Control de Potencia (ICP)&#13;Instalación de Antenas TV Colectivas&#13;Instalación de Amplificadores TDT y Reparto TV&#13;Instalación de Portero Electrónico y Video-Portero&#13;Instalación de Redes Informáticas&#13;Instalación de Control de Accesos y CCTV&#13;Instalaciones de Sonorización e Intercomunicación&#13;Instalaciones Domóticas</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Asturias</v:locality>
+            <v:street-address>C/ SAN FELIX 35 33210 GIJON (Asturias)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>ELECTRA ELECTRICIDAD TELECOM SYSTEMS</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/1451167_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>ELECTRA ELECTRICIDAD TELECOM SYSTEMS</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>649 866 422</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>985 14 13 02</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://electratelecom.com</v:url>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>vulka</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>151</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

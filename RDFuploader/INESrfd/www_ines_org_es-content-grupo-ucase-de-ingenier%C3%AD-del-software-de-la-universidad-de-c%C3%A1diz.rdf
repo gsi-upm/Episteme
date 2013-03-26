@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/content/grupo-ucase-de-ingenier%C3%AD-del-software-de-la-universidad-de-c%C3%A1diz">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Cádiz</v:locality>
+                    <v:postal-code>11002</v:postal-code>
+                    <v:street-address>C/ Chile 1</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Grupo UCASE de INgeniería del Software de la Universidad de Cádiz</ecos:name>
+            <ecos:uri>http://www.uca.es/grupos-inv/TIC025</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La Universidad de Cádiz (UCA) es una universidad pública, que forma parte de la Asociación Europea de Universidades (EUA), del Consejo de Universidades (CU), de la Conferencia de Rectores de las Universidades Españolas (CRUE), del Consejo Andaluz de Universidades (CAU) y de la Asociación de Universidades Públicas de Andalucía (AUPA).&lt;br&gt;
+El grupo de investigacion GRUPO UCASE DE INGENIERÍA DEL SOFTWARE tiene su sede en la Universidad de Cádiz.&lt;/p&gt;
+&lt;p&gt; En la actualidad la actividad del Grupo comprende las siguientes áreas&lt;br&gt;
+ ■ INGENIERÍA DE SERVICIOS&lt;br&gt;
+■ARQUITECTURAS DIRIGIDAS POR EVENTOS&lt;br&gt;
+■ARQUITECTURAS ORIENTADAS A SERVICIOS&lt;br&gt;
+■DESARROLLO DIRIGIDO POR MODELOS&lt;br&gt;
+■PRUEBA DE SOFTWARE&lt;br&gt;
+■VERIFICACIÓN Y VALIDACIÓN DE SOFTWARE&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Modernización Administración Pública
+Mejorar la eficacia del sistema sanitario
+Aplicación de las TIC a la Logística</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Cádiz</v:locality>
+            <v:postal-code>11002</v:postal-code>
+            <v:street-address>C/ Chile 1</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Grupo UCASE de INgeniería del Software de la Universidad de Cádiz</v:fn>
+        <v:logo>http://www.ines.org.es/sites/default/files/logotipo-1200dpi.png?1320581880</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Grupo UCASE de INgeniería del Software de la Universidad de Cádiz</v:organisation-name>
+            <v:organisation-unit>Universidad</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>1</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

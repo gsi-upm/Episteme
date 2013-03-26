@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/1094">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Zaragoza</v:locality>
+                    <v:postal-code>50005</v:postal-code>
+                    <v:street-address>Zaragoza</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>NITAX S.A.</ecos:name>
+            <ecos:uri>www.nitax.net</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Fabricación de Equipamiento para el Taxi: taxímetros, periféricos, sistemas dfe gestión de flotas&lt;/p&gt;
+&lt;p&gt;En NITAX nos dedicamos desde hace décadas al sector&lt;br&gt;
+del transporte, y más directamente al servicio del taxi. Desde hace más de 25 años venimos incorporando innovaciones tecnológicas a nuestros productos. Por ello, realizamos continuas inversiones en nuevos proyectos de desarrollo, en infraestructura y en recursos humanos especializados.&lt;br&gt;
+En NITAX disponemos de un equipo profesional altamente cualificado (gestores de proyectos, ingenieros de software, ingenieros de hardwere, departamento I+D+i) que trabaja siempre de forma coordinada, asegurándose de que se cumplan los requerimientos de cada cliente.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>software y servicios para logística</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>logística</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Zaragoza</v:locality>
+            <v:postal-code>50005</v:postal-code>
+            <v:street-address>Zaragoza</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>NITAX S.A.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>NITAX S.A.</v:organisation-name>
+            <v:organisation-unit>Gran Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

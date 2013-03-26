@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/252">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Valencia</v:locality>
+                    <v:postal-code>46980</v:postal-code>
+                    <v:street-address>Avenida Juan de la Cierva, 27 - 4º - edificio wellness 2 - Parque Tecnológico - 46980 Paterna</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Global Metanoia S.L.</ecos:name>
+            <ecos:uri>www.globalmetanoia.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Empresa que integra las capacidades de consultoria en Desarrollo Organizacional, Gestión del Conocimiento y de la Innovación, Diseño Coaborativo, Innovación Social y Formación Especilalizada con la Ingeniería de Software aplicada al diseño y desarrollo de plataformas que soporten dichos procesos en las PYME.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>• Participación en programas de I+D+i nacionales y europeos.
+• Innovación en interfaces para soluciones TIC.
+• Apoyo a comunidades de desarrollo del software libre.
+• Participación en redes de cooperación empresarial.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>• Pilar software:
+   - Ingeniería de requisitos: refinamiento de los modelos de requisitos, funcionales y no funcionales, para proyectos TIC con una orientación al cliente. Métricas de verificación.
+   - Modelos del software: refinamiento de modelos de desarrollo del software basadas en arquitectura MVC y patrones por componentes y servicios.
+   - Métodos y herramientas para la productividad / Desarrollo distribuido en comunidades abiertas: desarrollo de una cultura o framework para el desarrollo productivo del software mediante herramientas y métodos de generación automática de patrones, desarrollo colaborativo y remoto, basado en el desarrollo distribuido en comunidades abiertas.
+   - Interfaces accesibles e inteligentes: proyectos orientados a la contextualización de los interfaces basado en lo simple.
+   - Sistemas expertos para la presentación de información.
+• Pilar servicios:
+   - Negocio digital en red: desarrollo e integración de procesos para empresas y entidades basadas en soluciones web orientadas al servicio y producto. Desarrollo de una comunidades prácticas.
+   - Web semántica: desarrollo de buscadores como sistemas expertos para la contextualización y ordenación de la información de interés para el usuario. Interfaces avanzadas de presentación de información.
+   - Integración de servicios: apoyada en la arquitectura MVC y las comunidades abiertas para la generación de soluciones con servicios “on-demand”.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Valencia</v:locality>
+            <v:postal-code>46980</v:postal-code>
+            <v:street-address>Avenida Juan de la Cierva, 27 - 4º - edificio wellness 2 - Parque Tecnológico - 46980 Paterna</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Global Metanoia S.L.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Global Metanoia S.L.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

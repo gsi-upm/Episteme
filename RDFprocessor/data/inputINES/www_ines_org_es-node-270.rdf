@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/270">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Pontevedra</v:locality>
+                    <v:postal-code>36204</v:postal-code>
+                    <v:street-address>San Roque 57-61 bajo VIGO</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Femxa Formación S.L.</ecos:name>
+            <ecos:uri>http://www.grupofemxa.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;La actividad de la empresa se desarrolla principalmente en el ámbito de la formación a trabajadores. Las líneas de trabajo de la empresa son las siguientes:&lt;br&gt;
+- Planes de Formación:desarrollamos planes de formación personalizados que se adaptan a las necesidades formativas de diversos sectores y que han sido diseñados para mejorar la cualificación de sus trabajadores.&lt;br&gt;
+- Formación a empresas: En Grupo Femxa realizamos la gestión y planificación de la formación de trabajadores para empresas. Ponemos a su disposición nuestros servicios de formación y de gestión de la bonificación.&lt;br&gt;
+- Soluciones Multicanal: es un servicio que permite impartir formación en modalidad e-learning sin necesidad de grandes inversiones en tecnología ni en personal especializado.&lt;br&gt;
+- Proyectos de Investigación:Estamos especializados en la presentación, ejecución, asesoramiento y evaluación de proyectos de investigación, y cabe destacar también nuestra experiencia en el análisis de la igualdad y la conciliación en el ámbito público y privado, así como en proyectos para las administraciones públicas y desarrollo de administración local.&lt;br&gt;
+- Proyectos europeos:Proyectos financiados por la Comisión Europea en diferentes ámbitos o sectores para fomentar la búsqueda de soluciones a las necesidades existentes en los mismos y el desarrollo de acciones y medidas de aplicación de las políticas comunitarias.&lt;br&gt;
+-&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Búsqueda de nuevas tecnologías y su empleo en el campo del e-learning. Estas tecnologías van desde el uso de nuevos dispositivos, nuevas tecnologías en plataformas, nuevas plataformas, simulaciones, serious games, adapatatividad en cursos y plataformas, m-learning, t-learning, sistemas de tutorización inteligentes,herramientas del tipo web 2.0., etc.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>El Grupo Femxa se puede calificar como una empresa Contratista de TI. 
+El campo de aplicación dentro de INES Sería el CA5: elearning.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Pontevedra</v:locality>
+            <v:postal-code>36204</v:postal-code>
+            <v:street-address>San Roque 57-61 bajo VIGO</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Femxa Formación S.L.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Femxa Formación S.L.</v:organisation-name>
+            <v:organisation-unit>Gran Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/335">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Badajoz</v:locality>
+                    <v:postal-code>06001</v:postal-code>
+                    <v:street-address>c/ San Pedro de Alcántara, 3</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>COMPUTER GLOBAL SOFTWARE</ecos:name>
+            <ecos:uri>www.cgsoft.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Somos una empresa productora de software de movilidad denominada CGSOFT (COMPUTER GLOBAL SOFTWARE), tiene su sede en Badajoz,  y es una empresa dedicada al desarrollo de soluciones tecnológicas de alto nivel (Xone) . Ha desarrollado una tecnología propia que intenta aprovechar de los modelos comunes lo más ventajoso y llevarlo al escenario de la movilidad en las condiciones reales a corto y medio plazo.&lt;br&gt;
+Propone un sistema de comunicación cuando el momento, lugar y dispositivo empleado, no sean ningún obstáculo para cumplir sus objetivos.&lt;br&gt;
+La gran variedad que ofrece hoy por hoy el mercado con respecto a las soluciones ofrecidas a las empresas hacen que la personalización y el conocimiento de sus necesidades sea la gran diferencia de optar por una solución en concreto. CGSOFT gracias a su sistema propio de programación, basado en lenguaje de alto nivel  y parametrizaciones mediante XML, hacen que la solución ofrecida sea un fiel reflejo de su actividad, contemplando todas y cada una de sus reglas de negocio.&lt;br&gt;
+Soluciones como CRM MOVILES, FUERZAS DE VENTAS, GESTION DE AVISOS, TRABAJOS DE LECTURA, SISTEMAS DE MEDICIONES, GESTION DE ALMACENES, GESTION DE DOCUMENTACION, son algunas de las soluciones verticales de nuestra tecnología más demandadas.&lt;br&gt;
+CGSOFT se adapta a sistemas propietarios del cliente (ERP´S) o estándares del mercado gracias al motor de enlace que provee la tecnología Xone, es una tarea que no provoca cambios en los sistemas originales y nos aporta la integración total.&lt;br&gt;
+CGSOFT cuenta con un equipo humano en continua investigación de nuevas soluciones y gracias a su red de Partners hacen del concepto de socio tecnológico una realidad.&lt;br&gt;
+CGSOFT hace I+D+I en su totalidad. Actualmente, la plantilla, además de analistas informáticos y programadores,  cuenta con personal que  se encarga de la puesta en marcha y gestión de proyectos de I+D+I, búsqueda de información sobre ayudas, subvenciones, proyectos, socios, redes...etc.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>CGSOFT quiere ser partícipe del compromiso de involucrar en un proyecto común a las empresas, al Estado y a organismos públicos, dedicados a la investigación y al desarrollo de soluciones innovadoras, e impulsar actuaciones de carácter estratégico basadas en el desarrollo tecnológico.
+Afrontar nuevos retos en la investigación e introducción de nuevos soportes, herramientas y plataformas para ofrecer soluciones viables en movilidad.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>La tecnología desarrollada por CGSOFT,  XONE, ofrece: soluciones sencillas e intuitivas basadas en sus reglas de negocios, flexibles y configurables, son operativas y sin cobertura, con un máximo nivel de seguridad, altamente escalable, con una evolución y un  mantenimiento garantizado, una administración de dispositivos integrada, y por ser una ÚNICA PROGRAMACION VALIDADA PARA MÚLTIPLES DISPOSITIVOS.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Badajoz</v:locality>
+            <v:postal-code>06001</v:postal-code>
+            <v:street-address>c/ San Pedro de Alcántara, 3</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>COMPUTER GLOBAL SOFTWARE</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>COMPUTER GLOBAL SOFTWARE</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

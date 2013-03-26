@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/163">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28760</v:postal-code>
+                    <v:street-address>Isaac Newton,11, PTM Tres Cantos</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>GMV Space and Defence S.A.</ecos:name>
+            <ecos:uri>http://www.gmv.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;GMV es un grupo empresarial tecnológico de capital privado con presencia internacional. Fundado en 1984 GMV ofrece su soluciones, servicios y productos en muy diversos sectores: Aeronáutica, Banca y Finanzas, Espacio, Defensa, Sanidad, Seguridad, Transporte, Telecomunicaciones, Tecnologías de la Información para Administraciones Públicas y Gran Empresa.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Los mayores desafíos de I+D+i están orientados hacia:
+* Temas de seguridad y confianza.
+* Manejo semántico de la información (ontologías, motores, inferencia,...)
+* Semántica y personalización de las interfaces. Actualmente estamos trabajando en generadores automáticos de interfaz basados en herramientas open source
+* Estudio de la viabilidad de metodologías no clásicas de desarrollo de software (Agile, Xtreme)</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>No me queda muy claro el tema de la referencia al AEI. He visto la presentación pero no está claro como estructurar la respuesta.
+Empezaré definiendo el tipo de software que desarrollamos. Estamos especializados en el desarrollo de SW de procesamiento de datos de Observación de la tierra. Tenemos recursos para definir, especificar y desarrollar software con un elevado componente científico. Se trata de software operacional con elevados requisitos operacionales y de interfaz. Normalmente usamos soluciones open source complementadas con desarrollos propietarios para los procesos críticos. Principalmente usamos C++ y Java en entornos Linux. En este tipo de procesos es crítico la simulación de los interfaces externos y la verificación y validación de los componentes desarrollados. Por tratarse de aplicaciones que procesan cantidades ingentes de datos estamos evolucionando hacia el uso de tecnologías grid para reducir los tiempos de procesamiento. También estamos evolucionando hacia el desarrollo de interfaces web para el acceso y visualizaciónd de los datos dada la tendencia actual del mercado.
+Nuestras mayores competencias tecnológicas se basan en:
+* Integración de servicios. Desarrollo de infrastructuras tecnológicas basadas en servicios web. Uso de workflows para encadenamiento de servicios. También estamos cada vez más involucrados en la definición de SLA y en el desarrollo de servicios de provisión de datos o procesos accesibles por los usuarios siguiendo la tendencia actual en las peticiones del mercado aerosespacial
+* Servicios GRID e infrastructuras. Procesamiento masivo de datos usando procesos distribuidos.
+* Interoperabilidad de sistemas. Básicamente centrada en la interoperabilidad técnica para comunicar procesos distintos usandos tecnologías diversas.
+* Calidad predecible y gestionada. Definición de métricas y uso de herramientas para asegurar la calidad de los procesos. Metodologías de verificación y validación usando herramientas open source y de pago. Calidad de procesos (CMMI-3). Simulación de procesos. Prácticas de ingeniería.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28760</v:postal-code>
+            <v:street-address>Isaac Newton,11, PTM Tres Cantos</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>GMV Space and Defence S.A.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>GMV Space and Defence S.A.</v:organisation-name>
+            <v:organisation-unit>Gran Empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/269">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28023</v:postal-code>
+                    <v:street-address>Calle Musgo 2, Edificio Europa II, 28023, Madrid</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>Consultora de Telecomunicaciones Optiva Media</ecos:name>
+            <ecos:uri>www.optivamedia.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;Optiva Media es dedicada a ejecutar proyectos de Televisión Digital y medios audiovisuales, especialmente en entornos de pago. Es una empresa consolidada como referente en el sector de la consultoría e ingeniería de soluciones para TV Digital.&lt;br&gt;
+Su área de actuación es la TDT, Cable, Satélite, IPTV, Internet TV, Mobile TV, Infraestructura de operados y contenidos bajo demanda. En estos entornos trabaja en toda la cadena de valor: Estrategíoa, Marketing, Tecnología (desarrollo e ingeniería.), Operaciones y Procesos&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>En términos generales, mejorar la competitividad y productividad de las empresas, en términos parciales, generar sistemas ahora inexistentes que permitan nuevos servios de valor añadido o simplemente servicios básicos tales como el acceso a los medios audiovisuales a colectivos tales como nuestros mayores.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                <rdf:li>
+                  <rdf:Description>
+                    <ecos:name>Análisis del sector de TV Digital, descripciones funcionales de servicios y productos necesarios a futuro y desarrollo de los mismos.
+Aportar nuestra experiencia y conocimiento sectorial y de nicho de mercado.</ecos:name>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28023</v:postal-code>
+            <v:street-address>Calle Musgo 2, Edificio Europa II, 28023, Madrid</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>Consultora de Telecomunicaciones Optiva Media</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>Consultora de Telecomunicaciones Optiva Media</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

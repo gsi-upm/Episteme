@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/antenas-esury_1450897.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>C/ Ceuta Blq- 1 3ºA 21400 Ayamonte (Huelva)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>AnteNaS EsuRY</ecos:name>
+            <ecos:uri>http://maps.google.es/maps/place?hl=es&amp;sugexp=gsis,i18n%3dtrue&amp;cp=7&amp;gs_id=1o&amp;xhr=t&amp;pq=antena+ayamonte&amp;gs_upl=&amp;bav=on.2,o</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>TELECOMUNICACIONES - TDT - SATÉLITES....</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>TDT-SATÉLITES - TELECOMUNICACIONES EN GENERAL,&#13;MAS DE 10 AÑOS DE ESPERIENCIA EN EL SECTOR&#13;SERVICIO 24 HORAS Y GARANTIZADO.&#13;PUNTUALIDAD MAXIMA.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Huelva</v:locality>
+            <v:street-address>C/ Ceuta Blq- 1 3ºA 21400 Ayamonte (Huelva)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>AnteNaS EsuRY</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/1450897_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>AnteNaS EsuRY</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>680770327</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:tel>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+            <rdf:value>680770327</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://maps.google.es/maps/place?hl=es&amp;sugexp=gsis,i18n%3dtrue&amp;cp=7&amp;gs_id=1o&amp;xhr=t&amp;pq=antena+ayamonte&amp;gs_upl=&amp;bav=on.2,o</v:url>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>vulka</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>16</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#" xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.ines.org.es/node/240">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:locality>Madrid</v:locality>
+                    <v:postal-code>28229</v:postal-code>
+                    <v:street-address>C/SAN FRANCISCO DE SALES 2, P5 1A</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>SOROS GABINETE S.L.U.</ecos:name>
+            <ecos:uri>www.soros.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>&lt;div class="field-item odd"&gt;
+                    &lt;p&gt;SOROS GABINETE es una consultoría estratégica en el sector de las Tecnologías de la Información y las Comunicaciones que se dedica al desarrollo de proyectos innovadores. Creación y revisión de business models, y estudios en el sector de las TIC.&lt;/p&gt;
+&lt;p&gt;Gestiona proyectos de ámbito internacional relacionados con el sector TIC, creación y evaluaciónde planes de negocio,  cálculo de riesgos, informes de prospectiva tecnológica, trabajando para las mejores firmas del sector.&lt;/p&gt;
+&lt;p&gt;Asimismo cuenta con un equipo tecnológico dedicado al desarrollo de aplicaciones WEB y servicios tecnológicos que se adapten a las necesidades de los clientes. Sistemas ERP, CRM, etc... Principalmente utilizando Open Source y apoyando proyectos como Joomla.&lt;/p&gt;
+        &lt;/div&gt;</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Plan>
+          <rdf:Description>
+            <ecos:detail>Desarrollo de nuevas herramientas Open Source.</ecos:detail>
+          </rdf:Description>
+        </ecos:Plan>
+        <ecos:Skill>
+          <rdf:Description>
+            <rdf:Bag>
+              <rdf:Description>
+                
+              </rdf:Description>
+            </rdf:Bag>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:locality>Madrid</v:locality>
+            <v:postal-code>28229</v:postal-code>
+            <v:street-address>C/SAN FRANCISCO DE SALES 2, P5 1A</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>SOROS GABINETE S.L.U.</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>SOROS GABINETE S.L.U.</v:organisation-name>
+            <v:organisation-unit>Pequeña y mediana empresa</v:organisation-unit>
+          </rdf:Description>
+        </v:org>
+      </rdf:Description>
+    </v:VCard>
+  <ecos:provenance>
+      <rdf:Description>
+        <ecos:name>ines</ecos:name>
+      </rdf:Description>
+    </ecos:provenance>
+    <ecos:ranking>
+      <rdf:Description>
+        <ecos:value>3</ecos:value>
+      </rdf:Description>
+    </ecos:ranking>
+  </ecos:Enterprise>
+</rdf:RDF>
