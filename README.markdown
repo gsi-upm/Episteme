@@ -60,11 +60,17 @@ Put the RDF files in upload folder and execute the following command:
 java -jar importercustom.jar http://localhost:8080/LMF-2.6.0/ http://vulka  
 
 ###5.Semantic matcher configuration
+To properly configure the user must open with any text editor file "JSONTreatment.java". This file is located in the directory 'src / com / upm / dit / gsi / knowledge / json' and should modify the following lines:
 
+	…..
+	querySkills = "http://minsky.gsi.dit.upm.es/episteme/tomcat/LMF/sparql/select?query="+querySkills+"&output=json";
+	……
+	String queryOportunitie = "http://minsky.gsi.dit.upm.es/episteme/tomcat/LMF/config/data/episteme.search." + offer;
+	……
+	queryEnterprise ="http://minsky.gsi.dit.upm.es/episteme/tomcat/LMF/sparql/select?query="+queryEnterprise+"&output=json";
+	……
 
-###6.Scrappy (optional)
-
-###7.RDF Processor (optional)
+###6.RDF Processor (optional)
 https://github.com/gsi-upm/Episteme/tree/master/RDFprocessor  
 Once you have obtained the RDF companies using Scrappy it's neccesary apply a post-processing in order to 
 add skills and provenance fields:
