@@ -62,6 +62,7 @@ java -jar importercustom.jar http://localhost:8080/LMF-2.6.0/ http://vulka
 ###5.Semantic matcher configuration
 
 
+Now you can try the web application with the uploaded companies. The following steps are to add new companies:
 ###6.Scrappy (optional)
 
 ###7.RDF Processor (optional)
