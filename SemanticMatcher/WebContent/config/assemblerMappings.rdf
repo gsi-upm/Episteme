@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:ja="http://jena.hpl.hp.com/2005/11/Assembler#">
+
+<rdfs:Class rdf:about="http://semmf.ag-nbi.de/vocabulary/1.1/semmf.rdfs#TaxonomicMatcher">
+   <rdfs:subClassOf rdf:resource="http://jena.hpl.hp.com/2005/11/Assembler#Object"/>
+   <ja:assembler>de.fuberlin.wiwiss.semmf.engine.TaxonomicMatcherAssembler</ja:assembler>
+</rdfs:Class> 
+
+<rdfs:Class rdf:about="http://semmf.ag-nbi.de/vocabulary/1.1/semmf.rdfs#StringMatcher">
+   <rdfs:subClassOf rdf:resource="http://jena.hpl.hp.com/2005/11/Assembler#Object"/>
+   <ja:assembler>de.fuberlin.wiwiss.semmf.engine.StringMatcherAssembler</ja:assembler>
+</rdfs:Class> 
+
+<rdfs:Class rdf:about="http://semmf.ag-nbi.de/vocabulary/1.1/semmf.rdfs#NumericMatcher">
+   <rdfs:subClassOf rdf:resource="http://jena.hpl.hp.com/2005/11/Assembler#Object"/>
+   <ja:assembler>de.fuberlin.wiwiss.semmf.engine.NumericMatcherAssembler</ja:assembler>
+</rdfs:Class> 
+
+<rdfs:Class rdf:about="http://semmf.ag-nbi.de/vocabulary/1.1/semmf.rdfs#RelationMatcher">
+   <rdfs:subClassOf rdf:resource="http://jena.hpl.hp.com/2005/11/Assembler#Object"/>
+   <ja:assembler>de.fuberlin.wiwiss.semmf.engine.RelationMatcherAssembler</ja:assembler>
+</rdfs:Class> 
+
+</rdf:RDF>
