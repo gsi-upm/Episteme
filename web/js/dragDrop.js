@@ -10,6 +10,13 @@ function OnloadFunction() {
             stopAction($(ui.helper), $(this));
         }
     });
+    //CLICKABLE COMPANIES
+    $(".clickableCompanies").click(function() {
+      clickAction($(this));
+    });
+    $(".clickableRecommended").click(function() {
+      clickAction($(this));
+    });
     //DROPPABLE COMPANIES
     $(".droppableCompany").droppable({
         accept: ".draggable",
@@ -82,6 +89,21 @@ function OnloadFunction() {
             url_data: '#/composer' + '/' + self.currentSearch.name() + '/entity/' + nextEntity
         });
     }
+
+    //WHEN A COMPANY IS CLICKED
+
+    function clickAction($drag) {
+        var compName = $drag.find('.draggableText').text()
+        var compLogo = $drag.find('.defaultLogo').attr('src');
+        self.currentSearch.result()[0].entityName(compName);
+        self.currentSearch.result()[0].entityLogo(compLogo);
+
+        sammyPlugin.trigger('redirectEvent', {
+                        url_data: '#/finalize'
+        });
+
+    }
+    
     //WHEN A COMPANY IS DRAGGED
 
     function startAction($helper, $original) {

@@ -15,7 +15,7 @@ languages =
                 m8: "Notificación de Episteme",
 		m9: "Calculando orden semántico...",
 		m10: "Obteniendo resultados...",
-		b1: "Buscar por nombre...",
+		b1: "Refinar búsqueda por nombre...",
 		b2: "Filtrar por categoría",
                 b3: "Aplicar filtros",
                 province: "Filtrar por provincia",
@@ -77,14 +77,14 @@ languages =
 		j10:"¿Desea guardar los cambios?",
 		j11:"¡Búsqueda guardada correctamente!",
 
-		k1: "Selecciona una búsqueda de la página principal. Si no hay ninguna creada, puedes crearla con el formulario de definición de búsquedas.",
-		k2: "Una vez seleccionada la búsqueda puedes empezar a añadir empresas. En un primer momento están ordenadas alfabéticamente. "
-                     +"Cada búsqueda está formada por varios requisitos, y cada requisito por varias habilidades. "
-                     +"Cada requisito se visualiza como una caja en la interfaz. "
-                     +"Si pulsas sobre una caja, las empresas se ordenan en función de las habilidades del requisito (orden semántico). "
-                     +"Las primeras serán las que más se ajustan a las habilidades de la búsqueda. ",
+		k1: "Selecciona primero si quieres buscar un proveedor de servicios o crear un consorcio. De los consorcios puedes seleccionar uno que esté almacenado o crear otro nuevo. ",
+		k2: "Después puedes proceder a definir la búsqueda. "
+                     +"En los campos que aparecen puedes seleccionar las características que quieres que tenga la entidad. "
+                     +"Dependiendo del orígen de los datos (INES o VULKA) los campos pueden ser diferentes. "
+                     +"Si lo que quieres es crear un consorcio puedes añadir más de una entidad pulsando sobre el [+] de las pestañas de entidades. "
+                     +"Después podrás pulsar sobre cada caja de la entidad para ver las empresas que corresponden a los campos seleccionados en la búsqueda. ",
 		k3: "Cuando ya hayas seleccionado las compañías requeridas en la búsqueda, ya puedes finalizar.",
-		k4: "Al finalizar podrás ponerte en contacto con las compañías de diversas formas y enviarles los datos de la oportunidad para hablar con ellos.",
+		k4: "Al finalizar podrás ponerte en contacto con las compañías de diversas formas y enviarles los datos de la búsqueda para hablar con ellos o almacenarla. ",
 		name:"Nombre",
 		description:"Descripción",
 		logo:"Logo",
@@ -104,6 +104,13 @@ languages =
 		searchCompany:"Buscar un proveedor de servicios",
 		newPartnership:"Crear una red de negocio",
 		filters:"Filtros seleccionados",
+		provenanceHelp:"Selecciona la fuente de datos de la que se ha extraído la información de las empresas. En estos momentos disponemos de las empresas extraídas de INES (Iniciativa Española de Software y Servicios) y VULKA (Directorio de empresas y profesionales).",
+		semanticHelp:"Escribe en el campo de autocompletado una habilidad que desees que tenga la empresa (por ejemplo web 2.0) y el nivel requerido (básico, experto, avanzado).",
+		provinceHelp:"Si quieres buscar empresas de unas provincias en concreto, selecciona las que quieras ver en este campo.",
+		typeHelp:"Puedes elegir el tipo de entidad que quieres buscar, por ejemplo una empresa o una universidad.",
+		descriptionHelp:"Si quieres refinar más la búsqueda, selecciona las palabras que quieres que aparezcan en la descripción de la empresa, solo aparecerán las que la tengan.",
+		semanticPlaceHolder:"Escribe para autocompletado...",
+		typePlaceHolder:"Texto libre...",
         },
         {
             lang: "English",
@@ -120,7 +127,7 @@ languages =
                 m9: "Calculating semantic order...",
 		m10: "Loading results...",
 		m5b: "Episteme help",
-		b1: "Search by name...",
+		b1: "Refine search by name...",
 		b2: "Filter by category",
 		b3: "Apply filters",
                 province: "Filter by province",
@@ -182,14 +189,14 @@ languages =
 		j10:"Do you want to save the changes?",
 		j11:"Search saved correctly!",
 
-		k1: "First, select a search from the home page. You can also create one with the create new search form.",
-		k2: "Once selected you can start adding the search companies. Initially are ordered alphabetically. "
-                      + "Every search is composed of several requirements and each requirement for various skills. "
-                      + "Each requirement is displayed as a box in the user interface. "
-                      + "If you click on a box, companies are sorted based on the skills of the requirement (semantic order). "
-                      + "The first position will be those that best fit the skills of the search. ",
-		k3: "When you have selected the required companies of the search, you can finish.",
-		k4: "At the end you can contact the companies and send the search data to talk to them.",
+		k1: "First select if you want to find a service provider or create a consortium. You can select one stored or create a new one. ",
+		k2: "Then you can proceed to define the search. "
+                      + "In the fields that appear you can select the features you want to have the entity. "
+                      + "Depending on the origin of the data (or VULKA INES) fields can be different. "
+                      + "If you want to create a consortium you can add more than one entity by clicking on the [+] on the entities tabs. "
+                      + "You can then click on each box of the entity to see the companies that correspond to the selected fields in the search. ",
+		k3: "After you've selected the companies required in the search, you can finish. ",
+		k4: "At the end you can send the search data, contact companies to talk to them, or store for future views. ",
 		name:"Name",
 		description:"Description",
 		logo:"Logo",
@@ -209,6 +216,13 @@ languages =
 		searchCompany:"Search a service provider",
 		newPartnership:"Create business network",
 		filters:"Selected filters",
+		provenanceHelp:"Select the data source where the companies has been extracted. At the moment we have companies from INES (Iniciativa Española de Software y Servicios) and VULKA (Directorio de empresas y profesionales).",
+		semanticHelp:"Write in the autocomplete field the skill you want to have the company (i.e web 2.0) and the required level (basic, expert, advanced).",
+		provinceHelp:"You can select the province of the entities to view in the search result.",
+		typeHelp:"Select the type of entities you want to view. For example, companies or universities.",
+		descriptionHelp:"If you want to refine even more the search, you can type the words you want to have the entities in his description, in the results there will be enitities only with those words in his descripiton.",
+		semanticPlaceHolder:"Write for autocomplete...",
+		typePlaceHolder:"Free text...",
         },
 
     ];

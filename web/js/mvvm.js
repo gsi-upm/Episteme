@@ -240,7 +240,7 @@ $(document).ready(function () {
                 return data;
             } else {
                 return ko.utils.arrayFilter(data, function (item) {
-                    var type = filterType();
+                    var type = filterType();	
                     return ko.utils.stringContains(item[type]().toString(), filter);
                     //return true;
                 });
@@ -250,9 +250,14 @@ $(document).ready(function () {
         ko.bindingHandlers.autoPaginate = {
             update: function (element, valueAccessor) {
                 ko.utils.unwrapObservable(valueAccessor());
-                paginate();
                 createTooltips();
                 OnloadFunction();
+		paginate(); 
+		if ($('.page_navigation').is(':empty')) {
+                self.existPagination(false);
+            } else {
+                self.existPagination(true);
+            }
             }
         };
         self.changeProvenance = function (index, value) {

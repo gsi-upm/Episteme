@@ -101,12 +101,7 @@
 		</a>
 	    </div>
 	    <div  id = "messageBar" >
-		<!-- ko if: filteredData().length != 1 -->
-		<div id = "mBarText" data-bind="text: filteredData().length + ' ' + lang().m4, visible: page() == 1" ></div>
-		<!-- /ko -->
-		<!-- ko if: filteredData().length == 1 -->
-		<div id = "mBarText" data-bind="text: filteredData().length + ' ' + lang().m4b, visible: page() == 1" ></div>
-		<!-- /ko -->
+		
 	    </div>
         </div>
 
@@ -117,6 +112,7 @@
 <!-- DROPPABLES -->
 <div class="dropContainer" data-bind="css: { offerContainer: page() == 0 }" >
     <!-- COMPOSER -->
+    <!-- ko if: option() == 0 -->
     <div id="droppableElements" data-bind="visible: page() == 1" >
 
         <div data-bind="foreach: $root.currentSearch.result">
@@ -144,12 +140,12 @@
 
 	 </div>
 	</div>
-        
         <div class="lines" id="lines" data-bind="if: page() == 1">
 		<img class="img" data-bind="attr: { 'src': lang().i1 }">
 	</div>
 
     </div>
+    <!-- /ko -->
     <!-- FINALIZE -->
     <div id="finalizeElements" data-bind="visible: page() == 2" >
        <div id="finalizeContainer" class="finalizeContainer" data-bind="visible: page() == 2">
@@ -281,19 +277,21 @@
       <span class="filterName" data-bind="text: $root.lang().origin"></span>
       <a class="greenButton provenanceBtn" data-bind="css: { active: $data.provenance()=='ines'},click: $root.changeProvenance.bind($data, $index, 'ines')">ines</a>
       <a class="greenButton provenanceBtn" data-bind="css: { active: $data.provenance()=='vulka'},click: $root.changeProvenance.bind($data, $index, 'vulka')">vulka</a>
+      <a class="filterInfo blueButton" data-bind="click: $root.addSolrFilter.bind($data, $data.values, $root.selectedType),attr: { 'title': $root.lang().provenanceHelp}">?</a>
     </span>
     </div>
     <!-- Filtros SEMANTIC -->
     <div class="filter" data-bind="visible: $data.isSemantic() == 'true' ">
       <div class="filterHeader">
         <div class="filterName" ><span data-bind="text: $root.lang().semanticFilters"></span></div>
-        <input class="semanticInput" data-bind="kendoAutoComplete: { data: $root.Skill, value: $root.newSkillName }" />
+        <input class="semanticInput" data-bind="kendoAutoComplete: { data: $root.Skill, value: $root.newSkillName }, attr: { 'placeholder': $root.lang().semanticPlaceHolder }" />
         <fieldset class="rating">
           <input type="radio" id="star3" value="advanced" data-bind="attr:{'name':$data.id},checked: $root.newSkillLevel"/><label for="star3" data-bind="attr: { 'title': $root.lang().advanced}"><span data-bind="text: $root.lang().advanced"></span></label>
           <input type="radio" id="star2" value="expert" data-bind="attr:{'name':$data.id},checked: $root.newSkillLevel"/><label for="star2" data-bind="attr: { 'title': $root.lang().expert}"><span data-bind="text: $root.lang().expert"></span></label>
           <input type="radio" id="star1" value="basic" data-bind="attr:{'name':$data.id},checked: $root.newSkillLevel"/><label for="star1" data-bind="attr: { 'title': $root.lang().basic}"><span data-bind="text: $root.lang().basic"></span></label>
         </fieldset>
         <a class="greenButton" data-bind="click: $root.addSemanticFilter.bind($data,$data.semantic, $root.newSkillName, $root.newSkillLevel())">+</a>
+        <a class="filterInfo blueButton" data-bind="click: $root.addSolrFilter.bind($data, $data.values, $root.selectedType),attr: { 'title': $root.lang().semanticHelp}">?</a>
         <br>
       </div>
       <ul id="breadcrumbs-four" data-bind="foreach: $data.semantic">
@@ -307,16 +305,19 @@
       <span class="filterName" data-bind="text: $root.lang().province"></span>
       <input class="solrInput" data-bind="kendoComboBox: { data: $root.Province, value: $root.selectedProvince }" />
       <a class="greenButton" data-bind="click: $root.addSolrFilter.bind($data, $data.values, $root.selectedProvince)">+</a>
+      <a class="filterInfo blueButton" data-bind="click: $root.addSolrFilter.bind($data, $data.values, $root.selectedType),attr: { 'title': $root.lang().provinceHelp}">?</a>
     </span>
     <span data-bind="if: $data.field() == 'Type'">
       <span class="filterName" data-bind="text: $root.lang().type"></span>
       <input class="solrInput" data-bind="kendoComboBox: { data: $root.Type, value: $root.selectedType }" />
       <a class="greenButton" data-bind="click: $root.addSolrFilter.bind($data, $data.values, $root.selectedType)">+</a>
+      <a class="filterInfo blueButton" data-bind="click: $root.addSolrFilter.bind($data, $data.values, $root.selectedType),attr: { 'title': $root.lang().typeHelp}">?</a>
     </span>
     <span data-bind="if: $data.field() == 'Description'">
       <span class="filterName" data-bind="text: $root.lang().freeText"></span>
-      <input class="solrInput k-input" type="text" data-bind="value: $root.selectedDescription, valueUpdate: 'afterkeydown'">
+      <input class="solrInput k-input" type="text" data-bind="value: $root.selectedDescription, valueUpdate: 'afterkeydown', attr: { 'placeholder': $root.lang().typePlaceHolder }">
       <a class="greenButton" data-bind="click: $root.addSolrFilter.bind($data, $data.values, $root.selectedDescription)">+</a>
+      <a class="filterInfo blueButton" data-bind="click: $root.addSolrFilter.bind($data, $data.values, $root.selectedType),attr: { 'title': $root.lang().descriptionHelp}">?</a>
     </span>
       <!-- Filtros SOLR añadidos -->
       <ul id="breadcrumbs-four" data-bind="foreach: $data.values">
@@ -329,13 +330,13 @@
 </div>
 <!-- /ko -->
 </div>
-<!-- ko if: $root.option() == 0 -->
 <div class="searchDescription">
+  <!-- ko if: $root.option() == 0 -->
   <a  class="greenButton" href="#" data-bind="click: $root.selectSearch.bind($data,'start')"><span data-bind="text: lang().RETURN"></span></a>
   <a  class="greenButton" href="#" data-bind="click: $root.doSaveJSON"><span data-bind="text: lang().SAVE"></span></a>
+  <!-- /ko -->
   <a  class="blueButton" href="#" data-bind="attr: {'href': '#/composer/' + $root.currentSearch.id() + '/entity/'+$root.currentEntity()}"><span data-bind="text: lang().SEARCH"></span></a>
 </div>
-<!-- /ko -->
 </div>
 <!-- \SEARCH EDITOR -->
 
@@ -345,6 +346,14 @@
 <div class="controlContainer">
     <div id="filterBtn" data-bind="visible: false">
     <a class="category" href="#" data-filter-by-category="true"> <span data-bind="text: lang().b2"></span> </a>
+    </div>
+    <div id="resultsNumberBar" data-bind="if: page() == 1">
+	<!-- ko if: filteredData().length != 1 -->
+	<div id = "mBarText" data-bind="text: filteredData().length + ' ' + lang().m4, visible: page() == 1" ></div>
+	<!-- /ko -->
+	<!-- ko if: filteredData().length == 1 -->
+	<div id = "mBarText" data-bind="text: filteredData().length + ' ' + lang().m4b, visible: page() == 1" ></div>
+	<!-- /ko -->
     </div>
     <div id="filterBar" data-bind="if: page() == 1">
     <!-- <input id="search" data-bind="attr: { 'placeholder': lang().b1 }, value: filter, hasfocus: focusBar, valueUpdate: 'afterkeydown'"/>-->
@@ -366,7 +375,7 @@
   </a>
 </div>
 
-<div id="draggableElements" data-bind="visible: page() != 0 || status() != 1">
+<div id="draggableElements" class="main" data-bind="visible: page() != 0 || status() != 1">
 
     <!-- SELECT OPTION -->
     <div data-bind="visible: page() == 0.5">
@@ -447,8 +456,32 @@
     </div>
   <!-- /ko -->
 
-  <!-- COMPANIES RESULT -->
-  <div data-bind="foreach: filteredData, beforeRemove: hideElement, visible: page() == 1, css: { content: page() == 1}">
+  <!-- SEARCH RESULT -->
+  <div data-bind="foreach: filteredData, beforeRemove: hideElement, css: { content: page() == 1}">
+    <!-- ko if: $root.page() == 1 && $root.option() == 1 -->
+    <div id="draggable" class="draggable clickableCompanies semanticCompanies" data-bind="attr: { 'name': $data.name, 'province': $data.Province}">
+      <div class="draggableInfo" data-bind="click: $root.activateHelp.bind($data,'company',$data['lmf.uri']()), clickBubble: false
+           ,attr: { 'title': '<b>'+$data.name()+'</b>'}">?</div>
+      <div class="companyMedal"></div>
+      <div class="logoContainer" style="display:none">
+        <!-- ko if: $data.logo != undefined -->
+        <img class="defaultLogo" src="images/default.png" data-bind="attr: {src: $data.logo}"/>
+        <!-- /ko -->
+        <!-- ko if: $data.logo == undefined -->
+        <img class="defaultLogo" src="images/default.png"/>
+        <!-- /ko -->
+      </div>
+      <div class="textContainer">
+        <p class="draggableText" data-bind="text: $data.name"></p>
+      </div>
+    </div>
+    <!-- /ko -->
+  </div>
+
+  <!-- /SEARCH RESULT -->
+  <!-- COMPANIES NETWORK RESULT -->
+  <div data-bind="foreach: filteredData, beforeRemove: hideElement, visible: page() == 1 && option() == 0, css: { content: page() == 1}">
+    <!-- ko if: $root.page() == 1 && $root.option() == 0 -->
     <div id="draggable" class="draggable draggableCompanies semanticCompanies" data-bind="attr: { 'name': $data.name, 'province': $data.Province}">
       <div class="draggableInfo" data-bind="click: $root.activateHelp.bind($data,'company',$data['lmf.uri']()), clickBubble: false
            ,attr: { 'title': '<b>'+$data.name()+'</b>'}">?</div>
@@ -465,8 +498,9 @@
         <p class="draggableText" data-bind="text: $data.name"></p>
       </div>
     </div>
+    <!-- /ko -->
   </div>
-  <!-- /COMPANIES RESULT -->
+  <!-- /COMPANIES NETWORK RESULT -->
 
   <div class="page_navigation" data-bind="visible: $root.viewData().length > 0"></div>
   <div class="page_navigation_text" data-bind="if: page() == 1">
@@ -519,7 +553,7 @@
     <!-- ko foreach: $root.recommendedData -->
     <!-- ko if: $index() < 5 -->
 
-      <div id="draggable" class="draggable draggableCompanies recommendedCompanies" data-bind="attr: { 'name': $data.name, 'province': $data.Province}">
+      <div id="draggable" class="draggable draggableCompanies recommendedCompanies" data-bind="attr: { 'name': $data.name, 'province': $data.Province},css: { clickableRecommended: $root.option() == 1}">
         <div class="draggableInfo" data-bind="click: $root.activateHelp.bind($data,'company',$data['lmf.uri']()), clickBubble: false
            ,attr: { 'title': '<b>'+$data.name()+'</b><br>Ranking: '+$data.Ranking()}">?</div>
         <div class="companyMedal"></div>
