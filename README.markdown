@@ -2,40 +2,60 @@ Introduction
 ---------------------
 Episteme UI developed with knockout.js
 
+## Requirements
+
+### 1. Apache Tomcat
+The Apache Tomcat will be used for the backend, necessary to deploy:
+
+- Linked Media Framework (LMF)
+- Semantic Matcher servlet
+
+For the frontend you can use the same Apache Tomcat or any webserver, making sure it executes in the same domain as the backend, otherwise you will need to configure the webserver to accept cross-site HTTPRequests.
+
+
+Tested with Apache Tomcat/7.0.41
+
+### 2. Linked Media Framework (LMF)
+
+LMF version 2.6.0 is needed or any version that supports configuring solr local only indexing.
+You can download it from [https://code.google.com/p/lmf/downloads/list](https://code.google.com/p/lmf/downloads/list)
+
+It is advisable to download the WAR version and deploy it under the Apache Tomcat already downloaded.
+
+
 ## Installation
 
+
 ###1.Apache Tomcat
-Download from http://tomcat.apache.org/  
-Tests done using Tomcat 7.0.37 at localhost:8080
+Download from 
+```
+http://tomcat.apache.org/
+```
 
-###2.HTML pages deployment
-https://github.com/gsi-upm/Episteme/tree/master/web  
-Put the web content in the webapps/ROOT tomcat folder.  
-Now you can access: http://localhost:8080/#/main/select
-####2.1.Web pages configuration
-Modify js/configuration.js with the following urls:  
-endPoint = 'http://localhost:8080/LMF-2.6.0/';  
-endPointSOLR = 'http://localhost:8080/LMF-2.6.0/solr/companies/select?json.nl=map&wt=json&rows=1000';  
-endPointJSON = "http://localhost:8080/LMF-2.6.0/config/data/";  
-endPointSemanticMatcher = "http://lab.gsi.dit.upm.es/episteme/tomcat/Episteme/CompanyMatcher";  
+Extract the archive. This will be the 'tomcat home'.
 
-###3.LMF installation
-Download from https://code.google.com/p/lmf/downloads/list  
-Test done using LMF-2.6.0.war
-####3.1.LMF deployment
-Configure maximun upload size of Tomcat server modifying /manager/WEB-INF/web.xml:  
+To start Apache Tomcat execute 
+```
+bin/startup.sh
+```
+To test if it is working navigate to http://localhost:8080
 
-    <multipart-config>
-    <!-- 50MB max -->
-    <max-file-size>52428800</max-file-size>
-    <max-request-size>52428800</max-request-size>
-    <file-size-threshold>0</file-size-threshold>
-    </multipart-config>
+Tests done using Tomcat 7.0.41 at localhost:8080
 
-Then deploy LMF-2.6.0.war and you can access: http://localhost:8080/LMF-2.6.0  
-####3.1.LMF configuration
+###2. LMF Instalation
+#### 2.1 LMF Deployment
+
+ + Download from LMF-2.6.0.war [https://code.google.com/p/lmf/downloads/list](https://code.google.com/p/lmf/downloads/list)
+ + Move LMF-2.6.0.war into 'tomcat home'/webapps/ directory. Tomcat automatically will extract the content and deploy it.
+
+
+#### 2.2 LMF Configuration
+
+##### 2.2.1 Create new core
+
 Create new core (Semantic Search -> cores)  
-Core name: companies  
+Core name: **companies**
+
 And add the following code
 
     @filter rdf:type is <http://kmm.lboro.ac.uk/ecos/1.0#Enterprise> ;
@@ -47,44 +67,173 @@ And add the following code
     Provenance = <http://kmm.lboro.ac.uk/ecos/1.0#provenance> / <http://kmm.lboro.ac.uk/ecos/1.0#name> :: xsd:string ;
     Ranking = <http://kmm.lboro.ac.uk/ecos/1.0#ranking> / <http://kmm.lboro.ac.uk/ecos/1.0#value> :: xsd:string ;
 
-###4.RDF Uploader
-https://github.com/gsi-upm/Episteme/tree/master/RDFuploader  
-You can use the included and processed companies RDF.  
+##### 2.2.2 Solr local only (very important)
+Semantic search -> configuration
 
-* INES companies:  
-Put the RDF files in upload folder and execute the following command:  
-java -jar importercustom.jar http://localhost:8080/LMF-2.6.0/ http://ines  
+**uncheck** *solr.local only*
+
+### 3. Download Episteme frontend, data and CompanyMatcher
+
+Make a git clone 
+
+```
+git clone https://github.com/gsi-upm/Episteme.git
+```
+
+or download the zipfile
+
+```
+https://github.com/gsi-upm/Episteme/archive/master.zip
+```
+
+### 4. Upload content to LMF
+
+You can use the included and processed companies RDF. These files are ready to upload to LMF.
+
+Go inside Episteme directory and then into RDFuploader
+
+```
+cd RDFuploader
+```
+
+* INES companies:   
+```
+cd INESrfd
+java -jar ../upload/importercustom.jar http://localhost:8080/LMF-2.6.0 http://ines
+```
+
+After this, go back to RDFuploader directory
+
+```
+cd ..
+```
+
 
 * VULKA companies:  
-Put the RDF files in upload folder and execute the following command:  
-java -jar importercustom.jar http://localhost:8080/LMF-2.6.0/ http://vulka  
+```
+cd VULKArfd
+java -jar ../upload/importercustom.jar http://localhost:8080/LMF-2.6.0 http://vulka
+```
 
-###5.Semantic matcher configuration
-To properly configure the user must open with any text editor file "JSONTreatment.java". This file is located in the directory 'src / com / upm / dit / gsi / knowledge / json' and should modify the following lines:
+###5. RDF Processor (optional)
 
-	…..
-	querySkills = "http://minsky.gsi.dit.upm.es/episteme/tomcat/LMF/sparql/select?query="+querySkills+"&output=json";
-	……
-	String queryOportunitie = "http://minsky.gsi.dit.upm.es/episteme/tomcat/LMF/config/data/episteme.search." + offer;
-	……
-	queryEnterprise ="http://minsky.gsi.dit.upm.es/episteme/tomcat/LMF/sparql/select?query="+queryEnterprise+"&output=json";
-	……
+There is no need to follow this step, by doing step number 4 RDF pre-proccesed is uploaded to the LMF. If you want to upload your own scrapped RDF follow the instructions.
 
-###6.RDF Processor (optional)
-https://github.com/gsi-upm/Episteme/tree/master/RDFprocessor  
 Once you have obtained the RDF companies using Scrappy it's neccesary apply a post-processing in order to 
 add skills and provenance fields:
 
 * INES companies:  
-Put the RDF files in RDFprocessor/data folder and execute the following command:  
-java-jar RDFprocessor.jar ines  
+Put the RDF files in RDFprocessor/data folder and execute the following command:
+```
+java -jar RDFprocessor.jar ines
+```
 
 * VULKA companies:  
-Put the RDF files in RDFprocessor/data folder and execute the following command:  
-java-jar RDFprocessor.jar vulka  
+Put the RDF files in RDFprocessor/data folder and execute the following command:
+```
+java -jar RDFprocessor.jar vulka
+```
 
-When the RDF are post-processed, now you can use RDF Uploader to upload the RDF files to LMF.  
+When the RDF are post-processed, now you can use RDF Uploader to upload the RDF files to LMF.
 
+###6. SemanticMatcher installation
+
+#### 6.1 Deployement
+
+Deploy
+
+```
+SemanticMatcher/build/SemanticMatcher.war
+```
+
+into tomcat as done in 2.1 LMF deployment. Copy or mve SemanticMatcher into 'tomcat home'/webapps/
+
+It will be automatically deployed with the following URL:
+
+```
+http://localhost:8080/SemanticMatcher/
+```
+
+The servlet will be available in:
+
+```
+http://localhost:8080/SemanticMatcher/CompanyMatcher
+```
+
+#### 6.2 Configuration
+You need to configure the file 
+
+```
+'tomcat home'/webapps/CompanyMatcher/conf/jsonTreatment.properties
+```
+
+It looks like
+
+```
+# Configure LMF Sparql Endpoint
+# Example configuration
+# lmfSparqlUrl=http://domain.com/LMF/sparql/select?query=
+
+
+lmfSparqlUrl=http://domain.com/LMF/sparql/select?query=
+```
+
+Change the **lmfSparqlUrl** to match your configuration, in this installation case would be 
+
+```
+http://localhost:8080/LMF-2.6.0/sparql/select?query=
+```
+
+###7. HTML client files
+
+#### 7.1 Deployment
+Copy the content of 'web' directory in Episteme into 'tomcat home'/webapps/ROOT
+
+The content to copy looks like
+```
+css
+images
+js
+index.html
+```
+
+Copy everything into 
+```
+'tomcat home'/webapps/ROOT
+```
+
+If needed, overweite existing index.html file.
+
+Check the content accesing http://localhost:8080/
+####7.2 Configuration
+
+Modify 
+```
+'tomcat home'/webapps/ROOT/js/configuration.js
+```
+
+with the following parameters:  
+
+```
+endPoint = 'http://localhost:8080/LMF-2.6.0/';  
+endPointSOLR = 'http://localhost:8080/LMF-2.6.0/solr/companies/select?json.nl=map&wt=json&rows=1000';  
+endPointJSON = "http://localhost:8080/LMF-2.6.0/config/data/";  
+endPointSemanticMatcher = "http://http://localhost:8080/SemanticMatcher/CompanyMatcher";
+```
+
+Change what you need to match your configuration.
+
+
+####7.3 Test
+
+
+As it is a web client, make sure you get the new configuration.js file. Reload cache if needed. (In most of browsers Control+F5 to force reloading)
+
+Check the content accesing http://localhost:8080/
+Visit the following videos and start using Episteme
+
++ http://www.youtube.com/watch?v=q6WwBgxRvvo
++ http://www.youtube.com/watch?v=urzlFJ-0gBc
 
 ## Contributors
 
