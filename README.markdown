@@ -238,9 +238,10 @@ Visit the following videos and start using Episteme
 ## Contributors
 
 * Felipe Echanique (<neoner2002@gmail.com>) 
-* Adriano José Martín (adrianojosemartin@gmail.com)  
-* Carlos Crespo (carlos.crespog@gmail.com )  
-* Roberto Bermejo (rober.bv@gmail.com)  
+* Adriano José Martín (<adrianojosemartin@gmail.com>)  
+* Carlos Crespo (<carlos.crespog@gmail.com>)  
+* Roberto Bermejo (<rober.bv@gmail.com>)
+* Pablo Moncada (<pmoncada@dit.upm.es>)
 
 at [Grupo de Sistemas Inteligentes](http://www.gsi.dit.upm.es/), ETSIT-UPM.
 
