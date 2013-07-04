@@ -146,7 +146,7 @@ When the RDF are post-processed, now you can use RDF Uploader to upload the RDF 
 
 ###6. SemanticMatcher installation
 
-#### 6.1 Deployement
+#### 6.1 Deployment
 
 Deploy
 
