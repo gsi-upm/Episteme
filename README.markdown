@@ -96,9 +96,13 @@ Go inside Episteme directory and then into RDFuploader
 cd RDFuploader
 ```
 
-* INES companies:   
+* INES companies:
+ 
 ```
 cd INESrfd
+```
+
+```
 java -jar ../upload/importercustom.jar http://localhost:8080/LMF-2.6.0 http://ines
 ```
 
@@ -110,8 +114,12 @@ cd ..
 
 
 * VULKA companies:  
+
 ```
 cd VULKArfd
+```
+
+```
 java -jar ../upload/importercustom.jar http://localhost:8080/LMF-2.6.0 http://vulka
 ```
 
