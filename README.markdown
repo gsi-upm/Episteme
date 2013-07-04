@@ -154,7 +154,7 @@ Deploy
 SemanticMatcher/build/SemanticMatcher.war
 ```
 
-into tomcat as done in 2.1 LMF deployment. Copy or mve SemanticMatcher into 'tomcat home'/webapps/
+into tomcat as done in 2.1 LMF deployment. Copy or move SemanticMatcher into 'tomcat home'/webapps/
 
 It will be automatically deployed with the following URL:
 
