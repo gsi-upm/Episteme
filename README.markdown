@@ -195,7 +195,8 @@ http://localhost:8080/LMF-2.6.0/sparql/select?query=
 ###7. HTML client files
 
 #### 7.1 Deployment
-Copy the content of 'web' directory in Episteme into 'tomcat home'/webapps/ROOT
+Copy the content of 'web' directory in Episteme into 'tomcat home'/webapps/ROOT in case you want to publish the
+web aplication in the root path. Otherwise, copy to tomcat webapps/episteme directory.
 
 The content to copy looks like
 ```
@@ -209,10 +210,12 @@ Copy everything into
 ```
 'tomcat home'/webapps/ROOT
 ```
+(or /webapps/episteme)
 
-If needed, overweite existing index.html file.
+If needed, overwrite existing index.html file.
 
-Check the content accesing http://localhost:8080/
+Check the content accesing http://localhost:8080/ (or http://localhost/episteme:8080/).
+
 ####7.2 Configuration
 
 Modify 
