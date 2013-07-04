@@ -108,7 +108,7 @@ public class RdfConstructor {
 	 * @param s
 	 * @return
 	 */
-	public String transform (String s){
+	private String transform (String s){
 		return s.replace(" ", "_").replace(",", "").replace("(", "").replace(")","").replace("/", "_").replace("&", "_").replace("®", "").replace(":", "").replace("-*", "").replace("…", "");
 	}
 }

@@ -5,9 +5,6 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.net.MalformedURLException;
 
-import java.util.Iterator;
-import java.util.List;
-
 import org.json.JSONArray;
 import org.json.JSONException;
 
@@ -18,11 +15,8 @@ import com.hp.hpl.jena.rdf.model.Resource;
 import com.hp.hpl.jena.vocabulary.RDF;
 
 import de.fuberlin.wiwiss.semmf.engine.MatchingEngine;
-import de.fuberlin.wiwiss.semmf.result.ClusterMatchingResult;
 import de.fuberlin.wiwiss.semmf.result.GraphMatchingResult;
 import de.fuberlin.wiwiss.semmf.result.MatchingResult;
-import de.fuberlin.wiwiss.semmf.result.NodeMatchingResult;
-import de.fuberlin.wiwiss.semmf.result.PropertyMatchingResult;
 import de.fuberlin.wiwiss.semmf.vocabulary.MD;
 import es.upm.dit.gsi.episteme.json.JSONTreatment;
 
@@ -66,7 +60,7 @@ public class SemanticSemMF {
 	/**
 	 * see tutorial: how to create a matching description (included in SemMF distribution)
 	 */ 
-	public Model createServiceMD (String baseURL, String pathFileEnt, String pathFileOffer, String oferta) {
+	private Model createServiceMD (String baseURL, String pathFileEnt, String pathFileOffer, String oferta) {
 		
 		Model m = ModelFactory.createDefaultModel();
 		
@@ -153,68 +147,7 @@ public class SemanticSemMF {
 		return m;		
 	}
 	
-	@SuppressWarnings("rawtypes")
-	public void printMatchingResult (MatchingResult mr) {
-		
-		System.out.println("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
-		System.out.println("Query Graph: " + mr.getFirst().getQueryGraphEntryNode().getURI());
-		System.out.println("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\r");
-		
-		while (mr.hasNext()) {
-			
-			GraphMatchingResult gmr = mr.next();
-						
-			System.out.println("\r===========================================================");
-			System.out.println("Res Graph : " + gmr.getResGraphEntryNode().getURI());
-			System.out.println("Sim       : " + gmr.getSimilarity());
-			System.out.println("===========================================================\r");
-					
-			List clusterList = gmr.getClusterMatchingResultList();
-			for (Iterator itC = clusterList.iterator(); itC.hasNext();) {
-				
-				ClusterMatchingResult cmr = (ClusterMatchingResult) itC.next();
-				
-				System.out.println("-------------------------------------------");
-				System.out.println("Cluster label : " + cmr.getLabel());
-				System.out.println("Cluster sim   : " + cmr.getSimilarity());
-				System.out.println("Cluster weight: " + cmr.getWeight());
-				
-				List nodeList = cmr.getNodeMatchingResultList();
-				
-				for (Iterator itN = nodeList.iterator(); itN.hasNext();) {
-					
-					NodeMatchingResult nmr = (NodeMatchingResult) itN.next();
-					
-					List propertyList = nmr.getPropertyMatchingResultList();
-										
-					System.out.println("    - - - - - - - - - - - - - - - - - - --");
-					System.out.println("    Node label : " + nmr.getLabel());					
-					if (propertyList.isEmpty()) {
-						System.out.println("    query node : " + nmr.getQueryNode().toString());
-						System.out.println("    res node   : " + nmr.getResNode().toString());									
-					}
-					System.out.println("    Node sim   : " + nmr.getSimilarity());
-					System.out.println("    Node weight: " + nmr.getWeight());
-
-					
-					for (Iterator itP = propertyList.iterator(); itP.hasNext();) {
-						
-						PropertyMatchingResult pmr = (PropertyMatchingResult) itP.next();
-						
-						System.out.println("        . . . . . . . . . . . . . . . . . ");
-						System.out.println("        prop label : " + pmr.getLabel());
-						System.out.println("        query prop : " + pmr.getQueryPropVal().toString());
-						System.out.println("        res prop   : " + pmr.getResPropVal().toString());			
-						System.out.println("        prop sim   : " + pmr.getSimilarity());
-						System.out.println("        prop weight: " + pmr.getWeight());
-					
-					}
-									
-				}				
-			}
-		}		
-		mr.setToFirst();
-	}
+	
 	
 	/**
 	 * @param mr
@@ -224,7 +157,7 @@ public class SemanticSemMF {
 	 * @return
 	 * @throws JSONException 
 	 */
-	public JSONArray getSemanticResult (MatchingResult mr, JSONTreatment jt) throws JSONException {
+	private JSONArray getSemanticResult (MatchingResult mr, JSONTreatment jt) throws JSONException {
 		JSONArray response = jt.treatment();
 		for (int i = 0; i < response.length(); i++) {
 			response.getJSONObject(i).put("semantic", 0);

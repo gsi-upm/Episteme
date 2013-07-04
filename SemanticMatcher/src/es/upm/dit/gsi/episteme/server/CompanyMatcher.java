@@ -44,9 +44,9 @@ public class CompanyMatcher extends HttpServlet {
      * @throws Exception 
      */
     public void refresh() throws Exception{
-    	JSONTreatment jt = new JSONTreatment();
-    	RdfConstructor rc = new RdfConstructor();
     	String base = getPathFile();
+    	JSONTreatment jt = new JSONTreatment(base);
+    	RdfConstructor rc = new RdfConstructor();    	
     	File f = new File (base + "doc/enterprises.rdf");
     	rc.rdfEnterprises(f, jt);
     }
@@ -77,13 +77,13 @@ public class CompanyMatcher extends HttpServlet {
 	 * @throws JSONException 
 	 * 
 	 */
-	protected void doProcess(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException, JSONException {
+	private void doProcess(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException, JSONException {
 
 		// Declaring variables
 		String baseUrl = getServletContext().getRealPath("/");
 		RdfConstructor rdc = new RdfConstructor();
 		SemanticSemMF sSem = new SemanticSemMF();
-		JSONTreatment jt = new JSONTreatment();
+		JSONTreatment jt = new JSONTreatment(baseUrl);
 		
 		// Extract the parameters of the query
 		String oferta = request.getParameter("offer");
