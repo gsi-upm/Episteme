@@ -103,7 +103,7 @@ cd INESrfd
 ```
 
 ```
-java -jar ../upload/importercustom.jar http://localhost:8080/LMF-2.6.0 http://ines
+java -jar ../upload/importercustom.jar http://localhost:8080/LMF-2.6.0/ http://ines
 ```
 
 After this, go back to RDFuploader directory
@@ -120,7 +120,7 @@ cd VULKArfd
 ```
 
 ```
-java -jar ../upload/importercustom.jar http://localhost:8080/LMF-2.6.0 http://vulka
+java -jar ../upload/importercustom.jar http://localhost:8080/LMF-2.6.0/ http://vulka
 ```
 
 ###5. RDF Processor (optional)
