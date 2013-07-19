@@ -48,7 +48,13 @@ Tests done using Tomcat 7.0.41 at localhost:8080
  + Download from LMF-2.6.0.war [https://code.google.com/p/lmf/downloads/list](https://code.google.com/p/lmf/downloads/list)
  + Move LMF-2.6.0.war into 'tomcat home'/webapps/ directory. Tomcat automatically will extract the content and deploy it.
 
+LMF 3.0.0 has also been tested. LMF 3.0.0 implements http authentication by default, you will need to configure it so episteme
+works. For developement purposes you can desactivate the authentication feature from LMF administration backend.
 
+Core services -> configuration -> security.enabled (false)
+
+In order to change any value at LMF configuration you will need to access the administration panel trought "localhost" or using
+an auithenticated user. Via "localhost" security (authentication) is disabled by default.
 #### 2.2 LMF Configuration
 
 ##### 2.2.1 Create new core
