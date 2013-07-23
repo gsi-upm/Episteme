@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:cv="http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#">
+    <foaf:Person rdf:about="http://localhost:8080/LMF-3.0.0/resource/AnthonyThompson">
+        <foaf:name>Anthony Thompson</foaf:name>
+        <foaf:homepage rdf:resource="http://www.gsi.dit.upm.es/~AnthonyThompson" />
+        <foaf:thumbnail rdf:resource="http://lab.gsi.dit.upm.es/~pmoncada/episteme/images/random.php?g=m841751" />
+        <vcard:streetAddress>Avenida complutense S/N</vcard:streetAddress>
+        <vcard:locality>Cuenca</vcard:locality>
+        <vcard:postalCode>24162</vcard:postalCode>
+		<cv:hasSkill>
+		    <cv:Skill>
+			    <cv:skillName rdf:resource="http://localhost:8080/LMF-3.0.0/resource/skills/PHP" />
+		            <cv:skillLevel rdf:resource="Intermediate"/>
+		    </cv:Skill>
+            		    <cv:Skill>
+			    <cv:skillName rdf:resource="http://localhost:8080/LMF-3.0.0/resource/skills/PHP" />
+		            <cv:skillLevel rdf:resource="Beginner"/>
+		    </cv:Skill>
+            		    <cv:Skill>
+			    <cv:skillName rdf:resource="http://localhost:8080/LMF-3.0.0/resource/skills/C++" />
+		            <cv:skillLevel rdf:resource="Intermediate"/>
+		    </cv:Skill>
+            		    <cv:Skill>
+			    <cv:skillName rdf:resource="http://localhost:8080/LMF-3.0.0/resource/skills/Signalprocesing" />
+		            <cv:skillLevel rdf:resource="Beginner"/>
+		    </cv:Skill>
+            		    <cv:Skill>
+			    <cv:skillName rdf:resource="http://localhost:8080/LMF-3.0.0/resource/skills/Serveradministration" />
+		            <cv:skillLevel rdf:resource="Beginner"/>
+		    </cv:Skill>
+            		    <cv:Skill>
+			    <cv:skillName rdf:resource="http://localhost:8080/LMF-3.0.0/resource/skills/Windows" />
+		            <cv:skillLevel rdf:resource="Intermediate"/>
+		    </cv:Skill>
+            		    <cv:Skill>
+			    <cv:skillName rdf:resource="http://localhost:8080/LMF-3.0.0/resource/skills/Linux" />
+		            <cv:skillLevel rdf:resource="Expert"/>
+		    </cv:Skill>
+            		    <cv:Skill>
+			    <cv:skillName rdf:resource="http://localhost:8080/LMF-3.0.0/resource/skills/jQuery" />
+		            <cv:skillLevel rdf:resource="Beginner"/>
+		    </cv:Skill>
+            		    <cv:Skill>
+			    <cv:skillName rdf:resource="http://localhost:8080/LMF-3.0.0/resource/skills/Sparql" />
+		            <cv:skillLevel rdf:resource="Intermediate"/>
+		    </cv:Skill>
+            		    <cv:Skill>
+			    <cv:skillName rdf:resource="http://localhost:8080/LMF-3.0.0/resource/skills/Java" />
+		            <cv:skillLevel rdf:resource="Beginner"/>
+		    </cv:Skill>
+            		    <cv:Skill>
+			    <cv:skillName rdf:resource="http://localhost:8080/LMF-3.0.0/resource/skills/HTML5" />
+		            <cv:skillLevel rdf:resource="Intermediate"/>
+		    </cv:Skill>
+            		    <cv:Skill>
+			    <cv:skillName rdf:resource="http://localhost:8080/LMF-3.0.0/resource/skills/iOS" />
+		            <cv:skillLevel rdf:resource="Beginner"/>
+		    </cv:Skill>
+            		    <cv:Skill>
+			    <cv:skillName rdf:resource="http://localhost:8080/LMF-3.0.0/resource/skills/C" />
+		            <cv:skillLevel rdf:resource="Intermediate"/>
+		    </cv:Skill>
+            		    <cv:Skill>
+			    <cv:skillName rdf:resource="http://localhost:8080/LMF-3.0.0/resource/skills/Semantictechnologies" />
+		            <cv:skillLevel rdf:resource="Beginner"/>
+		    </cv:Skill>
+            		    <cv:Skill>
+			    <cv:skillName rdf:resource="http://localhost:8080/LMF-3.0.0/resource/skills/Sparql" />
+		            <cv:skillLevel rdf:resource="Expert"/>
+		    </cv:Skill>
+            		    <cv:Skill>
+			    <cv:skillName rdf:resource="http://localhost:8080/LMF-3.0.0/resource/skills/SoftwareEngineering" />
+		            <cv:skillLevel rdf:resource="Expert"/>
+		    </cv:Skill>
+            		    <cv:Skill>
+			    <cv:skillName rdf:resource="http://localhost:8080/LMF-3.0.0/resource/skills/SoftwareEngineering" />
+		            <cv:skillLevel rdf:resource="Expert"/>
+		    </cv:Skill>
+            		    <cv:Skill>
+			    <cv:skillName rdf:resource="http://localhost:8080/LMF-3.0.0/resource/skills/Photoediting" />
+		            <cv:skillLevel rdf:resource="Intermediate"/>
+		    </cv:Skill>
+            		    <cv:Skill>
+			    <cv:skillName rdf:resource="http://localhost:8080/LMF-3.0.0/resource/skills/Mobiledevelopement" />
+		            <cv:skillLevel rdf:resource="Intermediate"/>
+		    </cv:Skill>
+            		    <cv:Skill>
+			    <cv:skillName rdf:resource="http://localhost:8080/LMF-3.0.0/resource/skills/Serveradministration" />
+		            <cv:skillLevel rdf:resource="Intermediate"/>
+		    </cv:Skill>
+            </cv:hasSkill>
+        <cv:conditionWillTravel>true</cv:conditionWillTravel>
+        <cv:cvDescription>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam</cv:cvDescription>
+        <cv:jobTitle>Collaborator</cv:jobTitle>
+        <cv:targetSalary>6464</cv:targetSalary>
+    </foaf:Person>
+</rdf:RDF>

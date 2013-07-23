@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+    	
+	<skos:Concept rdf:about="Beginner">
+		<skos:prefLabel>Beginner</skos:prefLabel>
+		<skos:member>level</skos:member>
+	</skos:Concept>
+</rdf:RDF>
