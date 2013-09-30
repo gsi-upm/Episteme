@@ -178,7 +178,7 @@ http://localhost:8080/SemanticMatcher/CompanyMatcher
 You need to configure the file 
 
 ```
-'tomcat home'/webapps/CompanyMatcher/conf/jsonTreatment.properties
+'tomcat home'/webapps/CompanyMatcher/config/jsonTreatment.properties
 ```
 
 It looks like
