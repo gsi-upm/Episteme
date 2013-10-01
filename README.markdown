@@ -253,7 +253,7 @@ Visit the following videos and start using Episteme
 + http://www.youtube.com/watch?v=urzlFJ-0gBc
 + 
 
-###8 Usernames configuration (optional)
+###8 Usernaming configuration (optional)
 
 The software integrates a simple multi account solution that allows to have different profiles for each user.
 When selecting a different user, you will be able to see the searches that it owns, save new ones and delete 
