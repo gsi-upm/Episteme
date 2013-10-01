@@ -251,6 +251,74 @@ Visit the following videos and start using Episteme
 
 + http://www.youtube.com/watch?v=q6WwBgxRvvo
 + http://www.youtube.com/watch?v=urzlFJ-0gBc
++ 
+
+###8 Usernames configuration (optional)
+
+The software integrates a simple multi account solution that allows to have different profiles for each user.
+When selecting a different user, you will be able to see the searches that it owns, save new ones and delete 
+existing ones without interfere with other's.
+
+By default there are 3 usernames created with no authentication. Simply selecting the username in the top right corner 
+select dropdown will make the switching. You can add more users by adding new <option> to the <select>.
+
+In order to implement authentication, as the software is client side designed, to be secure it must be implemented 
+in server side.
+
+The working method by default is the following:
++ The user selects a username in the <select> dropdown situated at the top right corner.
++ When the value of the <select> changes the function setUsername() is called. It function is to get the value from the <select> and store it in a cookie called "epistemeuser".
++ When loading or saving searches it will be done with the prefix: episteme.search.USERNAME. For example, if the username is "alice", Alice's searches will be stored under episteme.search.alice. A valid search for alice could be episteme.search.alice.0232212321321, where the number following the prefix corresponds to the seach identifier generated automatically.
+
+This implementation is useful if no authentication is needed. If you need authentication a posible implementation could be:
++ Create a servelet, script or any authentication tool that responds to http requests. For example: "login.php"
+
+```
+<?php
+$username = $_POST['u'];
+$password = $_POST['p'];
+
+if($username == "alice" AND $password == "secret")
+  echo md5("hashforalice");
+else
+  die("error");
+
+
+?>
+```
++ The next step is to modify the <select> dropdown with a text and password <input>.
+
+```
+<input type="text" id="username" />
+<input type="password" id="password" />
+<input type="submit" onClick="setUsername()" />
+```
+
++ You can notice that on clicking the submit button it will execute the setUsername() function. Let's modify it. Open js/extra.js and you will see it there.
++ Empty the setUsername() function.
++ The new function could look like:
+
+```
+function setUsername(){
+  var data;
+  data[u] = document.getElementById("username").value;
+  data[p] = document.getElementById("password").value;
+  
+  $.post("/some/url/login.php", JSON.stringify(data) , function(returnedData) {
+    if(returnedData != "error"){
+      setCookie("epistemeuser",returnedData,7);
+      document.location.reload(true);
+    }else{
+      alert("Wrong username or password");
+    }
+      
+})
+  
+}
+```
+
+This is just and idea of how to implement authentication. The code has not been tested.
+
 
 ## Contributors
 
