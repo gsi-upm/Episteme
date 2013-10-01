@@ -25,6 +25,8 @@
     <script type="text/javascript" src="js/lib/jquery.confirm.js"></script>
     <script type="text/javascript" src="js/lib/jquery.blockUI.js"></script>
     <!-- javascript custom-->
+    <script type="text/javascript" src="js/extra.js"></script>
+    <script type="text/javascript" src="js/cookies.js"></script>    
     <script type="text/javascript" src="js/configuration.js" ></script>
     <script type="text/javascript" src="js/dictionary.js" ></script>
     <script type="text/javascript" src="js/dragDrop.js"></script>
@@ -99,6 +101,13 @@
 	        <a href="#" data-bind="click: changeLanguage.bind($data,'1')">
 			<img class="flag" src="images/english.png" data-bind="css: { flagSelected: lang().lang == 'English' }"/>
 		</a>
+		<div id="usernameid">
+			Username: <select name="epistemeuser" id="epistemeuser" onChange="setUsername()" >
+			<option value="guest">Guest</option>
+			<option value="alice">Alice</option>
+			<option value="bob">Bob</option>
+			</select>
+		</div>
 	    </div>
 	    <div  id = "messageBar" >
 		

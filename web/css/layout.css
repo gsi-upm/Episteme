@@ -640,6 +640,7 @@ margin-left: 70px;
 /*Idiomas*/
 #langBar{
   float:right;
+  text-align: right;
 }
 .flag{
   margin:5px;

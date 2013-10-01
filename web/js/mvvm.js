@@ -1,4 +1,9 @@
+
+
 $(document).ready(function () {
+   loadUsername();
+
+    
     ko.utils.stringContains = function (string, contain) {
         string = string.toLowerCase();
         contain = contain.toLowerCase().replace(/^\s\s*/, '').replace(/\s\s*$/, '').split(" ").join("|");
@@ -551,7 +556,7 @@ $(document).ready(function () {
                         $.ajax({
                             type: 'post',
                             //url: 'http://lab.gsi.dit.upm.es/episteme/tomcat/Episteme/CompanyMatcher?offer='+JSON.stringify([SearchJson])+'&entity='+entity_index,
-                            url: endPointSemanticMatcher+'?offer={"episteme.search.' + searchName + '":' + JSON.stringify([SearchJson]) + '}&entity=' + entity_index,
+                            url: endPointSemanticMatcher+'?offer={"episteme.search.'+getCookie("epistemeuser")+"." + searchName + '":' + JSON.stringify([SearchJson]) + '}&entity=' + entity_index,
                             data: {
                                 'json': jsonEmpresas
                             },
@@ -653,9 +658,10 @@ $(document).ready(function () {
             });
         };
         self.deleteSearchJSON = function (name) {
+            var username = getCookie("epistemeuser");
             $.ajax({
                 type: "DELETE",
-                url: endPointJSON + "episteme.search." + name,
+                url: endPointJSON + "episteme.search."+username+"." + name,
                 success: function (data) {},
                 error: function () {
                     //alert("Error al eliminar el JSON");
@@ -663,9 +669,10 @@ $(document).ready(function () {
             });
         };
         self.getSearchJSON = function (name) {
-            $.getJSON(endPointJSON + "episteme.search." + name, function (searchData) {
-                console.log(searchData['episteme.search.' + name]);
-                var searchDatos = searchData['episteme.search.' + name];
+            var username = getCookie("epistemeuser");
+            $.getJSON(endPointJSON + "episteme.search."+username+"." + name, function (searchData) {
+                console.log(searchData['episteme.search.'+username+"." + name]);
+                var searchDatos = searchData['episteme.search.'+username+"." + name];
                 var parsedJSON = JSON.parse(searchDatos);
                 ko.mapping.fromJS(parsedJSON, self.currentSearch);
                 self.resetTab(self.currentSearch.result()[self.currentEntity()].provenance());
@@ -673,20 +680,22 @@ $(document).ready(function () {
         };
 
         function loadSearches() {
-            $.getJSON(endPointJSON + "episteme.searches", function (searchData) {
+            var username = getCookie("epistemeuser");
+            $.getJSON(endPointJSON + "episteme.searches."+username, function (searchData) {
                 //console.log(searchData['episteme.searches']);
-                var searchDatos = searchData['episteme.searches'];
+                var searchDatos = searchData['episteme.searches.'+username];
                 var parsedJSON = JSON.parse(searchDatos);
                 ko.mapping.fromJS(parsedJSON, self.currentSearches);
                 self.reload();
             });
         }
         self.addSearchesJSON = function () {
+            var username = getCookie("epistemeuser");
             var unmapped = ko.mapping.toJS(self.currentSearches);
             var data = JSON.stringify(unmapped);
             $.ajax({
                 type: "POST",
-                url: endPointJSON + "episteme.searches",
+                url: endPointJSON + "episteme.searches."+username,
                 data: JSON.stringify([data]),
                 contentType: "application/json; charset=utf-8",
                 dataType: "json",
@@ -699,9 +708,10 @@ $(document).ready(function () {
             });
         };
         self.addSearchJSON = function (name, json) {
+            var username = getCookie("epistemeuser");
             $.ajax({
                 type: "POST",
-                url: endPointJSON + "episteme.search." + name,
+                url: endPointJSON + "episteme.search."+username+"." + name,
                 data: JSON.stringify([json]),
                 contentType: "application/json; charset=utf-8",
                 dataType: "json",

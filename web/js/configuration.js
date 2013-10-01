@@ -1,7 +1,4 @@
-endPoint = 'http://minsky.gsi.dit.upm.es/episteme/tomcat/LMF/';
-
-endPointSOLR = 'http://minsky.gsi.dit.upm.es/episteme/tomcat/LMF/solr/INES/select?json.nl=map&wt=json&rows=1000';
-
-endPointJSON = "http://minsky.gsi.dit.upm.es/episteme/tomcat/LMF/config/data/";
-
-endPointSemanticMatcher = "http://lab.gsi.dit.upm.es/episteme/tomcat/Episteme/CompanyMatcher";
+endPoint = 'http://krusti.gsi.dit.upm.es:8080/LMF-3.0.0/';
+endPointSOLR = 'http://krusti.gsi.dit.upm.es:8080/LMF-3.0.0/solr/companies/select?json.nl=map&wt=json&rows=1000';
+endPointJSON = "http://krusti.gsi.dit.upm.es:8080/LMF-3.0.0/config/data/";
+endPointSemanticMatcher = "http://krusti.gsi.dit.upm.es:8080/LMF-3.0.0/SemanticMatcher/CompanyMatcher";
